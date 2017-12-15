@@ -1,0 +1,270 @@
+#11300
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+
+This zone is a small town north of Kortaal along the Calantar's Way. The road
+eventually takes you north to Tekaro. There are a few small houses here for
+former players. Tldo is also the crossroads for the Manticore Way, an east
+running road that would run into the Empire of Nelva.
+
+This zone links up with zones: 24 and 31.
+~
+113 dk 0 0 0 0
+S
+#11301
+Waypass Road~
+   This road runs north-south, briefly, through the small town of Tldo. Here
+it crosses the eastern highway that leads to Wheloon and beyond to Nelva.
+There is a a @Gsmall sign@n here, with part of a broken arrow pointing
+east.
+~
+113 0 0 0 0 2
+D0
+You see the town square.
+~
+~
+0 -1 11302 20 20 0 0 0 0 65535 65535
+D1
+You see Manticore Way.
+~
+~
+0 -1 2427 20 20 0 0 0 0 65535 65535
+D2
+You see the outskirts of Tldo.
+~
+~
+0 -1 11312 20 20 0 0 0 0 65535 65535
+E
+sign small~
+The sign reads: @GParts of Manticore Way are now open@n.
+~
+S
+#11302
+Town Square~
+   You stand in the quaint town square. This is quite literally the center of
+the town, here to the east you see the few shops of Tldo and west runs the
+Lord's Road.
+~
+113 0 0 0 0 2
+D0
+You see the residential section of Tldo.
+~
+~
+0 -1 11308 20 20 0 0 0 0 65535 65535
+D1
+You see a few shops.
+~
+~
+0 -1 11303 20 20 0 0 0 0 65535 65535
+D2
+You see the Waypass road.
+~
+~
+0 -1 11301 20 20 0 0 0 0 65535 65535
+D3
+You see the Lord's Road.
+~
+~
+0 -1 11306 20 20 0 0 0 0 65535 65535
+S
+#11303
+Merchant Row~
+   The few merchants of Tldo have their shops here, to the north and the
+south.
+~
+113 0 0 0 0 2
+D0
+You see a general store.
+~
+~
+0 -1 11305 20 20 0 0 0 0 65535 65535
+D2
+You see a weapons store.
+~
+~
+0 -1 11304 20 20 0 0 0 0 65535 65535
+D3
+You see the town square.
+~
+~
+0 -1 11302 20 20 0 0 0 0 65535 65535
+S
+#11304
+Weapons and Armor~
+   Here a young man sells various weapons and armors. There is a small
+sign here. Due to the recent turmoil in the Empire, most of the weapons and
+armors are being bought up by Naga's army, making this shop slightly under
+stocked.
+~
+113 d 0 0 0 0
+D0
+You see the Merchant Row.
+~
+~
+0 -1 11303 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign reads:
+ Buy   - Buy an Item
+ Sell  - Sell an Item
+ Value - Have the owner tell you the value of an item
+ List  - List Items for sale.
+~
+S
+#11305
+General Store~
+   Here is a simple store selling all manner of common things. Due to the
+recent turmoil in the Empire, the store is abit understocked.
+~
+113 d 0 0 0 0
+D2
+You see the Merchant Row. 
+~
+~
+0 -1 11303 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign reads:
+ Buy   - Buy an Item
+ Sell  - Sell an Item
+ Value - Have the owner tell you the value of an item
+ List  - List Items for sale.
+~
+S
+#11306
+The Lord's Road~
+   This short road leads from the town's square to the home of Doon
+Dzavar, Lord of Tldo. His house is surounded by a small white fence
+with a gate to the west.
+~
+113 0 0 0 0 2
+D1
+You see the town square.
+~
+~
+0 0 11302 20 20 0 0 0 0 65535 65535
+D3
+You see Lord Dzavar's House
+~
+gate west w~
+1 -1 11307 20 20 0 0 0 0 65535 65535
+S
+#11307
+Lord Dzavar's House~
+   You see a nicely furnished home with a style that appears to be a mix
+of the Empire and the Dalelands to the north. Recalling that Dzavar is
+from the Dalelands, the style is not shocking. 
+~
+113 d 0 0 0 0
+D1
+You see a road.
+~
+gate east e~
+1 -1 11306 20 20 0 0 0 0 65535 65535
+S
+#11308
+Residential Section~
+   Here you see many small houses, and a few farms in the distance. The
+folk of Tldo are a simple lot, and kinda boring.
+~
+113 0 0 0 0 2
+D0
+You see the North Road.
+~
+~
+0 -1 3124 20 20 0 0 0 0 65535 65535
+D1
+You see the house of Susurra.
+~
+door east e~
+1 11300 11310 20 20 0 0 0 0 65535 65535
+D2
+You see the town square.
+~
+~
+0 -1 11302 20 20 0 0 0 0 65535 65535
+D3
+You see the house of Angus.
+~
+wooden west w~
+1 6026 11309 20 20 0 0 0 0 65535 65535
+S
+#11309
+Angus' House~
+   A very dark, but clean and simple house. Rough wood covers most surfaces,
+and a pile of firewood covers half of the back wall. To the left is an   
+impressive fireplace and hearth, made of cobble, which extends the entire 
+length of the wall. To the left of the door is a rough-cut wooden table and
+chair, to the right is a wall filled with many, many books. The floor is made
+of dark grey slate, and is partially covered by a large, wool rug.
+~
+113 d 0 0 0 1
+D1
+The residential section of Tldo.
+~
+wooden east e~
+1 6026 11308 20 20 0 0 0 0 65535 65535
+E
+books~
+There are many books along the wall, written in many different languages. Some
+you recognize, others you do not.
+~
+S
+#11310
+The House of Susurra~
+    This part of the house is still and dark.  The furniture is covered by 
+canvas cloth, and the windows are heavily draped with blood red velvet. 
+The silence of the room turns your thoughts sharply inward. The hairs on the 
+back of your neck stand on end, and your heart pounds with an unnatural fear.
+~
+113 d 0 0 0 1
+D1
+You see a bedroom.
+~
+wooden east e~
+2 11300 11311 20 20 0 0 0 0 65535 65535
+D3
+You see Calantar's Way.
+~
+door west w~
+1 11300 11308 20 20 0 0 0 0 65535 65535
+S
+#11311
+Susurra's Bedroom~
+    A candlelit room lies before you.  Amid flickering shadows you can just 
+make out the large mahogany bed, covered in pillows.  The scent of 
+jasmine is in the air, along with another, ominous fragrance.  Glancing 
+around, you see a large assortment of fertility gods and fanciful 
+lingerie resting amid stacks of poetry books and implements of torture.  
+A large print of Gustav Klimt's "The Kiss" covers one wall.  The windows 
+are covered by tapestries woven with scenes from a bloody and futile battle.
+~
+113 d 0 0 0 1
+D3
+You see the living room.
+~
+wooden west w~
+2 11300 11310 20 20 0 0 0 0 65535 65535
+S
+#11312
+Tldo~
+   Tldo is a small town, which is surprising since it is so close to the
+Emperial capital. Named for the mighty warrior, Tldo, who cleared this land
+for Chelnar's father, Rhigaerd the second. The small hills and forest which 
+surround this area are appealing to goblins and trolls, which Tldo drove
+out.
+~
+113 0 0 0 0 2
+D0
+You see Waypass road.
+~
+~
+0 -1 11301 20 20 0 0 0 0 65535 65535
+D2
+You see the north side of the bridge.
+~
+~
+0 -1 3114 20 20 0 0 0 0 65535 65535
+S
+$~

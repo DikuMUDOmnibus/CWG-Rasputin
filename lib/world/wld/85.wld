@@ -1,0 +1,2014 @@
+#8500
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+
+This zone lies west of Maaken. It is a small forested area and an Elven
+village. It was thought at one time that the village could be a racial
+hometown for Elves, but isn't really currently setup that way. There are
+no guilds, for example, and the shopping is a bit limited.
+
+This zone links up with zone: 110.
+~
+85 dk 0 0 0 0
+S
+#8501
+Trail in Gildor forest~
+     You are walking along a trail that weaves it's way among the large trees 
+of Gildor forest.  You feel truely at peace as you walk among the flowers that
+grow at the sides of the trail.  Adding to this sense of calm is the singing of 
+birds above you in the trees, and the sight of the many butterflies that dance 
+from flower to flower. The trail leads deeper west into the forest.
+~
+85 0 0 0 0 3
+D1
+Forest entrance.
+~
+~
+0 0 8598 20 20 0 0 0 0 65535 65535
+D3
+A forest trail.
+~
+~
+0 0 8502 20 20 0 0 0 0 65535 65535
+S
+#8502
+Trail in Gildor forest~
+     You are walking along a trail that weaves it's way among the large trees 
+of Gildor forest.  You feel truely at peace as you walk among the flowers that
+grow at the sides of the trail.  Adding to this sense of calm is the singing of 
+birds above you in the trees, and the sight of the many butterflies that dance 
+from flower to flower. A small path, possibly an animal trail, leads off to the 
+north and the trail continues to the west and east.
+~
+85 0 0 0 0 3
+D0
+A small path.
+~
+~
+0 0 8504 20 20 0 0 0 0 65535 65535
+D1
+A forest trail.
+~
+~
+0 0 8501 20 20 0 0 0 0 65535 65535
+D3
+A forest trail.
+~
+~
+0 0 8503 20 20 0 0 0 0 65535 65535
+S
+#8503
+Trail in Gildor forest~
+     You are walking along a trail that weaves it's way among the large trees 
+of Gildor forest.  You feel truely at peace as you walk among the flowers that
+grow at the sides of the trail.  Adding to this sense of calm is the singing of 
+birds above you in the trees, and the sight of the many butterflies that dance 
+from flower to flower. You notice a thinning of the trees to the west.
+~
+85 0 0 0 0 3
+D1
+A forest trail.
+~
+~
+0 0 8502 20 20 0 0 0 0 65535 65535
+D3
+A small clearing.
+~
+~
+0 0 8514 20 20 0 0 0 0 65535 65535
+S
+#8504
+A path in Gildor forest~
+     You are walking along a small path in the forest. Though the path is 
+narrow and the trees and undergrowth are dense, you do not feel oppressed. The 
+forest is alive around you with the sounds of birds and animals. The trees thin 
+out to the west and the path continues north.
+~
+85 0 0 0 0 3
+D0
+A path in the forest.
+~
+~
+0 0 8507 20 20 0 0 0 0 65535 65535
+D2
+A forest trail.
+~
+~
+0 0 8502 20 20 0 0 0 0 65535 65535
+D3
+A small meadow.
+~
+~
+0 0 8505 20 20 0 0 0 0 65535 65535
+S
+#8505
+A small peaceful meadow~
+     You are standing in a small meadow deep in the middle of Gildor forest. A 
+profusion of beautiful wild-flowers carpet the ground. The fragrance is 
+intoxicating, and your desire to lay among the petals and watch the clouds 
+float by is overpowering.  A path leads into the forest to the east and the 
+meadow expands to the north.
+~
+85 0 0 0 0 2
+D0
+A small meadow.
+~
+~
+0 0 8506 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 8504 20 20 0 0 0 0 65535 65535
+S
+#8506
+A small peaceful meadow~
+     You are standing in a small meadow deep in the middle of Gildor forest. A 
+profusion of beautiful wild-flowers carpets the ground.  The fragrance is 
+intoxicating, and your desire to lay among the petals and watch the clouds 
+float buy is overpowering. A path leads into the forest to the east and the 
+meadow expands to the south.
+~
+85 0 0 0 0 2
+D1
+A path in the forest.
+~
+~
+0 0 8507 20 20 0 0 0 0 65535 65535
+D2
+A small meadow.
+~
+~
+0 0 8505 20 20 0 0 0 0 65535 65535
+S
+#8507
+A path in Gildor Forest~
+     You are walking along a small path in the forest. Though the path is 
+narrow and the trees and undergrowth are dense, you do not feel oppressed. The 
+forest is alive around you with the sounds of birds and animals. The trees thin 
+out to the west and the path continues north. The sounds of voices, laughter 
+and the clash of steel echo from the east.
+~
+85 c 0 0 0 3
+D0
+A path in the forest.
+~
+~
+0 0 8510 20 20 0 0 0 0 65535 65535
+D1
+A clearing in the forest.
+~
+~
+0 0 8508 20 20 0 0 0 0 65535 65535
+D2
+A path in the forest.
+~
+~
+0 0 8504 20 20 0 0 0 0 65535 65535
+D3
+A small meadow.
+~
+~
+0 0 8506 20 20 0 0 0 0 65535 65535
+S
+#8508
+A small occupied clearing~
+     You are standing in a small clearing in the heart of Gildor forest. You 
+are astonished at the sight of the many pieces of apparatus that dot the 
+clearing, obviously for the express purpose of helping Bard train his many 
+students in the arts of the Ranger. A path in the forest is to the west and a 
+small comfortable cottage with a reinforced door is to the east.
+~
+85 0 0 0 0 2
+D1
+A comfortable cottage.
+~
+door reinforced east e~
+1 8500 8509 20 20 0 0 0 0 65535 65535
+D3
+A path in the forest.
+~
+~
+0 0 8507 20 20 0 0 0 0 65535 65535
+S
+#8509
+Inside Bard's cottage~
+     You are standing in a small cheery cottage. A blaze in the small stone 
+fireplace casts a warm glow about the room. The furniture in the room is of 
+rough construction though it appears sturdy and comfortable.  Various trophies 
+hang on the wall.
+~
+85 dj 0 0 0 0
+D3
+A clearing in the forest.
+~
+door reinforced west w~
+1 8500 8508 20 20 0 0 0 0 65535 65535
+S
+#8510
+The path turns~
+     You are walking along a small path in the forest. The path appears to 
+turn to the west here. The forest is alive around you with the sound of birds 
+and animals. An almost magical feeling envelops you and you sense stronger 
+emanations from the western portion of the path, which also continues to the 
+south.
+~
+85 0 0 0 0 3
+D2
+A path in the forest.
+~
+~
+0 0 8507 20 20 0 0 0 0 65535 65535
+D3
+A path in the forest.
+~
+~
+0 0 8511 20 20 0 0 0 0 65535 65535
+S
+#8511
+A path in Gildor forest~
+     You are walking along a small path in the forest. The path appears to turn 
+to the west here. The forest is alive around you with the sound of birds and 
+animals. The intense magical feeling you have is getting stronger and seems to 
+be coming from both the north and the west. The path continues to the east.
+~
+85 0 0 0 0 3
+D0
+A small copse of trees.
+~
+~
+0 0 8512 20 20 0 0 0 0 65535 65535
+D1
+A path in the forest.
+~
+~
+0 0 8510 20 20 0 0 0 0 65535 65535
+D3
+A glade in the forest.
+~
+~
+0 0 8513 20 20 0 0 0 0 65535 65535
+S
+#8512
+A copse of large trees~
+     Even though all the trees in Gildor forest grow to extreme heights, the 
+trees here are of enormous size easily dwarfing their neighbours around them.  
+A deep feeling of calm and a sense of the eternalness of this great forest 
+settles over you.  A path leads south.
+~
+85 0 0 0 0 3
+D2
+A path in the forest.
+~
+~
+0 0 8511 20 20 0 0 0 0 65535 65535
+S
+#8513
+A glade in Gildor forest.~
+    The powerful magical emanations have caused the plants and flowers in 
+this glade to grow to unimaginable size. A small crystal clear pond provides 
+further wonderment as you notice the majestic reflection of the mighty creature 
+before you.  A small path leads to the east.
+~
+85 j 0 0 0 3
+D1
+A path in the forest.
+~
+~
+0 0 8511 20 20 0 0 0 0 65535 65535
+S
+#8514
+Obelisk clearing~
+    The forest here has thinned out to form an almost perfect circular 
+clearing, you cannot believe it to be natural. You also detect signs of 
+habitation here though they are very minute. The trail runs east and west from 
+here. To the east you see a large crystalline tower jutting over the trees.
+~
+85 0 0 0 0 2
+D1
+A forest trail.
+~
+~
+0 0 8503 20 20 0 0 0 0 65535 65535
+D3
+Gate of Nangalen.
+~
+~
+0 0 8516 20 20 0 0 0 0 65535 65535
+S
+#8515
+The apothecary shop~
+    The inside of Falathar's apothecary shop is the first time you've ever seen 
+a High Elven's abode in disarray. Bottles, jars and flasks containing strange 
+and mysterious ingredients not only cram the many shelves covering the walls, 
+but also lay about all over the floor and the counter-top. You must be mindful 
+of your feet, lest you accidently trip!
+~
+85 d 0 0 0 0
+D2
+The village green.
+~
+~
+0 0 8524 20 20 0 0 0 0 65535 65535
+S
+#8516
+Gate of Nanagalen~
+    You stand before the beautiful mithril gates of the High Elven village of 
+Nangalen. Beyond the gates you can see the village green surrounded by the 
+Elven tree-homes and in the background the mighty Mirminas, the Jewelled Tower. 
+A trail winds its way to the east.
+~
+85 0 0 0 0 1
+D1
+A small clearing.
+~
+~
+0 0 8514 20 20 0 0 0 0 65535 65535
+D3
+The village green.
+~
+mithril gate west w~
+2 8501 8521 20 20 0 0 0 0 65535 65535
+E
+mithril gate~
+The entire gate is wrought of mithril. The silvery metal is not only extremely 
+beautiful but also extremely strong. No doubt the gate also holds powerful 
+enchantments cast be Nangalen's fabeled magi.
+~
+S
+#8517
+The Tree-Tops Inn~
+    You stand in the common room and tavern of the famous Tree-Tops Inn, 
+legendary for its fine Elven hospitality. Even more famous for its fine Elven 
+wines! Unlike human establishments, the patrons are calm and reserved, 
+preferring quiet conversations in the many booths that dot the room. A stairway 
+leads up to the Inn registry. 
+    There is a sign on the wall.
+~
+85 d 0 0 0 0
+D3
+The village green.
+~
+~
+0 0 8522 20 20 0 0 0 0 65535 65535
+D4
+The Inn registry.
+~
+~
+0 0 8586 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign reads:
+		   Ask about our house specials!!!
+~
+S
+#8518
+A Celeb tree~
+    You stand at the base of one of the mighty Celeb trees. Looking up into the 
+branches you see the structures that comprise the arboreal Nangalen. A ladder 
+leads up to a large deck. A lift is also available for heavier loads and those 
+less agile.
+~
+85 0 0 0 0 1
+D3
+The village green.
+~
+~
+0 0 8520 20 20 0 0 0 0 65535 65535
+D4
+A deck up in a Celeb tree.
+~
+~
+0 0 8585 20 20 0 0 0 0 65535 65535
+S
+#8519
+The Elven smithy~
+    This is one of the only stone buildings in all Nangalen, for obvious 
+reasons. The tough stone foundation and walls have been covered with pink 
+quartz to brighten the structures appearance and to make the dwelling more 
+palatible to the Elves.
+~
+85 d 0 0 0 0
+D0
+The village green.
+~
+door north n~
+1 0 8520 20 20 0 0 0 0 65535 65535
+S
+#8520
+The village green~
+    You are standing at the south-eastern corner of the village green. With 
+it's lush profusion of flowers it seems more of a garden than a simple village 
+common. The intricate pattern of the landscaping contrast harmoniously with the 
+"wildness" of the plants and flowers attesting to Elven gardening skills. The 
+green extends to the north and west. To the east stands one of the mighty Celeb 
+trees upon which the High Elves have built their tree-homes. To the south a 
+small structure of crystalline quartz and stone stands.
+~
+85 0 0 0 0 1
+D0
+The village green.
+~
+~
+0 0 8521 20 20 0 0 0 0 65535 65535
+D1
+A Celeb tree.
+~
+~
+0 0 8518 20 20 0 0 0 0 65535 65535
+D2
+The Smithy.
+~
+door south s~
+1 0 8519 20 20 0 0 0 0 65535 65535
+D3
+The village green.
+~
+~
+0 0 8527 20 20 0 0 0 0 65535 65535
+S
+#8521
+The village green~
+    You are stand on the eastern part of the village green. With it's lush 
+profusion of flowers it seems more of a garden than a simple village common.  
+The intricate patterns of the landscaping contrasts harmoniously with the 
+"wildness" of the plants and flowers attesting to Elven gardening skills.  
+Around the green the Elven tree-homes and crystal dwellings are arranged. 
+Dominating the skyline is the Jewelled Tower to the west. The green extends 
+to the north and south, and you make out a large object to the west.
+~
+85 0 0 0 0 1
+D0
+The village green.
+~
+~
+0 0 8522 20 20 0 0 0 0 65535 65535
+D1
+Gate of Nangalen.
+~
+mithril gate east e~
+2 8501 8516 20 20 0 0 0 0 65535 65535
+D2
+The village green.
+~
+~
+0 0 8520 20 20 0 0 0 0 65535 65535
+D3
+Fountain on the green.
+~
+~
+0 0 8525 20 20 0 0 0 0 65535 65535
+S
+#8522
+The village green~
+    You are standing at the north-eastern corner of the village green. With 
+it's lush profusion of flowers it seems more of a garden than a simple village 
+common. The intricate pattern of the landscaping contrast harmoniously with the 
+"wildness" of the plants and flowers attesting to Elven gardening skills. The 
+green extends to the south and west. To the east stands a large wooden and 
+quartz building. To the north stands one of the mighty Celeb trees upon which 
+the High Elves have built their tree-homes.
+~
+85 0 0 0 0 1
+D0
+A Celeb tree.
+~
+~
+0 0 8523 20 20 0 0 0 0 65535 65535
+D1
+The Inn.
+~
+~
+0 0 8517 20 20 0 0 0 0 65535 65535
+D2
+The village green.
+~
+~
+0 0 8521 20 20 0 0 0 0 65535 65535
+D3
+The village green.
+~
+~
+0 0 8524 20 20 0 0 0 0 65535 65535
+S
+#8523
+A Celeb tree~
+    You stand at the base of one of the mighty Celeb trees. Looking up into the 
+branches you see the structures that comprise the arboreal Nangalen. A ladder 
+leads up to a large deck. A lift is also available for heavier loads and those 
+less agile.
+~
+85 0 0 0 0 1
+D2
+The village green.
+~
+~
+0 0 8522 20 20 0 0 0 0 65535 65535
+D4
+A deck up in a Celeb tree.
+~
+~
+0 0 8592 20 20 0 0 0 0 65535 65535
+S
+#8524
+The village green~
+    You are standing at the north-western corner of the village green. With 
+it's lush profusion of flowers it seems more of a garden than a simple village 
+common. The intricate pattern of the landscaping contrast harmoniously with the 
+"wildness" of the plants and flowers attesting to Elven gardening skills. The 
+green extends to the south and east. To the nouth stands a small wooden and 
+quartz building. To the west stands one of the mighty Celeb trees upon which 
+the High Elves have built their tree-homes.
+~
+85 0 0 0 0 1
+D0
+A small shop.
+~
+door north n~
+1 0 8515 20 20 0 0 0 0 65535 65535
+D1
+The village green.
+~
+~
+0 0 8522 20 20 0 0 0 0 65535 65535
+D2
+Fountain on the green.
+~
+~
+0 0 8525 20 20 0 0 0 0 65535 65535
+D3
+A Celeb tree.
+~
+~
+0 0 8530 20 20 0 0 0 0 65535 65535
+S
+#8525
+The fountain on the green~
+    You are stand on the western part of the village green. With it's lush 
+profusion of flowers it seems more of a garden than a simple village common.  
+The intricate patterns of the landscaping contrast harmoniously with the 
+"wildness" of the plants and flowers attesting to Elven gardening skills. 
+Around the green the Elven tree-homes and crystal dwellings are arranged. 
+Dominating the skyline is the Jewelled Tower to the west. Many benches have 
+been set up here so that the Elven citizens may enjoy the peacefulness of the 
+fountain's setting. The green extends to the north and west. The Jewelled Tower 
+looms to the west.
+~
+85 0 0 0 0 1
+D0
+The village green.
+~
+~
+0 0 8524 20 20 0 0 0 0 65535 65535
+D1
+The village green.
+~
+~
+0 0 8521 20 20 0 0 0 0 65535 65535
+D2
+The village green.
+~
+~
+0 0 8526 20 20 0 0 0 0 65535 65535
+D3
+The tower gates.
+~
+~
+0 0 8529 20 20 0 0 0 0 65535 65535
+S
+#8526
+The village green~
+    You are standing at the south-western corner of the village green. With 
+it's lush profusion of flowers it seems more of a garden than a simple village 
+common. The intricate pattern of the landscaping contrast harmoniously with the 
+"wildness" of the plants and flowers attesting to Elven gardening skills. The 
+green extends to the north and east. To the south stands one of the mighty 
+Celeb trees upon which the High Elves have built their tree-homes. To the west 
+stands a large temple wrought of the pink quartz the High Elves love so dearly.
+~
+85 0 0 0 0 1
+D0
+Fountain on the green.
+~
+~
+0 0 8525 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 8520 20 20 0 0 0 0 65535 65535
+D2
+A Celeb tree.
+~
+~
+0 0 8527 20 20 0 0 0 0 65535 65535
+D3
+A serene temple.
+~
+~
+0 0 8528 20 20 0 0 0 0 65535 65535
+S
+#8527
+A Celeb tree~
+    You stand at the base of one of the mighty Celeb trees. Looking up into the 
+branches you see the structures that comprise the arboreal Nangalen. A ladder 
+leads up to a large deck. A lift is also available for heavier loads and those 
+less agile.
+~
+85 0 0 0 0 1
+D0
+The village green.
+~
+~
+0 0 8526 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 8520 20 20 0 0 0 0 65535 65535
+D4
+A deck up in a Celeb tree.
+~
+~
+0 0 8577 20 20 0 0 0 0 65535 65535
+S
+#8528
+The serene quartz temple~
+    This beautiful edifice has been completely shaped from rose quartz and the 
+entire structure shimmers with the sunlight shining through the large windows.  
+Large depictions of Hek are etched onto the rosey walls and the smell of incense 
+wafts over your nostrils. 
+~
+85 d 0 0 0 0
+D1
+The village green.
+~
+~
+0 0 8526 20 20 0 0 0 0 65535 65535
+S
+#8529
+The tower gates~
+    You stand before the mighty Jewelled Tower of Nangalen, the Mirminas, home 
+to the Regent and his wife. Carved from a single gigantic piece of rose quartz, 
+the tower shimmers in the bright sunlight. The mithril gates here are even 
+mightier than the gates that ward the entrance to the village. The village 
+green extends to the east.
+~
+85 0 0 0 0 1
+D1
+Fountain on the green.
+~
+~
+0 0 8525 20 20 0 0 0 0 65535 65535
+D3
+Inside the tower.
+~
+mithril gate west w~
+2 8502 8532 20 20 0 0 0 0 65535 65535
+S
+#8530
+A Celeb tree~
+    You stand at the base of one of the mighty Celeb trees. Looking up into the 
+branches you see the structures that comprise the arboreal Nangalen. A ladder 
+leads up to a large deck. A lift is also available for heavier loads and those 
+less agile.
+~
+85 0 0 0 0 1
+D1
+The village green.
+~
+~
+0 0 8524 20 20 0 0 0 0 65535 65535
+D4
+A deck up in a Celeb tree.
+~
+~
+0 0 8597 20 20 0 0 0 0 65535 65535
+S
+#8531
+The emerald corner~
+    This corner of the tower base is shimmering in green light. Light falling 
+from above reflects off of the many large emeralds embedded in the walls and 
+floor here. The hall extends to the south and west.
+~
+85 d 0 0 0 0
+D2
+Inside the tower.
+~
+~
+0 0 8532 20 20 0 0 0 0 65535 65535
+D3
+Inside the tower.
+~
+~
+0 0 8536 20 20 0 0 0 0 65535 65535
+S
+#8532
+The tower entrance hall~
+    You stand in the entrance hall of the mighty Mirminas. Shafts of sunlight 
+rain down from the skylights far above bathing the interior in a warm glow. 
+Beautiful murals decorate the bejewelled walls. The hall extends to the north 
+and south. The heart of the tower and the Regent's audience chamber lie to the 
+west.
+~
+85 d 0 0 0 0
+D0
+Inside the tower.
+~
+~
+0 0 8531 20 20 0 0 0 0 65535 65535
+D1
+The tower gates.
+~
+mithril gate east e~
+2 8502 8529 20 20 0 0 0 0 65535 65535
+D2
+Inside the tower.
+~
+~
+0 0 8533 20 20 0 0 0 0 65535 65535
+D3
+Inside the tower.
+~
+~
+0 0 8535 20 20 0 0 0 0 65535 65535
+S
+#8533
+The diamond corner~
+    This corner of the tower base is shimmering in white light. Light falling 
+from above reflects off of the many large diamonds embedded in the walls and 
+floor here. The hall extends to the north and west.
+~
+85 d 0 0 0 0
+D0
+Inside the tower.
+~
+~
+0 0 8532 20 20 0 0 0 0 65535 65535
+D3
+Inside the tower.
+~
+~
+0 0 8534 20 20 0 0 0 0 65535 65535
+S
+#8534
+Stairs Inside the Tower~
+    You are standing in front of a set of large stairs that lead down into the 
+bowels of the tower. Large murals cover the walls, depicting the history of the 
+Elven people.  The hall extends to the north, east and west.
+~
+85 d 0 0 0 0
+D0
+Inside the tower.
+~
+~
+0 0 8535 20 20 0 0 0 0 65535 65535
+D1
+Inside the tower.
+~
+~
+0 0 8533 20 20 0 0 0 0 65535 65535
+D3
+Inside the tower.
+~
+~
+0 0 8539 20 20 0 0 0 0 65535 65535
+D5
+The basement.
+~
+~
+0 0 8545 20 20 0 0 0 0 65535 65535
+E
+murals~
+These murals depict the war between the High Elves and the Evil Warlord 
+Tirak-Nor, who tried to destroy Nangalen 300 years ago.
+~
+S
+#8535
+The heart of the tower~
+    You stand in the center of the tower. The light rains down upon you from 
+above in a myriad of colors, all relecting off of the quartz surface of the 
+tower. Looking straight up you can see the sun shining through the great 
+stained glass window that is set in the roof of the tower 500 feet above you.  
+The hall extends to the north, east and south. The audience room lies to the 
+west.
+~
+85 0 0 0 0 0
+D0
+Inside the tower.
+~
+~
+0 0 8536 20 20 0 0 0 0 65535 65535
+D1
+Inside the tower.
+~
+~
+0 0 8532 20 20 0 0 0 0 65535 65535
+D2
+Inside the tower.
+~
+~
+0 0 8534 20 20 0 0 0 0 65535 65535
+D3
+The Throne Room.
+~
+~
+0 0 8538 20 20 0 0 0 0 65535 65535
+S
+#8536
+Stairs inside the tower~
+    You are standing in front of a set of large stairs that lead up into the 
+heights of the tower. Large murals cover the walls, depicting the history of 
+the Elven people. The hall extends to the south, east and west.
+~
+85 d 0 0 0 0
+D1
+Inside the tower.
+~
+~
+0 0 8531 20 20 0 0 0 0 65535 65535
+D2
+Inside the tower.
+~
+~
+0 0 8535 20 20 0 0 0 0 65535 65535
+D3
+Inside the tower.
+~
+~
+0 0 8537 20 20 0 0 0 0 65535 65535
+D4
+The upper floors.
+~
+~
+0 0 8560 20 20 0 0 0 0 65535 65535
+E
+murals~
+These murals depict the signing of the treaty between the Elves and the Humans 
+of Toran.
+~
+S
+#8537
+The ruby corner~
+    This corner of the tower base is shimmering in red light. Light falling 
+from above reflects off of the many large rubies embedded in the walls and 
+floor here. The hall extends to the east. The audience room lies south. A 
+large ruby door leads north.
+~
+85 d 0 0 0 0
+D0
+The stables.
+~
+door ruby north n~
+1 8503 8540 20 20 0 0 0 0 65535 65535
+D1
+Inside the tower.
+~
+~
+0 0 8536 20 20 0 0 0 0 65535 65535
+D2
+The audience room.
+~
+~
+0 0 8538 20 20 0 0 0 0 65535 65535
+E
+ruby door~
+The door has been carved from a single gigantic ruby. Engraved on its face is 
+the image of a large Griffon.
+~
+S
+#8538
+The audience room~
+    Here you stand before the Regent of Nangalen, voice of the Elven King. 
+Eventhough he are sitting and you are standing, you must crane your head up due 
+to the large raised dais. You have an overpowering feeling that maybe you should 
+kneel or something. hmmm?  The hall extends to the north, east and south. 
+~
+85 d 0 0 0 0
+D0
+Inside the tower.
+~
+~
+0 0 8537 20 20 0 0 0 0 65535 65535
+D1
+Inside the tower.
+~
+~
+0 0 8535 20 20 0 0 0 0 65535 65535
+D2
+Inside the tower.
+~
+~
+0 0 8539 20 20 0 0 0 0 65535 65535
+S
+#8539
+The sapphire corner~
+    This corner of the tower base is shimmering in blue light. Light falling 
+from above reflects off of the many large sapphires embedded in the walls and 
+floor here. The hall extends to the east. The audience room lies north.
+~
+85 d 0 0 0 0
+D0
+The audience room.
+~
+~
+0 0 8538 20 20 0 0 0 0 65535 65535
+D1
+Inside the tower.
+~
+~
+0 0 8534 20 20 0 0 0 0 65535 65535
+S
+#8540
+Entrance to stables~
+    This is the entrance hall of the Royal Stables. Unusually it does not smell 
+like horses. Though covered in rose quartz the structure is actually made of 
+stone and wood. The stables lie north. The tower to the south.
+~
+85 d 0 0 0 0
+D0
+The stables.
+~
+~
+0 0 8541 20 20 0 0 0 0 65535 65535
+D2
+Inside the tower.
+~
+door ruby south s~
+1 8503 8537 20 20 0 0 0 0 65535 65535
+S
+#8541
+The stables~
+    This is the center of the stable. To the north is a wooden door leading to 
+the Stablemaster's room. A gold gate lies to the east. A silver gate lies to 
+the west.
+~
+85 d 0 0 0 0
+D0
+Stablemaster's room.
+~
+door wooden north n~
+1 8504 8543 20 20 0 0 0 0 65535 65535
+D1
+Griffon Stable.
+~
+gate gold east e~
+1 0 8544 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 8540 20 20 0 0 0 0 65535 65535
+D3
+Griffon Stable.
+~
+gate silver west w~
+1 0 8542 20 20 0 0 0 0 65535 65535
+S
+#8542
+Arwen's stable~
+    This large stable clearly does not belong to a horse. It's large size and 
+the trough filled with fresh meat are further evidence. A large saddle with 
+tack and harness is on the wall. The creature before you explains all.
+~
+85 d 0 0 0 0
+D1
+The stables.
+~
+gate silver east e~
+1 0 8541 20 20 0 0 0 0 65535 65535
+S
+#8543
+Stablemaster's room~
+     This room is very neat and tidy. Like the rest of the stable the floor is 
+immaculate. The bed is made and there is no sign of dust.
+~
+85 d 0 0 0 0
+D2
+The stables.
+~
+wooden door south s~
+1 8504 8541 20 20 0 0 0 0 65535 65535
+S
+#8544
+Felas' stable~
+    This large stable clearly does not belong to a horse. It's large size and 
+the trough filled with fresh meat are further evidence. The stable is empty.
+~
+85 d 0 0 0 0
+D3
+The stables.
+~
+gate golden west w~
+0 0 8541 20 20 0 0 0 0 65535 65535
+S
+#8545
+The basement entrance~
+    You stand at the entrance to the tower's basement. Unlike other basements 
+it is not dark or unpleasant, and seems as warm and comforting as your 
+grandmother's house.  A hall extends to the north.
+~
+85 d 0 0 0 0
+D0
+A basement hallway.
+~
+~
+0 0 8546 20 20 0 0 0 0 65535 65535
+D4
+Inside the tower.
+~
+~
+0 0 8534 20 20 0 0 0 0 65535 65535
+S
+#8546
+Basement hallway~
+    You are standing in a surprisingly pleasant basement hallway. It extends to 
+the north and south. A sturdy door leads to the kitchen to the west. The 
+Guardsmen barracks lie to the east.
+~
+85 d 0 0 0 0
+D0
+A Room.
+~
+~
+0 0 8552 20 20 0 0 0 0 65535 65535
+D1
+The barracks.
+~
+~
+0 0 8547 20 20 0 0 0 0 65535 65535
+D2
+The stairs.
+~
+~
+0 0 8545 20 20 0 0 0 0 65535 65535
+D3
+The kitchen.
+~
+door sturdy west w~
+1 0 8549 20 20 0 0 0 0 65535 65535
+S
+#8547
+The Guardsmen's barracks~
+    This is the barracks of the Royal Guardsmen. Each soldier has his or her 
+own cot and chest. The room is quite large and extends to the north.
+~
+85 d 0 0 0 0
+D0
+The barracks.
+~
+~
+0 0 8548 20 20 0 0 0 0 65535 65535
+D3
+A basement hallway.
+~
+~
+0 0 8546 20 20 0 0 0 0 65535 65535
+S
+#8548
+The Guardsmen's barracks~
+    This is the barracks of the Royal Guardsmen. Each soldier has his or her 
+own cot and chest.  The room is quite large and extends to the south.
+~
+85 d 0 0 0 0
+D2
+The barracks.
+~
+~
+0 0 8552 20 20 0 0 0 0 65535 65535
+S
+#8549
+The tower kitchen~
+    The smells and aromas coming from this kitchen are enough to make you swoon 
+with delight. You can only imagine how wonderful they taste. Many spotlessly 
+clean pots and pans adorn the walls. The many stoves have more than enough 
+ventilation due to the large central chimney in the center of the ceiling. A 
+sturdy door opens east into the hallway. A blue door leads west and an iron 
+grill blocks entrance to the north.
+~
+85 d 0 0 0 0
+D0
+The Wine Cellar.
+~
+iron grill north n~
+1 8505 8551 20 20 0 0 0 0 65535 65535
+D1
+A basement hallway.
+~
+door sturdy east e~
+1 0 8546 20 20 0 0 0 0 65535 65535
+D3
+The pantry.
+~
+door blue west w~
+1 0 8550 20 20 0 0 0 0 65535 65535
+S
+#8550
+The pantry~
+    This is a well-stocked pantry and larder, packed with all manner of food
+stuffs palatable to the Elves.
+~
+85 d 0 0 0 0
+D1
+The kitchen.
+~
+door blue east e~
+1 0 8549 20 20 0 0 0 0 65535 65535
+S
+#8551
+The Regent's wine cellar~
+    You stand in the Regent's wine cellar. Many bottles and casks are stacked 
+here containing the finest in wines, sherries, ports and brandys. You also 
+notice many kegs of mead and some casks of the legendary Faerie-wine. An iron 
+grill blocks progress to the south.
+~
+85 d 0 0 0 0
+D2
+The kitchen.
+~
+iron grill south s~
+1 8505 8549 20 20 0 0 0 0 65535 65535
+S
+#8552
+A guard room~
+    This guard room is here to ensure that no intruders enter the Royal 
+dungeon, and to ensure that no one escapes from their due punishment. A 
+hallway leads to the south, while the Royal dungeons lie to the north.
+~
+85 d 0 0 0 0
+D0
+The Dungeons.
+~
+~
+0 0 8553 20 20 0 0 0 0 65535 65535
+D2
+A basement hallway.
+~
+~
+0 0 8546 20 20 0 0 0 0 65535 65535
+S
+#8553
+The Royal dungeons~
+    You stand in the Royal dungeons. Unlike other prisons you've been in 
+(and that would be many... wouldn't it now!), it is clean and hospitable.  
+Cells lie to the east and west, and more cells lie to the north. The sound of 
+snoring comes from the eastern cell.
+~
+85 d 0 0 0 0
+D0
+The Dungeons
+~
+~
+0 0 8557 20 20 0 0 0 0 65535 65535
+D1
+A cell.
+~
+door east e~
+2 8506 8554 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 8552 20 20 0 0 0 0 65535 65535
+D3
+A cell.
+~
+door west w~
+2 8506 8555 20 20 0 0 0 0 65535 65535
+S
+#8554
+A cell in the Royal dungeon~
+    This room seems to you to be more like a room from a human inn than a 
+prison cell. The floor is clean, the bed is comfortable, the chamber pot is 
+cleaned and empty and there is no sign of vermin of any kind. You'd pay to 
+stay in a place like this!
+~
+85 ad 0 0 0 0
+D3
+The Dungeons.
+~
+west w door~
+2 8506 8553 20 20 0 0 0 0 65535 65535
+S
+#8555
+A cell in the Royal dungeon~
+    This room seems to you to be more like a room from a human inn than a 
+prison cell. The floor is clean, the bed is comfortable, the chamber pot is 
+cleaned and empty and there is no sign of vermin of any kind.  You'd pay to 
+stay in a place like this but it appears to be occupated, too bad.
+~
+85 ad 0 0 0 0
+D3
+The Dungeons.
+~
+west door w~
+2 8506 8553 20 20 0 0 0 0 65535 65535
+S
+#8556
+A cell in the Royal dungeon~
+    This room seems to you to be more like a room from a human inn than a 
+prison cell.  The floor is clean, the bed is comfortable, the chamber pot is 
+cleaned and empty and there is no sign of vermin of any kind.  You'd pay to 
+stay in a place like this!
+~
+85 ad 0 0 0 0
+D1
+The Dungeons.
+~
+west door w~
+2 8506 8557 20 20 0 0 0 0 65535 65535
+S
+#8557
+The Royal dungeons~
+    You stand in the Royal dungeons. Unlike other prisons you've been in 
+(and that would be many... wouldn't it now!), it is clean and hospitable. 
+Cells lie to the east and west, and more cells lie to the south. A large 
+green crystalline door wards the northern wall. You sense great evil from the 
+north.
+~
+85 d 0 0 0 0
+D0
+A magical cell.
+~
+green crystalline door n north~
+2 8507 8559 20 20 0 0 0 0 65535 65535
+D1
+A cell.
+~
+east door e~
+2 8506 8558 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 8553 20 20 0 0 0 0 65535 65535
+D3
+A cell.
+~
+west w door~
+2 8506 8556 20 20 0 0 0 0 65535 65535
+S
+#8558
+A cell in the Royal dungeon~
+    This room seems to you to be more like a room from a human inn than a 
+prison cell. The floor is clean, the bed is comfortable, the chamber pot is 
+cleaned and empty and there is no sign of vermin of any kind. You'd pay to 
+stay in a place like this!
+~
+85 ad 0 0 0 0
+D3
+The Dungeons.
+~
+east door e~
+2 8506 8557 20 20 0 0 0 0 65535 65535
+S
+#8559
+The Warlord's cell~
+    You can almost feel the force of the powerful enchantments that have been 
+placed on this cell. Unlike the other cells, the walls are unadorned. There is 
+no bed, no chamberpot...there appears to be nothing whatsoever. This cell is 
+definately occupied however.  Uh oh... you're in trouble now!
+~
+85 adj 0 0 0 0
+D2
+The Dungeons.
+~
+green crystalline door south s~
+2 8507 8557 20 20 0 0 0 0 65535 65535
+S
+#8560
+Tower stairs~
+    You are standing on the second floor of the tower. Unlike the lower floor, 
+this floor is not generally open to commoners...like yourself. Stairs lead 
+down.  A catwalk extends to the south.
+~
+85 d 0 0 0 0
+D2
+A catwalk.
+~
+~
+0 0 8561 20 20 0 0 0 0 65535 65535
+D5
+Inside the tower.
+~
+~
+0 0 8536 20 20 0 0 0 0 65535 65535
+S
+#8561
+The second floor catwalk~
+    This catwalk is suspended over the center of the tower. Looking down you 
+see the heart of the tower while looking up gives you a view of the large 
+stained glass window far above. The stairs down lie north. Stairs leading up 
+lie to the south. The Regent's chambers lie to the west beyond a large crystal 
+door. A short hallway lies to the east.
+~
+85 0 0 0 0 0
+D0
+Stairs.
+~
+~
+0 0 8560 20 20 0 0 0 0 65535 65535
+D1
+A hallway.
+~
+~
+0 0 8566 20 20 0 0 0 0 65535 65535
+D2
+Stairs.
+~
+~
+0 0 8562 20 20 0 0 0 0 65535 65535
+D3
+Royal Chambers.
+~
+crystal door west w~
+2 8508 8563 20 20 0 0 0 0 65535 65535
+S
+#8562
+Tower stairs~
+    You are standing on the second floor of the tower. Unlike the lower floor, 
+this floor is not generally open to commoners...like yourself. Stairs lead up. 
+A catwalk extends to the north.
+~
+85 d 0 0 0 0
+D0
+A catwalk.
+~
+~
+0 0 8561 20 20 0 0 0 0 65535 65535
+D4
+Third floor.
+~
+~
+0 0 8569 20 20 0 0 0 0 65535 65535
+S
+#8563
+The Regent's chambers~
+    You are standing in the Regent's living quarters. You should not be here.  
+Furnished in an opulent but tasteful manner, you can only dream of living in a 
+room like this someday.  A glass door leads north, the bedchamber lies to the 
+south.  A crystal door leads out back into the tower.
+~
+85 d 0 0 0 0
+D0
+Bathroom/Closet.
+~
+glass door north n~
+1 0 8564 20 20 0 0 0 0 65535 65535
+D1
+A catwalk.
+~
+crytal door east e~
+2 8508 8561 20 20 0 0 0 0 65535 65535
+D2
+The Regent's bedchambers.
+~
+~
+0 0 8565 20 20 0 0 0 0 65535 65535
+S
+#8564
+The Regent's bath/closet~
+    You are standing in the Regent's bath room. It also doubles as a closet.  
+You would be honoured to sit on the fine porcelain toilet. You would swoon with 
+pleasure if you were allowed to use it. The closet contains many fine Elven 
+garments. 
+~
+85 d 0 0 0 0
+D2
+The Regent's Chambers.
+~
+glass door south s~
+1 0 8563 20 20 0 0 0 0 65535 65535
+S
+#8565
+The Regent's bedchambers~
+    Oh wow! What a bed! Forget adventuring, your staying here for a nap! The 
+Regent's living quarters lie north.
+~
+85 d 0 0 0 0
+D0
+Royal Chambers.
+~
+~
+0 0 8563 20 20 0 0 0 0 65535 65535
+S
+#8566
+A hallway~
+    This hallway leads to the catwalk to the west. A blue door is to the south.  
+A green door lies to the north.
+~
+85 d 0 0 0 0
+D0
+A room.
+~
+green door north n~
+1 0 8567 20 20 0 0 0 0 65535 65535
+D2
+A room.
+~
+blue door south s~
+1 0 8568 20 20 0 0 0 0 65535 65535
+D3
+A catwalk.
+~
+~
+0 0 8561 20 20 0 0 0 0 65535 65535
+S
+#8567
+Steward's room~
+    This small but comfortable room is neatly but sparsely furnished. The 
+predominant color appears to be green. You have the sense of standing in a 
+woodland glen. A green door opens into the hallway.
+~
+85 d 0 0 0 0
+D2
+A hallway.
+~
+green door south s~
+1 0 8566 20 20 0 0 0 0 65535 65535
+S
+#8568
+Captain's room~
+    This small but comfortable room is neatly but spartanly furnished. The 
+predominant color appears to be blue. You have the sense of standing on the 
+shore of the ocean. A blue door opens into the hallway.
+~
+85 d 0 0 0 0
+D0
+A hallway.
+~
+blue door north n~
+1 0 8566 20 20 0 0 0 0 65535 65535
+S
+#8569
+Stairs~
+    You stand on the third floor of the tower. A set of stairs leads back down.  
+A room filled with bright light lies to the north.
+~
+85 d 0 0 0 0
+D0
+A bright room. 
+~
+~
+0 0 8570 20 20 0 0 0 0 65535 65535
+D5
+Stairs.
+~
+~
+0 0 8562 20 20 0 0 0 0 65535 65535
+S
+#8570
+The window room~
+    You are standing in a room that must be heaven on earth. The huge stained
+glass windows above you lets forth a bright light into the room. A rainbow of 
+colors dances on the walls of the room and the light rains down through the 
+tower below. A balcony leads north. Two large rooms are to the east and west.  
+A small ladder leads up through the stained-glass window.
+~
+85 0 0 0 0 0
+D0
+A balcony.
+~
+~
+0 0 8573 20 20 0 0 0 0 65535 65535
+D1
+A large room.
+~
+~
+0 0 8571 20 20 0 0 0 0 65535 65535
+D2
+Stairs.
+~
+~
+0 0 8569 20 20 0 0 0 0 65535 65535
+D3
+A large room.
+~
+~
+0 0 8572 20 20 0 0 0 0 65535 65535
+D4
+Further up.
+~
+~
+0 0 8574 20 20 0 0 0 0 65535 65535
+S
+#8571
+Banquet hall~
+    This large room is where the Regent gives banquets and hold balls. Today a 
+large table has been set up in the middle of the hall. With seating for over 
+100 the banquet must be large indeed.
+~
+85 d 0 0 0 0
+D3
+A bright room.
+~
+~
+0 0 8570 20 20 0 0 0 0 65535 65535
+S
+#8572
+Library~
+    You are standing in the Regent's library. Acting also as a study, where 
+he performs his magical studies. Large shelves cover the walls filled with the 
+most books you've ever seen in one place.  Large leather chairs sit by the 
+fireplace providing comfortable places to sit and read.
+~
+85 d 0 0 0 0
+D1
+A bright room.
+~
+~
+0 0 8570 20 20 0 0 0 0 65535 65535
+S
+#8573
+The balcony~
+    This large balcony has no railing on the far side. You find this odd until 
+you notice the many large scratch marks that have been etched into the quartz 
+of the floor. You shudder to think what could do such damage. The view from 
+this balcony is amazing. All of Glindor forest stretches out before you and 
+you can see the Lake of Dragons far off in the background.
+~
+85 0 0 0 0 1
+D2
+A bright room.
+~
+~
+0 0 8570 20 20 0 0 0 0 65535 65535
+S
+#8574
+A guardroom~
+    This room high up in the tower provides a place for the guards to sit and 
+rest. A ladder leads down through the stained-glass window, and leads up into 
+the tower's spire.
+~
+85 d 0 0 0 0
+D4
+The spire.
+~
+~
+0 0 8575 20 20 0 0 0 0 65535 65535
+D5
+A bright room.
+~
+~
+0 0 8570 20 20 0 0 0 0 65535 65535
+S
+#8575
+The tower's spire~
+    The view from up here is absolutely amazing. In one glance you can make out 
+all of Nangalen, the Glindor forest, Maaken and even the Lake of Dragons 
+beyond. A ladder leads down.
+~
+85 0 0 0 0 0
+D5
+A room.
+~
+~
+0 0 8574 20 20 0 0 0 0 65535 65535
+S
+#8576
+An Elven home~
+    This is an example of an Elven tree-home shaped of quartz and nestled in 
+the branches of a mighty Celeb tree. Neat furnishings provide comfort for the 
+occupants of the house. The smell of incense touches your nostrils, it appears 
+to be coming from below.  A large deck is to the east.
+~
+85 d 0 0 0 0
+D1
+A deck up in a Celeb tree.
+~
+~
+0 0 8577 20 20 0 0 0 0 65535 65535
+S
+#8577
+A deck in a Celeb tree~
+    This is a large deck suspended up the trunk of a Celeb tree. A ladder and 
+lift lead down. Walkways lead east. An Elven tree-home is to the west.
+~
+85 0 0 0 0 1
+D1
+An arboreal walkway.
+~
+~
+0 0 8578 20 20 0 0 0 0 65535 65535
+D3
+A tree-home.
+~
+~
+0 0 8576 20 20 0 0 0 0 65535 65535
+D5
+Base of a Celeb tree.
+~
+~
+0 0 8527 20 20 0 0 0 0 65535 65535
+S
+#8578
+A walkway up in a Celeb tree~
+    This walkway is suspended up in the branches of a large Celeb tree. This 
+type of thoroughfare is the common means of the Elven people for getting around 
+in their arboreal homes. You hear the sounds of the forge and of the smith 
+hammering below. A large deck is to the west. Houses lie to the east and 
+south. 
+~
+85 0 0 0 0 1
+D1
+An Elven tree-home.
+~
+~
+0 0 8582 20 20 0 0 0 0 65535 65535
+D2
+An Elven tree-home.       
+~
+~
+0 0 8581 20 20 0 0 0 0 65535 65535
+D3
+An arboreal walkway.
+~
+~
+0 0 8585 20 20 0 0 0 0 65535 65535
+S
+#8579
+An Elven home~
+    This is an example of an Elven tree-home shaped of quartz and nestled in 
+the branches of a mighty Celeb tree. Neat furnishings provide comfort for the 
+occupants of the house. A walkway leads north.                                  
+~
+85 d 0 0 0 0
+D0
+An arboreal walkway.      
+~
+~
+0 0 8578 20 20 0 0 0 0 65535 65535
+S
+#8580
+A walkway up in a Celeb tree~
+    This walkway is suspended up in the branches of a large Celeb tree. This 
+type of thoroughfare is the common means of the Elven people for getting around 
+in their arboreal homes. A large deck is to the north. A house is to the east. 
+The walkway continues west.
+~
+85 0 0 0 0 1
+D0
+A deck up in a Celeb tree.
+~
+~
+0 0 8585 20 20 0 0 0 0 65535 65535
+D1
+An Elven tree-home.
+~
+~
+0 0 8582 20 20 0 0 0 0 65535 65535
+D3
+An arboreal walkway.
+~
+~
+0 0 8578 20 20 0 0 0 0 65535 65535
+S
+#8581
+An Elven home~
+    This is an example of an Elven tree-home shaped of quartz and nestled in 
+the branches of a mighty Celeb tree. Neat furnishings provide comfort for the 
+occupants of the house.  Walkways lead north and west.                           
+~
+85 d 0 0 0 0
+D0
+An arboreal walkway.      
+~
+~
+0 0 8581 20 20 0 0 0 0 65535 65535
+D3
+An arboreal walkway.
+~
+~
+0 0 8580 20 20 0 0 0 0 65535 65535
+S
+#8582
+An Elven home~
+    This is an example of an Elven tree-home shaped of quartz and nestled in 
+the branches of a mighty Celeb tree. Neat furnishings provide comfort for the 
+occupants of the house. A large shelf on the northern wall is covered with 
+bottles filled with strange objects. A bookshelf along the eastern wall holds 
+a large number of black leather bound books. You can almost feel the magical 
+tension in the air. A walkway leads to the west.
+~
+85 d 0 0 0 0
+D3
+An arboreal walkway.      
+~
+~
+0 0 8580 20 20 0 0 0 0 65535 65535
+D4
+Up.
+~
+trapdoor up u~
+1 0 8599 20 20 0 0 0 0 65535 65535
+S
+#8584
+A walkway up in a Celeb tree~
+    This walkway is suspended up in the branches of a large Celeb tree. This 
+type of thoroughfare is the common means of the Elven people for getting around 
+in their arboreal homes. The Tree-Tops Inn lies north. A large deck is to the 
+south.               
+~
+85 0 0 0 0 1
+D0
+The Inn.                  
+~
+~
+0 0 8586 20 20 0 0 0 0 65535 65535
+D2
+A deck up in a Celeb tree.
+~
+~
+0 0 8585 20 20 0 0 0 0 65535 65535
+S
+#8585
+A deck in a Celeb tree~
+    This is a large deck suspended up the trunk of a Celeb tree. A ladder and 
+lift lead down. Walkways lead north, south and east.
+~
+85 0 0 0 0 1
+D0
+An arboreal walkway.
+~
+~
+0 0 8584 20 20 0 0 0 0 65535 65535
+D1
+An arboreal walkway.
+~
+~
+0 0 8578 20 20 0 0 0 0 65535 65535
+D2
+An arboreal walkway.
+~
+~
+0 0 8580 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 0 8518 20 20 0 0 0 0 65535 65535
+S
+#8586
+The Tree-Tops Inn~
+    You are standing in the famous Tree-Tops Inn, known throughout the realms 
+for it's fine hospitality and its even finer wines. Owned by the ex-adventurer 
+Kementari the Warrior, it is known to cater to the adventurer type. This is the 
+registry room. The common room and tavern are below. Walkways extend to the 
+north and south.
+~
+85 d 0 0 0 0
+D0
+An arboreal walkway.
+~
+~
+0 0 8591 20 20 0 0 0 0 65535 65535
+D2
+An arboreal walkway.
+~
+~
+0 0 8584 20 20 0 0 0 0 65535 65535
+D5
+The tavern.
+~
+~
+0 0 8517 20 20 0 0 0 0 65535 65535
+S
+#8587
+An Elven home~
+    This is an example of an Elven tree-home shaped of quartz and nestled in 
+the branches of a mighty Celeb tree. Neat furnishings provide comfort for the 
+occupants of the house.  Walkways lead north and west.                           ~
+85 d 0 0 0 0
+D0
+An arboreal walkway.      
+~
+~
+0 0 8588 20 20 0 0 0 0 65535 65535
+D3
+An arboreal walkway.
+~
+~
+0 0 8591 20 20 0 0 0 0 65535 65535
+S
+#8588
+A walkway up in a Celeb tree~
+    This walkway is suspended up in the branches of a large Celeb tree. This 
+type of thoroughfare is the common means of the Elven people for getting around 
+in their arboreal homes.  Houses lie to the north and south. 
+~
+85 0 0 0 0 1
+D0
+An Elven tree-home.       
+~
+~
+0 0 8589 20 20 0 0 0 0 65535 65535
+D2
+An Elven tree-home.
+~
+~
+0 0 8587 20 20 0 0 0 0 65535 65535
+S
+#8589
+An Elven home~
+    This is an example of an Elven tree-home shaped of quartz and nestled in 
+the branches of a mighty Celeb tree. Neat furnishings provide comfort for the 
+occupants of the house. A large bookshelf dominates the northern wall. Strange 
+appartuses further clutter the neatness of this home. A walkway leads south.    
+~
+85 d 0 0 0 0
+D2
+An arboreal walkway.      
+~
+~
+0 0 8588 20 20 0 0 0 0 65535 65535
+S
+#8590
+An Elven home~
+    This is an example of an Elven tree-home shaped of quartz and nestled in 
+the branches of a mighty Celeb tree. Neat furnishings provide comfort for the 
+occupants of the house.  A walkway leads south.                                 
+~
+85 d 0 0 0 0
+D2
+An arboreal walkway.      
+~
+~
+0 0 8591 20 20 0 0 0 0 65535 65535
+S
+#8591
+A walkway up in a Celeb tree~
+    This walkway is suspended up in the branches of a large Celeb tree. This 
+type of thoroughfare is the common means of the Elven people for getting 
+around in their arboreal homes. The Tree-Tops Inn lies to the south. A
+large deck is to the west.  Houses lie to the north and east.
+~
+85 0 0 0 0 1
+D0
+An Elven tree-home.
+~
+~
+0 0 8590 20 20 0 0 0 0 65535 65535
+D1
+An Elven tree-home.
+~
+~
+0 0 8587 20 20 0 0 0 0 65535 65535
+D2
+The Inn.           
+~
+~
+0 0 8586 20 20 0 0 0 0 65535 65535
+D3
+A deck up in a Celeb tree.
+~
+~
+0 0 8592 20 20 0 0 0 0 65535 65535
+S
+#8592
+A deck in a Celeb tree~
+    This is a large deck suspended up the trunk of a Celeb tree. A ladder and 
+lift lead down.  Walkways lead east and west.
+~
+85 0 0 0 0 1
+D1
+An arboreal walkway.
+~
+~
+0 0 8591 20 20 0 0 0 0 65535 65535
+D3
+An arboreal walkway.
+~
+~
+0 0 8594 20 20 0 0 0 0 65535 65535
+D5
+Base of a Celeb tree.
+~
+~
+0 0 8523 20 20 0 0 0 0 65535 65535
+S
+#8593
+An Elven home~
+    This is an example of an Elven tree-home shaped of quartz and nestled in 
+the branches of a mighty Celeb tree. Neat furnishings provide comfort for the 
+occupants of the house.  A walkway leads south.                                 
+~
+85 d 0 0 0 0
+D2
+An arboreal walkway.      
+~
+~
+0 0 8594 20 20 0 0 0 0 65535 65535
+S
+#8594
+A walkway up in a Celeb tree~
+    This walkway is suspended up in the branches of a large Celeb tree. This 
+type of thoroughfare is the common means of the Elven people for gettind around 
+in their arboreal homes. A large deck is to the east. A house is to the north. 
+The walkway continues west.
+~
+85 0 0 0 0 1
+D0
+An Elven tree-home.
+~
+~
+0 0 8593 20 20 0 0 0 0 65535 65535
+D1
+A deck up in a Celeb tree.
+~
+~
+0 0 8592 20 20 0 0 0 0 65535 65535
+D3
+An arboreal walkway.
+~
+~
+0 0 8596 20 20 0 0 0 0 65535 65535
+S
+#8595
+An Elven home~
+    This is an example of an Elven tree-home shaped of quartz and nestled in 
+the branches of a mighty Celeb tree. Neat furnishings provide comfort for the 
+occupants of the house.  A walkway leads south.                                 
+~
+85 d 0 0 0 0
+D2
+An arboreal walkway.      
+~
+~
+0 0 8596 20 20 0 0 0 0 65535 65535
+S
+#8596
+A walkway up in a Celeb tree~
+    This walkway is suspended up in the branches of a large Celeb tree. This 
+type of thoroughfare is the common means of the Elven people for gettind around 
+in their arboreal homes. A large deck is to the south. Houses lie to the west 
+and north.  The walkway continues wast.
+~
+85 0 0 0 0 1
+D0
+An Elven tree-home.
+~
+~
+0 0 8595 20 20 0 0 0 0 65535 65535
+D1
+An arboreal walkway.
+~
+~
+0 0 8594 20 20 0 0 0 0 65535 65535
+D2
+A deck up in a Celeb tree.
+~
+~
+0 0 8597 20 20 0 0 0 0 65535 65535
+S
+#8597
+A deck in a Celeb tree~
+    This is a large deck suspended up the trunk of a Celeb tree. A ladder and 
+lift lead down.  A Walkway leads north.  
+~
+85 0 0 0 0 1
+D1
+An arboreal walkway.
+~
+~
+0 0 8596 20 20 0 0 0 0 65535 65535
+D5
+Base of a Celeb tree.
+~
+~
+0 0 8530 20 20 0 0 0 0 65535 65535
+S
+#8598
+Entrance to Gildor forest~
+    Here you stand at the entrance to the fabled Gildor forest, home of the 
+High Elven village of Nangalen.  The forest is bright and cheery, with birds 
+chirping and squirrels chattering in the branches overhead.  A trail winds 
+it's way among the trees off into the forest.  
+    There is a sign here.
+~
+85 c 0 0 0 3
+D1
+The Trader's Road
+~
+~
+0 -1 11045 20 20 0 0 0 0 65535 65535
+D3
+A forest trail.
+~
+~
+0 0 8501 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign reads:
+		Welcome to Gildor forest,
+                and the village of Nangalen.
+                Friends may enter freely,
+                but evil doers BEWARE!!!
+~
+S
+#8599
+Minyatur's laboratory~
+    You stand in the laboratory of the evil High Elven wizard Minyatur the 
+Magnificent. Oh boy are you in trouble!!!
+~
+85 d 0 0 0 0
+D5
+An Elven tree-home.
+~
+trapdoor down d~
+1 0 8582 20 20 0 0 0 0 65535 65535
+S
+$~

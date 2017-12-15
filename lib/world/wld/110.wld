@@ -1,0 +1,823 @@
+#11000
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+ 
+This zone is for the trade city of Maaken. It lies on the south shore of
+the Lake of Dragons, Kortaal lies north and west. The lake is supposed to be
+a difficult journey. There is a vehicle which sails here from Kortaal 
+daily. 
+  
+West of Maaken is the Gildor Forest and an Elven village called Nangalen.
+  
+This zone links up zones: 32 and 85
+~
+110 dk 0 0 0 0
+S
+#11001
+Cliff Road~
+   You are on a well travled road which has been cut into this sandstone
+cliff.  The road leads up in to the city proper and down to the port
+area.
+~
+110 0 0 0 0 1
+D4
+Up leads to Maaken.
+~
+~
+0 -1 11041 20 20 0 0 0 0 65535 65535
+D5
+The port is below.
+~
+~
+0 -1 11009 20 20 0 0 0 0 65535 65535
+S
+#11002
+City Square~
+   You are in the City Square of Maaken.  The view of the Lake of Dragons is
+quite impressive from here.  You can see many ships comming and going from 
+the port. There are many people going about their business.  To the east is 
+the market area and to the west is main street.  To the north a road leads 
+to the edge of the cliffs and a road runs down from there to the port.
+~
+110 0 0 0 0 1
+D0
+A road leads down to the port.
+~
+~
+0 -1 11041 20 20 0 0 0 0 65535 65535
+D1
+You see the Market.
+~
+~
+0 -1 11003 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 11028 20 20 0 0 0 0 65535 65535
+D3
+You see Main Street.
+~
+~
+0 -1 11012 20 20 0 0 0 0 65535 65535
+S
+#11003
+The Market~
+   The market area of Maaken is quite impressive. There are all manner of
+goods layed out before you. To the north there is a small booth with a sign
+overhead written in common, "Dral's Exotic Weapons."
+~
+110 0 0 0 0 1
+D0
+You see an weapons merchant.
+~
+~
+0 -1 11006 20 20 0 0 0 0 65535 65535
+D1
+You see more of the market.
+~
+~
+0 -1 11004 20 20 0 0 0 0 65535 65535
+D3
+You see the city square.
+~
+~
+0 -1 11002 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign reads:
+               Dral's Exotic Weapons
+~
+S
+#11004
+The Market~
+   Many people are here buying and selling goods.  To the north is a merchant
+selling general items and to the south is a jem booth.
+~
+110 0 0 0 0 1
+D0
+You see a man selling general goods.
+~
+~
+0 -1 11007 20 20 0 0 0 0 65535 65535
+D1
+You see more of the market.
+~
+~
+0 -1 11005 20 20 0 0 0 0 65535 65535
+D2
+You see the booth of a Jem Monger.
+~
+~
+0 -1 11010 20 20 0 0 0 0 65535 65535
+D3
+You see more of the market.
+~
+~
+0 -1 11003 20 20 0 0 0 0 65535 65535
+S
+#11005
+The Market~
+   There are many people here buying and selling goods.  To the south is an
+open air armor emporium.
+~
+110 0 0 0 0 1
+D1
+~
+~
+0 -1 11029 20 20 0 0 0 0 65535 65535
+D2
+You see a man selling armor.
+~
+~
+0 -1 11011 20 20 0 0 0 0 65535 65535
+D3
+More of the market.
+~
+~
+0 -1 11004 20 20 0 0 0 0 65535 65535
+S
+#11006
+Dral's Exotic Weapons~
+   Here is the booth of Dral the weapon merchant. You can see weapons from
+many different lands here. Those of the Empire are most common, there are a
+few peices from the Shaar, and even a few from Nelva and Ohari.
+~
+110 0 0 0 0 1
+D2
+The market area.
+~
+~
+0 -1 11003 20 20 0 0 0 0 65535 65535
+S
+#11007
+Adventurers' Booth~
+   You stand in a small booth filled with various objects of both a exotic
+and mundane natures. It would seem that you can find all sorts of things here.
+~
+110 0 0 0 0 1
+D2
+You see the market.
+~
+~
+0 -1 11004 20 20 0 0 0 0 65535 65535
+S
+#11008
+The Lost Mermaid~
+   As you enter this pub you can smell the spilt ale and wine.  The room is
+filled with sailors from many differnet lands.  Behind the bar there is a large
+picture of a mermaid painted on the wall.
+~
+110 d 0 0 0 0
+D2
+Out the door is main street.
+~
+~
+0 -1 11012 20 20 0 0 0 0 65535 65535
+S
+#11009
+Port of Maaken~
+   You can see all manner of sailing ships docked, leaving and arriving to
+the port of Maaken. People seem to be everywhere doing all manner of things.
+Unloading good, loading goods, buying, selling and trading. To the south you
+can see great cliffs. A wide road has been cut into the cliff that leads into
+Maaken proper.
+~
+110 q 0 0 0 1
+D0
+You see the Lake of Dragons.
+~
+~
+0 -1 3275 20 20 0 0 0 0 65535 65535
+D4
+You see the cliff.
+~
+~
+0 -1 11001 20 20 0 0 0 0 65535 65535
+S
+#11010
+The Jem Seller's Booth~
+   A few jems are layed out under a piece of glass.
+~
+110 0 0 0 0 1
+D0
+The Market.
+~
+~
+0 -1 11004 20 20 0 0 0 0 65535 65535
+S
+#11011
+Armor Booth~
+   Armor from around the world is on sale here.
+~
+110 0 0 0 0 1
+D0
+The Market.
+~
+~
+0 -1 11005 20 20 0 0 0 0 65535 65535
+S
+#11012
+Main Street~
+   This is the main street in Maaken which runs east-west.  To the north
+is The Lost Mermaid from which you can hear loud noises and see drunks comming 
+out of it.  To the south is the Bank of Maaken.
+~
+110 0 0 0 0 1
+D0
+You see The Lost Mermaid pub.
+~
+~
+0 -1 11008 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 11002 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 11014 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11015 20 20 0 0 0 0 65535 65535
+S
+#11013
+Enterence to the Warrior's Guild of Maaken~
+   The room has armor and fine swords decorating the walls.  There are many
+warriors here reliving past battles in distant lands. To the south, you can 
+see an open sparing yard.
+~
+110 d 0 0 0 0
+D0
+~
+door north n~
+1 -1 11032 20 20 0 0 0 0 65535 65535
+D2
+You see the Warriors' pratice area.
+~
+~
+0 -1 11033 20 20 0 0 0 0 65535 65535
+S
+#11014
+The Bank of Maaken~
+   This is a finely decorated room with many finely dressed merchants doing
+business here.
+~
+110 d 0 0 0 0
+D0
+You see Main Street.
+~
+~
+0 -1 11012 20 20 0 0 0 0 65535 65535
+S
+#11015
+Main Street~
+   The main street of Maaken.
+~
+110 0 0 0 0 1
+D1
+~
+~
+0 -1 11012 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11016 20 20 0 0 0 0 65535 65535
+S
+#11016
+The Intersection of Main and Church~
+   Here Main street crosses with @yChurch Road@n which runs south the church
+of Hek. To the west lies the @mTrader's Road@n which runs out of the city toward
+the @gElven village of Nangalen@n.
+~
+110 0 0 0 0 1
+D1
+~
+~
+0 -1 11015 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 11018 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11043 20 20 0 0 0 0 65535 65535
+S
+#11017
+The Thieves' Guild~
+   This house has been transformed by the local thieves into a safe house.
+There are many other thieves here milling about all dressed in various 
+fashions. A door to the north leads out into the the back yard. It has 
+been fenced off to for a practice yard for you.
+~
+110 d 0 0 0 0
+D0
+~
+door north n~
+1 11099 11037 20 20 0 0 0 0 65535 65535
+D2
+~
+wooden south s~
+1 11099 11038 20 20 0 0 0 0 65535 65535
+S
+#11018
+Church Road~
+   This is a north - south road leading to the hill on which the Church of Hek
+sits.
+~
+110 0 0 0 0 1
+D0
+~
+~
+0 -1 11016 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 11019 20 20 0 0 0 0 65535 65535
+S
+#11019
+Church Road~
+   This is a north - south road that leads the to Church of Hek which is to
+the south.  To the east is Olive street.
+~
+110 0 0 0 0 1
+D0
+~
+~
+0 -1 11018 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 11038 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 11020 20 20 0 0 0 0 65535 65535
+S
+#11020
+Church Road~
+   You are on Church Road at the base of the Hill of the gods. There are stairs
+leading up to the top of the hill.
+~
+110 0 0 0 0 1
+D0
+~
+~
+0 -1 11019 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 11021 20 20 0 0 0 0 65535 65535
+S
+#11021
+Grounds of Hek~
+   As you pass through a large gate, which doesn't look like it has been
+closed in years, you enter into the Grounds of Hek.  A large beutiful church is
+to the south. There are large stairs leading up into it.  To the east and west
+are gardens.
+~
+110 c 0 0 0 1
+D0
+~
+~
+0 -1 11020 20 20 0 0 0 0 65535 65535
+D2
+~
+door south s~
+1 -1 11023 20 20 0 0 0 0 65535 65535
+S
+#11022
+Rest Room~
+   This is a room where travlers can stay.
+~
+110 de 0 0 0 0
+D1
+~
+~
+0 -1 11023 20 20 0 0 0 0 65535 65535
+S
+#11023
+Entrance of the Church of Hek~
+   This is the entrance hall of the Church of Hek.  It is extreamly clean and
+well kept.  There are large paintings depcting Hek's power on the walls. To
+the west is a room marked for travlers.  To the east is a room marked
+'Healing'.  And to the south are some very large bronze doors that lead into 
+the chapel.
+~
+110 d 0 0 0 0
+D0
+~
+door north n~
+1 -1 11021 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 11024 20 20 0 0 0 0 65535 65535
+D2
+~
+bronze south s~
+1 -1 11025 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11022 20 20 0 0 0 0 65535 65535
+S
+#11024
+Healing Room~
+   There is a Cleric of Hek here selling healing potions.  There is a sign
+here.
+~
+110 d 0 0 0 0
+D3
+~
+~
+0 -1 11023 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign says:  All procedes go to the upkeep of the works of the Church.
+~
+S
+#11025
+The Great Chapel of Hek~
+   This is a huge chapel.  It has many pews and stained glass windows.  To
+the front is a large marble altar. There is a door behind that, leading perhaps
+to the High Preist's private area.
+~
+110 d 0 0 0 0
+D0
+~
+bronze north n~
+1 -1 11023 20 20 0 0 0 0 65535 65535
+D2
+~
+door south s~
+2 7002 11026 20 20 0 0 0 0 65535 65535
+S
+#11026
+Holy of Holies~
+   This a holy place for Hek's followers.  You can feel the precence of Hek in 
+this room.  There is a large holy symbol of Hek hanging on the wall.  
+~
+110 d 0 0 0 1
+D0
+~
+door north n~
+2 7002 11025 20 20 0 0 0 0 65535 65535
+S
+#11027
+Intersection~
+   This is the intersection of Olive and Alder.  Alder runs north and Olive
+runs east - west.
+~
+110 0 0 0 0 1
+D0
+~
+~
+0 -1 11028 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 11035 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11036 20 20 0 0 0 0 65535 65535
+S
+#11028
+Alder street~
+   This is a short steet with many people using it to go to and from the
+city center which is to the north.
+~
+110 0 0 0 0 1
+D0
+~
+~
+0 -1 11002 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 11027 20 20 0 0 0 0 65535 65535
+S
+#11029
+Edge of the city~
+   This is the northeast corner of populated Maaken.  The west  is the
+merchent district of Maaken.  To the  east is Trader's Road that leads to 
+Dunar.
+   There is a small sign here.
+~
+110 0 0 0 0 1
+D2
+~
+~
+0 -1 11030 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11005 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign reads: This road is closed for now awaiting the construction of the
+                city of Dunar.
+                --Ziz
+~
+S
+#11030
+City road~
+   This is a small north - south road.
+~
+110 0 0 0 0 1
+D0
+~
+~
+0 -1 11029 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 11031 20 20 0 0 0 0 65535 65535
+S
+#11031
+Intersection~
+   Olive street is to the west.
+~
+110 0 0 0 0 1
+D0
+You see the West Stands.
+~
+~
+0 -1 11030 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11032 20 20 0 0 0 0 65535 65535
+S
+#11032
+Olive Street~
+   The road runs east-west here through the residental section of Maaken. One
+building to the south has a sign hanging overhead with a sword and shield
+painted on it.
+~
+110 0 0 0 0 1
+D1
+~
+~
+0 -1 11031 20 20 0 0 0 0 65535 65535
+D2
+~
+door south s~
+1 -1 11013 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11034 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign shows a long sword and a shield with an Imperial crest on it. 
+Perhaps it is a gathering place of warriors.
+~
+S
+#11033
+Warrior's Pratice area~
+   There are many pratice dummies here.
+~
+110 d 0 0 0 1
+D0
+~
+~
+0 -1 11013 20 20 0 0 0 0 65535 65535
+S
+#11034
+Olive Street~
+   This is a east - west street lined with homes.  To the north is a large
+house, the owner must be very rich.
+~
+110 0 0 0 0 1
+D1
+~
+~
+0 -1 11032 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11035 20 20 0 0 0 0 65535 65535
+E
+house~
+Srounding the house is a large stone wall.  There is a heavy iron reenforced 
+gate.  The house looks well kept, but you see no activity.
+~
+S
+#11035
+Olive Street~
+   This is a east - west street lined with homes.  To the south there is a small
+house.
+~
+110 0 0 0 0 1
+D1
+~
+~
+0 -1 11034 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11027 20 20 0 0 0 0 65535 65535
+S
+#11036
+Olive Street~
+   This is a east west street lined with homes.  To the north there is a large
+house that looks like it hasen't been lived in in years.
+~
+110 0 0 0 0 1
+D0
+The house doesn't look too friendly
+~
+iron north n~
+2 11096 11000 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 11027 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11038 20 20 0 0 0 0 65535 65535
+E
+house~
+     The there is a small iron gate and a large over grown stone wall srounding
+the house.  The house has ivy growing up it's walls.
+~
+S
+#11037
+Thieves' Pratice Yard~
+   This is a pratice area for the Thieves' of Maaken.
+~
+110 d 0 0 0 0
+D2
+~
+door south s~
+1 11099 11017 20 20 0 0 0 0 65535 65535
+S
+#11038
+Olive Street~
+   Olive Street passes though more of Maaken's residential section here. You
+notice that the houses in this area seem to be slightly more run down than
+other areas of town. There is a small mailbox on one of the houses to the
+north that catches your eye.
+~
+110 0 0 0 0 1
+D0
+~
+wooden north n~
+1 11099 11017 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 11036 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11019 20 20 0 0 0 0 65535 65535
+E
+mailbox mail box~
+The rather large mailbox has the name 'Astorian' written in common on it.
+~
+S
+#11039
+Corridors of Marduk~
+  This room is for chaos
+~
+110 d 0 0 0 1
+D0
+~
+~
+0 -1 11002 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 11012 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 11032 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11038 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 11018 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 11020 20 20 0 0 0 0 65535 65535
+S
+#11040
+Garrison~
+   You stand in the newly errected Purple Dragon Garrison. You can see several
+rows of bunks, all neatly made, running down the length of this huge room. 
+It would seem that Naga plans to move even more troops into Maaken. To the
+east lies a small office.
+~
+110 d 0 0 0 1
+D1
+~
+wooden east e~
+1 11099 11042 20 20 0 0 0 0 65535 65535
+D3
+~
+door west w~
+1 11099 11041 20 20 0 0 0 0 65535 65535
+S
+#11041
+Cliffview~
+   You are standing on the northern edge of Maaken, which overlooks the Lake
+of Dragons. A road winds down to the port area, and a path runs south into the
+city square. To the east lies the newly constructed Purple Dragon Garrison.
+~
+110 0 0 0 0 1
+D1
+~
+door east e~
+1 11099 11040 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 11002 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 11001 20 20 0 0 0 0 65535 65535
+S
+#11042
+Garrison Commander's Office~
+   The office here is quite simple, there is small desk cluttered with papers
+and there are two maps on the walls. Also, you see the standard of the Purple
+Dragons on the wall behind the desk.
+~
+110 d 0 0 0 1
+D3
+~
+wooden west w~
+1 11099 11040 20 20 0 0 0 0 65535 65535
+E
+map maps~
+One is a map of the city of Maaken, the other a map of the Empire of Toran.
+~
+E
+standard wall~
+The standard, one of the few things Emperor Naga has not changed, is nearly
+12 feet across and takes up most of the wall. It is a picture of a large,
+purple dragon rearing back as if to attack.
+~
+S
+#11043
+The Trader's Road~
+   One of the most ancient trade routes in the Empire, this road heads west
+into the Elven lands. In the distance you can see the beginings of the Gildor
+forest. The city of Maaken lies to the east.
+~
+110 0 0 0 0 2
+D1
+You see the city of Maaken.
+~
+~
+0 -1 11016 20 20 0 0 0 0 65535 65535
+D3
+You can see the beginings of the Gildor forest.
+~
+~
+0 -1 11044 20 20 0 0 0 0 65535 65535
+S
+#11044
+The Trader's Road~
+   One of the most ancient trade routes in the Empire, this road heads west
+into the Elven lands. In the distance you can see the beginings of the Gildor
+forest. The city of Maaken lies just to the east.
+~
+110 0 0 0 0 2
+D1
+~
+~
+0 -1 11043 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11045 20 20 0 0 0 0 65535 65535
+S
+#11045
+The Trader's Road near a forest~
+   One of the newer trade routes in the Empire, this road heads west
+into the Elven lands.
+~
+110 0 0 0 0 2
+D1
+~
+~
+0 -1 11044 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 8598 20 20 0 0 0 0 65535 65535
+S
+$~

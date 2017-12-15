@@ -1,0 +1,347 @@
+#11400
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+ 
+This zone is for the small town of Kaon. Kaon sits on the western edge
+of a large lake, Lake Wyvernwater. There is a small general store in town
+and an Inn. It also contains the ruins of Redstone Manor and a guild
+for the evil rune wizards, the Tsalari.
+  
+This zone links up with zones: 25, 31 and 35.
+~
+114 dk 0 0 0 0
+S
+#11401
+Outskirts of Kaon~
+   You stand on the outskirts of Kaon, perched on the western edge of
+the Wyvernwater. On this end of town you can see several large manors 
+belonging to, you'd guess, minor nobility. To the west is a shop of some
+sort with a large 'Open' sign in the window.
+~
+114 0 0 0 0 2
+D0
+You see the center of town.
+~
+~
+0 -1 11403 20 20 0 0 0 0 65535 65535
+D2
+You see a wooded road.
+~
+~
+0 -1 3127 20 20 0 0 0 0 65535 65535
+D3
+~
+door west w~
+1 -1 11402 20 20 0 0 0 0 65535 65535
+S
+#11402
+General Store~
+   This is a quaint little store in Kaon. The owner seems to have quite
+abit of various stuff laying about.
+~
+114 d 0 0 0 0
+D1
+The outskirts of town.
+~
+door east e~
+1 -1 11401 20 20 0 0 0 0 65535 65535
+S
+#11403
+Center of Town~
+   All around you can see many small building and to the east, boats and
+the Wyvernwater. The road continues north and also branches west through
+the western part of the city, and eventually into the dark forest. There is
+a large stone statue here, which looks as if it has endured well over the
+years.
+~
+114 0 0 0 0 2
+D0
+The northern edge of Kaon.
+~
+~
+0 -1 11411 20 20 0 0 0 0 65535 65535
+D1
+You see the Wyvernwater.
+~
+~
+0 -1 11404 20 20 0 0 0 0 65535 65535
+D2
+You see the southern outskirts of Kaon.
+~
+~
+0 -1 11401 20 20 0 0 0 0 65535 65535
+D3
+Throught the residental section of Kaon.
+~
+~
+0 -1 11409 20 20 0 0 0 0 65535 65535
+E
+inscription base~
+The inscription reads: 'Chelnar Triumphant'
+~
+E
+statue~
+The statue depicts King Chelnar the III, who died nearly one hundred years ago,
+with a long sword raised aloft on the back of a rearing stallion. There
+is a small inscription at the base.
+~
+S
+#11404
+The edge of the Wyvernwater~
+   To the east you can see the rather chilly looking water of Wyvernwater
+lake. Much of Kaon's livelyhood comes from fishing these waters. To
+the south you can see a large manor.
+~
+114 0 0 0 0 2
+D2
+A large manor.
+~
+~
+0 -1 11405 20 20 0 0 0 0 65535 65535
+D3
+The town center.
+~
+~
+0 -1 11403 20 20 0 0 0 0 65535 65535
+S
+#11405
+Before the Manor~
+   You stand before the now empty manor of the former ruler of Kaon, 
+Samtavan Sudacar. Once it was discoverd that he was orginially from Nelva
+he returned to his homeland with much haste. The manor has been sealed by
+physical and magical means.
+~
+114 0 0 0 0 2
+D0
+Near the Wyvernwater.
+~
+~
+0 -1 11404 20 20 0 0 0 0 65535 65535
+D2
+The closed manor of the last ruler of Kaon.
+~
+door~
+1 7001 11406 20 20 0 0 0 0 65535 65535
+S
+#11406
+High Towers~
+   You stand in the entryway of the manor of Samtavan Sudacar. It has
+been close for a number of years now, and the dust is thick. All of the
+windows have been coverd from the inside, and strange sigla have been 
+drawn all over. The place gives off a very evil aura. To the east you
+can see a fair sized library, and along the south wall is a door.
+~
+114 d 0 0 0 0
+D0
+Near the Wyvernwater.
+~
+door~
+1 7001 11405 20 20 0 0 0 0 65535 65535
+D1
+A library.
+~
+~
+0 -1 11407 20 20 0 0 0 0 65535 65535
+D2
+A closed door.
+~
+wooden south~
+1 7001 11408 20 20 0 0 0 0 65535 65535
+E
+sigla~
+The sigla are slightly familiar to you...but you can't quite place them.
+~
+S
+#11407
+A library in High Towers Manor~
+   This library is still filled with books! Most of them are covered in 
+thick dust, but it appers that someone is making use of a few of them.
+~
+114 d 0 0 0 0
+D3
+The enterance.
+~
+~
+0 -1 11406 20 20 0 0 0 0 65535 65535
+E
+books book~
+There are many books here, most of the written in Toranian. A few in 
+Nelven, and DaleSpeak, and a few the runic language of the Tsalari.
+~
+S
+#11408
+A staircase~
+    The staircase leads up to the second floor.
+~
+114 d 0 0 0 0
+D0
+The entry way.
+~
+wooden north~
+1 7001 11406 20 20 0 0 0 0 65535 65535
+D4
+The second floor.
+~
+~
+0 -1 11413 20 20 0 0 0 0 65535 65535
+S
+#11409
+The western end of Kaon~
+   After passing throught most of the residental section of Kaon, you now
+stand on the western end. Here you see many fields which supply food to the
+troops involved with the Nelven war, and Shaarian occupation. On the 
+otherside of the fields lies more of the dark forest. To the south is
+Redstone Manor, which is locked up and looks abandoned.
+~
+114 0 0 0 0 2
+D1
+The center of town.
+~
+~
+0 -1 11403 20 20 0 0 0 0 65535 65535
+D2
+~
+door south s~
+1 2527 11410 20 20 0 0 0 0 65535 65535
+D3
+The dark forest.
+~
+~
+0 -1 3513 20 20 0 0 0 0 65535 65535
+E
+manor wyvernspur redstone~
+The rather large, ancestorial, home of the Wyvernspur family.
+Called Redstone for it's color of unique stone used to build it.
+It is close for renovations.
+~
+S
+#11410
+Redstone~
+   You stand in the fire scorched ruins of Wyvernspur Manor. You can see a 
+spiral staircase decending into the darkness.
+~
+114 d 0 0 0 0
+D0
+The western edge of town.
+~
+door north n~
+1 2527 11409 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 2501 20 20 0 0 0 0 65535 65535
+S
+#11411
+Northern outskirts of Kaon~
+   You are almost out of the small town of Kaon, to the north begin more
+farmlands, which are pretty uninterstng. There is one large building to the
+west however.
+~
+114 0 0 0 0 2
+D0
+Farm lands.
+~
+~
+0 -1 3138 20 20 0 0 0 0 65535 65535
+D2
+The center of town.
+~
+~
+0 -1 11403 20 20 0 0 0 0 65535 65535
+D3
+A fair sized Inn, the Five Fine Fish.
+~
+~
+0 -1 11412 20 20 0 0 0 0 65535 65535
+S
+#11412
+Five Fine Fish~
+   A fair sized Inn, you can smell the delicous aroma of fish being cooked
+in large numbers. Also, the smell of the house's special ale is quite strong.
+~
+114 cd 0 0 0 0
+D1
+The north edge of town.
+~
+~
+0 -1 11411 20 20 0 0 0 0 65535 65535
+S
+#11413
+A hallway~
+    A rather simple hallway, on the second floor of the High Towers. 
+On this floor there is a classroom for teaching lower Order Tsalari and
+private rooms of some of the instructors. To the west lies a 
+classroom.
+~
+114 d 0 0 0 0
+D0
+A hallway.
+~
+~
+0 -1 11415 20 20 0 0 0 0 65535 65535
+D1
+Walker's Room
+~
+~
+1 7001 11414 20 20 0 0 0 0 65535 65535
+D3
+A classroom.
+~
+~
+1 -1 11416 20 20 0 0 0 0 65535 65535
+D5
+Down to the first floor.
+~
+~
+0 -1 11408 20 20 0 0 0 0 65535 65535
+S
+#11414
+Walker's Study~
+This room is encased in bookshelves containing everything from books to
+shrunken kobolds in jars. The room smells strongly of an unseen burning
+incense. The floor is covered with the symbol of Marduk painted with red
+paint or is it blood?  A man-sized portal sits in the northeast corner of
+the room lending to the room's blackness.
+~
+114 d 0 0 0 0
+D3
+A hallway.
+~
+~
+1 7001 11413 20 20 0 0 0 0 65535 65535
+E
+black portal~
+The portal absorbs all light shown into it, nothing can be seen on the
+otherside. As you get closer the blackness winks out of existence, revealing a
+normal silver rimmed mirror in its place.
+~
+S
+#11415
+A hallway~
+    A rather simple hallway, on the second floor of the High Towers. 
+On this floor there is a classroom for teaching lower Order Tsalari and
+private rooms of some of the instructors.
+~
+114 d 0 0 0 0
+D2
+A hallway.
+~
+~
+0 -1 11413 20 20 0 0 0 0 65535 65535
+S
+#11416
+A classroom~
+    A rather large room, there are many bookshevles lining the 
+walls, and there is a table filled with strange potions and 
+beakers. There is a portable slate board, drawn upon it are 
+many different Tsalari runes. 
+~
+114 d 0 0 0 0
+D1
+A hallway.
+~
+~
+1 -1 11413 20 20 0 0 0 0 65535 65535
+S
+$~

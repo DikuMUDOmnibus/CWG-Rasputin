@@ -1,0 +1,416 @@
+#9000
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+ 
+This zone is attached inside the capital city of Kortaal. It is
+the largest church of Hek on all of Toran. It is the main spiritual center
+for the followers of Hek.
+  
+It contains a guild, shop and inn for renting.
+  
+This zone links up with zone: 30.
+~
+90 dk 0 0 0 0
+S
+#9001
+The pathway to the church of Hek.~
+   You can see the church looming in front of you.
+~
+90 0 0 0 0 2
+D1
+Entrance to the church grounds.
+~
+~
+0 -1 9000 20 20 0 0 0 0 65535 65535
+D3
+Pathway to the church of Hek.
+~
+~
+0 -1 9002 20 20 0 0 0 0 65535 65535
+S
+#9002
+The pathway to the church of Hek.~
+   The church is gigantic from here!
+~
+90 0 0 0 0 2
+D1
+~
+~
+0 -1 9001 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 9003 20 20 0 0 0 0 65535 65535
+S
+#9003
+The pathway to the church of Hek.~
+   You can see in better detail the black lines in the marble are all
+pointing towards the sky.
+~
+90 0 0 0 0 2
+D1
+~
+~
+0 -1 9002 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 9004 20 20 0 0 0 0 65535 65535
+S
+#9004
+Entrance to the church of Hek.~
+   You are standing in the entrance to the church... This cathedral marks a
+wonder to your eyes, for you have never seen anything like it before. Old and
+glorious, you get the feeling of warm inner peace here.
+~
+90 d 0 0 0 0
+D0
+~
+~
+0 -1 9008 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 9003 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 9010 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 9005 20 20 0 0 0 0 65535 65535
+S
+#9005
+The Sanctuary~
+   This place is a definate marvel to behold, Rising above you are several
+pillars made up of the same stone as outside. Pews are arranged in rows
+counting more than 50, and at the front of the room is the stand where the
+services take place. Two strange boxes are next to the stand, made of black,
+netted fabric. The ceiling rises up to meet the chandelier, which in itself is
+yards across in radius. Thousands of tiny crystal fragments radiate a light
+that inhabits the entire room. The only exits are to the East and West.
+~
+90 d 0 0 0 0
+D1
+~
+~
+0 -1 9004 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 9006 20 20 0 0 0 0 65535 65535
+S
+#9006
+The practice area.~
+   You are standing in the Guild area for the Clerics of Hek. You see both young
+and old Clerics practicing their arts here. To the West you see a large golden
+door that seperates in the middle. Two rungs hang from this door.
+~
+90 d 0 0 0 0
+D1
+~
+~
+0 -1 9005 20 20 0 0 0 0 65535 65535
+D3
+~
+golden door large~
+2 7002 9007 20 20 0 0 0 0 65535 65535
+S
+#9007
+Holy of Holies~
+   You have entered the most private room in the entire city. In here lies the
+most highly guarded secrets of life, and the universe as you know it. Studying
+at his desk is the holy deacon of Hek. He pours through the scripts of ancient
+languages you cannot possibly imagine ever being able to comprehend. In this
+sanctuary he is safe from most of the evils of this world. Not even looking
+as you enter, he mumbles, "Please close and lock the door behind you, my son."
+~
+90 d 0 0 0 0
+D1
+~
+door golden~
+2 7002 9006 20 20 0 0 0 0 65535 65535
+S
+#9008
+The Shop~
+   You are standing in the shop of the church. It is a bare wooden room, with
+miscellaneous items lining the shelves. The shopkeeper is bustling around
+dusting everywhere.
+~
+90 d 0 0 0 0
+D2
+~
+~
+0 -1 9004 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 9009 20 20 0 0 0 0 65535 65535
+S
+#9009
+Church's Inn~
+   You are standing at the reception of the inn. The Innkeeper smiles
+pleasantly at you. There is a sign on the wall.
+~
+90 d 0 0 0 0
+D1
+~
+~
+0 -1 9008 20 20 0 0 0 0 65535 65535
+E
+Sign~
+The sign says:
+   Welcome to the Church Inn... All rent costs will go to donations for the
+church. Feel free to rent here in comfort that your funds will be put to
+good use.
+~
+S
+#9010
+Entrance to the Dormitories~
+   This area is the main hallway to the dormitories for the followers of
+Hek.
+~
+90 d 0 0 0 0
+D0
+~
+~
+0 -1 9004 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 9011 20 20 0 0 0 0 65535 65535
+S
+#9011
+Hallway~
+This is part of the hallway leading to the Dorm rooms.
+~
+90 d 0 0 0 0
+D0
+~
+~
+0 -1 9026 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 9010 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 9017 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 9012 20 20 0 0 0 0 65535 65535
+S
+#9012
+Dorm Hallway~
+
+~
+90 d 0 0 0 0
+D0
+~
+~
+0 -1 9025 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 9011 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 9018 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 9013 20 20 0 0 0 0 65535 65535
+S
+#9013
+Dorm Hallway~
+
+~
+90 d 0 0 0 0
+D0
+~
+~
+0 -1 9024 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 9012 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 9019 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 9014 20 20 0 0 0 0 65535 65535
+S
+#9014
+Dorm Hallway~
+
+~
+90 d 0 0 0 0
+D0
+~
+~
+0 -1 9023 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 9013 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 9020 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 9015 20 20 0 0 0 0 65535 65535
+S
+#9015
+End of Hallway~
+
+~
+90 d 0 0 0 0
+D0
+~
+~
+0 -1 9022 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 9014 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 -1 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 9016 20 20 0 0 0 0 65535 65535
+S
+#9016
+Suite~
+
+~
+90 d 0 0 0 0
+D1
+~
+~
+0 -1 9015 20 20 0 0 0 0 65535 65535
+S
+#9017
+Home1~
+
+~
+90 d 0 0 0 0
+D0
+~
+~
+0 -1 9011 20 20 0 0 0 0 65535 65535
+S
+#9018
+Home2~
+
+~
+90 d 0 0 0 0
+D0
+~
+~
+0 -1 9012 20 20 0 0 0 0 65535 65535
+S
+#9019
+Home3~
+
+~
+90 d 0 0 0 0
+D0
+~
+~
+0 -1 9013 20 20 0 0 0 0 65535 65535
+S
+#9020
+Home4~
+
+~
+90 d 0 0 0 0
+D0
+~
+~
+0 -1 9014 20 20 0 0 0 0 65535 65535
+S
+#9021
+The entrance to the church grounds~
+   You are standing in front of the great church of Hek. The building is of a
+white marble with huge black pigmented stripes throughout it. The structure
+proves to you that the church has been there virtually forever. A stone path
+leads up a small hill to the West.
+~
+90 0 0 0 0 2
+D1
+The road to the Promenade.
+~
+The promenade.
+~
+0 -1 3082 20 20 0 0 0 0 65535 65535
+D3
+The pathway to the church of Hek.
+~
+The pathway to the church.
+~
+0 -1 9001 20 20 0 0 0 0 65535 65535
+S
+#9022
+Home6~
+
+~
+90 d 0 0 0 0
+D2
+~
+~
+0 -1 9015 20 20 0 0 0 0 65535 65535
+S
+#9023
+Home7~
+
+~
+90 d 0 0 0 0
+D2
+~
+~
+0 -1 9014 20 20 0 0 0 0 65535 65535
+S
+#9024
+Home8~
+
+~
+90 d 0 0 0 0
+D2
+~
+~
+0 -1 9013 20 20 0 0 0 0 65535 65535
+S
+#9025
+Home9~
+
+~
+90 d 0 0 0 0
+D2
+~
+~
+0 -1 9012 20 20 0 0 0 0 65535 65535
+S
+#9026
+Home0~
+
+~
+90 d 0 0 0 0
+D2
+~
+~
+0 -1 9011 20 20 0 0 0 0 65535 65535
+S
+$~

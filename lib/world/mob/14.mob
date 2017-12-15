@@ -1,0 +1,142 @@
+#1400
+azhid~
+Azhid the map maker~
+Azhid is resting in his chair by the fire.
+~
+A corpulent man, dressed in tattered attire.  To his left eye is affixed
+a looking lense. His right hand is missing two fingers and his left hand
+is covered by a black substance. Laying beside his chair on the right side
+is a cane crafted of fine ash.
+~
+bds 0 0 0 e 0 0 0 -1000 E
+30 20 6 30d10+150 1d4+1
+1000 10 0 3
+6 6 1
+E
+#1401
+rothos~
+Rothos the seller robes~
+Rothos is walking around here in his shop.
+~
+An older man complete with silverly ashen tress. Garbbed in a dark hooded
+robe of silver runes.
+~
+bds 0 0 0 e 0 0 0 -1000 E
+30 20 6 30d10+100 1d4+1
+1000 10 0 3
+8 8 1
+E
+#1402
+syth~
+Syth the arms and armorer smith~
+Syth stands here forging something new on his anvil.
+~
+A short, stocky man with a great build. His left eye is of deep grey and
+sunk within it's socket. Silver brows shag from above his eyes. An eye
+patch covers his right eye. In his left hand is a metal hammer.
+~
+bds 0 0 0 e 0 0 0 -1000 E
+30 20 6 30d10+150 1d4+1
+1000 10 0 3
+8 8 1
+E
+#1403
+vernal~
+Vernal the wizards grocer~
+Vernal hovers here around her shop.
+~
+A younger woman of fine detail. Her locks of red hair hang to the floor.
+Covering the crown of her head is a silver plate that meets at a point
+between her eyebrows. On the top of the plate is branded a sigil. Her body
+is coverd by a dark rune robe. Her arms are covered from elbow to wrist
+with many bracelets, all with different decor. Around her neck hangs a 
+symbol of Marduk.
+~
+bds 0 0 0 e 0 0 0 -1000 E
+30 20 6 30d10+100 1d4+1
+1000 10 0 3
+8 8 2
+E
+#1404
+cleric~
+a cleric of Marduk~
+A cleric of Marduk is reciting passges from the holy book.
+~
+A man of normal build. Dressed in finely woven materials. Hanging from
+his waist is the holy book of Marduk. Around his neck is the symbol of
+his God.
+~
+adjl 0 0 0 d 0 0 0 -1000 E
+14 20 8 14d8+0 1d2+1
+0 18000 0 1
+8 8 1
+E
+#1405
+cleric~
+a cleric of Marduk~
+A cleric of Marduk is reciting passges from the holy book.
+~
+A woman of normal build. She is dressed in finely woven materials.
+Hanging from her waist is the holy book of Marduk. Around her neck dangles
+the symbol of her God.
+~
+adjl 0 0 0 d 0 0 0 -1000 E
+14 20 8 14d8+0 1d4+1
+0 18000 0 1
+8 8 2
+E
+#1406
+child kid baby~
+a young child~
+A young child is playing here with his pet succubi.
+~
+The young child is clothed in the propper attire of Mariak. His eyes
+glow yellow. A sigil adorns the back of his neck in plain sight for all to
+see.
+~
+dgjl 0 0 0 d 0 0 0 -1000 E
+1 20 10 1d4+0 1d1+0
+0 50 0 3
+8 8 1
+E
+#1407
+citizen~
+a citizen of Mariak~
+A citizen of Mariak stands here with a yellow glow in his eyes.
+~
+A tall, skinny character. His arms are lined with strange markings. On
+the back of his neck, just at the base of his head is tattooed a sigl.
+~
+dgjl 0 0 0 d 0 0 0 -1000 E
+5 20 8 5d6+10 1d2+0
+20 810 0 3
+8 8 1
+E
+#1408
+succubi demon~
+a succubi~
+Someone's pet succubi is loose here and is tearing apart the town.
+~
+A firery little thing. Her eyes are white and show no pupil. Wings span from
+each shoulderblade, and horns curl out from her forhead. A long, slender
+tail flicks around from side to side. 
+~
+djl 0 0 0 el 0 0 0 -1000 E
+6 20 2 6d8+6 1d3+1
+0 2920 10 3
+8 8 2
+E
+#1409
+inccubi demon~
+an inccubi~
+Someone's pet inccubi is loose here and is tearing apart the town.
+~
+A firery little thing. His eyes are bulbus and yellow. Wings span from
+each sholderblade. Siliva drips from the corner of his mouth.
+~
+djl 0 0 0 el 0 0 0 -1000 E
+6 20 2 6d8+6 1d3+1
+0 2920 10 3
+8 8 1
+E
+$

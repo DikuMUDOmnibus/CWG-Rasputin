@@ -1,0 +1,906 @@
+#1500
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+  
+This zone was designed as a quest zone for a single player. A player, good
+or evil was given a few scrolls of binding (obj 1506) to bind the demon
+lord Melchidael to them so they could lead him out of the zone.
+This zone also has a corridor room which can be used to drop 'good'
+mobs to different zones in the game. There is a portal object which
+links to the secret temple of Marduk in the sewers of Kortaal.
+  
+This zone links up to zones: 24, 30, 31, 60, 70 and 114
+~
+15 0 0 0 0 0
+S
+#1501
+Corridors of Hek~
+    This room is for chaos around the Empire.
+~
+15 0 0 0 0 0
+D0
+~
+~
+0 -1 3016 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 6072 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 6015 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 3143 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 2429 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 11403 20 20 0 0 0 0 65535 65535
+S
+#1502
+The Portal to Elysium~
+    Locked away for many years, covered in dust and cobwebs the portal to
+Elysium lies dormant set into the north wall. Elysium - home to Hek's mighty
+Warhost. Only those deemed truly worthy by Marduk have ever even seen this
+room.
+~
+15 d 0 0 0 0
+D1
+The chambers of the High Priest of Marduk.
+~
+door east~
+2 1506 -1 20 20 0 0 0 0 65535 65535
+S
+#1503
+Outside Elysium~
+    You stand between gates. To the north lies the massive steel gates of the
+place known as Elysium, to the south lies the magical portal which brought you
+here.
+~
+15 0 0 0 0 1
+D0
+Elysium proper lies to the north.
+~
+gate north~
+2 1500 1508 20 20 0 0 0 0 65535 65535
+D1
+Along the outside of Elysium.
+~
+~
+0 -1 1505 20 20 0 0 0 0 65535 65535
+D3
+Along the outside of Elysium.
+~
+~
+0 -1 1504 20 20 0 0 0 0 65535 65535
+S
+#1504
+Along the outside of Elysium~
+    You can hardly begin to fathom the amount of steel and labor that went into
+the construction of the massive walls that surround Elysium. They stand well
+over 15' tall, and appear to be solid steel. All around you can feel the
+purity of Hek, and are bathed in His glory.
+~
+15 0 0 0 0 1
+D1
+The gates of Elysium
+~
+~
+0 -1 1503 20 20 0 0 0 0 65535 65535
+S
+#1505
+Along the outside of Elysium~
+    You can hardly begin to fathom the amount of steel and labor that went into
+the construction of the massive walls that surround Elysium. They stand well
+over 15' tall, and appear to be solid steel. All around you can feel the
+purity of Hek, and are bathed in His glory.
+~
+15 0 0 0 0 1
+D1
+Along the outside of Elysium
+~
+~
+0 -1 1506 20 20 0 0 0 0 65535 65535
+D3
+The gates of Elysium
+~
+~
+0 -1 1503 20 20 0 0 0 0 65535 65535
+S
+#1506
+Along the outside of Elysium~
+    You can hardly begin to fathom the amount of steel and labor that went into
+the construction of the massive walls that surround Elysium. They stand well
+over 15' tall, and appear to be solid steel. All around you can feel the
+purity of Hek, and are bathed in His glory.
+~
+15 0 0 0 0 1
+D3
+Along the outside of Elysium
+~
+~
+0 -1 1505 20 20 0 0 0 0 65535 65535
+S
+#1507
+Near the home of a Warhost~
+    To the west you can see a rather spacious glass and steel dwelling that 
+you assume belongs to one of the Warhost. Through some of the glass windows
+you can see the trophy room of a hunter.
+~
+15 0 0 0 0 1
+D0
+Before the home of a Warhost
+~
+~
+0 -1 1511 20 20 0 0 0 0 65535 65535
+D1
+Inside Elysium
+~
+~
+0 -1 1508 20 20 0 0 0 0 65535 65535
+S
+#1508
+Inside Elysium~
+    You can hardly believe that you are actually standing inside the gates
+of Elysium. Due to the bright nature of this place, there are almost no
+shadows to hide in which means no where to run from the Warhost should you
+be discovered. Elysium itself is, perhaps, the most beautiful place you have
+ever seen. Laid out much like a mortal city, you can see a few homes here
+and here, and many large towers of glass and steel spiraling up into the
+unknown.
+~
+15 0 0 0 0 1
+D0
+The main path of Elysium
+~
+~
+0 -1 1510 20 20 0 0 0 0 65535 65535
+D1
+Near the home of a Warhost
+~
+~
+0 -1 1509 20 20 0 0 0 0 65535 65535
+D2
+The gates of Elysium
+~
+gate south~
+2 1500 1503 20 20 0 0 0 0 65535 65535
+D3
+Near the home of a Warhost
+~
+~
+0 -1 1507 20 20 0 0 0 0 65535 65535
+S
+#1509
+Before the home of a Warhost~
+    To the east lies the door to the home. The structure itself is a mass of
+glass and steel, quite beautiful when the sun hits it just right. You wonder
+how many Warhost Hek has at his disposal...
+~
+15 0 0 0 0 1
+D0
+Near the home of a Warhost
+~
+~
+0 -1 1518 20 20 0 0 0 0 65535 65535
+D1
+Inside the home
+~
+door east~
+1 1599 1515 20 20 0 0 0 0 65535 65535
+D3
+Inside Elysium
+~
+~
+0 -1 1508 20 20 0 0 0 0 65535 65535
+S
+#1510
+Residences of Elysium~
+    To the east and west lie many, many dwellings of Hek's Warhost. Given the
+strength of the few Warhost you have encountered, it sends chills up your
+spine to see this many dwellings.
+~
+15 0 0 0 0 1
+D0
+Elysium proper
+~
+~
+0 -1 1519 20 20 0 0 0 0 65535 65535
+D1
+Before the home of a Warhost
+~
+~
+0 -1 1518 20 20 0 0 0 0 65535 65535
+D2
+Inside Elysium
+~
+~
+0 -1 1508 20 20 0 0 0 0 65535 65535
+D3
+Before the home of a Warhost
+~
+~
+0 -1 1511 20 20 0 0 0 0 65535 65535
+S
+#1511
+Before the home of a Warhost~
+    To the west lies the door to the home. The structure itself is a mass of
+glass and steel, quite beautiful when the sun hits it just right. You wonder
+how many Warhost Hek has at his disposal...
+~
+15 0 0 0 0 1
+D1
+Residences of Elysium
+~
+~
+0 -1 1510 20 20 0 0 0 0 65535 65535
+D3
+Inside the home
+~
+door west~
+1 1599 1512 20 20 0 0 0 0 65535 65535
+S
+#1512
+Entry foyer~
+    The entry foyer is mid-sized, and impressive. There are many wall hangings
+and tapestries here. You feel peace and calm set over you as you enter the 
+home.
+~
+15 d 0 0 0 1
+D1
+Before the home of a Warhost
+~
+door east~
+1 1599 1511 20 20 0 0 0 0 65535 65535
+D2
+A trophy room
+~
+~
+0 -1 1514 20 20 0 0 0 0 65535 65535
+D3
+A bedchamber
+~
+~
+0 -1 1513 20 20 0 0 0 0 65535 65535
+E
+wall hangings tapestries~
+They all depict a beautiful female, a Warhost no doubt, engaged in combat with
+various beasts and demons.
+~
+S
+#1513
+The bedchamber~
+    Unlike anything you have seen before, the bedchamber of the Warhost is, 
+like the rest of the house, beautiful. There is a large covered bed here, in
+the center of the room, but there is no mattress or pillows.
+~
+15 d 0 0 0 1
+D1
+The entry foyer
+~
+~
+0 -1 1512 20 20 0 0 0 0 65535 65535
+S
+#1514
+The trophy room~
+   This is the trophy room of the Warhost hunter, and it is filled with various
+kinds of trophies. There are heads mounted on many plaques, as well as a few
+fully stuffed monsters.
+~
+15 d 0 0 0 1
+D0
+The entry foyer
+~
+~
+0 -1 1512 20 20 0 0 0 0 65535 65535
+E
+trophy trophies plaques monsters heads~
+Mostly demon followers of Marduk, the trophies reflect the skill of the hunter
+against the forces of evil. You notice that one of the heads is that of the
+dreaded Sandalphon Dragon.
+~
+S
+#1515
+Entry foyer~
+    The entry foyer is mid-sized, and impressive. There are many wall hangings
+and tapestries here. You feel peace and calm set over you as you enter the 
+home.
+~
+15 d 0 0 0 1
+D0
+The trophy room of a Warhost
+~
+~
+0 -1 1516 20 20 0 0 0 0 65535 65535
+D3
+Before the home of a Warhost
+~
+door west~
+1 1599 1509 20 20 0 0 0 0 65535 65535
+E
+wall hangings tapestries~
+They all depict a beautiful female, a Warhost no doubt, engaged in combat with
+various beasts and demons.
+~
+S
+#1516
+The trophy room~
+   This is the trophy room of the Warhost hunter, and it is filled with various
+kinds of trophies. There are heads mounted on many plaques, as well as a few
+fully stuffed monsters.
+~
+15 d 0 0 0 1
+D1
+The bedchamber of a Warhost
+~
+~
+0 -1 1517 20 20 0 0 0 0 65535 65535
+D2
+The entry foyer
+~
+~
+0 -1 1515 20 20 0 0 0 0 65535 65535
+E
+trophy trophies plaques monsters heads~
+Mostly demon followers of Marduk, the trophies reflect the skill of the hunter
+against the forces of evil. You notice that one of the heads is that of the
+dreaded Sandalphon Dragon.
+~
+S
+#1517
+The bedchamber~
+    Unlike anything you have seen before, the bedchamber of the Warhost is, 
+like the rest of the house, beautiful. There is a large covered bed here, in
+the center of the room, but there is no mattress or pillows.
+~
+15 d 0 0 0 1
+D3
+The trophy room
+~
+~
+0 -1 1516 20 20 0 0 0 0 65535 65535
+S
+#1518
+Near the home of a Warhost~
+    To the east you can see a rather spacious glass and steel dwelling that 
+you assume belongs to one of the Warhost. Through some of the glass windows
+you can see the trophy room of a hunter.
+~
+15 0 0 0 0 1
+D2
+Before the home of a Warhost
+~
+~
+0 -1 1509 20 20 0 0 0 0 65535 65535
+D3
+Residences of Elysium
+~
+~
+0 -1 1510 20 20 0 0 0 0 65535 65535
+S
+#1519
+Elysium proper~
+   The crossroads of Elysium lies before you, in all directions you can see
+the beauty and splendor of this realm of Hek. To the north, west and east you
+can see massive towers of glass and steel spiraling upward into the heavens.
+~
+15 0 0 0 0 1
+D0
+~
+~
+0 -1 1529 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 1524 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 1510 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 1520 20 20 0 0 0 0 65535 65535
+S
+#1520
+Path through Elysium~
+    The path you walk upon is slightly raised off of the ground, and appears
+to be made of glass. The walkway runs east-west and you can see right though
+it to the ground underneath. To the west, in the distance is a large tower
+spiraling up into the heavens.
+~
+15 0 0 0 0 1
+D1
+Elysium proper
+~
+~
+0 -1 1519 20 20 0 0 0 0 65535 65535
+D3
+More path
+~
+~
+0 -1 1521 20 20 0 0 0 0 65535 65535
+S
+#1521
+Path through Elysium~
+    The path you walk upon is slightly raised off of the ground, and appears
+to be made of glass. The walkway runs east-west and you can see right though
+it to the ground underneath. To the west, in the distance is a large tower
+spiraling up into the heavens.
+~
+15 0 0 0 0 1
+D1
+More path
+~
+~
+0 -1 1520 20 20 0 0 0 0 65535 65535
+D3
+More path
+~
+~
+0 -1 1522 20 20 0 0 0 0 65535 65535
+S
+#1522
+Path through Elysium~
+    The path you walk upon is slightly raised off of the ground, and appears
+to be made of glass. The walkway runs east-west and you can see right though
+it to the ground underneath. To the west lies a large tower spiraling up into 
+the heavens.
+~
+15 0 0 0 0 1
+D1
+More path
+~
+~
+0 -1 1521 20 20 0 0 0 0 65535 65535
+D3
+Before a Tower
+~
+~
+0 -1 1523 20 20 0 0 0 0 65535 65535
+S
+#1523
+Before a Tower~
+    You stand before one of the many glass and steel spires of Elysium. The
+entrance is to the north. You wonder how they could build something this 
+massive.
+~
+15 0 0 0 0 1
+D0
+Inside the tower
+~
+door north~
+1 1599 1530 20 20 0 0 0 0 65535 65535
+D1
+More path
+~
+~
+0 -1 1522 20 20 0 0 0 0 65535 65535
+S
+#1524
+Path through Elysium~
+    The path you walk upon is slightly raised off of the ground, and appears
+to be made of glass. The walkway runs east-west and you can see right though
+it to the ground underneath. To the east lies a large tower spiraling up into 
+the heavens.
+~
+15 0 0 0 0 1
+D1
+More path
+~
+~
+0 -1 1525 20 20 0 0 0 0 65535 65535
+D3
+Elysium proper
+~
+~
+0 -1 1519 20 20 0 0 0 0 65535 65535
+S
+#1525
+Path through Elysium~
+    The path you walk upon is slightly raised off of the ground, and appears
+to be made of glass. The walkway runs east-west and you can see right though
+it to the ground underneath. To the east lies a large tower spiraling up into 
+the heavens.
+~
+15 0 0 0 0 1
+D1
+More path
+~
+~
+0 -1 1526 20 20 0 0 0 0 65535 65535
+D3
+More path
+~
+~
+0 -1 1524 20 20 0 0 0 0 65535 65535
+S
+#1526
+Path through Elysium~
+    The path you walk upon is slightly raised off of the ground, and appears
+to be made of glass. The walkway runs east-west and you can see right though
+it to the ground underneath. To the east lies a large tower spiraling up into 
+the heavens.
+~
+15 0 0 0 0 1
+D1
+Before a Tower
+~
+~
+0 -1 1527 20 20 0 0 0 0 65535 65535
+D3
+More path
+~
+~
+0 -1 1525 20 20 0 0 0 0 65535 65535
+S
+#1527
+Before a Tower~
+    You stand before one of the many glass and steel spires of Elysium. The
+entrance is to the north. You wonder how they could build something this 
+massive.
+~
+15 0 0 0 0 1
+D0
+Inside the tower
+~
+door north~
+1 1599 1528 20 20 0 0 0 0 65535 65535
+D3
+More path
+~
+~
+0 -1 1526 20 20 0 0 0 0 65535 65535
+S
+#1528
+Inside the Tower~
+    You can see many Warhost, and other followers of Hek, flying around on the
+upper levels of the tower. Going about daily business no doubt. Just to the
+north you notice a holding area.
+~
+15 d 0 0 0 1
+D0
+A holding area
+~
+~
+0 -1 1542 20 20 0 0 0 0 65535 65535
+D2
+Before the Tower
+~
+door south~
+1 1599 1527 20 20 0 0 0 0 65535 65535
+S
+#1529
+Path through Elysium, near a house~
+    The path runs from the gate, far to the south, toward a massive tower to
+the north. Up ahead, just to the west is the home of another Warhost.
+~
+15 d 0 0 0 1
+D0
+Before the home
+~
+~
+0 -1 1533 20 20 0 0 0 0 65535 65535
+D2
+Elysium proper
+~
+~
+0 -1 1519 20 20 0 0 0 0 65535 65535
+S
+#1530
+Inside the Tower~
+    You can see many Warhost, and other followers of Hek, flying around on the
+upper levels of the tower. Going about daily business no doubt. Just to the
+north you notice a holding area.
+~
+15 d 0 0 0 1
+D0
+A holding area
+~
+~
+0 -1 1531 20 20 0 0 0 0 65535 65535
+D2
+Before the Tower
+~
+door south~
+1 1599 1523 20 20 0 0 0 0 65535 65535
+S
+#1531
+Holding area~
+    This area is a guard post. There is a cell to the north, which contains
+any manner of evil beast that is awaiting trial by the Warhost. You doubt that
+the guards will be happy with you poking around here.
+~
+15 d 0 0 0 1
+D0
+A cell
+~
+cell door north n~
+1 1501 1532 20 20 0 0 0 0 65535 65535
+D2
+Inside the Tower
+~
+~
+0 -1 1530 20 20 0 0 0 0 65535 65535
+S
+#1532
+A cell~
+    The cell is made of pure steel, and is rather drab. It looks nearly escape
+proof.
+~
+15 d 0 0 0 1
+D2
+A holding area
+~
+cell door south s~
+1 1501 1531 20 20 0 0 0 0 65535 65535
+S
+#1533
+Before the home of a Warhost~
+    To the west lies the door to the home. The structure itself is a mass of
+glass and steel, quite beautiful when the sun hits it just right. You wonder
+how many Warhost Hek has at his disposal...
+    There is a massive tower to the north.
+~
+15 0 0 0 0 1
+D0
+Before a Tower
+~
+~
+0 -1 1537 20 20 0 0 0 0 65535 65535
+D2
+A path through Elysium
+~
+~
+0 -1 1529 20 20 0 0 0 0 65535 65535
+D3
+Inside the home
+~
+door west~
+1 1599 1534 20 20 0 0 0 0 65535 65535
+S
+#1534
+Entry foyer~
+    The entry foyer is large, and impressive. There are many wall hangings
+and tapestries here. You feel peace and calm set over you as you enter the 
+home.
+~
+15 d 0 0 0 1
+D1
+Before the home of a Warhost
+~
+door east~
+1 1599 1533 20 20 0 0 0 0 65535 65535
+D2
+A trophy room
+~
+~
+0 -1 1536 20 20 0 0 0 0 65535 65535
+D3
+A bedchamber
+~
+~
+0 -1 1535 20 20 0 0 0 0 65535 65535
+E
+wall hangings tapestries~
+They all depict a beautiful female, a Warhost no doubt, engaged in combat with
+various beasts and demons.
+~
+S
+#1535
+The bedchamber~
+    Unlike anything you have seen before, the bedchamber of the Warhost is, 
+like the rest of the house, beautiful. There is a large covered bed here, in
+the center of the room, but there is no mattress or pillows.
+~
+15 d 0 0 0 1
+D1
+The entry foyer
+~
+~
+0 -1 1534 20 20 0 0 0 0 65535 65535
+S
+#1536
+The trophy room~
+   This is the trophy room of the Warhost hunter, and it is filled with various
+kinds of trophies. There are heads mounted on many plaques, as well as a few
+fully stuffed monsters.
+~
+15 d 0 0 0 1
+D0
+The entry foyer
+~
+~
+0 -1 1534 20 20 0 0 0 0 65535 65535
+E
+trophy trophies plaques monsters heads~
+Mostly demon followers of Marduk, the trophies reflect the skill of the hunter
+against the forces of evil. You notice that one of the heads is that of the
+dreaded Sandalphon Dragon.
+~
+S
+#1537
+Before a Tower~
+    You stand before one of the many glass and steel spires of Elysium. The
+entrance is to the north. You wonder how they could build something this 
+massive.
+~
+15 0 0 0 0 1
+D0
+Inside the tower
+~
+door north~
+1 1599 1538 20 20 0 0 0 0 65535 65535
+D2
+A path through Elysium
+~
+~
+0 -1 1533 20 20 0 0 0 0 65535 65535
+S
+#1538
+Inside the Tower~
+    You can see many Warhost, and other followers of Hek, flying around on the
+upper levels of the tower. Going about daily business no doubt. There is a
+beautiful glass staircase spiraling up into the tower.
+~
+15 d 0 0 0 1
+D2
+Before the Tower
+~
+door south~
+1 1599 1537 20 20 0 0 0 0 65535 65535
+D4
+A landing
+~
+~
+0 -1 1539 20 20 0 0 0 0 65535 65535
+S
+#1539
+A landing~
+    After many, many stairs you have arrived on a landing but it looks empty
+and deserted.
+~
+15 d 0 0 0 1
+D4
+A landing
+~
+~
+0 -1 1540 20 20 0 0 0 0 65535 65535
+D5
+Inside the Tower
+~
+~
+0 -1 1538 20 20 0 0 0 0 65535 65535
+S
+#1540
+A landing~
+    It looks as if this landing gets a bit more use than the 
+last. There is a massive door set into the north wall.
+~
+15 d 0 0 0 1
+D0
+An office of some sort
+~
+door massive north~
+2 1503 1541 20 20 0 0 0 0 65535 65535
+D5
+A landing
+~
+~
+0 -1 1539 20 20 0 0 0 0 65535 65535
+S
+#1541
+Gabrielle's Office~
+    You stand in the office of Gabrielle, ancient by any elven 
+standard, she is the director of affairs for the Warhost in 
+Elysium.
+~
+15 d 0 0 0 1
+D2
+A landing
+~
+door massive south~
+2 1502 1540 20 20 0 0 0 0 65535 65535
+S
+#1542
+Holding area~
+    This area is a guard post. There is a cells in all directions but south,
+which contain all manner of evil beast that is awaiting trial by the Warhost.
+You doubt that the guards will be happy with you poking around here.
+~
+15 d 0 0 0 1
+D0
+A cell
+~
+cell door north n~
+2 1504 1543 20 20 0 0 0 0 65535 65535
+D1
+A cell
+~
+cell door east e~
+1 1502 1544 20 20 0 0 0 0 65535 65535
+D2
+Inside the Tower
+~
+~
+0 -1 1528 20 20 0 0 0 0 65535 65535
+D3
+A cell
+~
+cell door west w~
+1 1502 1545 20 20 0 0 0 0 65535 65535
+S
+#1543
+A cell~
+    The cell is made of pure steel, and is rather drab. It looks nearly escape
+proof.
+~
+15 d 0 0 0 1
+D2
+A holding area
+~
+cell door south s~
+2 1504 1542 20 20 0 0 0 0 65535 65535
+S
+#1544
+A cell~
+    The cell is made of pure steel, and is rather drab. It looks nearly escape
+proof.
+~
+15 d 0 0 0 1
+D3
+A holding area
+~
+cell door west~
+1 1502 1542 20 20 0 0 0 0 65535 65535
+S
+#1545
+A cell~
+    The cell is made of pure steel, and is rather drab. It looks nearly escape
+proof.
+~
+15 d 0 0 0 1
+D1
+A holding area
+~
+cell door east~
+1 1502 1542 20 20 0 0 0 0 65535 65535
+S
+#1546
+Corridors of Hek~
+    This room is for chaos around Elysium.
+~
+15 0 0 0 0 0
+D0
+~
+~
+0 -1 1506 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 1508 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 1516 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 1512 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 1519 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 1537 20 20 0 0 0 0 65535 65535
+S
+$~

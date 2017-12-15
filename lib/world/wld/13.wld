@@ -1,0 +1,556 @@
+#1300
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.  
+~
+13 dk 0 0 0 0
+S
+#1301
+An unfinished room~
+There is an exit in the west wall which leads out of the zone.
+~
+13 0 0 0 0 0
+D0
+~
+door~
+1 0 1321 30 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 1302 0 0 0 0 0 0 0 0
+S
+#1302
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D1
+~
+~
+0 0 1303 0 0 0 0 0 0 0 0
+D2
+~
+door~
+1 0 1341 30 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 1301 0 0 0 0 0 0 0 0
+S
+#1303
+An unfinished room~
+There is an exit in the north wall which leads out of the zone.
+~
+13 0 0 0 0 0
+D1
+~
+~
+0 0 1304 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 1302 0 0 0 0 0 0 0 0
+S
+#1304
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D0
+~
+~
+0 0 1305 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 1309 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 1313 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 1303 0 0 0 0 0 0 0 0
+S
+#1305
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D0
+~
+north n door~
+1 0 1307 30 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 1304 0 0 0 0 0 0 0 0
+D6
+~
+nw door~
+1 0 1306 30 0 0 0 0 0 0 0
+D7
+~
+ne door~
+1 0 1308 30 0 0 0 0 0 0 0
+S
+#1306
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D8
+~
+se door~
+1 0 1305 30 0 0 0 0 0 0 0
+S
+#1307
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D2
+~
+south s door~
+1 0 1305 30 0 0 0 0 0 0 0
+S
+#1308
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D9
+~
+sw door~
+1 0 1305 30 0 0 0 0 0 0 0
+S
+#1309
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D1
+~
+east e door~
+1 0 1311 30 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 1304 0 0 0 0 0 0 0 0
+D7
+~
+ne door~
+1 0 1310 30 0 0 0 0 0 0 0
+D8
+~
+se door~
+1 0 1312 30 0 0 0 0 0 0 0
+S
+#1310
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D9
+~
+sw door~
+1 0 1309 30 0 0 0 0 0 0 0
+S
+#1311
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D3
+~
+west w door~
+1 0 1309 30 0 0 0 0 0 0 0
+S
+#1312
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D6
+~
+nw door~
+1 0 1309 30 0 0 0 0 0 0 0
+S
+#1313
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D0
+~
+~
+0 0 1304 0 0 0 0 0 0 0 0
+D2
+~
+south s door~
+1 0 1315 30 0 0 0 0 0 0 0
+D8
+~
+se door~
+1 0 1316 30 0 0 0 0 0 0 0
+D9
+~
+sw door~
+1 0 1314 30 0 0 0 0 0 0 0
+S
+#1314
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D7
+~
+ne door~
+1 0 1313 30 0 0 0 0 0 0 0
+S
+#1315
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D0
+~
+north n door~
+1 0 1313 30 0 0 0 0 0 0 0
+S
+#1316
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D6
+~
+nw door~
+1 0 1313 30 0 0 0 0 0 0 0
+S
+#1317
+New BuildWalk Room~
+This unfinished room was created by Zizazat.
+~
+13 0 0 0 0 0
+D2
+~
+~
+0 0 1321 0 0 0 0 0 0 0 0
+S
+#1321
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D0
+~
+~
+0 0 1322 0 0 0 0 0 0 0 0
+D2
+~
+door~
+1 0 1301 30 0 0 0 0 0 0 0
+S
+#1322
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D0
+~
+north n door~
+1 0 1323 30 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 1321 0 0 0 0 0 0 0 0
+S
+#1323
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D0
+~
+~
+0 0 1325 0 0 0 0 0 0 0 0
+D2
+~
+south s door~
+1 0 1322 30 0 0 0 0 0 0 0
+D3
+~
+west w door~
+1 0 1324 30 0 0 0 0 0 0 0
+S
+#1324
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D1
+~
+east e door~
+1 0 1323 30 0 0 0 0 0 0 0
+S
+#1325
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D1
+~
+east e door~
+1 0 1326 30 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 1323 0 0 0 0 0 0 0 0
+S
+#1326
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D2
+~
+south s door~
+1 0 1327 30 0 0 0 0 0 0 0
+D3
+~
+west w door~
+1 0 1325 30 0 0 0 0 0 0 0
+S
+#1327
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D0
+~
+door~
+1 0 1326 30 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 1328 0 0 0 0 0 0 0 0
+S
+#1328
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D0
+~
+~
+0 0 1327 0 0 0 0 0 0 0 0
+D1
+~
+door~
+1 0 1329 30 0 0 0 0 0 0 0
+S
+#1329
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D0
+~
+~
+0 0 1330 0 0 0 0 0 0 0 0
+D3
+~
+door~
+1 0 1328 30 0 0 0 0 0 0 0
+S
+#1330
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D0
+~
+door~
+1 0 1331 30 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 1329 0 0 0 0 0 0 0 0
+S
+#1331
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D2
+~
+door~
+1 0 1330 30 0 0 0 0 0 0 0
+S
+#1341
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D0
+~
+door~
+1 0 1302 30 0 0 0 0 0 0 0
+D2
+~
+door~
+1 0 1342 30 0 0 0 0 0 0 0
+S
+#1342
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D0
+~
+door~
+1 0 1341 30 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 1343 0 0 0 0 0 0 0 0
+S
+#1343
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D2
+~
+~
+0 0 1344 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 1342 0 0 0 0 0 0 0 0
+S
+#1344
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D0
+~
+~
+0 0 1343 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 1345 0 0 0 0 0 0 0 0
+S
+#1345
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D1
+~
+~
+0 0 1344 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 1346 0 0 0 0 0 0 0 0
+S
+#1346
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D0
+~
+~
+0 0 1345 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 1352 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 1347 0 0 0 0 0 0 0 0
+S
+#1347
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D0
+~
+~
+0 0 1348 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 1346 0 0 0 0 0 0 0 0
+S
+#1348
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D0
+~
+~
+0 0 1349 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 1347 0 0 0 0 0 0 0 0
+S
+#1349
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D2
+~
+~
+0 0 1348 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 1350 0 0 0 0 0 0 0 0
+S
+#1350
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D1
+~
+~
+0 0 1349 0 0 0 0 0 0 0 0
+D2
+~
+door~
+1 0 1351 30 0 0 0 0 0 0 0
+S
+#1351
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D0
+~
+door~
+1 0 1350 30 0 0 0 0 0 0 0
+S
+#1352
+An unfinished room~
+You are in an unfinished room.
+~
+13 0 0 0 0 0
+D3
+~
+~
+0 0 1346 0 0 0 0 0 0 0 0
+S
+$~

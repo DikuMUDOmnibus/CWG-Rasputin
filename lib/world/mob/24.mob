@@ -1,0 +1,93 @@
+#2400
+large smelly orc~
+an orc~
+A large, smelly orc is wandering around here.
+~
+Standing almost 6' tall, you'd wager that you can smell him at least
+at that distance. As he sees you, there is a glint in his eyes. Perhaps
+he sees you as dinner.
+~
+cdj 0 0 0 l 0 0 0 -800 E
+6 20 9 6d8+12 1d4+2
+10 1260 16 3
+8 8 1
+E
+#2401
+nasty snarling azag thoth azag-thoth~
+a snarling Azag-Thoth~
+A nasty, snarling Azag-Thoth is here.
+~
+Almost 7' tall, the Azag-Thoth must have a fear of water...he sure smells
+like it anyway.
+~
+cdj 0 0 0 l 0 0 0 -800 E
+8 20 8 8d8+16 1d4+6
+15 2920 10 3
+8 8 1
+E
+#2402
+goblinoid azag cross-breed guard azagthoth~
+an azagthoth~
+A horrid goblinoid cross-breed is standing guard here.
+~
+The result of Tsalari expermentation, the Azagthoth are larger, smarter,
+and more aggressive than any other goblinoid.
+~
+bcdej 0 0 0 el 0 0 0 -1000 E
+9 20 7 9d8+18 1d4+3
+25 4200 10 3
+8 8 1
+Str: 18
+E
+#2403
+dwarf~
+a dwarf~
+A road weary dwarf is here, questing for the key.
+~
+A dwarf, not much to look at really.
+~
+cdhi 0 0 0 l 0 0 0 1000 E
+7 20 8 7d8+14 1d2+1
+5 1950 3 3
+8 8 1
+E
+#2404
+orc king bhane~
+Bhane~
+The Orc King Bhane is standing guard here looking regal.
+~
+As regal as an orc gets, I guess. Over his armor he wears faded robes
+that once perhaps belonged to a nobel or royality. He does not think
+much of your intrusion to his domain.
+~
+bcdefl 0 0 0 el 0 0 0 -1000 E
+10 20 7 10d8+20 1d6+3
+50 6000 16 3
+8 8 1
+Str: 18
+E
+#2405
+drow thief~
+a drow~
+Hidden in the shadows is a drow thief...waiting to strike.
+~
+He is dressed in black, and waiting for the right time to strike.
+~
+cdil 0 0 0 el 0 0 0 -1000 E
+12 20 7 12d6+0 1d2+1
+32 12000 6 2
+8 8 1
+E
+#2406
+drow mage~
+a drow~
+Hidden in the shadows is a drow mage...waiting to strike.
+~
+He is dressed in black, and waiting for the right time to strike.
+~
+abcdfl 0 0 0 el 0 0 0 -1000 E
+12 20 7 12d6+0 1d2+1
+30 18000 6 2
+8 8 1
+E
+$

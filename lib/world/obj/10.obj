@@ -1,0 +1,51 @@
+#1000
+symbol holy~
+a holy symbol of Zizazat~
+A holy symbol of the Deity Zizazat has been put here.~
+~
+11 i 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 22 0 0 0 0 0 0 0 0
+1 10 2 0
+Z
+4
+#1020
+spellbook~
+a spellbook of the novice~
+A spellbook, suitable for teaching the beginnings of magic lies here.~
+~
+29 g 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 16 0 0 0 0 0 0 0 0
+20 300 0 0
+Z
+4
+S
+1 2
+S
+32 2
+S
+20 1
+#1021
+scroll~
+an empty scroll~
+A blank piece of scroll parchment lies here.~
+~
+2 0 0 0 0 a 0 0 0 0 0 0 0
+0 -1 -1 -1 100 100 0 16 0 0 0 0 0 0 0 0
+1 150 0 0
+Z
+4
+#1022
+tools thieves thiefs tool pick lockpick~
+a set of thieves' tools~
+A set of small tools is lying here.~
+~
+11 q 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 9 0 0 0 0 0 0 0 0
+0 30 30 0
+Z
+0
+A
+41 2 423
+A
+41 2 410
+$~

@@ -1,0 +1,41 @@
+#600
+statue~
+a large statue~
+A golden statue of a vulture-man stands here.~
+~
+8 de 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 4 0 0 0 0 0 0 0 0
+200 5000 500 0
+Z
+4
+E
+statue~
+A large statue of a vulture-headed man covered with gold leaf.
+It looks very heavy.
+~
+#601
+spear ivory~
+an ivory spear~
+A beautiful spear, carved of pure ivory has been set here.~
+~
+5 gj 0 0 0 an 0 0 0 0 0 0 0
+5 1 6 11 100 100 1 26 0 0 0 0 0 0 0 0
+5 100 100 0
+Z
+4
+E
+spear ivory~
+Carved of snow white ivory, the weapon is one of the most beautiful you have
+ever touched.
+~
+#602
+portal~
+a @Yglowing portal@n~
+A @Yglowing portal@n hovers here forming a gateway to another place.~
+~
+28 b 0 0 0 0 0 0 0 0 0 0 0
+2933 0 -1 -1 50 50 0 36 20 20 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+$~

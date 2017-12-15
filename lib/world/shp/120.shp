@@ -1,0 +1,127 @@
+CircleMUD v3.0 Shop File~
+#12001~
+-1
+1.2
+0.9
+9
+-1
+%s We don't have that item in stock right now.~
+%s I don't think you have that item.~
+%s The emperor's tax collector just came.  I don't have the cash.  Sorry.~
+%s NO CREDIT!  We don't even take the Renaissance Express card!~
+%s Hmmmm.  I'll take it....while I'm in a good mood.~
+%s That will be %d coins.  Enjoy!~
+%s You'll get %d coins for that.~
+1
+0
+12036
+0
+12048 
+-1
+6
+20 
+0
+0
+#12002~
+-1
+1.75
+0.8
+8
+-1
+%s We don't have that item on stock.~
+%s I don't think you have that.~
+%s I don't stock that stuff.  Try another shop.~
+%s I can't afford it right now.  Come back tomorrow.~
+%s No cash, no goods!~
+%s Here you go.  That'll be.....%d coins.~
+%s Thank-you very much.  Here are you %d coins as payment.~
+1
+0
+12001
+0
+12041
+-1
+6
+20
+0
+0
+#12003~
+-1
+1.2
+0.75
+5
+-1
+%s We don't carry that item.~
+%s You don't have that.~
+%s I can't buy that. See another shop.~
+%s We are low on cash.  Come back later.~
+%s Sorry, but you can't afford that.~
+%s Here you go.  That will cost you %d.~
+%s I will give you %d coins for that.~
+1
+0
+12002
+0
+12038
+-1
+6
+22
+0
+0
+#12004~
+3031
+-1
+1.75
+0.65
+8
+9
+5
+12
+15
+-1
+%s We are out of that item right now.~
+%s You don't have that.  Stop wasting my time!~
+%s This is a weapon and armor shop!  Go someplace else!~
+%s A fine weapon indeed, but more than I can afford.~
+%s NO CREDIT!!!!!~
+%s Here you go.  That will be %d coins.  Don't get hurt!~
+%s You'll get %d for that.~
+1
+0
+12003
+0
+12043
+-1
+5
+23
+0
+0
+#12005~
+3031
+-1
+1.25
+1.0
+1
+2
+19
+12
+5
+-1
+%s I don't have any of those!~
+%s Are you sure you have one?~
+%s Sorry--I don't buy those!~
+%s I can't afford that...sorry.~
+%s You can't quite afford that yet...sorry.~
+%s That will be %d coins.~
+%s Here's %d coins for that.~
+1
+0
+12005
+0
+12046
+-1
+5
+11
+13
+20
+$~

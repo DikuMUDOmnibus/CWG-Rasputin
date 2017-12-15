@@ -1,0 +1,52 @@
+#1400
+bread waffer~
+a waffer of bread~
+This waffer of bread resembles the shape of the symbol of Marduk.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+2 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+0 1 0 0
+#1401
+fountain~
+a black fountain rest here with many symbols carved upon it.~
+Undefined~
+~
+23 0 0 0 0 0 0 0 0 0 0 0 0
+-1 1 13 0 100 100 0 28 0 0 0 0 0 0 0 0
+9999 0 0 0
+E
+fountain~
+A fountain fashioned of smooth black marble. Elemental symbols are etched
+into the gound in their respected positions around the fountain. In the
+center of the fountain is errected a statue representing the minions of
+Marduk. Flowing around the statue is dark red substance.
+~
+#1402
+mail banded~
+a suit of banded mail~
+A heap of metal plates with chain and leather lies here.~
+~
+9 mot 0 0 0 ad 0 0 0 0 0 0 0
+60 2 0 7 100 100 40 5 0 0 0 0 0 0 0 0
+35 200 0 0
+E
+mail banded~
+The suit of banded mail is gathered here in a heap. This outfit is made of
+overlapping strips of metal which are attached to a lining of leather and
+chain mail.
+~
+#1403
+brigandine~
+a brigandine suit~
+A metal outfit of plates and leather lies here.~
+~
+9 mo 0 0 0 ad 0 0 0 0 0 0 0
+40 2 4 2 100 100 20 0 0 0 0 0 0 0 0 0
+35 120 0 0
+E
+brigandine~
+A brigandine suit lies here in a heap. A metal outfit with plates rivited
+together and attached to a lether backing. The plates are covered by a
+layer of material.
+~
+$~

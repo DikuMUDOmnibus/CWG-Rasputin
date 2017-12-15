@@ -1,0 +1,121 @@
+#1600
+iron ingot~
+an iron ingot~
+An iron ingot ready for the forge lies here.~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 5 0 0 0 0 0 0 0 0
+3 0 0 0
+Z
+4
+#1601
+steel ingot~
+a steel ingot~
+A steel ingot is here, ready to be forged into something!~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 9 0 0 0 0 0 0 0 0
+3 0 0 0
+Z
+4
+#1602
+dagger~
+an iron dagger~
+An iron dagger, freshly forged lies here.~
+~
+5 0 0 0 0 a 0 0 0 0 0 0 0
+2 1 4 11 100 100 0 5 1 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+#1603
+echani fiber~
+Echani fiber armor~
+A complete suit of Echani Fiber Armor sits here.~
+~
+9 0 0 0 0 ad 0 0 0 0 0 0 0
+70 2 5 0 100 100 25 1 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+#1604
+gloves~
+Brejik's Gloves~
+A pair of leather gloves lies here.~
+~
+11 0 0 0 0 ah 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 6 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+A
+2 1 0
+#1605
+belt~
+Advanced Adrenaline Amplifier~
+A thin, flexable metal belt is here.~
+~
+11 0 0 0 0 al 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 23 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+A
+39 3 0
+#1606
+robes~
+Qel-Droma Robes~
+The robes of a master monk lie here.~
+~
+9 0 0 0 0 ak 0 0 0 0 0 0 0
+50 1 8 0 100 100 0 37 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+A
+4 2 0
+#1607
+gauntlets~
+Eriadu Strength Amplifier~
+A pair of Eriadu gauntles lie here.~
+~
+11 0 0 0 0 ah 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 7 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+A
+1 2 0
+A
+39 2 0
+#1608
+portal~
+an unstable energy portal~
+An unstable portal floats here, shimmering.~
+~
+28 0 0 0 0 0 0 0 0 0 0 0 0
+3001 1 -1 -1 100 100 0 36 20 20 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+E
+band~
+   Inside the band of the ring, the engraved symbols mean "In the darkness, we
+are as one"
+~
+E
+engraved engrave~
+   The ring made from the blackest metal, engraved ontop of it is the five
+headed dragon.  
+~
+#1609
+key~
+the Temple Key~
+A very large key, made of pure silver lies here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 11 0 0 0 0 0 0 0 0
+3 0 0 0
+Z
+4
+$~

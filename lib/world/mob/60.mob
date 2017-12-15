@@ -1,0 +1,472 @@
+#6000
+john lumberjack~
+John the Lumberjack~
+John the Lumberjack is here, looking for some trees to chop down.
+~
+He is six feet tall and looks quite strong, muscles bulging under his heavy,
+chequered shirt.  His features are worn with hard work and his expression is
+one of a peaceful man leading a simple life.
+~
+cdl 0 0 0 0 0 0 0 370 E
+5 20 6 5d6+10 1d2+2
+7 810 0 3
+8 8 1
+E
+#6001
+rabbit~
+the rabbit~
+A small rabbit is foraging in the bushes here.
+~
+It is a small, furry creature with long ears and big feet.
+~
+d 0 0 0 l 0 0 0 0 E
+1 20 6 1d2+0 1d1+0
+0 10 8 3
+8 8 0
+E
+#6002
+bear~
+the brown bear~
+A big, brown, angry-looking bear is here.
+~
+The bear is a big, brown, furry animal with very large claws and very sharp
+teeth.  It doesn't resemble those cute little dolls from toy shops at all.
+~
+df 0 0 0 l 0 0 0 -50 E
+6 20 3 6d8+24 1d8+8
+0 2920 8 3
+4 4 0
+BareHandAttack: 9
+E
+#6003
+rabbit~
+the ferocious rabbit~
+A ferocious rabbit is here, glaring hungrily at you.
+~
+This small, furry creature with long ears and big feet has been attacked by
+the dreaded rabbit rabies, a horrible disease that turns helpless and innocent
+rabbits into ferocious and bloodthirsty monsters.
+~
+df 0 0 0 l 0 0 0 -150 E
+3 20 6 3d2+1 1d2+1
+0 120 8 3
+4 8 0
+E
+#6004
+deer~
+the fallow deer~
+A fallow deer is grazing peacefully here.
+~
+She is a graceful creature on long, slender legs, and with large, brown eyes
+looking back at you with an air of watchful interest.
+~
+dh 0 0 0 l 0 0 0 350 E
+2 20 5 2d8+4 1d2+1
+0 60 8 3
+8 8 2
+E
+#6005
+fox~
+the brown fox~
+A brown fox is stalking rabbits through the underbrush here.
+~
+It is a large fox with beautiful, red-brown fur and a long, thick bushy tail.
+~
+d 0 0 0 l 0 0 0 -50 E
+2 20 6 2d4+2 1d1+0
+0 60 8 3
+8 8 0
+E
+#6006
+bird large~
+the bird~
+A large bird with a broken wing has been cornered here.
+~
+The bird isn't going to live much longer, by the looks of it.
+~
+bd 0 0 0 l 0 0 0 0 E
+1 20 10 1d8+0 1d3+0
+0 30 8 3
+8 8 0
+E
+#6007
+bobcat cat~
+the bobcat~
+/a
+~
+The bobcat has sharp claws and teeth, and will probably eat you instead of the
+bird if you give it the chance.
+~
+bdf 0 0 0 l 0 0 0 -150 E
+4 20 5 2d8+6 1d4+2
+0 810 8 3
+8 8 0
+E
+#6008
+sparrow~
+the sparrow~
+A sparrow is flapping around by the ground.
+~
+The sparrow looks like it is enjoying life.
+~
+d 0 0 0 l 0 0 0 200 E
+1 20 9 1d1+1 1d1+0
+0 10 8 3
+8 8 0
+E
+#6009
+robin~
+the robin~
+A robin is hopping around looking for bugs to eat.
+~
+The robin looks quite intent on finding a bug or worm to eat.
+~
+d 0 0 0 l 0 0 0 200 E
+1 20 9 1d1+1 1d1+0
+0 10 8 3
+8 8 0
+E
+#6010
+squirrel~
+the squirrel~
+A squirrel is here seeking refuge in it's nest.
+~
+It peers out of it's next at you anxiously, seeming to plead silently with you
+to leave it alone.
+~
+bd 0 0 0 l 0 0 0 200 E
+1 20 8 1d2+1 1d1+0
+0 10 8 3
+8 8 0
+E
+#6011
+badger~
+the sleepy badger~
+A furry brown badger is curled up under a log here.
+~
+The badger is slowly awakening and peering up at you from it's burrow. You know
+that it won't be moving this slow for long.  It's sharp claws and teeth catch
+your attention when you consider killing it.
+~
+bdf 0 0 0 l 0 0 0 50 E
+3 20 5 3d6+0 1d2+1
+0 520 8 3
+8 8 0
+E
+#6012
+grey squirrel~
+the grey squirrel~
+A grey squirrel with a bushy tail is foraging for nuts here.
+~
+This happy creature seems to pay you no heed as it goes about it's search for
+nuts among the leaves and twigs on the ground here.
+~
+d 0 0 0 l 0 0 0 150 E
+2 20 8 1d4+1 1d2+0
+0 60 8 3
+8 8 0
+E
+#6013
+chipmunk~
+the small chipmunk~
+A small brown-red chipmunk dashes from tree to tree here.
+~
+The absolute zenith of hyperactivity, this small rodent seems to never tire of
+running up, down, and around the trees in this area.  If you could ever catch
+it, you imagine it would make an easy meal.
+~
+d 0 0 0 l 0 0 0 170 E
+1 20 5 1d1+0 1d1+0
+0 10 8 3
+8 8 0
+E
+#6014
+crow black bird~
+the large black crow~
+A large black crow flits about here, picking at bits of carrion.
+~
+The bird eyes you warily, but continues with it's meal.
+~
+bd 0 0 0 l 0 0 0 -20 E
+2 20 8 2d4+0 1d1+0
+0 190 8 3
+8 8 0
+E
+#6015
+grotesque vulture~
+the grotesque vulture~
+A grotesque vulture covered in blood and gore is here feeding madly.
+~
+It sickens you to even look at this foul bird.  Bits of dried gore stick to
+it's beak, and unidentifiable organs hang from it's talons and feathers.  
+It sees you and attacks, protecting it's horrible feast!
+~
+bdf 0 0 0 l 0 0 0 -700 E
+4 20 4 4d8+0 1d4+0
+0 1260 8 3
+8 8 0
+BareHandAttack: 4
+E
+#6016
+buck deer~
+the buck~
+A 8-point buck is drinking from the lake here.
+~
+This young male deer is drinking from the edge of the lake and watching you
+warily.  His antlers are almost full size, and will no doubt be quite 
+impressive in another few years.
+~
+d 0 0 0 l 0 0 0 350 E
+3 20 4 3d8+6 1d6+1
+0 520 8 3
+8 8 1
+E
+#6017
+fish~
+the fish~
+The fish is swimming around here.
+~
+The fish looks about the right size for a meal.
+~
+bd 0 0 0 l 0 0 0 100 E
+1 20 10 1d1+0 1d1+0
+0 10 12 3
+8 8 0
+E
+#6018
+goblin~
+the goblin~
+An ugly little goblin is wandering around here grunting to itself.
+~
+An ugly little goblin smells like it is afraid of water!
+~
+cdj 0 0 0 l 0 0 0 -500 E
+2 20 9 2d8+0 1d2+0
+2 190 14 3
+8 8 1
+E
+#6019
+kobold~
+the kobold~
+A disgusting little kobold is looking for something to eat.
+~
+A little disgusting kobold. From the Storm Horns, you'd guess.
+~
+cdj 0 0 0 l 0 0 0 -500 E
+2 20 9 2d4+4 1d2+0
+2 190 20 3
+8 8 1
+E
+#6020
+helin citizen~
+the citizen of Helin~
+A citizen of Helin is here, minding his own business.
+~
+A citizen of the small town of Helin.
+~
+cd 0 0 0 0 0 0 0 500 E
+2 20 9 2d6+4 1d2+1
+5 190 0 3
+8 8 1
+E
+#6023
+innkeeper owner~
+the Innkeeper~
+The Innkeeper and owner of the Cup and Spoon is standing here.
+~
+The Innkeeper of the Cup and Spoon.
+~
+bds 0 0 0 0 0 0 0 900 E
+8 20 5 8d4+16 1d2+2
+35 970 0 3
+8 8 1
+E
+#6024
+woodbrand trollkiller filfar lord~
+Lord Filfar Woodbrand~
+Lord of Helin, Filfar Woodbrand, is standing here.
+~
+Lord Filfar Woodbrand is a huge looking warrior type who earned the 
+nickname 'Trollkiller' in his youth.
+~
+cdilq 0 0 0 0 0 0 0 1000 E
+14 20 3 14d10+42 1d2+3
+45 18000 0 3
+8 8 1
+Str: 18
+E
+#6025
+helin noble~
+the noble of Helin~
+A pompus noble of Helin stands here.
+~
+Even this small town is not free from the pompus and arrogant.
+~
+cd 0 0 0 0 0 0 0 1000 E
+6 20 4 6d4+6 1d2+1
+27 1260 0 3
+8 8 1
+E
+#6026
+guard imperial~
+the Imperial guard~
+An Imperial guard is standing post here, looking impressive.
+~
+Sent from the Palace, this guard is one of Naga's best.
+~
+bcdenopq 0 0 0 0 0 0 0 1000 E
+10 20 3 10d10+20 1d2+2
+10 6000 0 3
+8 8 1
+Str: 19
+E
+#6027
+savage guard gorkel~
+the Gorkel guard~
+A savage Gorkel, covered in war paints, stands guard here.
+~
+Standing 5'5" tall, the Gorkel is a large gorilla-like humanoid. Like all
+Gorkel you have ever seen, his fur is bright reddish-orange.
+Tall and muscular, the guard is a well trained killing machine. He wears
+only a loin cloth, war paints and feathers.
+~
+cd 0 0 0 l 0 0 0 -600 E
+14 20 1 14d10+30 1d2+3
+15 18000 10 3
+8 8 1
+E
+#6028
+savage guard gorkel~
+the Gorkel guard~
+A savage Gorkel, covered in war paints, stands guard here.
+~
+Standing 5'5" tall, the Gorkel is a large gorilla-like humanoid. Like all
+Gorkel you have ever seen, his fur is bright reddish-orange.
+Tall and muscular, the guard is a well trained killing machine. He wears
+only a loin cloth, war paints and feathers.
+~
+bcd 0 0 0 l 0 0 0 -600 E
+15 20 1 15d10+45 1d2+3
+12 21000 10 3
+8 8 1
+E
+#6029
+gorkel~
+a Gorkel~
+A Gorkel, dressed simply in a loin cloth and body paints, stands here.
+~
+A typical example of the Gorkel that dwell within the Empire in freedom. The
+gorilla-like humanoid is powerfully built. He goes about his daily routine.
+Standing 5'5" and weighing 195lbs, the Gorkel looks dangerous.
+~
+cd 0 0 0 l 0 0 0 -500 E
+13 20 2 13d8+26 1d2+2
+7 15000 10 3
+8 8 1
+E
+#6030
+gorkel female~
+a Gorkel female~
+A Gorkel female, dressed in a lightweight toga, stands here.
+~
+Gorkel females are just slightly larger than their male counterparts. 
+With a dark red-orange fur, the 5'7" Gorkel is savage and powerful!
+~
+d 0 0 0 l 0 0 0 -450 E
+13 20 3 13d8+26 1d2+2
+7 15000 10 3
+8 8 2
+E
+#6031
+sagan gorkel warlord~
+Warlord Sagan~
+The village's Warlord, Sagan, is here tending to his business.
+~
+Taller than any Gorkel you've ever seen, Sagan stands 6'5"! He carries
+many scars from his victories, and looks not like the sort of person to 
+displease. His red-orange fur is starting to yellow with age.
+~
+bcdlnoq 0 0 0 l 0 0 0 -900 E
+22 20 -1 22d10+88 1d2+3
+45 42000 10 3
+8 8 1
+Str: 19
+E
+#6032
+szalan reznor gorkel king~
+Szalan Reznor~
+The Gorkel King, Szalan Reznor, stands here ruling his kingdom!
+~
+Very muscular and athletic, you know that this Gorkel has not let the burden
+of leadership ruin his physical form. He looks ready to charge in to battle
+with his enemies at any minute.
+~
+cd 0 0 0 l 0 0 0 -900 E
+27 20 -4 27d8+108 1d2+5
+67 57000 10 3
+8 8 1
+Str: 21
+E
+#6033
+druid worker~
+a @gdruid worker@n~
+A @gdruid@n is working here.
+~
+The druid is clothed in a forest green robe. 
+~
+adij 0 0 0 0 0 0 0 0 E
+7 20 9 7d8+14 1d2+1
+0 1950 0 1
+8 8 1
+E
+#6034
+druid worker~
+a @gdruid worker@n~
+A @gdruid@n is working here.
+~
+The druid is clothed in a forest green robe.
+~
+adij 0 0 0 0 0 0 0 0 E
+8 20 9 8d8+24 1d2+1
+0 1260 0 1
+8 8 1
+E
+#6035
+druid~
+a @gdruid@n~
+A @Ydruid@n is here studying.
+~
+The druid looks like he has been around the forest for years. His robe is
+slightly worn with age.
+~
+adij 0 0 0 0 0 0 0 0 E
+8 20 8 8d8+24 1d2+1
+0 2920 0 1
+6 6 1
+E
+#6036
+druid~
+a @Gdruid@n~
+A @Gdruid@n is here.
+~
+The druid is dressed in a full, brown robe.
+~
+adij 0 0 0 0 0 0 0 0 E
+9 20 8 9d8+27 1d2+1
+0 4200 0 1
+8 8 1
+E
+#6037
+druid~
+a @ydruid@n~
+A @ydruid@n is here tending to nature.
+~
+The druid has a long beard, and wears his hair long and unkept.
+His robe is frayed with age.
+~
+adij 0 0 0 0 0 0 0 0 E
+10 20 7 10d8+30 1d2+1
+0 6000 0 1
+8 8 1
+E
+$

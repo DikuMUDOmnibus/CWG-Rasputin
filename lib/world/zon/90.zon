@@ -1,0 +1,37 @@
+#90
+None.~
+Church of Hek~
+9000 9099 24 2
+D 0 9006 3 2 -1 	(The practice area.)
+D 0 9007 1 2 -1 	(Holy of Holies)
+M 0 9000 4 11021 0 	(the Paladin of Hek)
+E 1 1113 10 5 0 	(a suit of plate mail)
+E 1 1358 6 16 0 	(a two-handed sword)
+M 0 9000 4 11023 0 	(the Paladin of Hek)
+E 1 1113 10 5 0 	(a suit of plate mail)
+E 1 1358 6 16 0 	(a two-handed sword)
+M 0 9000 4 9021 0 	(the Paladin of Hek)
+E 1 1113 10 5 0 	(a suit of plate mail)
+E 1 1358 6 16 0 	(a two-handed sword)
+M 0 9000 4 9004 0 	(the Paladin of Hek)
+E 1 1113 10 5 0 	(a suit of plate mail)
+E 1 1358 6 16 0 	(a two-handed sword)
+M 0 3021 1 9006 0 	(Thaun Khelbor)
+M 0 11004 20 9003 0 	(a @Ycleric@n)
+E 1 1190 100 5 0 	(a @YHoly@n leather breast plate)
+M 0 11004 20 9004 0 	(a @Ycleric@n)
+E 1 1190 100 5 0 	(a @YHoly@n leather breast plate)
+M 0 11002 20 9001 0 	(a @Ycleric worker@n)
+E 1 1190 100 5 0 	(a @YHoly@n leather breast plate)
+M 0 11002 20 9001 0 	(a @Ycleric worker@n)
+E 1 1190 100 5 0 	(a @YHoly@n leather breast plate)
+M 0 11002 20 9003 0 	(a @Ycleric worker@n)
+E 1 1190 100 5 0 	(a @YHoly@n leather breast plate)
+M 0 11003 20 9004 0 	(a @Ycleric@n)
+E 1 1190 100 5 0 	(a @YHoly@n leather breast plate)
+M 0 11003 20 9002 0 	(a @Ycleric@n)
+E 1 1190 100 5 0 	(a @YHoly@n leather breast plate)
+M 0 11003 20 9005 0 	(a @Ycleric@n)
+E 1 1190 100 5 0 	(a @YHoly@n leather breast plate)
+S
+$

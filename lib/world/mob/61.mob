@@ -1,0 +1,127 @@
+#6100
+warg vicious~
+the vicious warg~
+A vicious warg is here, snarling angrily at you.
+~
+It is an exceptionally large wolf with thick, black fur.  Saliva is dripping
+quickly from its long, white fangs.  It looks quite dangerous and very angry.
+~
+df 0 0 0 l 0 0 0 -350 E
+5 20 5 5d10+10 1d6+4
+0 810 8 3
+8 8 1
+BareHandAttack: 4
+E
+#6101
+warg ferocious~
+the ferocious warg~
+A ferocious warg is here, snarling angrily at you.
+~
+It is an exceptionally large wolf with thick, black fur.  Saliva is dripping
+quickly from its long, white fangs.  It looks quite dangerous and very angry.
+~
+df 0 0 0 l 0 0 0 -350 E
+5 20 5 5d10+10 1d6+4
+0 810 8 3
+8 8 1
+BareHandAttack: 4
+E
+#6102
+wolf grey~
+the large, grey wolf~
+A large, grey wolf is here, glaring hungrily at you.
+~
+The large, grey wolf eyes you with interest while licking its lips.
+~
+df 0 0 0 l 0 0 0 -150 E
+3 20 7 3d6+6 1d6+1
+0 360 8 3
+8 8 1
+BareHandAttack: 4
+E
+#6103
+wolf black~
+the large, black wolf~
+A large, black wolf is here, glaring hungrily at you.
+~
+The large, black wolf eyes you with interest while licking its lips.
+~
+df 0 0 0 l 0 0 0 -150 E
+3 20 7 3d6+6 1d6+1
+0 360 8 3
+8 8 1
+BareHandAttack: 4
+E
+#6112
+dragon green~
+a @ggreen dragon@n~
+A huge @ggreen dragon@n is here, it's narrow @yyellow eyes@n glowing with rage.
+~
+This enormous winged serpent has dark green scales covering most of its
+colossal body.  Numerous holes in its heavy wings tell of many fights as does
+the nicks in the horns on its head.  It smells as disgusting as only dragons
+do.
+~
+bdjl 0 0 0 elx 0 0 0 -1000 E
+20 20 0 20d12+240 2d6+10
+0 45000 11 3
+9 9 1
+BareHandAttack: 8
+E
+#6113
+spider poisonous~
+the huge, poisonous spider~
+A huge, poisonous spider is here.
+~
+This disgusting creature is at the size of a human crawling on all four.  It
+has eight hairy legs that gives it a tremendous speed on almost any surface
+and sharp poisonous fangs to paralyze or kill its prey.
+~
+ad 0 0 0 l 0 0 0 -350 E
+8 20 2 8d4+8 1d8+3
+0 2920 8 3
+8 8 1
+E
+#6114
+queen spider~
+the Queen Spider~
+The huge, bulky Queen Spider is here.
+~
+This disgusting creature is at the size of a small elephant.  It has eight
+huge, hairy legs that would give it a tremendous speed on almost any surface
+if it wasn't so immensely fat.  Its large, bulbous eyes stare back at you.
+~
+bcdjl 0 0 0 l 0 0 0 -1000 E
+15 20 1 15d4+45 2d8+6
+0 21000 8 3
+8 8 2
+BareHandAttack: 4
+E
+#6115
+shargugh brownie~
+Shargugh~
+Shargugh the Forest Brownie is here, grinning broadly at you.
+~
+This little fellow is only three foot tall with wild matted brown hair and long
+tangled brown beard.  He wears ragged brown and green clothing and looks as if
+he is having great fun.
+~
+cdil 0 0 0 celqt 0 0 0 1000 E
+10 20 -10 10d6+10 1d2+1
+25 9000 23 2
+8 8 1
+E
+#6116
+elder druid~
+the Elder Druid~
+The elder druid is here.  He looks very upset about your presence in his home.
+~
+The druid looks quite old.  You would think of him as venerable but yet you
+know he would be a tough foe.
+~
+abcdijl 0 0 0 e 0 0 0 0 E
+19 20 0 19d8+57 1d2+3
+25 39000 0 1
+8 8 1
+E
+$

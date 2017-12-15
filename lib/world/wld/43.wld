@@ -1,0 +1,836 @@
+#4300
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+  
+This zone is a secret passage between the Leaning Post Inn and one of
+the family Crypts in the Fields of the Dead.
+  
+This zone links up with zones: 30, 31
+~
+43 dk 0 0 0 0
+S
+#4301
+The Catacombs~
+   The air is cool, and humid here. This area has been hewn out of solid
+rock. Tool marks on the rough walls atest to the efforts of whomever built
+this place. Sounds of drunken merriment can be heard faintly from the
+east.
+~
+43 ad 0 0 0 0
+D1
+~
+~
+0 0 4348 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4302 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4304 20 20 0 0 0 0 65535 65535
+S
+#4302
+The Catacombs~
+    The feel of this place is oppresive. Niches carved into the walls of
+this room hold broken bits of wood, and rotting pieces of what was once
+fine cloth. You would expect that these are the graves of people long
+dead. You notice that there is not a single shard of bone to be found.	
+~
+43 ad 0 0 0 0
+D0
+~
+~
+0 0 4301 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4303 20 20 0 0 0 0 65535 65535
+S
+#4303
+The Catacombs~
+   This was obviously a tomb for some weathly family of ancient Kortaal.
+Several rusting sconces hold rotting hunks of wood that may have been
+torches. Bits of corroding metal, rotting wood, and decaying cloth are
+everywhere. The only thing that seems out of place is the complete lack of
+any human remains.
+~
+43 ad 0 0 0 0
+D0
+~
+~
+0 0 4304 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4302 20 20 0 0 0 0 65535 65535
+S
+#4304
+An Undergroud Intersection~
+   You enter a crossroads of sorts. Tunnels lead off in the four cardinal
+directions. Metal plaques above each of the rough archways once read
+with the names of the most ancient families in Kortaal. Now they are so
+badly rusted as to be indecipherable. 
+~
+43 ad 0 0 0 0
+D0
+~
+~
+0 0 4305 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4301 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4303 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4307 20 20 0 0 0 0 65535 65535
+S
+#4305
+A Family Crypt~
+   You can tell that the appointments of this room were once very
+luxurious. Now however, they are nothing but tattered cloth and useless
+junk. You can't help but wonder why there are no bones.
+~
+43 ad 0 0 0 0
+D2
+~
+~
+0 0 4304 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4306 20 20 0 0 0 0 65535 65535
+S
+#4306
+Tomb of the Patriarch~
+   This area is bigger than the other crypts you've encountered down here.
+The walls here have been worked smooth, and are covered floor to ceiling
+in huge bas-relief depictions of a forest. On a low platform in the middle
+of the room, sit the remains of single stone sarcophagus. Larger chunks of
+it lay upon on the dias, with smaller pieces scattered to the four corners
+of the room. Like the others, this crypt is devoid of remains.
+~
+43 ad 0 0 0 0
+D1
+~
+~
+0 0 4305 20 20 0 0 0 0 65535 65535
+S
+#4307
+A narrow Passage~
+   The walls are close here, and the ceiling rather low. There is an
+archway carved into the south wall, but it is only about two feet deep. It
+appears that a crypt was planned for here, but never completed.
+~
+43 ad 0 0 0 0
+D1
+~
+~
+0 0 4304 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4308 20 20 0 0 0 0 65535 65535
+S
+#4308
+A dark tunnel~
+   It is close and damp here. The rough hewn walls sparkle with
+condensation, and thin puddles have developed in low spots on the floor.
+On the northern and southern walls shallow archways have been cut. Only
+about two foot deep, they suggest that whoever planned this place never
+saw to it's completion.
+~
+43 ad 0 0 0 0
+D1
+~
+~
+0 0 4307 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4310 20 20 0 0 0 0 65535 65535
+S
+#4309
+A small alcove~
+   You stand in a small room dominated by a large statue. It is roughly
+human in shape, but has been defaced so badly that any details have been
+lost. The head is missing completely.
+~
+43 ad 0 0 0 0
+D0
+~
+~
+0 0 4310 20 20 0 0 0 0 65535 65535
+S
+#4310
+A rough tunnel~
+   You stand in a passage carved from bedrock. The walls are heavey with
+tool marks. The stonework on the archway to the south is of much finer
+quality in comparison to the rest.
+~
+43 ad 0 0 0 0
+D1
+~
+~
+0 0 4308 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4309 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4311 20 20 0 0 0 0 65535 65535
+S
+#4311
+A tunnel~
+   You are in a dark tunnel.
+~
+43 ad 0 0 0 0
+D1
+~
+~
+0 0 4310 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4312 20 20 0 0 0 0 65535 65535
+S
+#4312
+Entrance to a Crypt~
+   The stonework of this area is exquisite. Only master Dwarven craftsmen
+do such fine work. An archway to the north once held a sturdy door. The
+hinges hang rusting from the stone. The door itself seems to have decayed
+long ago. Sigils for peace and protection have been lovingly carved over
+all the exits
+~
+43 ade 0 0 0 0
+D0
+~
+~
+0 0 4313 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4311 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4322 20 20 0 0 0 0 65535 65535
+S
+#4313
+A Small Burial Chamber~
+   While not as large as some of the other crypts, this room is much nicer
+than most. The Dwarven stone work of the entrance is apparent here also,
+and delicate reliefs line the walls. The ceiling is domed, and flakes of
+paint hint that it once held large fresca. Someone spent a lot of money to
+make the departed comfortable here.
+~
+43 ad 0 0 0 0
+D2
+~
+~
+0 0 4312 20 20 0 0 0 0 65535 65535
+S
+#4314
+A dead end~
+   Here the natural cavern pinches to an end. Water runs down the gentle
+slope of the floor to a small hole near the southern end. With your ear to
+the hole you can just make out the sound of the water splashing on rock
+some distance below.
+~
+43 ad 0 0 0 0
+D0
+~
+~
+0 0 4315 20 20 0 0 0 0 65535 65535
+S
+#4315
+A natural cavern~
+   The passage widens briefly here, becoming a full fledged cave. The
+floor slopes to the south gently, and water runs along it in thin
+rivulets. 
+~
+43 ad 0 0 0 0
+D0
+~
+~
+0 0 4316 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4314 20 20 0 0 0 0 65535 65535
+S
+#4316
+Deep Underground~
+   You stand at an intersection of natural passages deep in the earth. The
+floor slopes gently towards the southern exit. Water runs along it in
+several thin trickles. 
+   A faint breeze blows in from the east. It seems strange that it should
+be warm and dry. 
+~
+43 ad 0 0 0 0
+D1
+~
+~
+0 0 4317 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4315 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4336 20 20 0 0 0 0 65535 65535
+S
+#4317
+A Huge Cavern~
+   You stand at the top of a monsterous chamber. The ceiling is perhaps
+ten feet overhead. The opposite wall is nearly fifty feet away. You cannot
+see the bottom.
+   A path has been carved into the wall, and spirals down at a steep
+angle. Thanks to the sulphor laden breeze that billows from the depths,
+the path remains dry.
+~
+43 ad 0 0 0 0
+D1
+~
+~
+0 0 4321 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4316 20 20 0 0 0 0 65535 65535
+S
+#4318
+Near the bottom~
+   You can see the bottom of the cavern now. The floor is smooth and
+shiny. It looks like the rock has been melted. A gaping fissure bisects
+it, and a gentle glow can be seen within. The air is thick with noxious
+fumes.
+  The path cointines to spiral down south.
+~
+43 ad 0 0 0 0
+D1
+~
+~
+0 0 4319 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4320 20 20 0 0 0 0 65535 65535
+S
+#4319
+Futher down the spiral~
+   The smell of sulphor is very strong here. You have a grown sense of
+anxiety as you can no longer see the ceiling, and still cannot see the
+floor.
+~
+43 ad 0 0 0 0
+D2
+~
+~
+0 0 4321 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4318 20 20 0 0 0 0 65535 65535
+S
+#4320
+The Bottom~
+   The floor here is smooth as glass, and just as reflective. You realize
+you could use a hair cut. The air is hazy and hot. Probably a result of
+the large fissure in the center of the room,which vomits forth noxious
+vapors and wave after wave of heat. Your eyes burn and it's hard to breath  
+because of the stink of sulphor.
+   A path rises up to the north and you spot an opening to the east.
+~
+43 ad 0 0 0 0
+D0
+~
+~
+0 0 4318 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4338 20 20 0 0 0 0 65535 65535
+S
+#4321
+Down the spiral~
+   As you move down the path, you realize that there are no tool marks
+anywhere. It's to regular to be natural. You wonder how it was made.
+~
+43 ad 0 0 0 0
+D0
+~
+~
+0 0 4319 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4317 20 20 0 0 0 0 65535 65535
+S
+#4322
+A dark tunnel~
+   You are in a dark tunnel.
+~
+43 ad 0 0 0 0
+D1
+~
+~
+0 0 4312 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4323 20 20 0 0 0 0 65535 65535
+S
+#4323
+An intersection~
+   You are surrounded by row upon row of coffin niches. All of them have
+decayed into useless junk. Judging by the numbers buried in such a small
+area, this was were the poor were laid to rest. The lack of bones is
+begining to make you uncomfortable.
+~
+43 ad 0 0 0 0
+D0
+~
+~
+0 0 4324 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4322 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4325 20 20 0 0 0 0 65535 65535
+S
+#4324
+The poor quarter~
+   This area consists of several narrow passages many yards long. They are
+lined with alcoves for burial. There is almost nothing but dust here, as
+people buried in this place can rarley afford a casket. There must be a
+thousand such alcoves here. A quick inspection shows not a shard of bone
+among any of them. 
+~
+43 ad 0 0 0 0
+D2
+~
+~
+0 0 4323 20 20 0 0 0 0 65535 65535
+S
+#4325
+A public burial chamber~
+  There are many alcoves here. The dampness of this place makes it a poor
+choice for burial, and almost nothing remains of the caskets and coffins
+that filled the niches. Anything of value has been long since pillaged.
+Strangely you can't find any remains.
+~
+43 ad 0 0 0 0
+D1
+~
+~
+0 0 4323 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4326 20 20 0 0 0 0 65535 65535
+S
+#4326
+An intersection~
+   You stand at an intersection. You detect a hint of fresh air from the
+south.
+~
+43 ad 0 0 0 0
+D0
+~
+~
+0 0 4330 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4325 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4327 20 20 0 0 0 0 65535 65535
+S
+#4327
+A catacomb~
+   You are in a dark tunnel. It is cold and damp here. Moisture glisten on
+the walls and ceiling. Thin puddles collect in low points on the floor.
+You smell fresh air from the south.
+~
+43 ad 0 0 0 0
+D0
+~
+~
+0 0 4326 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4328 20 20 0 0 0 0 65535 65535
+S
+#4328
+A Bend~
+   You are standing in a bend in the tunnel. It runs north and east here.
+A faint breeze carries fresh air from the east.
+~
+43 ad 0 0 0 0
+D0
+~
+~
+0 0 4327 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4329 20 20 0 0 0 0 65535 65535
+S
+#4329
+A cave in~
+   The tunnel has collapsed here. Rubble fills the eastern end floor to
+ceiling. The breeze you felt works in through the rocks here. You guess
+that the orignal entrance to this place was once beyond this point. Now
+it is hoplessly lost. 
+~
+43 ad 0 0 0 0
+D3
+~
+~
+0 0 4328 20 20 0 0 0 0 65535 65535
+S
+#4330
+A Bricked passage~
+   You are in a long north-south passage. The walls here have been bricked
+over with marble blocks. It's a little dryer here.
+~
+43 ad 0 0 0 0
+D0
+~
+~
+0 0 4331 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4326 20 20 0 0 0 0 65535 65535
+S
+#4331
+A bricked passage~
+   You are in a long marble bricked hallway. It's dry for the most part.
+The workmanship on the bricks is exellent. Very little water has worked
+it's way through. 
+~
+43 ad 0 0 0 0
+D0
+~
+~
+0 0 4332 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4330 20 20 0 0 0 0 65535 65535
+S
+#4332
+A T-intersection~
+    The marble passage splits east and west here. The northern wall is
+carved into a huge family crest. Someone has knocked large chunks out of
+it with something heavy. Making it impossible to determine which family it
+may belong to. 
+~
+43 ad 0 0 0 0
+D1
+~
+~
+0 0 4333 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4331 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4337 20 20 0 0 0 0 65535 65535
+S
+#4333
+A large tomb~
+   You stand in a large burial chamber. Everything has been done in
+marble. Including the sarcophagus which sits upon a raised dias. Rusting
+sconces line the walls. The sarcophagus stands empty. It doesn't look like
+anyone was ever buried here.
+~
+43 ad 0 0 0 0
+D1
+~
+hidden east e~
+0 -1 4334 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4332 20 20 0 0 0 0 65535 65535
+S
+#4334
+A Natural tunnel~
+   You are in a natural tunnel. It is very damp here, and rivulets of
+water follow the heavily sloping floor to the east. A smooth stone door
+sticks out like a sore thumb on the west wall.
+~
+43 ad 0 0 0 0
+D1
+~
+~
+0 0 4335 20 20 0 0 0 0 65535 65535
+D3
+~
+door west w~
+1 -1 4333 20 20 0 0 0 0 65535 65535
+S
+#4335
+A natural tunnel~
+   You are in a natural tunnel. The floor slopes heavily to the east.
+Moisture collects into small trickles and runs in that direction.
+~
+43 ad 0 0 0 0
+D1
+~
+~
+0 0 4336 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4334 20 20 0 0 0 0 65535 65535
+S
+#4336
+A natural tunnel~
+   You are in a natural tunnel. The floor evens out a bit here, but still
+continues it's downward trend. Sediment from above has collected here.
+footing is trecherous. 
+~
+43 ad 0 0 0 0
+D1
+~
+~
+0 0 4316 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4335 20 20 0 0 0 0 65535 65535
+S
+#4337
+A large tomb~
+   You are in a large tomb composed of marble brick work. The large
+sarcophagus appears to never have been used. A giant stone slab forms the 
+roof of this room. It looks like something has been built on top of this
+place, using it as a foundation of sorts.
+~
+43 ad 0 0 0 0
+D1
+~
+~
+0 0 4332 20 20 0 0 0 0 65535 65535
+D4
+~
+trapdoor up u~
+1 3099 3150 20 20 0 0 0 0 65535 65535
+S
+#4338
+A cylindrical tunnel~
+   This tunnel is a perfect cylinder. It's entire length is smooth and
+reflective. Patterns of light and shadow stream across the convex surface,
+mingling with your own distorted image. The source would seem to be a tiny
+pinprick of light hundreds of yards east, and down. The reek of sulfer
+drifts to you from the west.
+~
+43 dir 0 0 0 0
+D1
+~
+~
+0 0 4339 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4320 20 20 0 0 0 0 65535 65535
+S
+#4339
+An immense cavern~
+   This cavern streaches hundreds of feet above you. The floor  must be a
+couple of square miles in area. The walls and domed cieling have been cut
+into millions of geometric shapes. The facets range in size from a few
+inches to several feet, and each one has been meticulously polished. 
+   The eastern reaches of this chamber are dominated by a vast chasm.
+Brilliant light erupts from it's depths. Shades of deepest crimson, and
+gold dance along the faceted walls. The entire cavern is awash in
+intricate patterns of of light and dark. The effect is quite disturbing.
+   Just to the north is a small stone hut.A feww hunred feet to the east
+sits a small white tower. To the south you can walk to the edge of the
+pit.
+~
+43 dr 0 0 0 0
+D0
+~
+door north n~
+1 -1 4340 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4341 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4342 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4338 20 20 0 0 0 0 65535 65535
+S
+#4340
+A guard station~
+   A small stone hut, appearently a guard station or such. There is
+nothing much of interest here. The door however, offers a brief respite
+from the scintilating lightshow outside. 
+~
+43 adr 0 0 0 0
+D2
+~
+~
+0 -1 4339 20 20 0 0 0 0 65535 65535
+S
+#4341
+Before the Bone Tower~
+   Before you is a hundred foot tall tower. It is composed entirely of
+human bone. Every inch of the thing stands stark and white, remaining
+entirly unaffected by the dancing lights around it.
+   As you approach light bursts from the four upper windows. It flashes
+randomly through a kalidascope of colors. The lights return from the
+facected walls to center on this spot. The result is a most mindnumbing
+display of light all around you.
+   The shining mithril door remains a rather bland looking silvery hole in
+the eastern portion of the circle of dancing color.
+~
+43 dr 0 0 0 0
+D1
+~
+mithril door east e~
+2 4300 4343 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 4339 20 20 0 0 0 0 65535 65535
+S
+#4342
+At the edge of the chasm~
+   Here you can peer into the chasm of light. You realize the fire is
+actually reflecting from an incredible distance below. The sides of this
+shaft have a polish so fine a gemcutter would weep. The dizzing depth
+makes you wonder if the fires of hell light this truly infernal place.
+~
+43 dr 0 0 0 0
+D0
+~
+~
+0 -1 4339 20 20 0 0 0 0 65535 65535
+S
+#4343
+Inside the Tower~
+   You stand in the base of the Bone Tower. Magical torches line the walls
+casting soft, blue light. It makes the gaze of the skulls embeded in the
+walls all the more mocking. The only exit is the door which you came from.
+   In the ceiling, 20 feet over your head, there is a hole just big enough
+to slip through...if you knew how to get up there.
+~
+43 dr 0 0 0 0
+D3
+~
+mithril door west w~
+2 4300 4341 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 4344 20 20 0 0 0 0 65535 65535
+S
+#4344
+Second Story~
+   Another large chamber filled with eirre blue lights. It is rather
+chilly here. The ceiling above you contains a trapdoor, but no ladder
+leading to it.
+   You can slip down a hole in the floor to the ground level.
+~
+43 dr 0 0 0 9
+D4
+~
+trapdoor up u~
+2 4301 4345 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 4343 20 20 0 0 0 0 65535 65535
+S
+#4345
+Third Story~
+   The light changes from blue to red here, and you feel an oppressive
+heat in this room. Otherwise it is very similar to the other stories. 
+~
+43 dr 0 0 0 9
+D4
+~
+trapdoor up u~
+2 4301 4346 20 20 0 0 0 0 65535 65535
+D5
+~
+trapdoor down d~
+2 4301 4344 20 20 0 0 0 0 65535 65535
+S
+#4346
+Forth Story~
+   Green dominates this room and you have a rather pleasent feel for a
+second...but only for a second!
+   To the eas a stair with no rail winds its way up the outside of the
+tower.
+~
+43 dr 0 0 0 9
+D1
+~
+~
+0 -1 4347 20 20 0 0 0 0 65535 65535
+D5
+~
+trapdoor down d~
+2 4301 4345 20 20 0 0 0 0 65535 65535
+S
+#4347
+LyrzaXyn's Chamber~
+   Half of this chamber apperas to be a bedchamer with all the neccesities
+and none of the frills. The other half is filled with what one could only
+call a magician's laboratory. You have no idea what any of this junk is or
+does.
+~
+43 dr 0 0 0 0
+D0
+~
+~
+0 -1 4346 20 20 0 0 0 0 65535 65535
+S
+#4348
+Under the Leaning Post Inn~
+   You stand in a small room dug into the earth under the common room of
+the Leaning Post Inn. Dust and noise filter down from the room above. 
+You would guess (given the neighborhood you're in) that thieves use this
+to escape the city guard. A roughly man-sized hole has been knocked in the
+foundation to the west. A cool, damp breeze blows in through it.
+~
+43 ad 0 0 0 0
+D3
+~
+~
+0 0 4301 20 20 0 0 0 0 65535 65535
+D4
+~
+trapdoor up u~
+1 3099 3048 20 20 0 0 0 0 65535 65535
+S
+$~

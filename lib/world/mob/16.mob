@@ -1,0 +1,238 @@
+#1600
+kortaal citizen~
+a @ycitizen of @GKortaal@n~
+A @ycitizen of @GKortaal@n, perhaps a pompus noble, is standing here.
+~
+A loyal citizen of Kortaal and the Empire is here. He is dressed in the latest
+fashions of the @MEmpire@n.
+~
+d 0 0 0 0 0 0 0 -1000 E
+6 20 8 6d6+6 1d2+1
+12 1260 0 3
+8 8 1
+E
+#1601
+citizen woeld~
+a @ycitizen of @BWoeld@n~
+A @ycitizen of @BWoeld@n is standing here.
+~
+This is one of the commoners of Woeld. There sure seems to be plenty of them
+around for such a small town.
+~
+d 0 0 0 0 0 0 0 -1000 E
+3 20 9 3d6+6 1d2+1
+3 360 0 3
+8 8 1
+E
+#1602
+citizen helgor~
+the @ycitizen of @CHelgor@n~
+A simple @ycitizen of @CHelgor@n goes about his business here.
+~
+Dressed rather simply, the citizen looks like a typical inhabitant of the 
+Empire.
+~
+d 0 0 0 0 0 0 0 -1000 E
+4 20 9 4d6+4 1d2+1
+2 520 0 3
+8 8 1
+E
+#1603
+citizen helgor~
+the @ycitizen of @CHelgor@n~
+A simple @ycitizen of @CHelgor@n goes about her business here.
+~
+Dressed rather simply, the citizen looks like a typical inhabitant of the
+Empire.
+~
+d 0 0 0 0 0 0 0 -1000 E
+4 20 9 4d4+4 1d2+1
+2 520 0 3
+8 8 2
+E
+#1604
+monk~
+the @ymonk@n~
+A @mmonk@n, dressed in a simple @ybrown robe@n is here thinking about
+important things.
+~
+The monk's hooded robe is worn down, and you can see that his head is shaved
+except for a small @rponytail@n in the back, which is worn in a single
+braid. He also wears a @rgoatee@n.
+~
+di 0 0 0 d 0 0 0 -1000 E
+5 20 8 5d6+10 1d6+1
+2 1950 0 4
+8 8 1
+E
+#1605
+citizen maaken~
+a @ycitizen of @rMaaken@n~
+A @ycitizen of @rMaaken is here@n.
+~
+Looks like a person who lives in this city.
+~
+d 0 0 0 0 0 0 0 -1000 E
+1 20 8 1d6+2 1d2+1
+0 100 0 3
+8 8 1
+E
+#1606
+citizen~
+the @ycitizen@n~
+A @ycitizen of @mKaon@n is standing here.
+~
+An undefined string.~
+d 0 0 0 0 0 0 0 -1000 E
+4 20 8 4d6+4 1d2+2
+6 520 0 3
+8 8 1
+E
+#1607
+citizen~
+the @ycitizen@n~
+A @ycitizen of @cTldo@n is standing here.
+~
+An undefined string.~
+d 0 0 0 0 0 0 0 -1000 E
+4 20 8 4d6+0 1d2+2
+6 520 0 3
+8 8 1
+E
+#1608
+lady young sacrafice princess~
+the Lady Rowenmantle~
+Before you, bound and gagged is an attractive young woman.
+~
+Given other circumstances, you would imagine the Lady to be a stunning 
+beauty. Right now, however, she is a mess of tears and blood. Bound at the
+hands and ankles, a gag in her mouth. She is the last living heir of Chelnar's
+to the throne.
+~
+bd 0 0 0 0 0 0 0 1000 E
+1 20 10 1d1+1 1d1+0
+0 10 0 3
+8 8 2
+E
+#1609
+demon son mi-go mi go~
+the son of @bMarduk@n~
+You see a @Mstrangly tenticled@n beast flying around here.
+~
+A pinkish thing about five feet long; with crustaceous bodies bearing vast
+pairs of dorsal fins or membranous wings and several sets of articulate 
+limbs, and with a sort of convoluted ellipsoid, covered with multitudes of
+very short antenna, where a head would ordinarily be...Sometimes walked on
+all their legs and sometimes on the hindmost pair only.
+~
+bd 0 0 0 elx 0 0 0 -1000 E
+2 20 -10 2d8+4 1d6+1
+0 500 10 3
+9 9 1
+E
+#1610
+flying demon strange nightgaunt~
+the @bNightgaunt@n~
+A strange looking @Rdemon@n is flying around here on leathery wings.
+~
+Shocking and uncooth black things with smooth, oily, whalelike surfaces,
+unpleasant horns that curve inward toward each other, bat wings whose 
+beating made no sound, ugly prehensile paws, and barbed tails that lash
+needlessly and disquietingly. And worst of all, they never smiled because
+they had no faces at all to smile with, but only a suggestive blankness 
+where a face ought to be. All they ever did was clutch and fly and tickle;
+that was the way of nightgaunts.
+~
+djl 0 0 0 lx 0 0 0 -1000 E
+10 20 4 10d8+20 1d6+3
+0 8400 10 3
+9 9 1
+E
+#1611
+byakhee demon~
+the @bByakhee@n~
+A strange looking @Rdemon@n is flying around here on leathery wings.
+~
+There flapped rhytmically a horde of tame, trained, hybrid winged things...
+not altogether crows, nor moles, nor buzzards, nor ants, nor decomposed
+human beings, but something I you would care not to recall.
+~
+djl 0 0 0 lx 0 0 0 -1000 E
+12 20 2 12d8+24 2d4+4
+0 12000 10 3
+9 9 1
+E
+#1612
+gorkel citizen citizen female~
+a female @rGorkel@n~
+A @rGorkel@n female stands here, she wears a slave collar.
+~
+Gorkel females are just slightly larger than their male counterparts. 
+With a dark red-orange fur, the 5'7" Gorkel is savage and powerful!
+Dressed in tattered rags and faded war paints, the young female Gorkel 
+looks as if she has not been treated well in the recent past.
+~
+d 0 0 0 l 0 0 0 -800 E
+5 20 8 5d8+10 1d4+2
+0 10 10 3
+8 8 2
+E
+#1613
+gorkel male~
+a male @rGorkel@n~
+A male @rGorkel@n stands here, he wears a slave collar.
+~
+The gorilla-like humanoid is powerfully built, standing 5'5" and weighing 
+195lbs, the Gorkel looks dangerous. Dressed in the remains of a loin cloth, 
+and faded war paints, the young Gorkel looks as if he has not been treated 
+well in the recent past.
+~
+d 0 0 0 l 0 0 0 -900 E
+6 20 7 6d8+12 1d4+2
+0 10 10 3
+8 8 1
+E
+#1614
+warhost~
+the @YWarhost@n~
+A member of @YHek's Warhost is here@n.
+~
+Dressed in pure white, the @YWarhost@n glows with a @Bnatural beauty@n.
+She floats around gently on wings of @Ygolden light@n. You feel at peace 
+looking upon her.
+~
+adil 0 0 0 cdeil 0 0 0 1000 E
+13 20 0 13d8+26 2d6+5
+0 15000 22 3
+8 8 2
+E
+#1615
+byakhee demon~
+the @bByakhee@n~
+A strange looking @rdemon@n is flying around here on leathery wings.
+~
+There flapped rhytmically a horde of tame, trained, hybrid winged things...
+not altogether crows, nor moles, nor buzzards, nor ants, nor decomposed
+human beings, but something I you would care not to recall.
+~
+bdjl 0 0 0 lxB 0 0 0 -1000 E
+12 20 2 12d8+50 1d1+1
+0 12000 10 3
+8 8 1
+E
+T 1615
+#1616
+high priest~
+the High Priest of Marduk~
+The High Priest of Marduk is standing here.
+~
+Here stands a man totally given over to the worship of Marduk. He is dressed
+in long black robes with small holy symbols all over. You can feel the evil
+ebbing forth from this man.
+~
+abdjlnop 0 0 0 eiq 0 0 0 -1000 E
+25 20 -10 25d8+75 1d2+4
+300 10 0 1
+8 8 1
+E
+$

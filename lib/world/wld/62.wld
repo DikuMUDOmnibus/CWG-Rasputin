@@ -1,0 +1,301 @@
+#6200
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+
+This zone is attached to the King's Forest. This forest is one of the defining
+elements of the Empire. This area of the Forest is a village in the trees. 
+The Gorkel are a race which dwells in the forst and are viewed by the Empire
+as primitives. They are captured and used as slaves quite often.
+
+This zone links up with zone: 60.
+~
+62 dk 0 0 0 0
+S
+#6201
+A platform in the trees~
+   You are standing on a very sturdy wooden platform, about fifty feet off of
+the ground. There is a rope ladder leading down to the forest, and you can
+see many rope bridges running between the ancient trees forming what looks
+like a village.
+~
+62 0 0 0 0 1
+D0
+A bridge toward the village.
+~
+~
+0 -1 6202 20 20 0 0 0 0 65535 65535
+D5
+You see the Ranger's Way, far below.
+~
+~
+0 -1 6036 20 20 0 0 0 0 65535 65535
+S
+#6202
+A T-intersection of rope bridges~
+   A rope bridge runs east-west here, and another south. On both sides of
+the bridge you can see houses built into the trees. To the south you see
+a platform.
+~
+62 0 0 0 0 1
+D1
+You see a few houses.
+~
+~
+0 -1 6203 20 20 0 0 0 0 65535 65535
+D2
+You see a platform.
+~
+~
+0 -1 6201 20 20 0 0 0 0 65535 65535
+D3
+You see a few houses.
+~
+~
+0 -1 6204 20 20 0 0 0 0 65535 65535
+S
+#6203
+A few houses~
+   Here, to the east and south, there are a few houses built into the trees.
+The doors are closed, and don't look to inviting.
+~
+62 0 0 0 0 1
+D0
+You see a common square.
+~
+~
+0 -1 6208 20 20 0 0 0 0 65535 65535
+D3
+You see a bridge.
+~
+~
+0 -1 6202 20 20 0 0 0 0 65535 65535
+E
+house houses~
+The houses are very nice looking, carved from the trees...as if a part
+of the tree. The doors and windows are closed up, and you don't guess
+you'd be welcome.
+~
+S
+#6204
+A few houses~
+   Here, to the west and south, there are a few houses built into the trees.
+The doors are closed, and don't look to inviting.
+~
+62 0 0 0 0 1
+D0
+You see a small guard post.
+~
+~
+0 -1 6205 20 20 0 0 0 0 65535 65535
+D1
+You see a bridge.
+~
+~
+0 -1 6202 20 20 0 0 0 0 65535 65535
+E
+house houses~
+The houses are very nice looking, carved from the trees...as if a part
+of the tree. The doors and windows are closed up, and you don't guess
+you'd be welcome.
+~
+S
+#6205
+Guard Outpost~
+   Actually inside the tree you are standing in a guard post. There are
+a few pieces of Gorkellian art scattered on the walls.
+~
+62 d 0 0 0 1
+D0
+The Warlord's Room.
+~
+~
+0 -1 6207 20 20 0 0 0 0 65535 65535
+D2
+A few houses.
+~
+~
+0 -1 6204 20 20 0 0 0 0 65535 65535
+D3
+There are a few beds and off duty guards.
+~
+~
+0 -1 6206 20 20 0 0 0 0 65535 65535
+E
+art walls~
+The Gorkel art on the walls is, like them, savage. Yet you find 
+something appealing in it's raw representation of the elements.
+~
+S
+#6206
+Barracks~
+   This enclosed structure is a rather large barracks, where the Gorkel guard
+rest and relax before or after duty. There are many beds and footlockers here.
+The floor has many scuffs and scrapes, from boots and weapons. There is a 
+small hole cut in the floor with a rope ladder leading down to the forest
+floor.
+~
+62 d 0 0 0 1
+D1
+You see the Guard Outpost.
+~
+~
+0 -1 6205 20 20 0 0 0 0 65535 65535
+D5
+You can see the Ranger's Way, far below.
+~
+~
+0 -1 6053 20 20 0 0 0 0 65535 65535
+S
+#6207
+The Room of the Warlord~
+   Here you stand in a very large enclosed room, build into an ancient tree.
+It is quite beautful, and all of the surfaces are smooth and polished. There
+is a bed along the far wall, and a desk in the center of the room. Upon the
+walls you can see many, many different weapons and armors.
+~
+62 d 0 0 0 1
+D2
+You see the Guard Outpost.
+~
+~
+0 -1 6205 20 20 0 0 0 0 65535 65535
+E
+wall walls weapons armors~
+The items adorning these walls are vast, and well kept. Some you recognize,
+but many others you do not. It would seem that the Warlord gets around.
+~
+E
+desk~
+The desk is covered with various maps, feathers and assorted strange things.
+~
+S
+#6208
+Village Path~
+   The bridges and platforms here are part of the 'center' of the village.
+There are houses on both sides of you, but like the others you have seen, 
+they are closed up and do not look inviting.
+~
+62 0 0 0 0 1
+D0
+More of the Village.
+~
+~
+0 -1 6209 20 20 0 0 0 0 65535 65535
+D2
+A few houses.
+~
+~
+0 -1 6203 20 20 0 0 0 0 65535 65535
+S
+#6209
+The Village Square~
+   Here you stand on a very large, wooden platform build suspended between
+four trees. This seems to be the center for daily activity in the village.
+There are many merchents here selling their various wares. Most of the 
+Gorkel you see here are women and children, but there are a few male
+warriors also.
+~
+62 0 0 0 0 1
+D0
+A bridge to the King.
+~
+~
+0 -1 6210 20 20 0 0 0 0 65535 65535
+D2
+Residental part of the village.
+~
+~
+0 -1 6208 20 20 0 0 0 0 65535 65535
+S
+#6210
+Another residential section~
+   You see more houses here, on both sides of you, built into the trees.
+To the north you approach the residence of the King, to the south is the
+center of the village.
+~
+62 0 0 0 0 1
+D0
+A checkpoint.
+~
+~
+0 -1 6211 20 20 0 0 0 0 65535 65535
+D2
+A large platform.
+~
+~
+0 -1 6209 20 20 0 0 0 0 65535 65535
+S
+#6211
+A guard post~
+   You stand on a medium sized platform which serves as a guard post, before
+the residence of the King. 
+~
+62 0 0 0 0 1
+D2
+Some houses.
+~
+~
+0 -1 6210 20 20 0 0 0 0 65535 65535
+D3
+The home of the King.
+~
+door~
+1 6028 6212 20 20 0 0 0 0 65535 65535
+S
+#6212
+Entry Hall~
+   You stand in the entry hall of the King of the Gorkel. It appears this 
+whole structure was built in the same tree, a very large tree. All of the walls
+are smooth and well preserved. There are many paintings and tapestires upon the
+walls.
+~
+62 d 0 0 0 1
+D1
+A guard post.
+~
+door~
+1 6028 6211 20 20 0 0 0 0 65535 65535
+D2
+A waiting room.
+~
+~
+0 -1 6213 20 20 0 0 0 0 65535 65535
+D3
+The Throne Room.
+~
+~
+0 -1 6214 20 20 0 0 0 0 65535 65535
+E
+paintings tapestries~
+They depect the great leadership of the King, and his many combat victories
+with the help of his Warlord.
+~
+S
+#6213
+A waiting room~
+   Here is a very comfortable room, with a few benches, for those waiting to
+see the King. 
+~
+62 d 0 0 0 1
+D0
+The main hall.
+~
+~
+0 -1 6212 20 20 0 0 0 0 65535 65535
+S
+#6214
+The Throne Room~
+   You stand in the throne room of the King of the Gorkel. The room is quite
+large, and very practical. He sits upon his throne, shaped of wood. The rooms
+decorations suggest that the King is a very practical man, and like most 
+Gorkel, not very found of Humans.
+~
+62 d 0 0 0 1
+D1
+The entry hall.
+~
+~
+0 -1 6212 20 20 0 0 0 0 65535 65535
+S
+$~

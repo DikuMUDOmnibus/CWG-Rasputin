@@ -1,0 +1,148 @@
+#5500
+troll guard~
+a troll guard~
+Hideously twisted a troll guard stands here.
+~
+Vile green skin is streched over the 8' frame of the troll guard. His
+hair, if you could call it that is a mess of matted black.
+~
+bdejln 0 0 0 egl 0 0 0 -1000 E
+6 20 10 6d8+36 1d6+6
+200 12000 18 3
+8 8 1
+Str: 19
+E
+#5501
+guard azag thoth~
+the castle guard~
+An Azag-Thoth stands guard over the main castle gate.
+~
+Created by the Tsalari for their master, Marduk the Azag-Thoth are breed
+for a singular task.
+~
+bds 0 0 0 el 0 0 0 -1000 E
+10 20 10 10d8+40 1d6+6
+0 10 10 3
+8 8 1
+E
+T 5502
+#5502
+horse~
+a horse~
+A horse, someone's steed stands.
+~
+A rather fine looking horse, actually. It has been well cared for.
+~
+dh 0 0 0 l 0 0 0 0 E
+3 20 10 3d8+6 1d4+1
+0 190 8 3
+8 8 1
+E
+#5503
+merchant~
+a merchant~
+The wagonmaster stands here ready to sell his goods.
+~
+The wagonmaster moves from place to place, offering his goods to anyone
+willing to pay his prices. 
+~
+bds 0 0 0 el 0 0 0 -150 E
+10 20 10 10d6+10 1d2+2
+1000 10 4 3
+8 8 1
+E
+#5504
+goblin~
+a goblin~
+Dressed in some type of uniform, a goblin minion stands here.
+~
+Like all other goblins in the Castle, this one is a minion of the
+necromancer Vzlrn. 
+~
+bdjln 0 0 0 lt 0 0 0 -800 E
+14 20 10 14d8+0 1d2+1
+0 18000 14 3
+8 8 1
+E
+#5505
+thief~
+a thief~
+Cloaked in blackness a thief hides here.
+~
+Always looking to make a quick coin, the thief is quite skilled at his
+craft.
+~
+bdel 0 0 0 u 0 0 0 -800 E
+14 20 10 14d6+14 1d2+1
+200 18000 0 2
+8 8 1
+E
+#5506
+vzlrn robed figure magi necromancer~
+the necromancer Vzlrn~
+A stench of the grave surrounds the robed figure here.
+~
+A result of spending years graverobbing, Vzlrn has a perpetual stench of
+the grave!
+~
+abdejlno 0 0 0 esA 0 0 0 -900 E
+15 20 10 15d8+30 1d2+2
+0 21000 0 1
+8 8 1
+E
+#5507
+unholy cleric demon horned~
+the horned cleric~
+Short horns grow out of the head of the unholy cleric before you!
+~
+You can see the beginings of wings growing from the back of the demon
+cleric! He radiates the unholy power of Marduk, and would like very much
+to turn everyone into his undead minions!
+~
+adejlnopr 0 0 0 lu 0 0 0 -1000 E
+14 20 10 14d8+42 1d2+2
+100 18000 10 1
+8 8 1
+E
+#5508
+sentry azag thoth~
+an Azag-Thoth sentry~
+Standing at attention, overlooking the courtyard is an Azag-Thoth.
+~
+Created by the Tsalari for their master, Marduk the Azag-Thoth are breed
+for a singular task. The flesh on his bones is drawn, and decomposing.
+~
+bdefl 0 0 0 lruA 0 0 0 -800 E
+16 20 10 16d8+48 1d2+4
+0 24000 10 3
+8 8 1
+E
+#5509
+lord kilgrave~
+Lord Kilgrave~
+The Lord of the Castle stands here beyond death!
+~
+Having finally met his end in battle, Lord Kilgrave has been raised from
+the dead by the evil of Marduk!
+~
+bdefl 0 0 0 ruA 0 0 0 -1000 E
+22 20 10 22d10+110 1d2+6
+0 42000 0 3
+8 8 1
+Str: 20
+E
+#5510
+patrol azag thoth~
+an Azag-Thoth patrol~
+Patroling the area, to report back to Kilgrave an Azag-Thoth stands.
+~
+Created by the Tsalari for their master, Marduk the Azag-Thoth are breed
+for a singular task. Dressed lightly for travel, the Azag-Thoth patrols
+for more victims.
+~
+djl 0 0 0 lrtA 0 0 0 -800 E
+12 20 10 12d8+36 1d2+3
+0 12000 10 3
+8 8 1
+E
+$

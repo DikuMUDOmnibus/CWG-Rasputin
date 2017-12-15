@@ -1,0 +1,35 @@
+CircleMUD v3.0 Shop File~
+#1604~
+3108
+3052
+-1
+1.50
+0.70
+1
+2
+3
+4
+5
+8
+9
+10
+19
+-1
+%s Sorry, I've never heard of that!~
+%s Show me that again, I didn't see it!~
+%s I am not sure what I would do with it, even if I did want it!~
+%s A very fine item, indeed, but I cannot afford it.~
+%s You had better count your coins again.~
+%s That'll be %d coins.~
+%s I can give you %d coins for that.~
+1
+0
+7009
+1920
+1604
+-1
+0
+28
+0
+0
+$~

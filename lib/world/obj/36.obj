@@ -1,0 +1,29 @@
+#3600
+buff coat~
+a buff coat~
+A buff coat has been left here.~
+~
+9 0 0 0 0 ad 0 0 0 0 0 0 0
+30 1 5 1 100 100 15 6 0 0 0 0 0 0 0 0
+5 22 2 0
+E
+buff coat~
+This was the standard piece of armor throughtout the period. It offered no
+protection against firearms, but neither did heavier armor. Yet it was
+sufficient to stop an arrow or turn aside a clumsy sword slash. The buff
+coat was supple, not hardened leather.
+~
+#3601
+hat~
+a leather hat~
+A leather hat has been left here, it looks slightly tacky.~
+~
+11 0 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 6 0 0 0 0 0 0 0 0
+1 10 2 0
+E
+hat~
+The hat is almost silly looking. It is bright purple and green died leather,
+and has some silly tassels hanging from it.
+~
+$~

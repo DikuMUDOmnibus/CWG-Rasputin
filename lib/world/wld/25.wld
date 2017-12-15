@@ -1,0 +1,642 @@
+#2500
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+
+The School of Wizardy is the remains of a burned out Wizards school located
+under the Redstone Manor in Kaon. The School is also home to the Lich, Azimer.
+
+This zone links up with zone: 114
+~
+25 dk 0 0 0 0
+S
+#2501
+A staircase decending into the earth~
+   In the center of the high-ceilinged, dusty hall is a spiral stairway with
+no rail, the stone steps corkscrewing down into darkness. The stairs are 
+littered with dust, cobwebs, tiny skeletons of rats that crunch underfoot, 
+and fragments of stone fallen from the ceiling.
+~
+25 d 0 0 0 0
+D4
+~
+~
+0 -1 11410 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 2502 20 20 0 0 0 0 65535 65535
+E
+stairs staircase steps~
+It looks as if someone else has come down these steps within the last day,
+probably a group of several men judginb by the number of boot prints.
+~
+S
+#2502
+Octagonal Room~
+   This room was apparently carved out of the surrounding rock, there are 
+exits in all directions but down. The spiral staircase you decended is off
+to one side of the room. It is very dark and damp here. There are doors in
+each direction.
+~
+25 d 0 0 0 0
+D0
+~
+massive north n~
+1 -1 2503 20 20 0 0 0 0 65535 65535
+D1
+~
+wooden east e~
+1 -1 2504 20 20 0 0 0 0 65535 65535
+D2
+~
+stone south s~
+1 -1 2505 20 20 0 0 0 0 65535 65535
+D3
+~
+door west w~
+1 2599 2515 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 2501 20 20 0 0 0 0 65535 65535
+S
+#2503
+Rock filled room~
+   The northern wall of this room is nothing but a solid wall of stone 
+rubble, it is impossible to tell what once lay beyond.
+~
+25 d 0 0 0 0
+D2
+~
+massive south s~
+1 -1 2502 20 20 0 0 0 0 65535 65535
+S
+#2504
+Cloak Room~
+   This smaller room, has several garments hanging on the walls. Stone 
+benches are placed in the center of the room and run all around the walls 
+of the room.
+~
+25 d 0 0 0 0
+D3
+~
+wooden west w~
+1 -1 2502 20 20 0 0 0 0 65535 65535
+E
+garments~
+The garments hanging on the walls are all old and rotting. They do not smell
+very pleasent.
+~
+S
+#2505
+Hallway~
+   A rather plain looking 30' long stone passage. At both ends you can 
+see doorways.
+~
+25 cd 0 0 0 0
+D0
+~
+stone north n~
+1 -1 2502 20 20 0 0 0 0 65535 65535
+D2
+~
+wooden south s~
+1 -1 2506 20 20 0 0 0 0 65535 65535
+S
+#2506
+Feasting Hall~
+   Rotting long, wooden tables march in two lines down the room, with fifteen
+wooden chairs on either side and a high-backed seat at the far end. At the 
+far end of the room hangs a rusty iron bar high up on wall brackets; from
+the bar hang long tatters of mildewed, black fabric - once some sort of vast
+tapestry covering most of the wall.
+~
+25 d 0 0 0 0
+D0
+~
+wooden north n~
+1 -1 2505 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2507 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2510 20 20 0 0 0 0 65535 65535
+E
+tapestry long tatters mildewed~
+Not enough is left to tell what it depicted.
+~
+S
+#2507
+Private Dining Area~
+   Here you see a single long table and five chairs drawn up around it. This
+was once an exclusive dining are for the teaching wizards, the Masters. A
+natural passage leads off to the north.
+~
+25 d 0 0 0 0
+D0
+~
+~
+0 -1 2508 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2506 20 20 0 0 0 0 65535 65535
+S
+#2508
+Garderobe~
+   This room contains only a wooden seat with a hole in it, a torch bracket
+above and a shelf beside it, and a peg on the wall for coats.
+~
+25 d 0 0 0 0
+D0
+~
+~
+0 -1 2509 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2507 20 20 0 0 0 0 65535 65535
+E
+hole~
+Far below you can hear the sound of running water, perhaps an underground
+stream. The hole is far too small for you to fit down, and you are not
+too sure that you would want to anyway judging by the smell.
+~
+E
+seat wooden~
+It looks like a toilet, I guess even wizards have to make number 2.
+~
+S
+#2509
+Garderobe~
+   This room contains only a wooden seat with a hole in it, a torch bracket
+above and a shelf beside it, and a peg on the wall for coats.
+~
+25 d 0 0 0 0
+D2
+~
+~
+0 -1 2508 20 20 0 0 0 0 65535 65535
+E
+hole~
+Far below you can hear the sound of running water, perhaps an underground
+stream. The hole is far too small for you to fit down, and you are not
+too sure that you would want to anyway judging by the smell.
+~
+E
+seat wooden~
+It looks like a toilet, I guess even wizards have to make number 2.
+~
+S
+#2510
+Kitchen~
+   This was a kitchen, with a chopping block table and a beam ceiling with
+iron hooks overhead. All utensils are gone. A large, sooty stone hearth and
+chimney are along the north wall. 
+~
+25 d 0 0 0 0
+D1
+~
+~
+0 -1 2506 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2511 20 20 0 0 0 0 65535 65535
+D3
+~
+door west w~
+1 -1 2512 20 20 0 0 0 0 65535 65535
+E
+block chopping table~
+The table has a meat cleaver laying on top of it, and both the table and
+cleaver are covered with a strange, gummy ichor. You can also make out what
+appears to be some of the intestines of small creature.
+~
+E
+cleaver~
+The large meat cleaver lies on the table, and is covered with a strange, gummy
+ichor.
+~
+S
+#2511
+Root Cellar~
+   This deep root cellar has a low, arched stone-block ceiling and a fairly
+level solid stone floor. In it are bunches of old, mouldering onions, a
+spongy, pungent-smelling keg of beer (now spoiled), a large plie of straw, and
+a row of six empty earthenware jugs. 
+~
+25 d 0 0 0 0
+D0
+~
+~
+0 -1 2510 20 20 0 0 0 0 65535 65535
+S
+#2512
+Pantry~
+   This room looks as if it has been empty for quite some time, but still
+smells faintly of herbs, apples, onions, and the like.  The floor is strewn
+with damp, rotting rushes.  There is a wooden door in the north wall.    
+~
+25 d 0 0 0 0
+D0
+~
+wooden north n~
+1 -1 2513 20 20 0 0 0 0 65535 65535
+D1
+~
+door east e~
+1 -1 2510 20 20 0 0 0 0 65535 65535
+S
+#2513
+Pantry~
+   This room looks as if it has been empty for quite some time, but still
+smells faintly of herbs, apples, onions, and the like. The floor is strewn
+with damp, rotting rushes.
+~
+25 d 0 0 0 0
+D1
+~
+~
+0 -1 2514 20 20 0 0 0 0 65535 65535
+D2
+~
+wooden south s~
+1 -1 2512 20 20 0 0 0 0 65535 65535
+S
+#2514
+Small Cave~
+   A dark, rough-walled, natural stone passage with uneven footing, slick
+with damp and harmless molds and lichens, leads you into this natural cavern.
+The cavern smells of wine and something rotting. 
+~
+25 d 0 0 0 0
+D3
+~
+~
+0 -1 2513 20 20 0 0 0 0 65535 65535
+D5
+~
+trapdoor down d~
+1 -1 2534 20 20 0 0 0 0 65535 65535
+S
+#2515
+Hallway~
+   It is a long, wide hallway running east-west. From your dim light, you can
+see it opens into something large to the west. There is a stone door to the
+north.
+~
+25 d 0 0 0 0
+D0
+~
+stone north n~
+1 2599 2516 20 20 0 0 0 0 65535 65535
+D1
+~
+door east e~
+1 2599 2502 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2517 20 20 0 0 0 0 65535 65535
+S
+#2516
+Empty Storeroom~
+   Apparently once a store room, it is now empty.
+~
+25 d 0 0 0 0
+D2
+~
+stone south s~
+1 -1 2515 20 20 0 0 0 0 65535 65535
+S
+#2517
+Hallway~
+   It is a long, wide hallway running east-west. From your dim light, you can
+see it opens into something large to the west. There is a stone door to the
+north.
+~
+25 d 0 0 0 0
+D0
+~
+stone north n~
+1 -1 2518 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2515 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2519 20 20 0 0 0 0 65535 65535
+S
+#2518
+Storeroom~
+   Apparently once a storeroom, it looks as if it has been cleared out some
+time ago.
+~
+25 d 0 0 0 0
+D2
+~
+stone south s~
+1 -1 2517 20 20 0 0 0 0 65535 65535
+S
+#2519
+Large Chasm~
+   The chasm is dark, with a rocky floor strewn with sand, a few bones, and
+other assorted junk. Much of the walls are covered with glowing molds and
+fungi. You can hear the sound of cave crickets in the distance. 
+~
+25 d 0 0 0 0
+D1
+~
+~
+0 -1 2517 20 20 0 0 0 0 65535 65535
+D3
+~
+door west w~
+1 -1 2521 20 20 0 0 0 0 65535 65535
+S
+#2520
+Mob Room~
+   This room is for chaos.
+~
+25 d 0 0 0 0
+D0
+~
+~
+0 -1 2504 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2507 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2533 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2532 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 2525 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 2517 20 20 0 0 0 0 65535 65535
+S
+#2521
+A small room~
+   Two featureless stone doors and a corridor open out ofrom this chamber,
+which contains an empty torch bracket set into the wall in one corner and a
+sigil in red mosaic tiles inlaid in the center of the pale gray floor. 
+~
+25 d 0 0 0 0
+D0
+~
+stone north n~
+1 -1 2522 20 20 0 0 0 0 65535 65535
+D1
+~
+door east e~
+1 -1 2519 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2528 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2523 20 20 0 0 0 0 65535 65535
+E
+red tile tiles mosaic~
+The mosaic pattern is that of the wizard's school that once flourished here.
+~
+S
+#2522
+Storage Room~
+   This room is lined with deep, floor-to-ceiling shelves covering all four
+walls (except for the door). In the center of the room is a sturdy trestle
+table and two high stools. The shelves are crammed with stored material 
+components for spells. 
+~
+25 d 0 0 0 0
+D2
+~
+stone south s~
+1 -1 2521 20 20 0 0 0 0 65535 65535
+E
+components material shelves~
+You see a wide assortment of jars containing everything from coal to crystals
+to human eylashes. 
+~
+S
+#2523
+Statue lined hallway~
+   This hallway is lined on both sides with a total of fifteen life-sized
+stone statues, standing on 1-foot-tall blocks of stone. They are all extremely
+lifelike, and are well-sculpted statues of famous magi. 
+~
+25 d 0 0 0 0
+D0
+~
+door north n~
+1 -1 2524 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2521 20 20 0 0 0 0 65535 65535
+D3
+~
+granite west w~
+1 -1 2525 20 20 0 0 0 0 65535 65535
+S
+#2524
+Azimer's Room~
+   This room is furnished with a massive carved wooden armchair, an oval side-
+table with a large book on it, and a purple tapestry on the south wall 
+adorned with a golden sigil of the magi school. The room is illuminated by a
+brightly glowing ball of green fungus that sits in a bowl full of what looks
+like water and old, black blood. 
+~
+25 d 0 0 0 0
+D2
+~
+door south s~
+1 -1 2523 20 20 0 0 0 0 65535 65535
+E
+ball green bowl fungus~
+A skeletal hand, still blotched with scraps of rotting flesh, is visible, 
+projecting half out of the bowl; the fungus is growing on the carrion.
+~
+E
+book spellbook~
+Given the nature of the writing you can see in the book, it is either Elvish
+or magical in nature.
+~
+S
+#2525
+Ruined Library~
+   This room was once the library of the School of Wizardry, but now lies in
+fire-scarred ruin. Ashes and crumbling, charred shelves line the walls and
+litter the floor in the center of the room, where remnants show that three
+tables, with four chairs at each, stood here. Dust lies thick on the ashes;
+the fire was not a recent thing, and surprisingly few ashes are on the 
+shelves. Walls, floor, and ceiling are all blackened by smoke, and there is
+a narrow outline on the north wall.
+~
+25 d 0 0 0 0
+D0
+~
+secret north n~
+3 -1 2526 20 20 0 0 0 0 65535 65535
+D1
+~
+granite east e~
+1 -1 2523 20 20 0 0 0 0 65535 65535
+E
+narrow outline wall north~
+It appears that there is a secret door in the north wall.
+~
+S
+#2526
+Hidden Cave~
+   An unremarkable natural cave, hidden behind the ruins of the library. 
+A tunnel runs to the west into another cavern.
+~
+25 d 0 0 0 0
+D2
+~
+secret south s~
+3 -1 2525 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2527 20 20 0 0 0 0 65535 65535
+S
+#2527
+Old Room~
+   An irregular, natural passage leads into a natural rock cavern, once the
+quarters of the Master of the School. This cavern room is lined with books.
+There are also two wooden armchairs, a wide cot with cotton sheets and a wool
+blanket, a rug, a table, and a chamber pot.
+~
+25 d 0 0 0 0
+D1
+~
+~
+0 -1 2526 20 20 0 0 0 0 65535 65535
+S
+#2528
+Hallway~
+   It is a long, wide hallway running north-south. From your dim light, you can
+see it opens into something large to the south. There is are doors to the
+east and west.
+~
+25 d 0 0 0 0
+D0
+~
+~
+0 -1 2521 20 20 0 0 0 0 65535 65535
+D1
+~
+stone east e~
+1 -1 2529 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2531 20 20 0 0 0 0 65535 65535
+D3
+~
+door west w~
+1 2599 2530 20 20 0 0 0 0 65535 65535
+S
+#2529
+Classroom~
+   This room contains only a wooden armchair and circular table, with a ring
+of eight stools around it. All are rotting and somewhat rickety.
+~
+25 d 0 0 0 0
+D3
+~
+stone west w~
+1 -1 2528 20 20 0 0 0 0 65535 65535
+S
+#2530
+Summoning Chamber~
+   This huge chamber, carved from solid rock, contains a huge crescent-shaped
+table fashioned of black wood, with thirty-three straight backed chairs of 
+the same material drawn up around it. Also there is a strange, perhaps magical,
+symbol carved into the floor. 
+~
+25 d 0 0 0 0
+D1
+~
+door east e~
+1 -1 2528 20 20 0 0 0 0 65535 65535
+S
+#2531
+Hallway~
+   It is a long, wide hallway running north-south. From your dim light, you can
+see it opens into something large to the south. There is a door to the east.
+~
+25 cd 0 0 0 0
+D0
+~
+~
+0 -1 2528 20 20 0 0 0 0 65535 65535
+D1
+~
+door east e~
+1 -1 2532 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2533 20 20 0 0 0 0 65535 65535
+S
+#2532
+Empty room~
+   There is nothing very special in this small room. You can see some
+scribbles on one of the walls.
+~
+25 d 0 0 0 0
+D3
+~
+door west w~
+1 -1 2531 20 20 0 0 0 0 65535 65535
+E
+walls wall scribbles~
+It is little more than illegible scrawl. It looks as if it could possibly
+be a formula for something.
+~
+S
+#2533
+Large cavern~
+   This large irregular, natural cavern has a sandy floor, and a clear-watered,
+cold, swift-flowing stream at its southern end. The water falls down the rock
+face from clefts high up, clooects in a tiny pool, and flows swiftly to the 
+northeast where the cavern narrows too much for you to see further.
+~
+25 d 0 0 0 0
+D0
+~
+~
+0 -1 2531 20 20 0 0 0 0 65535 65535
+S
+#2534
+A small chamber~
+   A tiny natural cavern underneath the kitchen area.
+~
+25 d 0 0 0 0
+D4
+~
+trapdoor up u~
+1 -1 2514 20 20 0 0 0 0 65535 65535
+S
+$~

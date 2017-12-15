@@ -1,0 +1,481 @@
+#5700
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+
+This zone is unfinished. Originally it was ment to be a small library zone
+which held a hidden secret. The library was actually built over an underground
+passage which leads down into the earth into a small cave complex. You could
+really do a lot with the basic idea. Secret cult, pirates, etc...
+
+This zone is not linked into the game. There is a one way exit linking back to
+Room 3001.
+
+This zone links up with zone: 30.
+~
+57 dk 0 0 0 0
+S
+#5701
+Kleptomas Prison~
+Nothing.
+~
+57 bcdfh 0 0 0 8
+D0
+~
+~
+0 -1 5704 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 5737 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5702 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 5703 20 20 0 0 0 0 65535 65535
+S
+#5702
+Inside the Library~
+Empty room.~
+57 d 0 0 0 0
+D1
+~
+~
+0 -1 5701 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 5712 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 5713 20 20 0 0 0 0 65535 65535
+D5
+~
+secret door down d~
+3 5700 5714 20 20 0 0 0 0 65535 65535
+S
+#5703
+Inside the Library~
+Empty room.~
+57 d 0 0 0 0
+D0
+~
+~
+0 -1 5705 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 5701 20 20 0 0 0 0 65535 65535
+S
+#5704
+Inside the Library~
+Here you see tons and tons of books ready to be checked out.
+~
+57 d 0 0 0 0
+D2
+~
+~
+0 -1 5701 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 5705 20 20 0 0 0 0 65535 65535
+S
+#5705
+Inside the Library~
+undefinedYou see kids and parents sitting togher studying.
+~
+57 d 0 0 0 0
+D0
+~
+~
+0 -1 5709 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 5703 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 5706 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 5704 20 20 0 0 0 0 65535 65535
+S
+#5706
+Inside the Library~
+Empty room.~
+57 d 0 0 0 0
+D0
+~
+~
+0 -1 5707 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 5708 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 5705 20 20 0 0 0 0 65535 65535
+S
+#5707
+Inside the Library~
+Empty room.~
+57 d 0 0 0 0
+D2
+~
+~
+0 -1 5706 20 20 0 0 0 0 65535 65535
+S
+#5708
+Inside the Library~
+Empty room.~
+57 d 0 0 0 0
+D0
+~
+~
+0 -1 5706 20 20 0 0 0 0 65535 65535
+S
+#5709
+Inside the Library~
+Empty room.~
+57 d 0 0 0 0
+D2
+~
+~
+0 -1 5705 20 20 0 0 0 0 65535 65535
+S
+#5712
+Inside the Library~
+Empty room.~
+57 d 0 0 0 0
+D0
+~
+~
+0 -1 5702 20 20 0 0 0 0 65535 65535
+S
+#5713
+Library Loft~
+Empty room.~
+57 d 0 0 0 0
+D5
+~
+~
+0 -1 5702 20 20 0 0 0 0 65535 65535
+S
+#5714
+Library Basement~
+Empty room.~
+57 d 0 0 0 0
+D2
+~
+secret door south s~
+3 5701 5715 20 20 0 0 0 0 65535 65535
+D4
+~
+secret door up u~
+2 5700 5702 20 20 0 0 0 0 65535 65535
+S
+#5715
+Under the Library~
+Empty room.~
+57 d 0 0 0 0
+D0
+~
+secret door north n~
+2 5701 5714 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 5717 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5716 20 20 0 0 0 0 65535 65535
+S
+#5716
+Under the Library~
+Empty room.~
+57 d 0 0 0 0
+D1
+~
+~
+0 -1 5715 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5718 20 20 0 0 0 0 65535 65535
+S
+#5717
+Under the Library~
+Empty room.~
+57 d 0 0 0 0
+D0
+~
+~
+0 -1 5715 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 5719 20 20 0 0 0 0 65535 65535
+S
+#5718
+Under the Library~
+Empty room.~
+57 d 0 0 0 0
+D1
+~
+~
+0 -1 5716 20 20 0 0 0 0 65535 65535
+S
+#5719
+Under the Library~
+Empty room.~
+57 d 0 0 0 0
+D1
+~
+~
+0 -1 5720 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5717 20 20 0 0 0 0 65535 65535
+S
+#5720
+Under the Library~
+Empty room.~
+57 d 0 0 0 0
+D1
+~
+~
+0 -1 5721 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5719 20 20 0 0 0 0 65535 65535
+S
+#5721
+Cliff Ledge~
+Empty room.~
+57 d 0 0 0 0
+D3
+~
+~
+0 -1 5720 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 5722 20 20 0 0 0 0 65535 65535
+S
+#5722
+Along a narrow cliff~
+Empty room.~
+57 d 0 0 0 0
+D3
+~
+~
+0 -1 5723 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 5721 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 5724 20 20 0 0 0 0 65535 65535
+S
+#5723
+Cliff Cave~
+Empty room.~
+57 d 0 0 0 0
+D1
+~
+~
+0 -1 5722 20 20 0 0 0 0 65535 65535
+S
+#5724
+Bottom of Cliff~
+Empty room.~
+57 d 0 0 0 0
+D1
+~
+~
+0 -1 5725 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 5722 20 20 0 0 0 0 65535 65535
+S
+#5725
+Along a cliff~
+Empty room.~
+57 d 0 0 0 0
+D1
+~
+~
+0 -1 5726 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5724 20 20 0 0 0 0 65535 65535
+S
+#5726
+Ledge~
+Empty room.~
+57 d 0 0 0 0
+D3
+~
+~
+0 -1 5725 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 5727 20 20 0 0 0 0 65535 65535
+S
+#5727
+Hanging on a cliff~
+Empty room.~
+57 d 0 0 0 0
+D4
+~
+~
+0 -1 5726 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 5728 20 20 0 0 0 0 65535 65535
+S
+#5728
+Mouth of a cave~
+Empty room.~
+57 d 0 0 0 0
+D3
+~
+~
+0 -1 5729 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 5727 20 20 0 0 0 0 65535 65535
+S
+#5729
+Inside a cave~
+Empty room.~
+57 d 0 0 0 0
+D1
+~
+~
+0 -1 5728 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5730 20 20 0 0 0 0 65535 65535
+S
+#5730
+Inside a cave~
+Empty room.~
+57 d 0 0 0 0
+D1
+~
+~
+0 -1 5729 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5731 20 20 0 0 0 0 65535 65535
+S
+#5731
+Inside a cave~
+Empty room.~
+57 d 0 0 0 0
+D1
+~
+~
+0 -1 5730 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5732 20 20 0 0 0 0 65535 65535
+S
+#5732
+Inside a cave~
+Empty room.~
+57 d 0 0 0 0
+D0
+~
+~
+0 -1 5733 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 5731 20 20 0 0 0 0 65535 65535
+S
+#5733
+Inside a cave~
+Empty room.~
+57 d 0 0 0 0
+D1
+~
+~
+0 -1 5734 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 5732 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5735 20 20 0 0 0 0 65535 65535
+S
+#5734
+Inside a cave~
+Empty room.~
+57 d 0 0 0 0
+D3
+~
+~
+0 -1 5733 20 20 0 0 0 0 65535 65535
+S
+#5735
+Inside a cave~
+Empty room.~
+57 d 0 0 0 0
+D1
+~
+~
+0 -1 5733 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5736 20 20 0 0 0 0 65535 65535
+S
+#5736
+Inside a cave~
+Empty room.~
+57 d 0 0 0 0
+D1
+~
+~
+0 -1 5735 20 20 0 0 0 0 65535 65535
+S
+#5737
+Stairs~
+Here are some stairs enter if you may only exit is east see ya there
+~
+57 de 0 0 0 0
+D1
+~
+door east e~
+1 5799 3001 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5701 20 20 0 0 0 0 65535 65535
+S
+$~

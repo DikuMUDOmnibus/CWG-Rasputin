@@ -1,0 +1,374 @@
+#8001
+citizen oharian~
+the Oharian citizen~
+An Oharian citizen is hanging around here.
+~
+  The Oharian citizen looks somewhat happy, and doesn't look like he's in
+any hurry to get anything done.
+~
+dgh 0 0 0 l 0 0 0 250 E
+5 20 4 5d6+5 1d2+1
+40 750 0 3
+8 8 1
+E
+#8002
+guard oharian national~
+the Oharian National Guardsman~
+An Oharian National Guardsman is standing here, looking around.
+~
+  The Oharian National Guard is dressed in a standard uniform- black tights
+and a black shirt underneath a red triangular plate (a rOsfanth-Sreklas)
+bearing the rank of Guardsman. He is very handsome.
+~
+adgh 0 0 0 l 0 0 0 500 E
+8 20 2 8d10+8 1d2+2
+60 3120 0 3
+8 8 1
+E
+#8003
+guard oharian elite~
+the Oharian Elite Guard~
+An Oharian Elite Guardsman is standing here, looking around.
+~
+  The Oharian elite Guard is dressed in a standard uniform- black tights and
+a black shirt underneath a purple triangular plate (a rOsfanth-Sreklas)
+bearing the rank of Guardsman. He is very handsome.
+~
+adgh 0 0 0 l 0 0 0 600 E
+9 20 2 9d10+18 1d2+3
+75 5000 0 3
+8 8 1
+E
+#8004
+guard oharian elite~
+the Oharian Elite Guard~
+An Oharian Elite Guardsman is standing here, looking around.
+~
+  The Oharian elite Guard is dressed in a standard uniform- black tights and
+a black shirt underneath a purple triangular plate (a rOsfanth-Sreklas)
+bearing the rank of Guardsman. She is very pretty.
+~
+adgh 0 0 0 l 0 0 0 600 E
+9 20 2 9d10+18 1d2+2
+90 5000 0 3
+8 8 2
+E
+#8005
+guard oharian elite sergeant~
+the Oharian Elite Guard Sergeant~
+An Oharian Elite Guard Sergeant is standing here, looking around.
+~
+  The Oharian elite Guard is dressed in a standard uniform- black tights and
+a black shirt underneath a purple triangular plate (a rOsfanth-Sreklas)
+bearing the rank of Sergeant. He is very handsome.
+~
+adgh 0 0 0 l 0 0 0 700 E
+13 20 1 13d10+26 1d2+3
+120 13330 0 3
+8 8 1
+E
+#8006
+guard oharian elite commander~
+the Oharian Elite Guard Commander~
+An Oharian Elite Guard Commander is standing here, looking around.
+~
+  The Oharian elite Guard is dressed in a standard uniform- black tights and
+a black shirt underneath a purple triangular plate (a rOsfanth-Sreklas)
+bearing the rank of Commander. He looks very authoratative and dignified.
+~
+abdgh 0 0 0 el 0 0 0 850 E
+17 20 0 17d10+51 1d2+3
+400 23330 0 3
+8 8 1
+E
+#8007
+druid~
+the Druid~
+A Druid is here, assensing the life of nature and weeping with love.
+~
+  The druid is deep into the worship of Dianara the Regenerator, his parton
+goddess and the creator of life. He chants in a cryptic but lovely tounge
+and strokes every blade of glass and every leaf of every tree around him.
+Every now and then he glances at you, but doesn't seem to take much interest
+in you.
+~
+abdgijl 0 0 0 el 0 0 0 0 E
+16 20 0 16d8+32 1d2+2
+0 21660 0 1
+8 8 1
+E
+#8008
+tracy purple dragon soldier~
+Tracy the @mPurple Dragon@n Soldier~
+Tracy the @mPurple Dragon@n Soldier is here, doing paperwork, smiling, making friends, and whistling insipid little tunes.
+~
+  As with all members of the Purple Dragon, Tracy wears the chain mail
+required of her as uniform. Tracy has shoulder-length brown hair, brown eyes,
+and a charming smile that fills you with warmth (and a little nausea). It is
+this smile that leads you to suspect that Tracy is brimming over with the Holy
+Spirit of Hek, and could NEVER be swayed from this path.
+~
+abd 0 0 0 el 0 0 0 1000 E
+13 20 1 13d10+26 1d2+2
+120 13330 0 3
+8 8 2
+E
+#8009
+sarjenka~
+Sarjenka Aeristan~
+  Sarjenka Aeristan is here, reclining on her bed and daydreaming about far
+away places and people...
+~
+  Sarjenka Aeristan is a stunningly beautiful Oharian female with long,
+slightly curly black hair and deep emerald eyes. She wears a black wizard's
+robe embroidered with the symbols of the Oharian Science Academy's College
+of Magic, Department of Enchantment. She looks at you as if she knows
+exactly what's on your mind, and smiles seductively....
+~
+abdhl 0 0 0 el 0 0 0 400 E
+19 20 -1 19d4+19 1d2+0
+1000 29160 0 0
+5 5 2
+E
+#8010
+ixe~
+Ixe Aeristan~
+  Ixe Aeristan is sitting on his throne here, mumbling to himself and his
+advisors.
+~
+  Ixe Aeristan is the emperor of Ohari. He has short, feathered-back black
+hair and dark brown eyes. He wears in moustache and a goatee- very much in
+contemporary Oharian fashion. His rOsfanth-Sreklas bears the rank of
+Emperor...of which there can be only one....
+~
+bcdl 0 0 0 eil 0 0 0 0 E
+25 20 -5 25d10+75 1d2+3
+2000 125000 0 3
+6 6 1
+E
+#8011
+dean~
+Dean of the Oharian Science Academy~
+  The Dean of the Oharian Science Academy is walking around here, pervaying
+all the students with a perceptive, critical eye.
+~
+  The Dean of the Oharian Science Academy is an aging man who looks a little
+anal retentive. He is wearing grey pants underneath a white lab coat. His
+coat bears the rank of Dean, which is the highest ranking governmental
+scientific position in Ohari, making him equivalent in power to Randak
+Rasiarak himself!
+~
+bdl 0 0 0 el 0 0 0 -50 E
+22 20 -2 22d4+66 1d2+1
+1200 50000 0 0
+8 8 1
+E
+#8012
+student physics~
+the physics student~
+A physics student is here, absorbed in a textbook.
+~
+  The student is in her early twenties and has shoulder-length blonde hair.
+She looks very intellectual, with her hair in a bun and wearing glasses and
+a white lab coat. On her coat is sewn the rank of Sophomore, which is the
+scientific equivalent to the rank of Lieutenant Guardsman- not high at all.
+~
+bdh 0 0 0 l 0 0 0 550 E
+5 20 4 5d4+5 1d2+1
+75 750 0 0
+8 8 2
+E
+#8013
+student necromancy~
+the necromancy student~
+A student of necromancy is here, glaring at you menacingly...
+~
+  The student of necromancy is in his late teens and looks somewhat
+psychologically unstable. He wears a black, hooden robe embroidered with
+the symbols of the College of Magic and the Department of Necromancy. He
+holds the rank of Freshman, which means he probably just entered
+training.
+~
+abdhjk 0 0 0 l 0 0 0 -650 E
+8 20 2 8d4+8 1d2+0
+95 3120 0 0
+8 8 1
+E
+#8014
+doctor necromancy~
+the Doctor of Necromancy~
+  A doctor of necromancy is here, having just been interrupted in his morbid
+lesson...
+~
+  The Doctor of Necromancy is a middle-aged man with black hair and a grey-
+black beard who looks like he might be homicidal. He wears a black, hooded
+robe embroidered with the symbols of the College of Magic and the Department
+of Necromancy. He holds the rank of Field Doctor, the scientific equivalent
+of Field Commander.
+~
+abdhjkl 0 0 0 el 0 0 0 -800 E
+16 20 0 16d4+16 1d2+1
+145 21660 0 0
+8 8 1
+E
+#8017
+cleric~
+the Cleric of Idat~
+  A Cleric of Idat is walking around here, looking around and giggling.
+~
+  The Cleric of Idat is wearing a gray robe with a cowl that covers his (or
+possibly her, you can't really tell) face. He/she walks around, looking at
+everything, talking to itself, and giggling incoherently. Around its neck is
+a shiny, silver Holy Symbol of Idat- a complex rune within an ellipse.
+~
+bdeh 0 0 0 el 0 0 0 0 E
+9 20 2 9d8+9 1d2+1
+0 5000 0 1
+8 8 0
+E
+#8018
+high priest~
+the High Priest of Idat~
+  The High Priest of Idat is here, calling out chaotic chants in a loud,
+forceful voice.
+~
+  The High Priest of Idat is dressed much like his followers, but his cowl is
+pulled down, allowing you to see his face. He dances around, rants, raves,
+and screams wierd phrases and mumblings to his Goddess.
+~
+abdh 0 0 0 eil 0 0 0 -50 E
+22 20 -2 22d8+66 1d2+3
+500 58330 0 1
+8 8 1
+E
+#8019
+robosentri robosentry robo sentry sentri~
+the RoboSentri~
+  A large, shiny, metallic RoboSentri is here, staring at you with glowing
+white eyes...
+~
+  The RoboSentri is the perfect integration of technology and magic in an
+instrument of destruction. It is in the form of a metal lion that stands
+4 1/2 feet tall at the shoulder and has razor sharp steel claws.
+~
+bdef 0 0 0 el 0 0 0 0 E
+18 20 -5 18d10+72 2d6+10
+0 41660 9 3
+8 8 0
+E
+#8020
+stripper~
+the stripper~
+  A stripper dances around the stage, throwing her undergarments everywhere.
+~
+  The stripper has a sculpted body, long, slightly-curly brown hair, and
+a smile that makes you forget about......all that stuff you can't remember.
+~
+bdh 0 0 0 l 0 0 0 450 E
+5 20 4 5d6+10 1d2+1
+134 750 4 3
+8 8 2
+E
+#8021
+merchant~
+the merchant~
+  A wealthy merchant stands behind to counter, trying to sell you something.
+~
+  The merchant is a slightly overweight, middle aged man. He grins good-
+naturedly and offers to sell you some quasi-useful things.
+~
+bd 0 0 0 el 0 0 0 500 E
+22 20 -2 22d10+88 1d2+3
+30000 50000 0 3
+8 8 1
+E
+#8022
+ymzara druid grand~
+Ymzara the Grand Druid~
+  Ymzara, the Grand Druid of the Oharian Region, is resting here comfortably,
+studying an ancient tome.
+~
+  Ymzara is the Grand Druid for the entire Oharian Region. She is in her
+early fourties but looks very young, athletic, and well-preserved. She wears
+a dirty green robe and her long brown hair falls loosely to the middle of her
+back. She looks like a woman who is deeply in tune with Nature.
+~
+abdl 0 0 0 el 0 0 0 0 E
+22 20 -2 22d8+88 1d2+2
+350 50000 0 1
+8 8 2
+E
+#8023
+nurse~
+the Head Nurse~
+The Head Nurse is standing here, fiddling with things and looking uptight.
+~
+  The Head Nurse is old, obnoxious, rude, unfriendly, and undesirable. She
+doesn't exactly look thrilled to see you, either.
+~
+bdl 0 0 0 l 0 0 0 -200 E
+13 20 1 13d8+26 1d2+1
+90 13330 0 1
+8 8 2
+E
+#8024
+psychopath~
+the psychopath~
+A psychopath is here, screaming, ranting, raving, and crying.
+~
+  The psychopath is (or was) a man in his early twenties. He has several days
+of beard stubble and his hair is knotted and unwashed. This look he has in
+his eyes tells you he's been waiting a LONG time for visitors such as you...
+~
+bdf 0 0 0 l 0 0 0 -650 E
+14 20 0 14d12+0 1d2+4
+0 15000 0 3
+8 8 1
+E
+#8025
+randak rasiarak warlord~
+Randak Rasiarak~
+  Randak Rasiarak, Warlord of the Elite Guard, is sitting here, reading some
+official looking document and laughing to himself.
+~
+  Randak Rasiarak, Warlord of the Elite Guard, is the most powerful man in
+the military, and the second most powerful man in all of Ohari. He got the
+position by being a personal friend of Ixe Aeristan, despite the fact that
+he is a sociopath (or perhaps because of it). He wears a rOsfanth-Sreklas
+bearing the rank of Warlord, and everyone of the other Guardsmen seem acutely
+aware of this.
+~
+bcdl 0 0 0 el 0 0 0 -50 E
+22 20 -2 22d10+110 1d2+4
+1500 50000 0 3
+6 6 1
+E
+#8026
+patient kalura~
+the patient~
+  There is a psycho ward patient here. Her face is tear-stained and she looks
+very tired and scared.
+~
+  You see a petite, young girl with matted, curly brown hair and wearing a
+straight jacket that definitely flatters her bosom. She looks stressed out,
+as if she has been crying, and...well....quasi-sane at best.
+~
+bdeh 0 0 0 l 0 0 0 650 E
+13 20 1 13d6+13 1d2+2
+0 13330 0 3
+8 8 2
+E
+#8027
+merchant~
+the merchant~
+  A wealthy merchant stands behind to counter, trying to sell you something.
+~
+  The merchant is a slightly overweight, middle aged man. He grins good-
+naturedly and offers to sell you some quasi-useful things.
+~
+bdl 0 0 0 el 0 0 0 500 E
+22 20 -2 22d10+88 1d2+2
+30000 50000 0 3
+8 8 1
+E
+$

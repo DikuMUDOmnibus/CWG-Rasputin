@@ -1,0 +1,1009 @@
+#4000
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+
+This zone is the upper level of the Storm Horn mountians, west of Kortaal.
+In this maze of mountain tunnles there is a hidden minotar lair, as well
+as a lower level which connects to the drow city of Uluitur.
+
+This zone links up with zones: 29, 31, 41, and 51.
+~
+40 dk 0 0 0 0
+S
+#4001
+The hills~
+   You are on a small path leading east-west, dark threatening hills
+surrounds you to almost all sides. The Storm Horn Mountains loom
+evily to the west.
+~
+40 c 0 0 0 4
+D1
+~
+~
+0 0 4075 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4002 20 20 0 0 0 0 65535 65535
+S
+#4002
+End of the path~
+   The path stops here, to the west is a single mountain and around you
+are the rest of the Storm Horns. There is a dark cave to the west.  
+~
+40 c 0 0 0 4
+D1
+~
+~
+0 0 4001 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4010 20 20 0 0 0 0 65535 65535
+S
+#4010
+The cave~
+   You are in a cave, to the east you can see an exit from the cave and sense 
+fresh air.  To the west a small tunnel continues deeper into the mountain.
+~
+40 d 0 0 0 0
+D1
+~
+~
+0 0 4002 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4011 20 20 0 0 0 0 65535 65535
+S
+#4011
+The tunnel~
+   You force your way through a small tunnel, to you east you sense 
+a little fresh air, and to the north the tunnel continues.
+~
+40 d 0 0 0 0
+D0
+~
+~
+0 0 4014 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4010 20 20 0 0 0 0 65535 65535
+S
+#4012
+The tunnel~
+   You are in a small tunnel, to the north there is a cave.  The tunnel
+continues to the east.
+~
+40 ad 0 0 0 3
+D0
+~
+~
+0 0 4016 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4013 20 20 0 0 0 0 65535 65535
+S
+#4013
+The tunnel~
+   You are in a small tunnel leading east-west.  The floor is covered by
+dust.
+~
+40 ad 0 0 0 3
+D1
+~
+~
+0 0 4014 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4012 20 20 0 0 0 0 65535 65535
+S
+#4014
+The crossroads~
+   You are in a crossroads of two tunnels, one runs north-south and the
+other east-west. To the north the tunnel empties into a cave.
+~
+40 d 0 0 0 0
+D0
+~
+~
+0 0 4018 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4015 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4011 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4013 20 20 0 0 0 0 65535 65535
+S
+#4015
+The tunnel~
+   You are in a small tunnel, the tunnel continues west.
+~
+40 ad 0 0 0 3
+D0
+~
+~
+0 0 4019 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4014 20 20 0 0 0 0 65535 65535
+S
+#4016
+A huge cavern~
+   You are standing in a huge cavern, and set into the northern wall stands
+an 8 foot iron door. The cave continues east and west, to the south
+you notice a small tunnel.
+~
+40 ad 0 0 0 2
+D0
+~
+iron door~
+2 2403 4016 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4017 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4012 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4023 20 20 0 0 0 0 65535 65535
+E
+iron door~
+The massive door is closed and locked. You can see, eteced into the iron,
+what appear to be Dwarven writings.
+~
+S
+#4017
+The large cave~
+   You are in the east end of the large cave.
+~
+40 ad 0 0 0 2
+D3
+~
+~
+0 0 4016 20 20 0 0 0 0 65535 65535
+S
+#4018
+The cave~
+   You are in the south end of a cave, to the south you see a tunnel.  You
+notice a large pile of bones in the corner.
+~
+40 cd 0 0 0 0
+D0
+~
+~
+0 0 4025 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4014 20 20 0 0 0 0 65535 65535
+E
+pile bones~
+Well you better watch out - some of the bones are human !
+~
+S
+#4019
+The tunnel~
+   You are in a north-south leading tunnel.
+~
+40 ad 0 0 0 3
+D0
+~
+~
+0 0 4026 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4015 20 20 0 0 0 0 65535 65535
+S
+#4020
+The hole~
+   You are by a hole in the floor, you can leave down, or north.
+~
+40 acd 0 0 0 3
+D0
+~
+~
+0 0 4027 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 0 4064 20 20 0 0 0 0 65535 65535
+S
+#4021
+The hole~
+   You are by a hole in the floor, exits are down or east.
+~
+40 acd 0 0 0 3
+D1
+~
+~
+0 0 4022 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 0 4115 20 20 0 0 0 0 65535 65535
+S
+#4022
+The damp tunnel~
+   You are in a damp tunnel, your clothes feel wet.  The tunnel continues
+to the north, to the west you see a hole in the floor and to the east
+there is a large cave.
+~
+40 ad 0 0 0 3
+D0
+~
+~
+0 0 4024 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4023 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4021 20 20 0 0 0 0 65535 65535
+S
+#4023
+The large cave~
+   You are in the western part of the large cave, to the west you see
+a damp tunnel.
+~
+40 ad 0 0 0 2
+D1
+~
+~
+0 0 4016 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4022 20 20 0 0 0 0 65535 65535
+S
+#4024
+The damp tunnel~
+   You are in a damp tunnel, that leads west.
+~
+40 ad 0 0 0 3
+D2
+~
+~
+0 0 4022 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4059 20 20 0 0 0 0 65535 65535
+S
+#4025
+The cave~
+   You are in the north end of a cave.  To the east you see some tunnels
+which leads in many directions.
+~
+40 d 0 0 0 0
+D1
+~
+~
+0 0 4026 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4018 20 20 0 0 0 0 65535 65535
+S
+#4026
+The many tunnels~
+   You are in a tunnel, that leads of in all directions.
+~
+40 d 0 0 0 0
+D0
+~
+~
+0 0 4028 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4027 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4019 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4025 20 20 0 0 0 0 65535 65535
+S
+#4027
+The tunnel~
+   You are in a north-south leading tunnel, you also notice a tunnel to
+the west.  From the north you sense the fresh air!
+~
+40 ad 0 0 0 3
+D0
+~
+~
+0 0 4029 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4020 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4026 20 20 0 0 0 0 65535 65535
+S
+#4028
+The smelly tunnel~
+   You are in a north-south leading tunnel, you see a small light
+to the north.  You notice a strange smell from the north..
+~
+40 cd 0 0 0 0
+D0
+~
+~
+0 0 4030 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4026 20 20 0 0 0 0 65535 65535
+S
+#4029
+The cave~
+   You are in a cave that is filled with fresh air, you sense the
+wind blowing from the north.  To the south you see a small tunnel
+continue into the mountain.
+~
+40 ad 0 0 0 2
+D0
+~
+~
+0 0 4031 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4027 20 20 0 0 0 0 65535 65535
+S
+#4030
+The light cave~
+   You are in a light cave, through a hole large above you, you see 
+the sky.  A small tunnel to the south is the only way out.
+You notice the source of the strange smell, all around you there is
+corpses from several monsters. On the western wall you can see a bust of a 
+minoutar carved from the granite.
+~
+40 d 0 0 0 2
+D2
+~
+~
+0 0 4028 20 20 0 0 0 0 65535 65535
+D3
+~
+secret west w~
+3 2901 2901 20 20 0 0 0 0 65535 65535
+E
+bust minoutar granite~
+It is a very life like carving of a minoutar, except it is missing one of
+it's horns.
+~
+S
+#4031
+The valley~
+   You are in a small valley, surrounded by hills and a mountain to 
+the south.  In the mountain there is a cave.  To the north you enter
+the hills.
+~
+40 0 0 0 0 2
+D0
+~
+~
+0 0 4032 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4029 20 20 0 0 0 0 65535 65535
+E
+cave~
+Well it doesn't look nice, but it's the only way out..
+~
+S
+#4032
+The foothills~
+   You are on a winding path that leads through the foothills on the
+other side of the mountain.  The path continues north.
+~
+40 0 0 0 0 2
+D0
+~
+~
+0 0 4033 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4031 20 20 0 0 0 0 65535 65535
+S
+#4033
+The intersection in the foothills~
+   The small path you are following splits here.  The path continues
+north and south or you can follow a trail east into the mountains.
+~
+40 0 0 0 0 2
+D0
+~
+~
+0 0 4034 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4032 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4037 20 20 0 0 0 0 65535 65535
+S
+#4034
+The grassy area of the foothills~
+  The grass here is unusually high.  You notice several areas where
+someone or something large has crush spots of the down.  Several very
+large rocks litter this area.  You can go north, west or south.
+~
+40 0 0 0 0 2
+D0
+~
+~
+0 0 4035 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4033 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4042 20 20 0 0 0 0 65535 65535
+S
+#4035
+The foothills end~
+  At this point you are leaving the foothills.  You see a plains area
+to the north of here. To the east, you can make out the faint sprawl of
+Kortaal.
+~
+40 0 0 0 0 2
+D0
+~
+~
+0 0 4036 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4034 20 20 0 0 0 0 65535 65535
+S
+#4036
+The plains~
+   The plains.  The only exit is south.
+~
+40 0 0 0 0 2
+D2
+~
+~
+0 0 4035 20 20 0 0 0 0 65535 65535
+S
+#4037
+The foothills path~
+  A small trail winds up the mountains, through these foothills. 
+~
+40 0 0 0 0 4
+D1
+~
+~
+0 0 4033 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4038 20 20 0 0 0 0 65535 65535
+S
+#4038
+Base of the mountain~
+  The terrain becomes much more difficult to pass as the trail winds up
+the mountain side. The trees are begining to become sparse.
+~
+40 0 0 0 0 5
+D1
+~
+~
+0 0 4037 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4039 20 20 0 0 0 0 65535 65535
+S
+#4039
+A trail up the mountain~
+   Parts of the trail are littered with the bones of small animals. You
+also notice drag marks. 
+~
+40 0 0 0 0 5
+D1
+~
+~
+0 0 4038 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4040 20 20 0 0 0 0 65535 65535
+S
+#4040
+The mountain top~
+   From the top of the mountain you can see the entire Empire layed out
+before you to the east. The capital city of Kortaal looks alive with
+action and color. To the north you notice a dark cave.
+~
+40 0 0 0 0 5
+D0
+~
+~
+0 0 4041 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4039 20 20 0 0 0 0 65535 65535
+S
+#4041
+The lion's den~
+   More bones litter the ground here, as well as dried blood.
+~
+40 0 0 0 0 4
+D2
+~
+~
+0 0 4040 20 20 0 0 0 0 65535 65535
+S
+#4042
+The level foothills~
+   Exits are east and west.
+~
+40 0 0 0 0 2
+D1
+~
+~
+0 0 4034 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4043 20 20 0 0 0 0 65535 65535
+S
+#4043
+The cave entrance~
+   Exits are east and west.
+~
+40 0 0 0 0 2
+D1
+~
+~
+0 0 4042 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4044 20 20 0 0 0 0 65535 65535
+S
+#4044
+The hill giant cave~
+   Exits are east.
+~
+40 0 0 0 0 2
+D1
+~
+~
+0 0 4043 20 20 0 0 0 0 65535 65535
+S
+#4050
+The tunnel~
+   You are in a tunnel, which turns here.  The tunnel continues to the
+east and the south.
+~
+40 ad 0 0 0 3
+D1
+~
+~
+0 0 4051 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4053 20 20 0 0 0 0 65535 65535
+S
+#4051
+The tunnel~
+   You are in an east-west leading tunnel.  The tunnel is very narrow
+here.
+~
+40 ad 0 0 0 3
+D1
+~
+~
+0 0 4052 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4050 20 20 0 0 0 0 65535 65535
+S
+#4052
+The tunnel~
+   You are in an east-west leading tunnel.
+~
+40 ad 0 0 0 3
+D1
+~
+~
+0 0 4126 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4051 20 20 0 0 0 0 65535 65535
+S
+#4053
+The tunnel~
+   You are at a turn, the tunnel continues north and east.
+~
+40 ad 0 0 0 3
+D0
+~
+~
+0 0 4050 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4054 20 20 0 0 0 0 65535 65535
+S
+#4054
+The light cave~
+   You are in a cave, to south from you there is a large fire that lights
+the entire cave, to the east and west tunnels leads off.
+~
+40 d 0 0 0 2
+D1
+~
+~
+0 0 4055 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4056 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4053 20 20 0 0 0 0 65535 65535
+S
+#4055
+The maze~
+   You are in a maze of small damp tunnels.  Only exit is west to a 
+light cave.
+~
+40 adg 0 0 0 3
+D3
+~
+~
+0 0 4054 20 20 0 0 0 0 65535 65535
+S
+#4056
+The light cave~
+   You are in a light cave, a large fire in front of you lights the room.
+The cave continues to the north and south.
+~
+40 d 0 0 0 2
+D0
+~
+~
+0 0 4054 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4061 20 20 0 0 0 0 65535 65535
+E
+fire~
+Well, errh - It looks somehow quite warm..!
+~
+S
+#4057
+The maze~
+   You are in a maze of small damp tunnels.  Exits leads both north
+and south.
+~
+40 adg 0 0 0 3
+D0
+~
+~
+0 0 4055 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4062 20 20 0 0 0 0 65535 65535
+S
+#4058
+The maze~
+   You are in a maze of small damp tunnels.  Exits leads west and south.
+~
+40 adg 0 0 0 3
+D2
+~
+~
+0 0 4063 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4057 20 20 0 0 0 0 65535 65535
+S
+#4059
+The tunnel~
+   You are in a tunnel, only exit is to the east.  You sense that the
+tunnel leads slightly down.
+~
+40 acd 0 0 0 3
+D1
+~
+~
+0 0 4060 20 20 0 0 0 0 65535 65535
+S
+#4060
+The tunnel~
+   You are in a small tunnel, to the west the tunnel continues and 
+to the east you see some light.
+~
+40 ad 0 0 0 3
+D1
+~
+~
+0 0 4061 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4059 20 20 0 0 0 0 65535 65535
+S
+#4061
+The light cave~
+   You are in the south end of a light cave, tunnels leads of to the
+south and west.
+~
+40 d 0 0 0 2
+D0
+~
+~
+0 0 4056 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4065 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4060 20 20 0 0 0 0 65535 65535
+S
+#4062
+The maze~
+   You are in a maze of small damp tunnels.  Exits leads east and west.
+~
+40 adg 0 0 0 3
+D1
+~
+~
+0 0 4063 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4061 20 20 0 0 0 0 65535 65535
+S
+#4063
+The maze~
+   You are in a maze of small damp tunnels.  Exits leads north and east.
+~
+40 adg 0 0 0 3
+D0
+~
+~
+0 0 4054 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4064 20 20 0 0 0 0 65535 65535
+S
+#4064
+The tunnel~
+   You are in a tunnel, only exit is west - Only exit, well there is 
+also a hole in the ceiling.
+~
+40 ad 0 0 0 3
+D3
+~
+~
+0 0 4063 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 0 4020 20 20 0 0 0 0 65535 65535
+S
+#4065
+The maze~
+   You are in a maze of small damp tunnels.  The tunnel continues east.
+To the north there is a light cave.
+~
+40 adg 0 0 0 3
+D0
+~
+~
+0 0 4061 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4066 20 20 0 0 0 0 65535 65535
+S
+#4066
+The maze~
+   You are in a maze of small damp tunnels.  Exits leads east and
+north.  To the south is a large cave.
+~
+40 adg 0 0 0 3
+D0
+~
+~
+0 0 4062 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4067 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4069 20 20 0 0 0 0 65535 65535
+S
+#4067
+The maze~
+   You are in a maze of small damp tunnels.  Exits leads west and
+north.
+~
+40 adg 0 0 0 3
+D0
+~
+~
+0 0 4063 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4066 20 20 0 0 0 0 65535 65535
+S
+#4068
+The large cave~
+   You are in the northwest end of a large cave.
+~
+40 ad 0 0 0 2
+D1
+~
+~
+0 0 4069 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4070 20 20 0 0 0 0 65535 65535
+S
+#4069
+The large cave~
+   You are in the northeast end of a large cave.  To the north the
+is a small damp tunnel.
+~
+40 ad 0 0 0 2
+D0
+~
+~
+0 0 4066 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4071 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4068 20 20 0 0 0 0 65535 65535
+S
+#4070
+The large cave~
+   You are in the southwest end of a large cave.
+~
+40 ad 0 0 0 2
+D0
+~
+~
+0 0 4068 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4071 20 20 0 0 0 0 65535 65535
+S
+#4071
+The large cave~
+   You are in the southeast end of a large cave.  To the east you
+notice a small tunnel.
+~
+40 r 0 0 0 0
+D0
+~
+~
+0 0 4069 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4072 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4070 20 20 0 0 0 0 65535 65535
+S
+#4072
+The tunnel~
+   You are in a narrow tunnel, which leads both to the east and the
+south.  There is also an exit towards the west, where you see a large
+cave.
+~
+40 ad 0 0 0 3
+D1
+~
+~
+0 0 4073 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4074 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4071 20 20 0 0 0 0 65535 65535
+S
+#4073
+End of tunnel~
+   The tunnel stops here.  There is no other exits than the one you
+came from.
+~
+40 ad 0 0 0 3
+D3
+~
+~
+0 0 4072 20 20 0 0 0 0 65535 65535
+S
+#4074
+The hole~
+   You are at a small hole in the floor, you can either leave north
+or try your luck and leave down into the unknown!
+~
+40 ad 0 0 0 3
+D0
+~
+~
+0 0 4072 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 0 5151 20 20 0 0 0 0 65535 65535
+S
+#4075
+The foothills~
+   You are on a path leading west, small foothills begin to rise to the west
+running into the Storm Horns.
+~
+40 c 0 0 0 4
+D1
+~
+~
+0 0 3118 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4001 20 20 0 0 0 0 65535 65535
+S
+$~

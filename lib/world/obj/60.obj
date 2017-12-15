@@ -1,0 +1,312 @@
+#6000
+axe lumber~
+a lumber axe~
+A heavy lumber axe lies here.~
+~
+5 gmnort 0 0 0 an 0 0 0 0 0 0 0
+25 2 3 3 100 100 1 9 0 0 0 0 0 0 0 0
+12 50 15 0
+E
+axe lumber~
+It is a heavy axe of the kind lumberjacks use to chop down trees.
+~
+A
+18 1
+#6001
+shirt~
+a chequered shirt~
+A chequered shirt lies here.~
+~
+11 0 0 0 0 ad 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 17 0 0 0 0 0 0 0 0
+2 20 8 0
+E
+shirt~
+It is an extra large, chequered shirt made from heavy cloth.
+~
+#6002
+boots~
+a pair of worn leather boots~
+A pair of worn leather boots lies here.~
+~
+11 0 0 0 0 ag 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 6 0 0 0 0 0 0 0 0
+4 60 10 0
+E
+boots~
+They are fashioned from rough leather that has been oiled frequently to make
+it stay waterproof.  They look worn but quite functional.
+~
+#6003
+fireplace~
+a fireplace~
+A fireplace made from stone is set against the east wall.~
+~
+15 0 0 0 0 0 0 0 0 0 0 0 0
+200 0 -1 0 100 100 0 10 0 0 0 0 0 0 0 0
+0 0 0 0
+E
+fireplace~
+It is fashioned from stones of various sizes that have been stacked on top of
+each other and fastened with mortar.  Its chimney is constructed likewise and
+leads the smoke out through the low cabin ceiling.
+~
+#6004
+lantern~
+a hooded brass lantern~
+A hooded brass lantern has been left here.~
+~
+1 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 12 0 100 100 0 27 0 0 0 0 0 0 0 0
+4 60 10 0
+E
+lantern~
+It is a large and robust but somewhat battered oil lantern made from brass,
+and it is equipped with a handle to make it handy and a hood to protect its
+flame.  Some letters have been scratched on its bottom.
+~
+E
+letters~
+They say, "Use 'hold lantern' to activate."
+~
+#6005
+chest~
+a wooden chest~
+A wooden chest stands in the corner.~
+~
+15 0 0 0 0 a 0 0 0 0 0 0 0
+100 5 -1 0 100 100 0 12 0 0 0 0 0 0 0 0
+20 20 2 0
+E
+chest~
+It is a robust chest made from short, heavy planks that have been fastened
+together with tenons.  It is equipped with a simple brass lock.
+~
+#6006
+key~
+a small brass key~
+A small brass key lies here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 27 0 0 0 0 0 0 0 0
+1 10 4 0
+E
+key~
+It is a small, simple brass key with no inscriptions or marks of any kind.
+~
+#6007
+coins gold~
+a heap of gold coins~
+Some gold coins lie piled up in a heap on the floor.~
+~
+20 0 0 0 0 a 0 0 0 0 0 0 0
+127 0 0 0 100 100 0 4 0 0 0 0 0 0 0 0
+0 0 0 0
+E
+coins~
+The coins seem to be gold.  They are obviously valuable.
+~
+#6008
+vest leather elven~
+a leather elven vest~
+A leather vest, made for an elf, lies here.~
+~
+9 0 0 0 0 ado 0 0 0 0 0 0 0
+20 1 6 0 100 100 10 6 0 0 0 0 0 0 0 0
+12 10 2 0
+#6010
+berries black blackberries~
+some blackberries~
+Some blackberries grow on a bush nearby.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+3 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+1 10 10 0
+E
+blackberries berries black~
+They look very tasty indeed.
+~
+#6011
+mushroom~
+a mushroom~
+A small mushroom grows nearby.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+6 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+1 10 10 0
+E
+mushroom~
+It is a tasty little thing.
+~
+#6012
+sign~
+a large sign~
+A large sign mounted on a pole is standing by the roadside.~
+~
+12 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 12 0 0 0 0 0 0 0 0
+100 0 0 0
+E
+pole~
+Not the most interesting pole in the world.
+Better leave it here, though, as it holds the sign in place.
+~
+E
+sign~
+It says :-
+
+                    The King's Forest
+                         --------
+
+ You are now entering the King's Forest. Imperial law is as follows:
+One may hunt in the King's Forest, provided one does so on one's own.
+Large-scale hunts are banned, with offenders being jailed or assigned
+to help dredge the Starwater or drafted into the Imperial Army.
+~
+#6013
+barrel water~
+a barrel~
+A water barrel has been left here.~
+~
+17 0 0 0 0 a 0 0 0 0 0 0 0
+40 40 15 0 100 100 0 12 0 0 0 0 0 0 0 0
+45 60 20 0
+#6014
+water brook~
+a small brook~
+A small brook trickles through the forest beside the path.~
+The water looks clean and refreshing.
+~
+23 0 0 0 0 0 0 0 0 0 0 0 0
+-1 1 15 0 100 100 0 14 0 0 0 0 0 0 0 0
+50005 0 0 0
+#6015
+lake water~
+the lake~
+Undefined~
+~
+23 0 0 0 0 0 0 0 0 0 0 0 0
+-1 1 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+1000 0 0 0
+#6016
+oak oaken cudgel limb~
+an oaken cudgel~
+A limb has fallen here.~
+The cudgel looks quite sturdy, and would make a nice weapon.
+~
+5 g 0 0 0 an 0 0 0 0 0 0 0
+3 1 7 7 100 100 0 12 0 0 0 0 0 0 0 0
+16 1 20 0
+A
+19 2
+A
+1 -2
+#6017
+corpse boar~
+the corpse of a boar~
+The corpse of a freshly killed boar is here, decaying.~
+~
+15 0 0 0 0 0 0 0 0 0 0 0 0
+100 0 -1 0 100 100 0 14 0 0 0 0 0 0 0 0
+500 1 1 0
+#6018
+slab meat~
+a large slab of meat~
+A large piece of freshly cut boar meat is on the ground here.~
+It looks quite filling.
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+36 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+15 4 1 0
+#6019
+pair tusks~
+a pair of boar tusks~
+A pair of large boar tusks have been dropped here.~
+They look like they might be worth something to a craftsman.
+~
+8 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+10 60 1 0
+#6020
+log floating~
+a hollow log~
+A large, hollow log is laying here.~
+It looks like it would probably float.
+~
+22 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 12 0 0 0 0 0 0 0 0
+20 2 1 0
+E
+log~
+It looks like it would probably float.
+~
+#6021
+nest~
+the bird's nest~
+Undefined~
+~
+15 0 0 0 0 0 0 0 0 0 0 0 0
+10 0 -1 0 100 100 0 14 0 0 0 0 0 0 0 0
+0 0 0 0
+#6022
+egg robins~
+a blue robin's egg~
+A small bluish egg has been left here.~
+It is small, but food nonetheless.
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+3 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+1 0 0 0
+#6023
+meat rabbit~
+a piece of rabbit meat~
+A large piece of rabbit meat.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+10 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+5 2 0 0
+#6024
+meat deer venison~
+a piece of venison~
+A large piece of venison.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+24 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+10 8 1 0
+#6025
+key~
+a gate key~
+A small iron key, with a tarnished handle.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 5 0 0 0 0 0 0 0 0
+1 50 5 0
+#6026
+key~
+a house key~
+A house key lies here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 27 0 0 0 0 0 0 0 0
+1 50 0 0
+E
+key~
+The key is just a simple brass key. There is a small ZL carved into it.
+~
+#6027
+key gold~
+a golden key~
+A golden key, rather expencive looking has been left here carelessly.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 4 0 0 0 0 0 0 0 0
+1 500 100 0
+#6028
+key wooden~
+a wooden key~
+A wooden key, finly crafted has been left here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 12 0 0 0 0 0 0 0 0
+1 100 10 0
+$~

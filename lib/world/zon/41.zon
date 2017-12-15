@@ -1,0 +1,19 @@
+#41
+None.~
+Lower Storm Horns~
+4100 4199 48 2
+M 0 4100 1 4114 0 	(the magi)
+G 1 4102 10 -1 0 	(a scroll which reads "ysafg")
+M 0 4101 1 4122 0 	(the troll)
+M 0 4102 1 4111 0 	(the snake)
+G 1 4104 3 -1 0 	(a green slime mold)
+M 0 4103 6 4103 0 	(the thief)
+M 0 4103 2 4124 0 	(the thief)
+E 1 1312 3 16 0 	(an unholy black long sword)
+M 0 4105 3 4108 0 	(a centipede)
+M 0 4106 2 4113 0 	(the warrior)
+E 1 1230 15 7 0 	(a pair of dark green pants)
+M 0 4107 1 4119 0 	(the kobold)
+G 1 4104 10 -1 0 	(a green slime mold)
+S
+$

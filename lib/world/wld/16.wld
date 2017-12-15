@@ -1,0 +1,316 @@
+#1600
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+  
+This zone is primarily used for utility purposes.   
+  
+The default IMMORTAL START ROOM is located in this zone.
+~
+16 dk 0 0 0 0
+S
+#1601
+Corridors of Marduk~
+    This room is for Chaos.
+~
+16 0 0 0 0 0
+D0
+~
+~
+0 -1 3001 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 12016 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 11403 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11904 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 6078 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 11002 20 20 0 0 0 0 65535 65535
+S
+#1602
+Corridors of Marduk~
+   This room is for Chaos.
+~
+16 d 0 0 0 0
+D0
+~
+~
+0 -1 11403 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 3073 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12011 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11004 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 11823 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 6078 20 20 0 0 0 0 65535 65535
+S
+#1603
+Corridors of Marduk~
+This room is for Chaos, and the Brotherhood!
+~
+16 0 0 0 0 0
+D0
+~
+~
+0 0 11403 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 3073 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 12011 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 11004 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 0 11823 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 0 6078 20 20 0 0 0 0 65535 65535
+S
+#1614
+Before the Temple~
+   Before you lies a huge temple, carved of black marble and covered with some
+kind of slimey green vines. Carved from the very outter walls are hidious 
+gargoyles, demons and worse. The huge iron doors are coverd with many Tsalari
+runic symbols. 
+~
+16 0 0 0 0 2
+D0
+Beyond the door lies the Temple of Marduk.
+~
+iron door huge north n~
+2 1609 1615 20 20 0 0 0 0 65535 65535
+D3
+Toward the city of Mariak.~
+~
+0 -1 1453 20 20 0 0 0 0 65535 65535
+S
+#1615
+Inside the Temple~
+   You stand in a place that few mortals have ever stood, inside the main
+Temple of Marduk. To the north you can see the audience chamber and altar. A
+small cloak room lies to the east, and south is outside this vile place.
+~
+16 d 0 0 0 0
+D0
+~
+~
+0 -1 1617 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 1616 20 20 0 0 0 0 65535 65535
+D2
+~
+iron door huge south s~
+2 7001 1614 20 20 0 0 0 0 65535 65535
+S
+#1616
+Cloak room~
+   This place is for visitors to Marduk's Temple to leave their belongings, if
+they so desire, or to donate them to others.
+~
+16 d 0 0 0 0
+D3
+~
+~
+0 -1 1615 20 20 0 0 0 0 65535 65535
+S
+#1617
+Audience chamber~
+   Here is where the followers of Marduk sit, and listen to their High Priest
+give sermons. There are several rows of smooth, plush benches looking inviting
+you to listen to the Words of Marduk.
+~
+16 d 0 0 0 0
+D0
+~
+~
+0 -1 1618 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 1615 20 20 0 0 0 0 65535 65535
+S
+#1618
+The Altar of Sacrifice~
+   The chamber here is very large, and torches and candles burn all around.  The
+floor is smooth, carved stone etched with the magical protections of the
+Tsalari.  The altar itself is a large granite slab, over ten feet in length
+resting on two intricately decorated wooden blocks.  Several heavy looking
+leather straps have been attached to either end.  In front of the altar, a large
+leather tome lies open in a pedestal.  The far back wall is decorated with
+several large tapestries.  
+~
+16 d 0 0 0 0
+D2
+~
+~
+0 0 1617 20 20 0 0 0 0 65535 65535
+D3
+~
+door~
+2 7001 1619 15 20 0 0 0 0 65535 65535
+E
+pedistal book leather heavy~
+Resting on the pedistal is the Book of Lammashta, recovered for the Church
+by TaAyln and Zhaelor.
+~
+E
+walls tapestries~
+One of the tapestries depicts a powerful Tsalari, traveling with Marlock -
+Demon son of Marduk. Another shows an undead drow leading the forces of Marduk
+into battle.
+~
+S
+#1619
+The chambers of the High Priest~
+   This large room is decorated richly in blacks, deep reds and gold trim.
+Along the far wall is a bookcase filled from floor to ceiling with ancient
+books. There is also a large bed, and dresser here.
+~
+16 d 0 0 0 0
+D0
+~
+door north n~
+2 1399 1620 20 20 0 0 0 0 65535 65535
+D1
+~
+door east e~
+2 7001 1618 20 20 0 0 0 0 65535 65535
+S
+#1620
+Landing Pad~
+   The clearing contains a concealed landing pad. There is a building to
+the south.
+~
+16 q 0 0 0 0
+D2
+~
+door south s~
+2 1399 1619 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 1621 20 20 0 0 0 0 65535 65535
+S
+#1621
+Uncomfortably overlooking the landscape~
+   From this vantage point, you can see the entire Empire of Toran spread
+out. You would guess you are several miles off the ground.
+~
+16 q 0 0 0 9
+D4
+~
+~
+0 -1 1631 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 1620 20 20 0 0 0 0 65535 65535
+S
+#1629
+Inside the shuttle~
+   You are standing inside the shuttle, to the north is the cockpit where
+the controls are.
+~
+16 degh 0 0 0 0
+D0
+~
+~
+0 -1 1630 20 20 0 0 0 0 65535 65535
+S
+#1630
+Cockpit~
+   What a fun word that is. Cockpit.
+~
+16 degh 0 0 0 0
+D2
+~
+~
+0 -1 1629 20 20 0 0 0 0 65535 65535
+S
+#1631
+The upper atmosphere of Toran~
+   Your continue to spiral upward toward the stars!
+~
+16 q 0 0 0 9
+D5
+~
+~
+0 -1 1621 20 20 0 0 0 0 65535 65535
+S
+#1632
+Test room~
+   You can go up if you are flying, and down if you can breathe
+underwater.
+~
+16 0 0 0 0 6
+D4
+~
+~
+0 -1 1633 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 1634 20 20 0 0 0 0 65535 65535
+S
+#1633
+Flying~
+   You are flying if you are here.
+~
+16 0 0 0 0 8
+D5
+~
+~
+0 -1 1632 20 20 0 0 0 0 65535 65535
+S
+#1634
+Underwater~
+   You are underwater if you are here.
+~
+16 0 0 0 0 9
+D4
+~
+~
+0 -1 1632 20 20 0 0 0 0 65535 65535
+S
+#1650
+Test Room~
+This room is for testing.
+~
+16 d 0 0 0 0
+S
+$~

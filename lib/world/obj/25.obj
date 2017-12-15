@@ -1,0 +1,365 @@
+#2500
+fountain~
+a dried up fountain~
+In the center of the room is a circular, moated pool that looks as if it was
+once a fountain, now dry and choked with stony rubble.~
+~
+15 0 0 0 0 0 0 0 0 0 0 0 0
+10 0 0 0 100 100 0 10 0 0 0 0 0 0 0 0
+100 0 0 0
+Z
+4
+#2501
+key brass~
+a brass key~
+A small brass key has been left here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 27 0 0 0 0 0 0 0 0
+1 1 1 0
+Z
+4
+#2502
+ring brass~
+a simple ring of brass~
+A simple brass ring has been dropped here.~
+~
+11 0 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 27 0 0 0 0 0 0 0 0
+1 10 1 0
+Z
+4
+#2503
+corpse human soldier~
+a corpse~
+The freshly slain corpse of a human soldier lies here.~
+~
+15 0 0 0 0 0 0 0 0 0 0 0 0
+100 0 -1 0 100 100 0 14 0 0 0 0 0 0 0 0
+150 0 0 0
+Z
+4
+E
+corpse human soldier~
+He look as if he was part of some army, but you do not recognize the 
+crest he wears on his armor. Apparently struck by something on the face,
+arms, and chest that produced frostbite, this man is very dead. He bears
+scars that resemble bony hand marks.
+~
+#2504
+jug wine~
+a jug of wine~
+An old jug of wine has been left here.~
+~
+17 0 0 0 0 a 0 0 0 0 0 0 0
+10 8 2 1 100 100 0 1 0 0 0 0 0 0 0 0
+13 10 1 0
+Z
+4
+#2505
+corpse gorkel soldier~
+a gorkel corpse~
+The freshly slain corpse of a gorkel soldier lies here.~
+~
+15 0 0 0 0 0 0 0 0 0 0 0 0
+100 0 -1 0 100 100 0 14 0 0 0 0 0 0 0 0
+150 0 0 0
+Z
+4
+E
+corpse gorkel soldier~
+He look as if he was part of some army, but you do not recognize the 
+crest on his armor. Apparently struck by something on the face,
+arms, and chest that produced frostbite, this gorkel is very dead. He
+bears scars that resemble bony hand marks.
+~
+#2506
+tools thieves' thieves~
+a set of thieves' tools~
+A small pouch of thieves' tools has been left here.~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 5 0 0 0 0 0 0 0 0
+1 30 3 0
+Z
+4
+#2507
+pouch leather~
+a small leather pouch~
+A small leather pouch has been left here.~
+~
+15 0 0 0 0 a 0 0 0 0 0 0 0
+10 1 -1 0 100 100 0 6 0 0 0 0 0 0 0 0
+1 2 1 0
+Z
+4
+#2508
+tourmaline blue-red blue red gem~
+a piece of blue-red tourmaline~
+A valuable gem, a blue-red piece of tourmaline, has been left here.~
+~
+8 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 34 0 0 0 0 0 0 0 0
+3 100 10 0
+Z
+4
+#2509
+note~
+a note~
+A note has been left here.~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 16 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+E
+note~
+The note reads: Be it known that the bearer of this note, Sabrar Filifar,
+                is an agent of my army and will be afforded every courtsey.
+                 --Lashan
+~
+#2510
+corpse human soldier~
+a corpse~
+The freshly slain corpse of a human soldier lies here.~
+~
+15 0 0 0 0 0 0 0 0 0 0 0 0
+100 0 -1 0 100 100 0 14 0 0 0 0 0 0 0 0
+150 0 0 0
+Z
+4
+E
+corpse human soldier~
+He look as if he was part of some army, but you do not recognize the 
+crest he wears on his armor. Apparently struck by something on the face,
+arms, and chest that produced frostbite, this man is very dead. He bears
+scars that resemble bony hand marks.
+~
+#2511
+book spellbook~
+a spellbook~
+A magical books has been dropped here by some magi.~
+~
+29 g 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 16 0 0 0 0 0 0 0 0
+10 1200 100 0
+Z
+4
+S
+20 1
+S
+1 2
+S
+5 2
+S
+8 2
+S
+29 4
+S
+19 4
+S
+26 6
+S
+30 6
+S
+2 10
+S
+53 4
+S
+52 14
+S
+31 6
+#2512
+chest wooden~
+a large wooden chest~
+A sturdy looking wooden chest, with a brass lock on it, sits here.~
+~
+15 0 0 0 0 a 0 0 0 0 0 0 0
+25 9 2599 0 100 100 0 12 0 0 0 0 0 0 0 0
+10 2 1 0
+Z
+4
+#2513
+helm steel~
+a steel helm, with a red plume~
+A red plumed, steel helmet has been left here.~
+~
+9 0 0 0 0 ae 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 9 0 0 0 0 0 0 0 0
+10 30 3 0
+Z
+4
+#2514
+vial potion green~
+a small vial of green liquid~
+A small vial of green liquid has been left here.~
+~
+10 g 0 0 0 a 0 0 0 0 0 0 0
+2 16 16 -1 100 100 0 13 0 0 0 0 0 0 0 0
+2 10 10 0
+Z
+4
+#2515
+vial potion green~
+a small vial of green liquid~
+A small vial of green liquid has been left here.~
+~
+10 g 0 0 0 a 0 0 0 0 0 0 0
+20 33 33 33 100 100 0 13 0 0 0 0 0 0 0 0
+2 10 10 0
+Z
+4
+#2516
+vial potion green~
+a small vial of green liquid~
+A small vial of green liquid has been left here.~
+~
+10 g 0 0 0 a 0 0 0 0 0 0 0
+20 33 33 33 100 100 0 13 0 0 0 0 0 0 0 0
+2 10 10 0
+Z
+4
+#2517
+gold crowns coins pile~
+a pile of gold crowns~
+A small pile of gold crowns has been left here.~
+~
+20 0 0 0 0 a 0 0 0 0 0 0 0
+120 0 0 0 100 100 0 4 0 0 0 0 0 0 0 0
+12 120 120 0
+Z
+4
+#2518
+corpse human soldier~
+a corpse~
+The freshly slain corpse of a human soldier lies here.~
+~
+15 0 0 0 0 0 0 0 0 0 0 0 0
+100 0 -1 0 100 100 0 14 0 0 0 0 0 0 0 0
+150 0 0 0
+Z
+4
+E
+corpse human soldier~
+He look as if he was part of some army, but you do not recognize the 
+crest he wears on his armor. Apparently struck by something on the face,
+arms, and chest that produced frostbite, this man is very dead. He bears
+scars that resemble bony hand marks.
+~
+#2519
+corpse human soldier~
+a corpse~
+The freshly slain corpse of a human soldier lies here.~
+~
+15 0 0 0 0 0 0 0 0 0 0 0 0
+100 0 -1 0 100 100 0 14 0 0 0 0 0 0 0 0
+150 0 0 0
+Z
+4
+E
+corpse human soldier~
+He look as if he was part of some army, but you do not recognize the 
+crest he wears on his armor. Apparently struck by something on the face,
+arms, and chest that produced frostbite, this man is very dead. He bears
+scars that resemble bony hand marks.
+~
+#2520
+corpse human soldier~
+a corpse~
+The freshly slain, partly eaten corpse of a human soldier lies here.~
+~
+15 0 0 0 0 0 0 0 0 0 0 0 0
+100 0 -1 0 100 100 0 14 0 0 0 0 0 0 0 0
+150 0 0 0
+Z
+4
+E
+corpse human soldier~
+He look as if he was part of some army, but you do not recognize the 
+crest he wears on his armor. You cannot really tell how he died, as his
+remains have been partly eaten by something.
+~
+#2521
+corpse human soldier~
+a corpse~
+The freshly slain, partly eaten corpse of a human soldier lies here.~
+~
+15 0 0 0 0 0 0 0 0 0 0 0 0
+100 0 -1 0 100 100 0 14 0 0 0 0 0 0 0 0
+150 0 0 0
+Z
+4
+E
+corpse human soldier~
+He look as if he was part of some army, but you do not recognize the 
+crest he wears on his armor. You cannot really tell how he died, as his
+remains have been partly eaten by something.
+~
+#2522
+corpse human soldier~
+a corpse~
+The freshly slain, partly eaten corpse of a human soldier lies here.~
+~
+15 0 0 0 0 0 0 0 0 0 0 0 0
+100 0 -1 0 100 100 0 14 0 0 0 0 0 0 0 0
+150 0 0 0
+Z
+4
+E
+corpse human soldier~
+He look as if he was part of some army, but you do not recognize the 
+crest he wears on his armor. You cannot really tell how he died, as his
+remains have been partly eaten by something.
+~
+#2523
+spike iron~
+an iron spike~
+An iron spike has been left here.~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 5 0 0 0 0 0 0 0 0
+1 1 1 0
+Z
+4
+#2524
+mallet wooden~
+a wooden mallet~
+A wooden mallet, used to drive spikes, has been left here.~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 12 0 0 0 0 0 0 0 0
+1 1 1 0
+Z
+4
+#2525
+blanket wool~
+a wool blanket~
+A simple wool blanket has been left here.~
+~
+12 0 0 0 0 ak 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 24 0 0 0 0 0 0 0 0
+1 1 1 0
+Z
+4
+#2526
+tankard pewter water~
+a pewter tankard~
+A pewter tankard, in need of a good polish, has been left here.~
+~
+17 0 0 0 0 a 0 0 0 0 0 0 0
+3 0 0 0 100 100 0 30 0 0 0 0 0 0 0 0
+2 10 1 0
+Z
+4
+#2527
+key redstone~
+a small brass key~
+A small brass key with a red handle has been left here.~
+~
+12 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 27 0 0 0 0 0 0 0 0
+2 10 1 0
+Z
+4
+$~

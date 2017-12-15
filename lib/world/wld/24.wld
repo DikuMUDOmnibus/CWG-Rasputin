@@ -1,0 +1,823 @@
+#2400
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+ 
+This zone runs to the eastern border of Toran, toward Nelva. There is also
+a small cave complex in the Manticore Hills which connects to and ancient 
+Tsalari summoning site underground.  It also links up the town of Tldo.
+
+This zone links up with zones: 21 and 113
+~
+24 dk 0 0 0 0
+S
+#2401
+Dark passage~
+    The passage runs north-south here with faint tracks going in both 
+directions. In the distance you hear a scraping sound echoing softly.
+~
+24 ad 0 0 0 4
+D0
+~
+~
+0 -1 2402 20 20 0 0 0 0 65535 65535
+D1
+~
+secret east e~
+3 2400 2408 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2403 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2478 20 20 0 0 0 0 65535 65535
+S
+#2402
+Dark passage~
+    The passage continues east and south, you can see a dim light from the
+enterance which lies to the south. East the gloom thickens.
+~
+24 ad 0 0 0 4
+D1
+~
+~
+0 -1 2406 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2401 20 20 0 0 0 0 65535 65535
+S
+#2403
+Dark passage~
+    The main path turns east here, but there is also a small tunnel that 
+heads south the east. You feel as though you are being watched. To the 
+north you see the dim light from outside.
+~
+24 ad 0 0 0 4
+D0
+~
+~
+0 -1 2401 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2404 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2405 20 20 0 0 0 0 65535 65535
+S
+#2404
+Dark tunnel~
+    You think you hear the footsteps of another creature, but the echos 
+come from all directions. It is impossible to tell. The tunnel runs 
+east-west.
+~
+24 ad 0 0 0 4
+D0
+~
+secret north n~
+3 2400 2408 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2409 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2403 20 20 0 0 0 0 65535 65535
+S
+#2405
+A bend in the passage~
+    The small tunnel leads north, and east. You can see the glow of a small
+campfire to the east.
+~
+24 ad 0 0 0 4
+D0
+~
+~
+0 -1 2403 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2412 20 20 0 0 0 0 65535 65535
+S
+#2406
+Drafty passage~
+    A light breeze blows here from the east, and you can smell cooking meat.
+A small tunnel braches off to the north, and the main passage runs east-west.
+~
+24 ad 0 0 0 4
+D0
+~
+~
+0 -1 2407 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2411 20 20 0 0 0 0 65535 65535
+D2
+~
+secret south s~
+3 2400 2408 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2402 20 20 0 0 0 0 65535 65535
+S
+#2407
+Long tunnel~
+    This natural looking tunnel runs a ways to the east and also exits to
+the south.
+~
+24 ad 0 0 0 4
+D1
+~
+~
+0 -1 2414 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2406 20 20 0 0 0 0 65535 65535
+S
+#2408
+Hidden Room~
+    Hidden behind false walls, you have found a sturdy looking wooden ladder
+which decends further into the darkness. From below you can hear grunts of
+goblinoid language.
+~
+24 ad 0 0 0 4
+D0
+~
+north n secret passage~
+3 2400 2406 20 20 0 0 0 0 65535 65535
+D1
+~
+east e secret passage~
+3 2400 2410 20 20 0 0 0 0 65535 65535
+D2
+~
+south s secret passage~
+3 2400 2404 20 20 0 0 0 0 65535 65535
+D3
+~
+west w secret passage~
+3 2400 2401 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 2416 20 20 0 0 0 0 65535 65535
+S
+#2409
+Twisted tunnel~
+    Here the tunnel twists shaprly to the north. You can see a 
+few crude drawings on the walls here. The tunnel also runs to 
+the west.
+~
+24 ad 0 0 0 4
+D0
+~
+~
+0 -1 2410 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2404 20 20 0 0 0 0 65535 65535
+E
+crude drawings~
+The drawings appear to depict several dark skinned elves, but 
+it is unclear what they are doing.
+~
+S
+#2410
+Narrow passage~
+    You squeeze through this tunnel with minor difficulty, the 
+sides narrow quite abit. The passage runs north-south.
+~
+24 ad 0 0 0 4
+D0
+~
+~
+0 -1 2411 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2409 20 20 0 0 0 0 65535 65535
+D3
+~
+secret passage~
+3 2400 2408 20 20 0 0 0 0 65535 65535
+S
+#2411
+Twisted tunnel~
+    The tunnel twists to the west here. You are not sure if 
+this passage is natural or carved, at any rate it looks well 
+used.
+~
+24 ad 0 0 0 4
+D2
+~
+~
+0 -1 2410 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2406 20 20 0 0 0 0 65535 65535
+S
+#2412
+Long tunnel~
+    The passage runs east-west here, and you can see a small 
+campfire to the east.
+~
+24 ad 0 0 0 4
+D1
+~
+~
+0 -1 2413 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2405 20 20 0 0 0 0 65535 65535
+S
+#2413
+Dead end~
+    Burning in a small fire pit is a campfire. It looks like 
+you are not the only one here searching for something...
+~
+24 acd 0 0 0 4
+D3
+~
+~
+0 -1 2412 20 20 0 0 0 0 65535 65535
+S
+#2414
+Long tunnel~
+    The tunnel runs east-west here, and extends for quite a 
+distance. It smells as though animals may be living here.    
+~
+24 ad 0 0 0 4
+D1
+~
+~
+0 -1 2415 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2407 20 20 0 0 0 0 65535 65535
+S
+#2415
+Dead end~
+    It looks as though several creatures have been living in 
+this area, judging by the smell.
+~
+24 acd 0 0 0 4
+D3
+~
+~
+0 -1 2414 20 20 0 0 0 0 65535 65535
+S
+#2416
+Deeper underground~
+    Leading up into the darkness above you see a sturdy 
+ladder. You are in a tiny, roughly carved room which empties 
+out to the east.
+~
+24 ad 0 0 0 4
+D1
+~
+~
+0 -1 2417 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 2408 20 20 0 0 0 0 65535 65535
+S
+#2417
+Narrow passage~
+    From all around you, you hear creatures moving about in 
+the darkness. The passage runs north-south here, and you can 
+see a small niche in the west wall.
+~
+24 ad 0 0 0 4
+D0
+~
+~
+0 -1 2418 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2419 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2416 20 20 0 0 0 0 65535 65535
+S
+#2418
+Tunnel bend~
+    The noise of creatures grows louder, it sounds like it is 
+comming from the east. From the darkness. To the south lies a 
+small passage.
+~
+24 ad 0 0 0 4
+D1
+~
+~
+0 -1 2421 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2417 20 20 0 0 0 0 65535 65535
+S
+#2419
+Junction tunnel~
+    Both the noise and gloom continue. The tunnel continues to 
+run north-south, and you notice a niche in the eastern wall.
+~
+24 ad 0 0 0 4
+D0
+~
+~
+0 -1 2417 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2425 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2420 20 20 0 0 0 0 65535 65535
+S
+#2420
+Caved in area~
+    This area looks as though it has recently caved in, but 
+enough has been cleared away so you may continue west or north.
+~
+24 ad 0 0 0 4
+D0
+~
+~
+0 -1 2419 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2423 20 20 0 0 0 0 65535 65535
+S
+#2421
+Guarded passage~
+    On the walls there are two small torches, which light the 
+area enough for you to see the guards whom do not wish to 
+allow you further passage.
+~
+24 d 0 0 0 4
+D1
+~
+~
+0 -1 2422 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2418 20 20 0 0 0 0 65535 65535
+S
+#2422
+Dead end~
+    This is a dead end in more ways than one. Before you sits 
+the throne of the Orcish King. No doubt his is unhappy about 
+your intrustion to his domain.
+~
+24 acd 0 0 0 4
+D0
+~
+secret door~
+3 2401 2426 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2421 20 20 0 0 0 0 65535 65535
+S
+#2423
+Narrow tunnel~
+    The tunnel runs east-west here, and to the east it looks 
+like there may have been a cave in not too long ago. You can 
+hear creatures moving about to the west.
+~
+24 ad 0 0 0 4
+D1
+~
+~
+0 -1 2420 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2424 20 20 0 0 0 0 65535 65535
+S
+#2424
+Dead end~
+    There has been a recent cave in here, and it looks as if it has opened
+up a new series of caverns to the west.
+~
+24 ad 0 0 0 4
+D1
+~
+~
+0 -1 2423 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2129 20 20 0 0 0 0 65535 65535
+S
+#2425
+Dead end~
+    The tunnel here ends abubtly, and it looks like a few 
+creatures have been lvining in this area.
+~
+24 ad 0 0 0 4
+D3
+~
+~
+0 -1 2419 20 20 0 0 0 0 65535 65535
+S
+#2426
+Treasure room~
+    Here you stand in the secret treasure room of the Orcish 
+King. There are many interesting objects laying about.
+~
+24 ad 0 0 0 4
+D2
+~
+secret door~
+3 2401 2422 20 20 0 0 0 0 65535 65535
+S
+#2427
+Manticore Way~
+    Before you lies the road known as Manticore Way. Just to 
+the west lies the small village of Tldo. Far to the east lies 
+the Nelven Empire.
+~
+24 0 0 0 0 2
+D1
+~
+~
+0 -1 2428 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11301 20 20 0 0 0 0 65535 65535
+S
+#2428
+Manticore Way~
+    The Manticore Way runs from Tldo in Toran to the boarder 
+of the Nelven Empire. You see a slightly less used path to the 
+north.
+~
+24 0 0 0 0 2
+D0
+~
+~
+0 -1 2429 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2432 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2427 20 20 0 0 0 0 65535 65535
+S
+#2429
+Worn trail~
+    This trail looks like it gets very little use, but it runs 
+north into some small hills and south back to Manticore Way.
+~
+24 0 0 0 0 2
+D0
+~
+~
+0 -1 2430 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2428 20 20 0 0 0 0 65535 65535
+S
+#2430
+Worn trail~
+    This trail looks like it gets very little use, but it runs 
+north into some small hills and south back to Manticore Way.
+~
+24 0 0 0 0 2
+D0
+~
+~
+0 -1 2431 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2429 20 20 0 0 0 0 65535 65535
+S
+#2431
+Worn trail~
+    This trail looks like it gets very little use, but it runs 
+into an odd looking entrance set into the hillside to the 
+east, and south toward Manticore Way.
+~
+24 0 0 0 0 2
+D1
+~
+~
+0 -1 2478 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2430 20 20 0 0 0 0 65535 65535
+S
+#2432
+Manticore Way~
+    Manticore Way is an often used trade route from Tldo to 
+the Nelven Empire to the east. To the north, in the distance 
+you can see some small hills.
+~
+24 0 0 0 0 2
+D1
+~
+~
+0 -1 2433 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2428 20 20 0 0 0 0 65535 65535
+S
+#2433
+Manticore Way~
+    Manticore Way is an often used trade route from Tldo to 
+the Nelven Empire to the east. To the north, in the distance 
+you can see some small hills.
+~
+24 0 0 0 0 2
+D1
+~
+~
+0 -1 2434 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2432 20 20 0 0 0 0 65535 65535
+S
+#2434
+Manticore Way~
+    Manticore Way is an often used trade route from Tldo to 
+the Nelven Empire to the east. To the north, in the distance 
+you can see some small hills.
+~
+24 0 0 0 0 2
+D1
+~
+~
+0 -1 2435 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2433 20 20 0 0 0 0 65535 65535
+S
+#2435
+Manticore Way~
+    Manticore Way is an often used trade route from Tldo to 
+the Nelven Empire to the east. To the north, in the distance 
+you can see some small hills.
+~
+24 0 0 0 0 2
+D1
+~
+~
+0 -1 2436 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2434 20 20 0 0 0 0 65535 65535
+S
+#2436
+Manticore Way~
+    Manticore Way is an often used trade route from Tldo to 
+the Nelven Empire to the east. To the north, in the distance 
+you can see some small hills.
+~
+24 0 0 0 0 2
+D1
+~
+~
+0 -1 2437 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2435 20 20 0 0 0 0 65535 65535
+S
+#2437
+Manticore Way~
+    Manticore Way is an often used trade route from Tldo to 
+the Nelven Empire to the east. To the south, in the distance 
+you can see some grouping of trees.
+~
+24 0 0 0 0 2
+D1
+~
+~
+0 -1 2438 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2436 20 20 0 0 0 0 65535 65535
+S
+#2438
+Manticore Way~
+    Manticore Way is an often used trade route from Tldo to 
+the Nelven Empire to the east. To the south lies a path into a 
+small forest.
+~
+24 0 0 0 0 2
+D1
+~
+~
+0 -1 2439 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2442 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2437 20 20 0 0 0 0 65535 65535
+S
+#2439
+Manticore Way~
+    Manticore Way is an often used trade route from Tldo to 
+the Nelven Empire to the east. To the south, in the distance 
+you can see some grouping of trees.
+~
+24 0 0 0 0 2
+D1
+~
+~
+0 -1 2440 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2438 20 20 0 0 0 0 65535 65535
+S
+#2440
+Manticore Way~
+    Manticore Way is an often used trade route from Tldo to 
+the Nelven Empire to the east. To the south, in the distance 
+you can see some grouping of trees.
+~
+24 0 0 0 0 2
+D1
+~
+~
+0 -1 2441 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2439 20 20 0 0 0 0 65535 65535
+S
+#2441
+Edge of the Empire~
+    You have reached, currently, the edge of the Empire. Just 
+to the east lies the Empire of Nelva. For now, this is as far 
+as you go...
+~
+24 0 0 0 0 2
+D3
+~
+~
+0 -1 2440 20 20 0 0 0 0 65535 65535
+S
+#2442
+Small forest~
+    You are standing in a small forest, near the Manticore 
+Way. It is very peaceful here, and you can hear birds 
+chirping. To the south you hear running water.
+~
+24 0 0 0 0 2
+D0
+~
+~
+0 -1 2438 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2443 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2445 20 20 0 0 0 0 65535 65535
+S
+#2443
+Small forest, near a house~
+    The forest thins out abit to the east, where you can see 
+someone has build a small house. It is very quaint and looks 
+inviting.
+~
+24 0 0 0 0 2
+D1
+~
+door~
+1 -1 2444 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2446 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2442 20 20 0 0 0 0 65535 65535
+S
+#2444
+Small house~
+    It appers that someone lives here, but they are not home 
+at the present. The house is sparcely decorated with various 
+personal items.
+~
+24 0 0 0 0 2
+D3
+~
+door~
+1 -1 2443 20 20 0 0 0 0 65535 65535
+S
+#2445
+Small forest~
+    You are standing in a small forest, near the Manticore 
+Way. It is very peaceful here, and you can hear birds 
+chirping.
+~
+24 0 0 0 0 2
+D0
+~
+~
+0 -1 2442 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2446 20 20 0 0 0 0 65535 65535
+S
+#2446
+Small forest~
+    You are standing in a small forest, near the Manticore 
+Way. It is very peaceful here, and you can hear birds 
+chirping. To the west you hear running water.
+~
+24 0 0 0 0 2
+D0
+~
+~
+0 -1 2443 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2445 20 20 0 0 0 0 65535 65535
+S
+#2477
+Corridors of Marduk~
+This room is for chaos.
+~
+24 ad 0 0 0 0
+D0
+~
+~
+0 -1 2400 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2414 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2410 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2425 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 2424 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 2477 20 20 0 0 0 0 65535 65535
+S
+#2478
+Cavern entrance~
+    You stand on the threshold of a dark cavern set into the side of a 
+small hill. There are faint tracks to be found everywhere.
+~
+24 acd 0 0 0 4
+D1
+~
+~
+0 -1 2401 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2431 20 20 0 0 0 0 65535 65535
+S
+$~

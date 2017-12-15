@@ -1,0 +1,456 @@
+#4100
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+
+This zone is the lower level of the Storm Horn mountians, west of Kortaal.
+
+This zone links up with zones: 40.
+~
+41 dk 0 0 0 0
+S
+#4101
+The long tunnel~
+   You are in a long east-west leading tunnel.  The tunnel is quite
+wide at this point.
+~
+41 ad 0 0 0 3
+D1
+~
+~
+0 0 4126 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4102 20 20 0 0 0 0 65535 65535
+S
+#4102
+The long tunnel~
+   You are in a long east-west leading tunnel.  The tunnel becomes
+narrow to the west.
+~
+41 ad 0 0 0 3
+D1
+~
+~
+0 0 4101 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4103 20 20 0 0 0 0 65535 65535
+S
+#4103
+The long tunnel~
+   You are in a long east-west leading tunnel.  The tunnel is quite
+narrow at this point.  You notice a small hole leading south.
+~
+41 ad 0 0 0 3
+D1
+~
+~
+0 0 4102 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4106 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4104 20 20 0 0 0 0 65535 65535
+S
+#4104
+The end of the tunnel~
+   You stand at the end of a long running tunnel. From this point of view,
+you can notice a gentle upward slope of the eastern tunnel. 
+~
+41 ad 0 0 0 3
+D1
+~
+~
+0 0 4103 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 -1 20 20 0 0 0 0 65535 65535
+S
+#4105
+The golden cave~
+   You are in a giant cave, all the walls are shining with a soft golden
+light.  The cave continues to the south and west.
+~
+41 d 0 0 0 1
+D2
+~
+~
+0 0 4108 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4106 20 20 0 0 0 0 65535 65535
+E
+light gold golden~
+It looks good, but as you look closely you notice that it has no value.
+~
+S
+#4106
+The golden cave~
+   You are in a giant cave, all the walls are shining with a soft golden
+light. The cave continues to the south and east, to the north in a narrow
+tunnel.
+~
+41 d 0 0 0 1
+D0
+~
+~
+0 0 4103 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4105 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4109 20 20 0 0 0 0 65535 65535
+E
+light gold golden~
+It looks good, but as you look closely you notice that it has no value.
+~
+S
+#4107
+The passage~
+   You are in a small passage, it leads south, to the west is a golden
+cave.
+~
+41 d 0 0 0 3
+D2
+~
+~
+0 0 4113 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4108 20 20 0 0 0 0 65535 65535
+S
+#4108
+The golden cave~
+   You are in a giant cave, all the walls are shining with a soft golden
+light.  The cave continues to the north and west, east from you there is
+a small passage.
+~
+41 d 0 0 0 1
+D0
+~
+~
+0 0 4105 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4107 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4109 20 20 0 0 0 0 65535 65535
+E
+light gold golden~
+It looks good, but as you look closely you notice that it has no value.
+~
+S
+#4109
+The golden cave~
+   You are in a giant cave, all the walls are shining with a soft golden
+light.  The cave continues to the south, east and north.
+~
+41 cd 0 0 0 1
+D0
+~
+~
+0 0 4106 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4108 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4114 20 20 0 0 0 0 65535 65535
+E
+light gold golden~
+It looks good, but as you look closely you notice that it has no value.
+~
+S
+#4110
+The hole~
+   Here the tunnel comes to an end. The walls are smooth, and the area is
+dominated by a fair sized hole in the floor.
+~
+41 acd 0 0 0 3
+D3
+~
+~
+0 0 4111 20 20 0 0 0 0 65535 65535
+E
+hole floor down n~
+The hole leads to unknown darkness below. You would guess that it is
+several thousand feet to the bottom, at least. You cannot actually see any
+type of bottom.
+~
+S
+#4111
+The tunnel~
+   You are in a small tunnel, it leads from east to the west.
+~
+41 ad 0 0 0 3
+D1
+~
+~
+0 0 4110 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4112 20 20 0 0 0 0 65535 65535
+S
+#4112
+The tunnel~
+   You are in a larger tunnel, it leads from west to east.
+~
+41 ad 0 0 0 3
+D1
+~
+~
+0 0 4111 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4113 20 20 0 0 0 0 65535 65535
+S
+#4113
+The passage~
+   You are in a passage that leads towards the south.  To the east 
+you see a tunnel.
+~
+41 ad 0 0 0 3
+D0
+~
+~
+0 0 4107 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4112 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4116 20 20 0 0 0 0 65535 65535
+S
+#4114
+The golden cave~
+   You are in a giant cave, all the walls are shining with a soft golden
+light.  The cave continues to the north, to the west you see a dark 
+passage.
+~
+41 d 0 0 0 1
+D0
+~
+~
+0 0 4109 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4115 20 20 0 0 0 0 65535 65535
+E
+light gold golden~
+It looks good, but as you look closely you notice that it has no value.
+~
+S
+#4115
+The dark passage~
+   You are in a dark passage, that leads east.  In the ceiling you notice
+a small hole, just big enough to pass through.
+~
+41 acd 0 0 0 3
+D1
+~
+~
+0 0 4114 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 0 4021 20 20 0 0 0 0 65535 65535
+S
+#4116
+The passage~
+   You are in a passage that leads north-south.  You notice a small
+light to the south.
+~
+41 ad 0 0 0 3
+D0
+~
+~
+0 0 4113 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4120 20 20 0 0 0 0 65535 65535
+E
+light~
+Well you can't see where it comes from..
+~
+S
+#4117
+The secret tunnel~
+   You are in a secret tunnel that leads north, to the south you see
+a small chamber.
+~
+41 acd 0 0 0 3
+D0
+~
+~
+0 0 4114 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4122 20 20 0 0 0 0 65535 65535
+S
+#4118
+The cave~
+   You are in a light cave, from torches several feet above your
+head fire lights the room.  The cave continues to the west and south.
+To the north a small hole leads to a tunnel.
+~
+41 d 0 0 0 1
+D0
+~
+~
+0 0 4111 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4123 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4119 20 20 0 0 0 0 65535 65535
+S
+#4119
+The cave~
+   You are in a light cave, from torches several feet above your
+head fire lights the room.  The cave continues to the east and south.
+~
+41 d 0 0 0 1
+D1
+~
+~
+0 0 4118 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4124 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4121 20 20 0 0 0 0 65535 65535
+S
+#4120
+The passage~
+   You are in a north-south leading passage.  To the south you see
+light.
+~
+41 ad 0 0 0 3
+D0
+~
+~
+0 0 4116 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 4125 20 20 0 0 0 0 65535 65535
+E
+light~
+It nearly is enough to light the passage.
+~
+S
+#4121
+The secret tunnel~
+   You are in a secret tunnel that leads west, you feel evilness
+approaching you as you continue west.
+~
+41 ad 0 0 0 3
+D3
+~
+~
+0 0 4122 20 20 0 0 0 0 65535 65535
+S
+#4122
+The secret chamber~
+   You are in a secret chamber, the room is filled with an evil
+feeling.
+~
+41 ad 0 0 0 3
+D0
+~
+~
+0 0 4117 20 20 0 0 0 0 65535 65535
+S
+#4123
+The cave~
+   You are in a light cave, from torches several feet above your
+head fire lights the room.  The cave continues to the north and west.
+~
+41 d 0 0 0 1
+D0
+~
+~
+0 0 4118 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4124 20 20 0 0 0 0 65535 65535
+S
+#4124
+The cave~
+   You are in a light cave, from torches several feet above your
+head fire lights the room.  The cave continues to the east and north.
+To the west a passage leads north.
+~
+41 d 0 0 0 1
+D0
+~
+~
+0 0 4119 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4123 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 4125 20 20 0 0 0 0 65535 65535
+S
+#4125
+The passage~
+   You are in a passage, to the east you see a cave.  Light from the
+cave lights up the passage.  To the north the passage leads into
+the darkness..
+~
+41 d 0 0 0 3
+D0
+~
+~
+0 0 4120 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 4124 20 20 0 0 0 0 65535 65535
+S
+#4126
+The tunnel~
+   Suddenly you feel that the tunnel leads slightly down..  The only
+exit is to the west, and it leads down..
+~
+41 acd 0 0 0 3
+D3
+~
+~
+0 0 4101 20 20 0 0 0 0 65535 65535
+S
+$~

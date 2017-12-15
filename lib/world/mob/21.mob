@@ -1,0 +1,72 @@
+#2100
+azag-thoth azag thoth~
+the Azag-thoth~
+A twisted cross breed, an Azag-thoth, is here looking for something to
+kill.
+~
+The Azag-thoth is a bizzare, magical crossbreed of several members of the
+goblinoid family. The end result is a very evil, very powerful monster.
+It stands 5'5" and looks like it's solid muscle.
+~
+dj 0 0 0 l 0 0 0 -1000 E
+18 20 -2 18d6+18 1d8+4
+0 30000 10 3
+8 8 0
+E
+#2101
+demon four-legged~
+the four-legged demon~
+A strange four-legged demon is here.
+~
+The demon thing is unlike anything you've seen before. Standing on four legs,
+with a height of four and a half feet a the shoulder, the twisted, evil looking
+things notices your attention and begins to drool on itself.
+~
+djl 0 0 0 elq 0 0 0 -1000 E
+20 20 -3 20d8+40 2d6+5
+0 36000 10 3
+8 8 0
+E
+#2102
+demon tenticled~
+the tenticled demon~
+A tall, vaguly human looking, tenticled demons is here, flapping it's wings.
+~
+This tall, quasihuman looking demon is hovering just off the ground here. His 
+body resembes that of a very well built human male, but his head is totally
+inhuman. His large, bulbus yellow eyes follow your every move, and from where
+his nose should be, there are hundreds of tiny tenticles covering where his
+mouth should be, you can't even tell if he has one or not. On his back are
+huge, leathery wings.
+~
+djl 0 0 0 elqx 0 0 0 -1000 E
+22 20 -8 22d8+44 2d8+6
+0 42000 10 3
+9 9 1
+E
+#2103
+demon guardian~
+the guardian of Deknur~
+The guardian of Deknur is here, guarding.
+~
+The guardian of Deknur looks like a tenticaled demon, only five times larger!
+~
+bdejlnq 0 0 0 egilq 0 0 0 -1000 E
+26 20 -9 26d8+78 2d8+6
+0 54000 10 3
+8 8 1
+E
+#2104
+apprentice tsalari goroth~
+Goroth the Tsalari~
+An apprentice Tsalari is here, overseeing the Lab.
+~
+Tall, and gaunt, Goroth is dressed in long black robes, that are covered
+with various protection runes.
+~
+dehjklnqr 0 0 0 cegi 0 0 0 -1000 E
+15 20 10 15d4+45 1d4+2
+15 21000 0 0
+8 8 1
+E
+$

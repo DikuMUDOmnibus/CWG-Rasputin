@@ -1,0 +1,284 @@
+#400
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+  
+This zone contains the School of Dziak, and is hidden off of the King's
+Forest. Dziak and her students have traveled from Loncair, which lies
+far, far to the south of Maaken. 
+  
+This zone links up with zone: 60
+~
+4 dk 0 0 0 0
+E
+wall hole~
+There is a small hole in the floor before the wall.
+~
+S
+#401
+A dark tunnel~
+    The tunnel widens here slightly, and continues west into @bdarkness@n and
+east toward a @Ytorch-lit@n area. There is an @galcove@n set in the north wall.
+~
+4 ad 0 0 0 0
+D1
+A @Ytorch-lit@n area.
+~
+~
+0 -1 412 20 20 0 0 0 0 65535 65535
+D3
+A darkened area.
+~
+~
+0 -1 402 20 20 0 0 0 0 65535 65535
+E
+statuette~
+The statuette depicts a small, odd @ydemon@n. It appears to be mostly @Rclaws@n
+and @Rteeth@n. You would not like to meet this thing in the dark!
+~
+E
+north wall alcove~
+A small, @g4@n' by @g2@n', alcove has been carved into the northern wall. 
+It is filled by a @mstatuette@n.
+~
+S
+#402
+End of the tunnel~
+    The tunnel comes to an end along the western wall, but there is a @bdoorway@n 
+with a large, black door set into it. 
+~
+4 ad 0 0 0 0
+D1
+A darkened area.
+~
+~
+0 -1 401 20 20 0 0 0 0 65535 65535
+D3
+You almost miss the door in the blackness of the room.
+~
+door west w black large~
+1 400 403 20 20 0 0 0 0 65535 65535
+E
+door black large~
+The door looks like a @Brecent@n addition to the cave, here perhaps five years. 
+It is @rmassive@n, and the hinges are on the wrong side of you.
+~
+S
+#403
+Natural crossroads~
+    This whole area must be part of an underground cavern, the walls are 
+smooth and the ceiling is seven feet high. There is a @Ylit@n chandeler 
+hanging just above your head. Ahead to the west you can see some sort of 
+chamber, @Ylit@n with candles. Also torch light comes from the north and south. 
+~
+4 d 0 0 0 0
+D0
+You see a natural tunnel.
+~
+~
+0 -1 404 20 20 0 0 0 0 65535 65535
+D1
+~
+door black large east e~
+1 401 402 20 20 0 0 0 0 65535 65535
+D2
+You see a natural tunnel. 
+~
+~
+0 -1 407 20 20 0 0 0 0 65535 65535
+D3
+There is a candle lit chamber in the distance.
+~
+~
+0 -1 409 20 20 0 0 0 0 65535 65535
+S
+#404
+A natural cavern~
+    This is a small natual cavern. A simple @ywooden@n door is set in 
+the east wall. A slightly more ornate @miron@n bound door lies to the west. 
+~
+4 d 0 0 0 0
+D1
+There is a wooden door in the wall here.
+~
+wooden door east e~
+1 -1 405 20 20 0 0 0 0 65535 65535
+D2
+The tunnel leads south to the natural crossroads.
+~
+~
+0 -1 403 20 20 0 0 0 0 65535 65535
+D3
+There is a large ornate door here.
+~
+ornate iron west w~
+1 -1 406 20 20 0 0 0 0 65535 65535
+S
+#405
+A simple bed chamber~
+    This small cave seems to be a dormitory for several people. The north 
+and south walls are lined with several beds each. The eastern wall bears 
+three night stands complete with wash basins.
+~
+4 d 0 0 0 0
+D3
+There is a wooden door in the wall here.
+~
+wooden door west w~
+1 -1 404 20 20 0 0 0 0 65535 65535
+S
+#406
+A simple bed chamber~
+    This small cave seems to be a dormitory for several people. The north 
+and south walls are lined with several beds each. The western wall bears 
+three night stands complete with wash basins.
+~
+4 d 0 0 0 0
+D1
+There is a large ornate door here.
+~
+ornate iron east e~
+1 -1 404 20 20 0 0 0 0 65535 65535
+S
+#407
+A natural cavern~
+    This is a small natural cavern. A simple @ywooden@n door is set in the 
+east wall.
+~
+4 d 0 0 0 0
+D0
+The tunnel leads north to the natural crossroads.
+~
+~
+0 -1 403 20 20 0 0 0 0 65535 65535
+D1
+There is a wooden door in the wall here.
+~
+wooden door east e~
+1 401 408 20 20 0 0 0 0 65535 65535
+S
+#408
+A small library~
+    This small cave has been cleaned and fitted with shelving. 
+The shelves are filled with bound @mbooks@n. The books vary in 
+size and shape. In the center of the cave is a small table 
+with a @Yglowing@n jar sitting upon it.
+~
+4 d 0 0 0 0
+D3
+There is a wooden door in the wall here.
+~
+wooden door west w~
+1 401 407 20 20 0 0 0 0 65535 65535
+E
+table jar center~
+The jar appears to contain a ball of magical @Ylight@n. You wonder 
+if it will ever extinguish.
+~
+E
+shelves books~
+You try to make out the titles of some of the @mbooks@n, but the 
+script they are written in seems to @Gwrithe@n and @Gtwist@n as you 
+gaze upon it. It gives you a minor @rheadache@n.
+~
+S
+#409
+A candlelit cavern~
+    The walls of the cavern have natural ridges which service 
+to hold hundreds of @Ycandles@n burning in a shrine to @BLammashta@n. 
+There are @brunic@n writings on the walls and floor as well. 
+Further west the cavern continues.
+~
+4 d 0 0 0 0
+D1
+A nautral crossroads.
+~
+~
+0 -1 403 20 20 0 0 0 0 65535 65535
+D3
+The summoning chamber.
+~
+~
+0 -1 410 20 20 0 0 0 0 65535 65535
+E
+runic writings wall walls floor~
+The characters that compose the words written here @Gwrithe@n and 
+@Gtwist@n under your inspection. You have a bad feeling about all 
+of this...
+~
+S
+#410
+The summoning chamber~
+An enormus cavern, created not by @gnature@n but by @Rmagic@n.  The room is
+mostly spherical, but the floor has been leveled off flat.  There are several
+large @ytables@n in the chamber, but it's main attraction is the large
+@Csummoning circle@n carved into the floor.  The entire circle is surrounded by
+cermonial @Ycandle burners@n and @Rflaming urns@n.  A large door stops your
+movement further west.  
+~
+4 d 0 0 0 0
+D1
+A candlelit cavern
+~
+~
+0 -1 409 20 20 0 0 0 0 65535 65535
+D3
+Another cavern
+~
+door large west w~
+2 402 411 20 20 0 0 0 0 65535 65535
+E
+summoning circle~
+The circle is carved into the floor by magical means. It 
+contains many complex @rrunic@n structures that you cannot hope to 
+understand.
+~
+E
+books papers~
+As with all other writings of the followers of @bLammashta@n, you 
+cannot make out the twisting script witten before you.
+~
+E
+tables~
+The tables contain several @bbooks@n and papers, along with many 
+different odds and ends. You would guess they are items used 
+in a @Msummoning ritual@n.
+~
+S
+#411
+Chambers of the High Priest~
+   This room has an odd oval shape. Set in the middle of the room is an
+elaborate, yet comfortable looking round bed. It has deep @rred@n sheets that are
+embroidered with runes and other sigils. Along the walls there are 
+@Ytorches@n attached to the stone, and there is a large wooden closet on 
+the back side of the room.
+~
+4 d 0 0 0 0
+D1
+A summoning chamber
+~
+door large east e~
+2 402 410 20 20 0 0 0 0 65535 65535
+S
+#412
+A dark tunnel~
+    The tunnel here runs into the @yhill@n to the west. It is @mcool@n here, 
+and damp. A small oil soaked rag @rburns@n in a holder on the east wall. 
+~
+4 d 0 0 0 0
+D1
+The wall of the cave is @girregular@n, and natural. 
+~
+hole east e~
+1 400 6022 20 20 0 0 0 0 65535 65535
+D3
+The tunnel continues west into the @bdarkness@n.
+~
+~
+0 -1 401 20 20 0 0 0 0 65535 65535
+E
+wall hole~
+There is a small hole in the floor before the wall.
+~
+S
+$~

@@ -1,0 +1,754 @@
+#5500
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+
+This zone is home to the undead Lord Kilgrave. The zone is connected north of
+Tekaro in the Northern Heartlands. The inner gate of the castle is opened
+from the inside by a gate guard who does so only at night.
+
+This zone links up with zone: 22.
+~
+55 dk 0 0 0 0
+S
+#5501
+Inside the courtyard of Castle Kilgrave~
+The courtyard looks to be a busy place. Wagon tracks and hoof prints show
+in the ground here. There is a noticeable trail from a wagon leading east.
+There is very little green vegetation.  The castle is quite impressive as
+you stand between its gates. The stone had a particular green tint to it.
+Two sentry points overlook the courtyard from the upper level.
+~
+55 0 0 0 0 2
+D0
+Inside the Castle proper!
+~
+gate north n~
+2 5501 5502 20 20 0 0 0 0 65535 65535
+D1
+Inside the courtyard.
+~
+~
+0 -1 5504 20 20 0 0 0 0 65535 65535
+D2
+Outside the walls of the Castle.
+~
+gate south s~
+2 5500 5544 20 20 0 0 0 0 65535 65535
+D3
+Inside the courtyard.
+~
+~
+0 -1 5503 20 20 0 0 0 0 65535 65535
+S
+#5502
+Inside Castle Kilgrave~
+Just inside the stone doors you see a great hall. Pillars run up, and you
+can see a balcony on the second level overlooking you at the far end. All
+the stonework here is quite strange, and deeply carved. 
+~
+55 d 0 0 0 0
+D0
+~
+~
+0 -1 5523 20 20 0 0 0 0 65535 65535
+D2
+The courtyard.
+~
+gate south s~
+2 5501 5501 20 20 0 0 0 0 65535 65535
+S
+#5503
+Inside the courtyard~
+A sentry point overlooks you, and you can feel the eyes watching. Many
+horses have come through here wearing a good path.
+~
+55 0 0 0 0 2
+D1
+~
+~
+0 -1 5501 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5505 20 20 0 0 0 0 65535 65535
+S
+#5504
+Inside the courtyard~
+The wagon tracks lead around the eastern edge of the castle, you can see a
+wagon shop set up some ways off in the eastern part of the courtyard. A
+sentry point overlooks you, and you can feel the eyes watching.
+~
+55 0 0 0 0 2
+D1
+~
+~
+0 -1 5513 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5501 20 20 0 0 0 0 65535 65535
+S
+#5505
+Inner courtyard~
+Around the western side of the castle there is a corale and building. You
+can also see a stand of seats further south.
+~
+55 0 0 0 0 2
+D1
+~
+~
+0 -1 5503 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5506 20 20 0 0 0 0 65535 65535
+S
+#5506
+Inner courtyard~
+Many horses and wagons have traveled this way over the years. The grass is
+trampled down, and it is quite dusty in this area. Further north you see a
+building.
+~
+55 0 0 0 0 2
+D0
+~
+~
+0 -1 5507 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 5505 20 20 0 0 0 0 65535 65535
+S
+#5507
+Stable Grounds~
+This area is fenced off to keep the horses in. The building attached to
+the pen area helps to take care of their needs. The castle is to the east,
+you can see arrowslits and windows overlooking you from above. 
+~
+55 0 0 0 0 2
+D0
+~
+~
+0 -1 5508 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 5506 20 20 0 0 0 0 65535 65535
+S
+#5508
+Stable Grounds~
+This area is fenced off to keep the horses in. The building attached to
+the pen area helps to take care of their needs. The castle is to the east,
+you can see arrowslits and windows overlooking you from above. To the west
+you can enter the stable building.
+~
+55 0 0 0 0 2
+D0
+~
+~
+0 -1 5509 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 5507 20 20 0 0 0 0 65535 65535
+D3
+~
+door west w~
+1 5599 5514 20 20 0 0 0 0 65535 65535
+S
+#5509
+Jousting Practice Area~
+The Lord of the Castle is quite a fan of jousting, and encourages his
+warriors to learn the artform. A stand of seats has been constructed to
+the north to watch the action. You stand around the back of the castle.
+~
+55 0 0 0 0 2
+D1
+~
+~
+0 -1 5510 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 5508 20 20 0 0 0 0 65535 65535
+S
+#5510
+Jousting Practice Area~
+The Lord of the Castle is quite a fan of jousting, and encourages his
+warriors to learn the artform. A stand of seats has been constructed to
+the north to watch the action. You stand around the back of the castle.
+~
+55 0 0 0 0 2
+D1
+~
+~
+0 -1 5511 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5509 20 20 0 0 0 0 65535 65535
+S
+#5511
+Jousting Practice Area~
+The Lord of the Castle is quite a fan of jousting, and encourages his
+warriors to learn the artform. A stand of seats has been constructed to
+the north to watch the action. You stand around the back of the castle.
+~
+55 0 0 0 0 2
+D2
+~
+~
+0 -1 5512 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5510 20 20 0 0 0 0 65535 65535
+S
+#5512
+Kilgrave courtyard~
+The courtyard here is almost overgrown with large vine plants which have
+begun to cling to the walls of the castle and climb up. To the east you
+can see a covered wagon, and many goods on display. 
+~
+55 0 0 0 0 2
+D0
+~
+~
+0 -1 5511 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 5522 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 5513 20 20 0 0 0 0 65535 65535
+S
+#5513
+Kilgrave courtyard~
+You get a stange feeling as you pass this part of the courtyard. It seems
+as though you are being watched from above. A short distance to the
+northeast you see a covered wagon. 
+~
+55 0 0 0 0 2
+D0
+~
+~
+0 -1 5512 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5504 20 20 0 0 0 0 65535 65535
+S
+#5514
+Inside the stable~
+All around the stable you see things like saddles and horseshoes. There
+are some bits of hay scattered around also.
+~
+55 d 0 0 0 0
+D0
+~
+~
+0 -1 5515 20 20 0 0 0 0 65535 65535
+D1
+~
+door east e~
+1 5599 5508 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5516 20 20 0 0 0 0 65535 65535
+S
+#5515
+Stable~
+All around the stable you see things like saddles and horseshoes. There
+are some bits of hay scattered around also.
+~
+55 d 0 0 0 0
+D2
+~
+~
+0 -1 5514 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5517 20 20 0 0 0 0 65535 65535
+S
+#5516
+Stable stair~
+All around the stable you see things like saddles and horseshoes. There
+are some bits of hay scattered around also. A winding stair leads up to a
+second level loft area.
+~
+55 d 0 0 0 0
+D1
+~
+~
+0 -1 5514 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 5520 20 20 0 0 0 0 65535 65535
+S
+#5517
+Stable~
+All around the stable you see things like saddles and horseshoes. There
+are some bits of hay scattered around also. A fair sized hole in the floor
+has a ladder leading into the ground!
+~
+55 d 0 0 0 0
+D1
+~
+~
+0 -1 5515 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 5518 20 20 0 0 0 0 65535 65535
+S
+#5518
+Basement~
+The basement is damp and cool. The walls are lined with a greyish stone
+that help keep it cool. There are faint drag marks in the dirt floor.
+~
+55 dr 0 0 0 0
+D1
+~
+~
+0 -1 5519 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 5517 20 20 0 0 0 0 65535 65535
+S
+#5519
+Basement~
+The basement is damp and cool. The walls are lined with a greyish stone
+that help keep it cool. There is a wooden table here.
+~
+55 dr 0 0 0 0
+D3
+~
+~
+0 -1 5518 20 20 0 0 0 0 65535 65535
+E
+wooden table~
+The table looks like some kind of workspace. There is a candle burnt down
+to a stub in a candleholder, and a dried out inkwell.
+~
+S
+#5520
+Stablemaster's loft~
+The loft of the stablemaster is much cleaner than the lower level. You
+only notice a few stray pieces of hay here and there. There is a tact and
+harness mounted on the northern wall on the right of the doorway. There is
+also a window set into the southern wall.
+~
+55 d 0 0 0 0
+D0
+~
+~
+0 -1 5521 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 5516 20 20 0 0 0 0 65535 65535
+E
+window~
+Out the window you can see the courtyard and part of the corral.
+~
+E
+tact harness~
+They are made of leather and seem quite functional.
+~
+S
+#5521
+Stablemaster's loft~
+The eastern wall is dominated by a large bookcase, which is nearly
+overflowing with volumes. There is also a messy bed here, as well as a
+small table and two chairs. 
+~
+55 d 0 0 0 0
+D2
+~
+~
+0 -1 5520 20 20 0 0 0 0 65535 65535
+E
+bookcase~
+You can see many volumes. A few of them are written in common, they seem
+to be books about magical theory and ancient religion.
+~
+S
+#5522
+Wagon~
+A covered traveling wagon is parked here. It has been converted into a
+moble bazzire buying and selling just about anything!
+~
+55 0 0 0 0 0
+D3
+~
+~
+0 -1 5512 20 20 0 0 0 0 65535 65535
+S
+#5523
+Hall of Warriors~
+This hall is used by the warriors of Kilgrave to celebrate their gloryous
+victorys. They drink barrels of wine and swap stories all night long.
+Currently it is clean and well maintained, until it is next used...
+~
+55 d 0 0 0 0
+D0
+~
+~
+0 -1 5526 20 20 0 0 0 0 65535 65535
+D1
+~
+door east e~
+1 5099 5524 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 5502 20 20 0 0 0 0 65535 65535
+D3
+~
+door west w~
+1 5099 5525 20 20 0 0 0 0 65535 65535
+S
+#5524
+Waiting room~
+Those awaiting audience with Lord Kilgrave are made to wait here. The room
+is comfortable enough, with cushioned seats and a small basket of fresh
+fruits placed in the center of the room on a pedestal. 
+~
+55 d 0 0 0 0
+D3
+~
+door west w~
+1 5099 5523 20 20 0 0 0 0 65535 65535
+S
+#5525
+Meeting room~
+Many great battle plans have been laid out in this room. There is a
+massive table, with room for twelve. A large map has been unrolled upon
+the table, it is a map of the Empire of Toran. 
+~
+55 d 0 0 0 0
+D1
+~
+door east e~
+1 5099 5523 20 20 0 0 0 0 65535 65535
+S
+#5526
+Kilgrave's Hall~
+This hall is basically an extention of the Warrior's Hall. Lord Kilgrave
+is know to hold gatherings in this part of the Castle as well. Above a
+second story balcony overlooks this area. Staircases flank either side of
+the hall.
+~
+55 d 0 0 0 0
+D0
+~
+~
+0 -1 5527 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 5529 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 5523 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5528 20 20 0 0 0 0 65535 65535
+S
+#5527
+Kilgrave's Hall~
+This hall is basically an extention of the Warrior's Hall. Lord Kilgrave
+is know to hold gatherings in this part of the Castle as well. Above a
+second story balcony overlooks this area.
+~
+55 d 0 0 0 0
+D0
+~
+~
+0 -1 5535 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 5526 20 20 0 0 0 0 65535 65535
+S
+#5528
+Marble Stair~
+A fine staircase, carved of solid marble spirals up to the second story.
+A large banner with the crest of Kilgrave hangs over the stairs.
+~
+55 d 0 0 0 0
+D1
+~
+~
+0 -1 5526 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 5530 20 20 0 0 0 0 65535 65535
+S
+#5529
+Marble Stair~
+A fine staircase, carved of solid marble spirals up to the second story.
+A large banner with the crest of Kilgrave hangs over the stairs.
+~
+55 d 0 0 0 0
+D3
+~
+~
+0 -1 5526 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 5531 20 20 0 0 0 0 65535 65535
+S
+#5530
+Balcony level~
+Fine red carpeting runs over the floor of the entire second level. There
+is wood trim along the railing of the balcony, and a large mirror against
+the west wall.
+~
+55 d 0 0 0 0
+D1
+~
+~
+0 -1 5532 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 5533 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 5528 20 20 0 0 0 0 65535 65535
+S
+#5531
+Balcony level~
+Fine red carpeting runs over the floor of the entire second level. There
+is wood trim along the railing of the balcony. 
+~
+55 d 0 0 0 0
+D2
+~
+~
+0 -1 5534 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5532 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 5529 20 20 0 0 0 0 65535 65535
+S
+#5532
+Overlooking the Hall~
+Standing here you can overlook Kilgrave's Hall below. This spot is known
+as a favorite spot of Lord Kilgrave to watch his victorious warriors.
+~
+55 d 0 0 0 0
+D1
+~
+~
+0 -1 5531 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5530 20 20 0 0 0 0 65535 65535
+S
+#5533
+Overlooking the courtyard~
+From this guard post, you can see the courtyard below. There are always
+sentries posted here to give advance warning of approaching troops.
+~
+55 d 0 0 0 0
+D0
+~
+~
+0 -1 5530 20 20 0 0 0 0 65535 65535
+S
+#5534
+Overlooking the courtyard~
+From this guard post, you can see the courtyard below. There are always
+sentries posted here to give advance warning of approaching troops.
+~
+55 d 0 0 0 0
+D0
+~
+~
+0 -1 5531 20 20 0 0 0 0 65535 65535
+S
+#5535
+Throne Hall~
+You now stand in the Hall of the Throne. From here Lord Kilgrave makes
+most of his important decisions. A fine carpet runs up to the raised throne.
+~
+55 d 0 0 0 0
+D1
+~
+~
+0 -1 5538 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 5527 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5536 20 20 0 0 0 0 65535 65535
+S
+#5536
+Off of the Throne~
+This area is used by many of Kilgrave's advisors as they wait to offer
+their council. There are several chairs and benches here. A massive
+doorway and iron door is set into the west wall.
+~
+55 d 0 0 0 0
+D1
+~
+~
+0 -1 5535 20 20 0 0 0 0 65535 65535
+D3
+~
+door west w~
+2 5502 5537 20 20 0 0 0 0 65535 65535
+S
+#5537
+To the dungeon!~
+The jailer of Kilgrave's dungeon stands watch from this room. A stone
+staircase twisted into the cool earth. 
+~
+55 d 0 0 0 0
+D1
+~
+door east e~
+2 5502 5536 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 5539 20 20 0 0 0 0 65535 65535
+S
+#5538
+End of the Hall~
+This end of the hall is used for commoners who wish to view the wisdom of
+Lord Kilgrave first hand. There are three rows of plain wooden benches.
+~
+55 d 0 0 0 0
+D3
+~
+~
+0 -1 5535 20 20 0 0 0 0 65535 65535
+S
+#5539
+Dungeon of Kilgrave~
+Here is where those who displease Lord Kilgrave end up. The dungeon is
+known for being fatal to those who stay here. 
+~
+55 dr 0 0 0 0
+D1
+~
+~
+0 -1 5540 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5541 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 5537 20 20 0 0 0 0 65535 65535
+S
+#5540
+Castle dungeons~
+Here is where those who displease Lord Kilgrave end up. The dungeon is
+known for being fatal to those who stay here. 
+~
+55 dr 0 0 0 0
+D3
+~
+~
+0 -1 5539 20 20 0 0 0 0 65535 65535
+S
+#5541
+Castle dungeons~
+Here is where those who displease Lord Kilgrave end up. The dungeon is
+known for being fatal to those who stay here. 
+~
+55 dr 0 0 0 0
+D1
+~
+~
+0 -1 5539 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 5542 20 20 0 0 0 0 65535 65535
+S
+#5542
+Castle dungeons~
+Here is where those who displease Lord Kilgrave end up. The dungeon is
+known for being fatal to those who stay here. 
+~
+55 dr 0 0 0 0
+D0
+~
+~
+0 -1 5541 20 20 0 0 0 0 65535 65535
+S
+#5543
+Corridors of Marduk~
+    This room leads to various points in Castle Kilgrave.
+~
+55 degh 0 0 0 0
+D0
+~
+~
+0 -1 2206 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 5512 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 5526 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 5537 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 5504 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 5514 20 20 0 0 0 0 65535 65535
+S
+#5544
+Outer Gate of Castle Kilgrave~
+The outer wall of Castle Kilgrave stands over 30 feet tall. It is
+constructed of a blackened rock you have never seen the likes of. The wall
+looks almost as if it has grown out of the surrounding earth.  A gateway
+is part of the wall here, the doors of which rise nearly 20 feet!
+~
+55 0 0 0 0 2
+D0
+The inner courtyard of the Castle awaits...
+~
+gate north n~
+2 5500 5501 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2207 20 20 0 0 0 0 65535 65535
+S
+$~

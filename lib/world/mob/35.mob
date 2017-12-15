@@ -1,0 +1,28 @@
+#3500
+wyvern~
+the wyvern~
+A monstrous wyvern slowly circles just above your head.
+~
+This huge winged creature looks really menacing as it circles only inches
+above your head, flapping its wings and squawking very loudly.
+~
+dejlnopq 0 0 0 elx 0 0 0 -700 E
+7 20 3 7d12+14 1d8+2
+0 2920 11 3
+9 9 2
+BareHandAttack: 8
+E
+#3501
+goblin~
+the goblin~
+A mountain goblin is wandering around mumbling to himself...
+~
+You see before you a small and twisted creature with knotted muscles and
+disgustingly green skin.  Doesn't look like the type you'd invite to dinner.
+~
+cdj 0 0 0 l 0 0 0 -650 E
+3 20 6 3d8+0 1d2+0
+2 520 14 3
+8 8 1
+E
+$

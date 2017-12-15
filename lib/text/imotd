@@ -1,0 +1,15 @@
+(lib/text/imotd)
+
+Welcome to the beta release of CWG-Rasputin!
+
+It is VERY IMPORTANT to note that in the CWG-Rasputin system, the concept
+of IMMORTAL LEVEL is no longer applicable. We have converted to an ADMIN
+FLAG model which controls (in much the same way the level system did) who
+can access what as an ADMIN. 
+
+Again - YOUR IMPLEMENTOR CHARACTER IS NOT REQUIRED TO BE LEVEL 34!
+
+You will need to use : set <character> adminlevel <value> to grant them 
+powers. Set them to adminlevel 0 if you wish to remove all their powers.
+See "help adminlevel" for more.
+

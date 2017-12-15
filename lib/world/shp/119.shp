@@ -1,0 +1,112 @@
+CircleMUD v3.0 Shop File~
+#11901~
+-1
+1.1
+0.6
+1
+2
+3
+4
+5
+-1
+%s I'm sorry, we don't have any of those right now.~
+%s I'm sorry, what was that you wanted to sell?~
+%s I'm sorry, we don't deal in that. You might try one of the shops down 
+the street~
+%s I'm sorry, we are running a little low on gold right now.~
+%s Well, I've gone as low as I can. Come back when you have more money.~
+%s Here you go! That will be %d coins. Thank you and have a nice day!~
+%s It's been a pleasure doing business with you. Here's your %d coins.~
+1
+0
+11919
+0
+11922
+-1
+6
+20
+0
+0
+#11902~
+-1
+1.1
+0.6
+9
+-1
+%s We ain't carrying that right now.~
+%s What was that you wanted to sell me again?~
+%s We don't deal in that, try somewhere else.~
+%s Sorry pal, bank's closed and we aint got the money. Come back tomorrow.~
+%s Go get more money, then we'll talk!~
+%s Fine choice, now that'll be %d coins.~
+%s Alright, I'll take it, here's your %d coins.~
+1
+0
+11918
+0
+11921
+-1
+6
+20
+0
+0
+#11903~
+3031
+-1
+1.1
+0.6
+1
+15
+17
+19
+12
+-1
+%s I'm sorry, I don't have any of those right now.~
+%s I'm sorry, I didn't hear you quite right. What was that you wanted to 
+sell?~
+%s I'm sorry, we don't deal in that type of stuff, you might try one of 
+the shops down the street.~
+%s Well, the bank's closed, and we're running a little low on cash. You 
+might want to try back later.~
+%s Do you have any money in the bank? You don't have enough on you right 
+now to buy that.~
+%s Fine choice! That will be %d coins please.~
+%s Thank you very much! I needed one of those, now here's your %d coins.~
+1
+0
+11921
+0
+11924
+-1
+6
+20
+0
+0
+#11904~
+3003
+3001
+3000
+-1
+1.1
+0.6
+17
+-1
+%s That's not on the menu pal!~
+%s What were you saying you wanted to sell again?~
+%s We only deal in REAL men's drinks!~
+%s Sorry pal, aint got the cash right now.~
+%s Come back when you have more money. We don't do credit!~
+%s Fine choice sir, now that's %d coins on your tab.~
+%s I'll take it! Here's your %d coins!~
+1
+0
+11920
+0
+11965
+-1
+16
+23
+1
+7
+$~
+

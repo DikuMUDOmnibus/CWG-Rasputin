@@ -1,0 +1,62 @@
+#12002
+blue quartz~
+a piece of blue quartz~
+A small, blue quartz gem has been left here.~
+~
+8 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0
+1 10 0 0
+#12003
+moonstone~
+a moonstone~
+A nice looking moonstone has been left here.~
+~
+8 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0
+1 50 0 0
+#12004
+onyx~
+an onyx stone~
+There is an onyx stone laying on the ground here.~
+~
+8 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0
+1 50 0 0
+#12005
+jade~
+a piece of jade~
+A piece of green jade is lying here.~
+~
+8 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0
+1 100 0 0
+#12006
+garnet~
+a violet garnet~
+A nice sized violet garnet has been left here.~
+~
+8 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0
+1 150 0 0
+#12009
+key~
+a small key~
+A small, plain looking key has been dropped here.~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0
+1 50 2 0
+#12016
+key tekaro~
+a gate key made of gold~
+A large key made of gold has been dropped here.~
+~
+12 a 0 0 0 ao 0 0 0 0 0 0 0
+2 0 0 0 100 100 0 0
+10 100 20 0
+E
+key tekaro~
+The key is rather massive and apparently made of well tooled gold, inlayed with
+a pictoral representation of the city of Tekaro on it.
+~
+$~

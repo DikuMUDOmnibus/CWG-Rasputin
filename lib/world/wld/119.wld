@@ -1,0 +1,1080 @@
+#11900
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+
+This zone is for the town of Woeld. It lies in the heart of the King's Forest.
+
+This zone links up with zone: 36.
+~
+119 dk 0 0 0 0
+S
+#11901
+The Eastgate of Woeld~
+   This is the Eastgate of Woeld. Starwater road continues to the west 
+toward the center of town and to the east through the gate to Kaon. To the 
+south you see a dark alley.
+~
+119 0 0 0 0 1
+D1
+The tall gate look almost like not even an entire army could break it down.
+~
+gate~
+2 11901 3620 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 11961 20 20 0 0 0 0 65535 65535
+D3
+Starwater road continues to the west.
+~
+~
+0 0 11902 20 20 0 0 0 0 65535 65535
+S
+#11902
+Starwater Road~
+   You are on Starwater road which continues to the west toward the center of
+town and to the east toward the Eastgate of Woeld.
+~
+119 0 0 0 0 1
+D1
+The Eastgate of Woeld lies to the east.
+~
+~
+0 0 11901 20 20 0 0 0 0 65535 65535
+D3
+Starwater road continues to the west.
+~
+~
+0 0 11903 20 20 0 0 0 0 65535 65535
+S
+#11903
+Starwater Road~
+   You are on Starwater road which continues to the east and west. To the 
+north you see all the hustle and bussle of a festival going on. To the south
+is a building with a huge banner of a dragon on it.
+~
+119 0 0 0 0 1
+D0
+To the north you see the Festival Grounds.
+~
+~
+0 0 11926 20 20 0 0 0 0 65535 65535
+D1
+Starwater road continues to the east.
+~
+~
+0 0 11902 20 20 0 0 0 0 65535 65535
+D2
+To the south you see the Barracks of Woeld's Purple Dragon militia.
+~
+~
+0 0 11930 20 20 0 0 0 0 65535 65535
+D3
+The town square lies directly to the west.
+~
+~
+0 0 11904 20 20 0 0 0 0 65535 65535
+S
+#11904
+Town Square~
+  This is the town square of Woeld. Starwater road continues to the north 
+and east. Ranger's way leads to the south, and to the west lies Huntsilver 
+Drive. Even though this is a small town, this place has a very friendly 
+atmosphere.
+  A life-sized, white marble statue of \c11Slash Huntsilver\c00 stands here.
+~
+119 0 0 0 0 1
+D0
+Starwater road continues to the north.
+~
+~
+0 0 11905 20 20 0 0 0 0 65535 65535
+D1
+Starwater road continues to the east.
+~
+~
+0 0 11903 20 20 0 0 0 0 65535 65535
+D2
+Ranger's way continues to the south.
+~
+~
+0 0 11908 20 20 0 0 0 0 65535 65535
+D3
+Huntsilver drive continues to the west.
+~
+~
+0 0 11911 20 20 0 0 0 0 65535 65535
+E
+statue human male npc slash brad huntsliver~
+That marble statue is a very realistic representation of Slash Huntsilver 
+as he was in the flesh. Slash is a younger man, perhaps in his mid to late 
+20's. He's dressed in very fine clothing that obviously cost a fortune. On 
+his overcoat, you notice a small insignia that appears to be his family crest.
+~
+S
+#11905
+Starwater Road~
+  This is the north running of Starwater Road. Just to the east lies the 
+festival grounds where there is some celebration going on almost every day of
+the year. To the west is the City Hall, where all of the political business
+of Woeld is run.
+~
+119 0 0 0 0 1
+D0
+~
+~
+0 0 11906 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 11926 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 11904 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 11917 20 20 0 0 0 0 65535 65535
+S
+#11906
+Starwater Road~
+  You are on Starwater Road, which continues to the north toward Starwater
+Gate and to the south toward the town square.
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 0 11907 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 11905 20 20 0 0 0 0 65535 65535
+S
+#11907
+Starwater Gate~
+  This is Starwater Gate. Beyond the huge gate is the path that leads to the
+town of Helgor. Starwater road continues to the south toward town square.
+This side of the stockade protecting Woeld seems particularly tall. This is
+explained in the history books for being this tall to protect most of the 
+northern cities from the Goblin Marches. 
+~
+119 0 0 0 0 1
+D0
+The tall gate look as if even an entire army could not break it down.
+~
+gate~
+2 11901 3643 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 11906 20 20 0 0 0 0 65535 65535
+S
+#11908
+Ranger's Way~
+  You are standing on Ranger's Way, which continues south. To the north is 
+the town square.
+~
+119 0 0 0 0 1
+D0
+~
+~
+0 0 11904 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 11909 20 20 0 0 0 0 65535 65535
+S
+#11909
+Ranger's Way~
+  You are on Ranger's Way, which continues to the north and south. Directly 
+to the south lies the Ranger's Gate. To the east you see the merchant 
+district of Woeld.
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 0 11908 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 11920 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 11910 20 20 0 0 0 0 65535 65535
+S
+#11910
+Ranger's Gate~
+  This is the Ranger's Gate of Woeld. On the other side lies the road 
+leading south to Helin. To the west is the Rangers Guild.
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 0 11909 20 20 0 0 0 0 65535 65535
+D2
+The tall gate looks as if even an entire army could not break it down.
+~
+gate~
+2 11901 3634 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 11919 20 20 0 0 0 0 65535 65535
+S
+#11911
+Huntsilver Drive~
+  This is Huntsilver Drive. To the east lies the town square. Directly to the
+north is the City Hall, and to the south is The Ivory Dragon Tavern. 
+Huntsilver Drive continues to the west.
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 0 11917 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 11904 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 11965 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 11912 20 20 0 0 0 0 65535 65535
+S
+#11912
+Huntsilver Drive~
+  You are on Huntsilver Drive which continues to the east and west. Directly
+to the north is The Blushing Maiden Inn, run by Lord Thiombur.
+~
+119 0 0 0 0 1
+D0
+~
+~
+0 0 11916 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 11911 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 11913 20 20 0 0 0 0 65535 65535
+S
+#11913
+Huntsilver Drive~
+  Huntsilver Drive bends to the south here where you can see a huge 
+mansion at the end of it. To the north is Lord Thiombur's house.
+~
+119 0 0 0 0 1
+D0
+~
+door~
+1 11999 11915 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 11912 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 11914 20 20 0 0 0 0 65535 65535
+S
+#11914
+Huntsilver Manor~
+  Before you is one of the grandest houses you've ever seen. Being three 
+stories tall and at least 300 feet wide, it must've cost a fortune!
+~
+119 0 0 0 0 1
+D0
+~
+~
+0 0 11913 20 20 0 0 0 0 65535 65535
+D2
+~
+door~
+2 11902 11933 20 20 0 0 0 0 65535 65535
+S
+#11915
+Lord Thiombur's House~
+  You are in the home of Lord Thiombur, the Lord of Woeld. Hanging on all
+of the walls are trophies of Lord Thiombur's many victorious conquests. He
+must've been one of the greatest warriors that Toran has ever seen.
+~
+119 cd 0 0 0 0
+D2
+~
+door~
+1 11999 11913 20 20 0 0 0 0 65535 65535
+E
+document frame framed glass~
+The document reads: 
+ 
+ I, Chelnar the IV, do bestow upon Thiombur of Woeld the title of Lord, and 
+appoint him the ruler of Woeld and the surrounding area in my name.
+
+                            The day of Sun, in the month of Greengrass
+                               1360 - King Chelnar the IV of Toran
+~
+E
+wall walls trophies~
+You can see many stuffed and mounted animal heads on the walls, each one killed
+by Thiombur himself. Also, there is a document framed in glass on the wall.
+~
+S
+#11916
+The Blushing Maiden Inn~
+  This is the Blushing Maiden Inn, run by Lord Thiombur. Of course, being the
+Lord of this town, he does have attendants to see to the Inns business for 
+him while he conducts the town's business. Just by looking around the 
+reception area, you can tell that he's invested alot of money to insuring the
+comfort of his customers.
+~
+119 d 0 0 0 0
+D2
+~
+~
+0 0 11912 20 20 0 0 0 0 65535 65535
+S
+#11917
+City Hall~
+  This is the City Hall of Woeld, where all of the town's business is 
+conducted. This place is elaboratly decorated with the finest furniture in
+Toran. Just to the north of the room is a door labeled as being Lord 
+Thiombur's office.
+~
+119 cd 0 0 0 0
+D0
+~
+~
+0 0 11959 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 11905 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 11911 20 20 0 0 0 0 65535 65535
+E
+furniture finest~
+All of the furniture is carved from the strongest woods to be found within the
+Empire, and are inlayed with gold and a few small gems.
+~
+S
+#11919
+The Ranger's Guild~
+  This is where the Rangers in Woeld come to practice skills necessary to
+be an effective Ranger. All around you is equipment for practicing any kind
+of skill that Ranger's learn.
+~
+119 c 0 0 0 1
+D1
+~
+~
+0 0 11910 20 20 0 0 0 0 65535 65535
+S
+#11920
+Vendor Street~
+  This is Vendor Street, where all of the local businesses are centralized.
+To the north is Rendal's Fine Armor shop, and to the south is Bleth's 
+Weaponry. Vendor Street continues to the east and ends in one of the darkest,
+most eerie alleys you've ever seen.
+~
+119 0 0 0 0 1
+D0
+~
+~
+0 0 11921 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 11923 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 11922 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 11909 20 20 0 0 0 0 65535 65535
+S
+#11921
+Rendal's Fine Armor~
+  This is Rendal's Fine Armor shop. Hanging on the walls are everything from
+simple sandals to the heaviest, most expensive armor in Toran.
+~
+119 d 0 0 0 1
+D2
+~
+~
+0 0 11920 20 20 0 0 0 0 65535 65535
+S
+#11922
+Bleth's Weaponry~
+  You are in Bleth's Weaponry. Elaboratly displayed are weapons of every kind
+and for every purpose. You see everything from daggers to swords to clubs.
+~
+119 d 0 0 0 0
+D0
+~
+~
+0 0 11920 20 20 0 0 0 0 65535 65535
+S
+#11923
+Vendor Street~
+  You are at the east end of Vendor street. To the east lies a dark alley 
+with the stockade just on the other side of that. Vendor Street continues
+to the west, intersecting with Ranger's Way.
+~
+119 0 0 0 0 1
+D0
+~
+~
+0 0 11924 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 11960 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 11920 20 20 0 0 0 0 65535 65535
+S
+#11924
+The General Store~
+  This is Woeld's General Store. Here you can find just about anything you
+need to survive, and more. Among the items sold here, you will find food, 
+water, and many other necessities.
+~
+119 d 0 0 0 0
+D2
+~
+~
+0 0 11923 20 20 0 0 0 0 65535 65535
+S
+#11926
+The Festival Grounds~
+  This is the southwest corner of the Festival Grounds. All around you are 
+people scurring about preparing for the next festival. You see all kinds of
+booths and events being set up for peoples enjoyment.
+~
+119 c 0 0 0 1
+D0
+~
+~
+0 0 11928 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 11927 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 11903 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 11905 20 20 0 0 0 0 65535 65535
+S
+#11927
+The Festival Grounds~
+  This is the southeastern corner of the Festival Grounds. This place seems
+really huge from this corner, because there's not much going on here. This is
+where the animals are kept. There are various animals here for many different
+purposes, including rides, food, and expensive animal skin clothes.
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 0 11929 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 11926 20 20 0 0 0 0 65535 65535
+S
+#11928
+The Festival Grounds~
+  This is the northwestern corner of the Festival Grounds. In this section 
+are the entertainers getting ready to perform for the crowds.
+~
+119 0 0 0 0 1
+D1
+~
+~
+0 0 11929 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 11926 20 20 0 0 0 0 65535 65535
+S
+#11929
+The Festival Grounds~
+  This is the northeastern corner of the Festival Grounds, where all of the
+festival keep is relaxing until the big event. All around you are the
+decorators, animal trainers, and make-up artists, and many other people that
+"make the magic happen".
+~
+119 0 0 0 0 0
+D2
+~
+~
+0 0 11927 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 11928 20 20 0 0 0 0 65535 65535
+S
+#11930
+The Barracks of the Purple Dragons~
+  This is the barracks of the Purple Dragon militia of Woeld. The place is 
+lined with beds all neatly made, except of those of course with soldiers 
+sleeping in them.
+~
+119 d 0 0 0 0
+D0
+Starwater road is to the north.
+~
+~
+0 0 11903 20 20 0 0 0 0 65535 65535
+D1
+The practice yard of the Purple Dragons is to the east.
+~
+~
+0 0 11931 20 20 0 0 0 0 65535 65535
+S
+#11931
+The Practice Yard~
+  This is where the Purple Dragon soldiers who are not presently on duty or
+sleeping are practicing. Many of them are doing various body toning excercises
+varying from push ups to sword maneuver practicing.
+~
+119 0 0 0 0 0
+D3
+The barracks lie to the west.
+~
+~
+0 0 11930 20 20 0 0 0 0 65535 65535
+S
+#11933
+The Ballroom~
+  You are standing in the Ballroom of Huntsilver Manor. Everything in this
+room must have cost a fortune! There is a grand piano made by the finest
+musician in Tekaro. A crystal chandelier made by the best glass worker in
+Maaken, and a suit of armor custom made out of steel for Maestoon Huntsilver
+by Rendal Gailswind's great grandfather.
+~
+119 cd 0 0 0 0
+D0
+~
+door~
+2 11902 11914 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 11934 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 11936 20 20 0 0 0 0 65535 65535
+S
+#11934
+The Living Room~
+  You are now in the living room of Huntsilver Manor. All around is the 
+finest furniture Woeld has to offer. You see everything from Toranian 
+cedar tables to finely polished brass lamps. Obviously, this family comes 
+from money. 
+~
+119 cd 0 0 0 0
+D1
+~
+~
+0 0 11935 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 11937 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 11933 20 20 0 0 0 0 65535 65535
+S
+#11935
+The Den~
+  Here, the atmosphere is much more relaxed. This seems to be the place that
+the family spends most of their time. The furnishings here are not quite as
+expensive as that in the living room.
+~
+119 cd 0 0 0 0
+D3
+~
+~
+0 0 11934 20 20 0 0 0 0 65535 65535
+S
+#11936
+Center Hallway~
+  This is the main hallway of the manor. It runs from one end of the house to
+the other. At the western end, you can see a huge stairwell, and at the 
+eastern end you see the opening to the greenhouse.
+~
+119 cd 0 0 0 0
+D0
+~
+~
+0 0 11933 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 11937 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 11940 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 11957 20 20 0 0 0 0 65535 65535
+S
+#11937
+Center Hallway~
+  This is the middle of the center hallway. To the north is the living room
+and to the south is the kitchen. The hallway continues to the east and west.
+~
+119 cd 0 0 0 0
+D0
+~
+~
+0 0 11934 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 11938 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 11941 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 11936 20 20 0 0 0 0 65535 65535
+S
+#11938
+Center Hallway~
+  You are now in the eastern end of the hallway. Looking to the west, you see
+that it is quite long. Just to the east is the greenhouse.
+~
+119 cd 0 0 0 0
+D1
+~
+~
+0 0 11939 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 11937 20 20 0 0 0 0 65535 65535
+S
+#11939
+The Greenhouse~
+  This is the greenhouse. All around are little buds of Tyr-fira, Harfy, and
+Siriena. Many of these plants are very rare and are worth a fortune.
+~
+119 cd 0 0 0 0
+D3
+~
+~
+0 0 11938 20 20 0 0 0 0 65535 65535
+S
+#11940
+The Dining Room~
+  This is the dining room. The dining table is huge and made out of the 
+finest Toranian oak that money can buy. There are cabinets full of fine
+silverware and dishes.
+~
+119 d 0 0 0 0
+D0
+~
+~
+0 0 11936 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 11941 20 20 0 0 0 0 65535 65535
+S
+#11941
+The Kitchen~
+  This is the kitchen. People are scurrying all about preparing the next meal.
+The shelves are lined with fine herbs and spices. Hmmm, doesn't it smell good?
+~
+119 d 0 0 0 0
+D0
+~
+~
+0 0 11937 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 11942 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 11940 20 20 0 0 0 0 65535 65535
+S
+#11942
+The Pantry~
+  This pantry is full of the finest meats and breads that money can buy. Some
+of this stuff you've never seen before. There are pastries from the finest
+bakers in all of Toran. Also, along the east wall are some of the finest 
+and most expensive wines in the world.
+~
+119 cd 0 0 0 0
+D3
+~
+~
+0 0 11941 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 0 11944 20 20 0 0 0 0 65535 65535
+S
+#11944
+The Basement~
+  With only one light hanging, this place sure is dark. But there sure is alot
+of neat stuff around here. There is an erie looking door to the east, it's 
+painted black and has a symbol of a broken cross subdued on it.
+~
+119 cd 0 0 0 0
+D1
+~
+door~
+2 11902 11946 20 20 0 0 0 0 65535 65535
+D2
+~
+door~
+2 11902 11945 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 0 11942 20 20 0 0 0 0 65535 65535
+S
+#11945
+The Storage Room~
+  This is where Slash Huntsilver keeps all of his extras that he doesn't want
+to carry with him. This place is almost as dark as the basement, but much
+smaller.
+~
+119 cd 0 0 0 0
+D0
+~
+door~
+2 11902 11944 20 20 0 0 0 0 65535 65535
+S
+#11946
+Enkil's Lair~
+  This is the lair if Enkil LaRouge. In the center of the room, you see a 
+dark oak coffin with a gold crown mounted on the head of it. This place gives
+you such an eerie feeling that you almost feel like running out screaming.
+~
+119 d 0 0 0 0
+D3
+~
+~
+0 0 11944 20 20 0 0 0 0 65535 65535
+E
+coffin casket~
+This coffin looks very old, almost as if it's been around since the dawn of 
+time.
+~
+S
+#11947
+The Stairwell~
+  This is the upper half of the stairwell. It sure is a long drop down. The
+spiral stairs were built by the most learned architects in Toran.
+~
+119 cd 0 0 0 0
+D1
+~
+~
+0 0 11948 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 0 11957 20 20 0 0 0 0 65535 65535
+S
+#11948
+The Hallway~
+  This is the upstairs hallway. Even though it's not quite as long as the
+downstairs hallway, it sure does explain how the house looks so big from the 
+outside. At the eastern end, you see a balcony. To the north is the study, and
+to the south is the master bedroom.
+~
+119 cd 0 0 0 0
+D0
+~
+~
+0 0 11951 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 11949 20 20 0 0 0 0 65535 65535
+D2
+~
+door~
+2 11902 11954 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 11947 20 20 0 0 0 0 65535 65535
+S
+#11949
+The Hallway~
+  This is the eastern end of the upstairs hallway. To the north you see a huge
+room with bookshelves packed with books, and to the south you see the guest
+bedroom. The balcony lies just to the east.
+~
+119 cd 0 0 0 0
+D0
+~
+~
+0 0 11952 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 11950 20 20 0 0 0 0 65535 65535
+D2
+~
+door~
+0 11902 11955 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 11948 20 20 0 0 0 0 65535 65535
+S
+#11950
+The Balcony~
+  From here, you can see all of Woeld. The eastgate doesn't look that far
+from up here. This is a nice place to come and relax and watch all of the
+people in Woeld scurrying about doing their business.
+~
+119 c 0 0 0 0
+D3
+~
+~
+0 0 11949 20 20 0 0 0 0 65535 65535
+S
+#11951
+The Study~
+  This is the study. The room is furnished with a wide variety of furniture
+to make studying a bit more relaxing. 
+~
+119 cd 0 0 0 0
+D1
+~
+~
+0 0 11952 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 11948 20 20 0 0 0 0 65535 65535
+S
+#11952
+The Library~
+  This is the library. Lining the walls are bookshelves packed with thousands
+upon thousands of books. The subjects vary from "How To Cook Pop-Tarts" to 
+"The Metaphysical Bounries Attainable By The Average Toranian".
+~
+119 cd 0 0 0 0
+D2
+~
+~
+0 0 11949 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 11951 20 20 0 0 0 0 65535 65535
+S
+#11953
+The Master Bathroom~
+  This is one awesome bathroom! The "olymic size" bathtub has all of the 
+luxuries you could ever ask for. It also has a built in jacuzzi!
+~
+119 cd 0 0 0 0
+D1
+~
+~
+0 0 11954 20 20 0 0 0 0 65535 65535
+S
+#11954
+The Master Bedroom~
+  This bedroom is obviously intended for the lord of the house. The bed seems
+to be "double king sized" with a built in heater, massager, and other little
+things to make a good night's sleep even better.
+~
+119 cd 0 0 0 0
+D0
+~
+door~
+2 11902 11948 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 11956 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 11953 20 20 0 0 0 0 65535 65535
+S
+#11955
+The Guest Bedroom~
+  This bedroom is decorated and furnished quite luxuriously to be only a 
+guest bedroom. There is plenty of storage space in the dressers. Make yourself
+at home.
+~
+119 cd 0 0 0 0
+D0
+~
+door~
+0 11902 11949 20 20 0 0 0 0 65535 65535
+S
+#11956
+The Closet~
+  This is where Slash Huntsilver stores all of his equipment when he's not
+adventuring.
+~
+119 cd 0 0 0 0
+D0
+~
+~
+0 0 11954 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 0 11958 20 20 0 0 0 0 65535 65535
+S
+#11957
+The Stairwell~
+  You are at the base of the stairwell. The spiral stairs seem to reach up 
+forever. The center hallway leads to the east.
+~
+119 cd 0 0 0 0
+D1
+~
+~
+0 0 11936 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 0 11947 20 20 0 0 0 0 65535 65535
+S
+#11958
+The Attic~
+  This is the attic of Huntsilver Manor. This place is not what it seems 
+though. There is a little portal in the center of each wall. Each one is 
+labeled. Also, there is a huge window on the north wall, but, this is no
+ordinary window. When you look at it, you get an eerie feeling and see 
+something unusual.
+~
+119 d 0 0 0 0
+D0
+The portal to the Eastgate.
+~
+~
+0 0 11901 20 20 0 0 0 0 65535 65535
+D1
+The portal to the Starwater Gate.
+~
+~
+0 0 11907 20 20 0 0 0 0 65535 65535
+D2
+The portal to the Ranger's Gate.
+~
+~
+0 0 11910 20 20 0 0 0 0 65535 65535
+D3
+The portal to the Town Square.
+~
+~
+0 0 11904 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 0 11956 20 20 0 0 0 0 65535 65535
+E
+window~
+  As you look through this window, you see something that is almost enough to
+make you pass out. Through it is not the people of Woeld scurring about, but
+people inside little carriages with four wheels moving very fast. Also, out on
+the horizon you see large buildings reaching almost to the sky. What in the 
+world is this? As you look up out the window, you see some sort of huge metal
+bird flying at incredible speeds. Just below are people walking around talking
+into little things held to their ear. This is too wierd! Could this be a 
+vision of the future of Toran???
+~
+S
+#11959
+Lord Thiombur's Office~
+  This is Lord Thiombur's office. He spends most of the work day here 
+conducting the cities business. The room is furnished with fine office 
+furniture supplied by donations from the cities people.
+~
+119 cd 0 0 0 0
+D2
+~
+~
+0 0 11917 20 20 0 0 0 0 65535 65535
+S
+#11960
+Stockade Alley~
+  This place is so eerie. To the east is the stockade which protects Woeld
+from invasions. To the west you see Vendor Street, where all of the local
+businesses are located.
+~
+119 0 0 0 0 1
+D0
+~
+~
+0 0 11961 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 11923 20 20 0 0 0 0 65535 65535
+S
+#11961
+Stockade Alley~
+  This is the northern end of Stockade Alley. As you look south, you start to
+have second thoughts about going down it. But with the guards so close, it 
+seems to be safe.
+~
+119 0 0 0 0 1
+D0
+~
+~
+0 0 11901 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 11960 20 20 0 0 0 0 65535 65535
+S
+#11965
+The Ivory Dragon Tavern~
+  This is the Ivory Dragon Tavern, where all of the townspeople come to 
+unwind after a long hard day's work. Of course, some people come here to 
+unwind all day long. There is a wide variety of alcoholic beverages available
+here.
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 0 11911 20 20 0 0 0 0 65535 65535
+S
+$~

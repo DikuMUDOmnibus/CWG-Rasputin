@@ -1,0 +1,2060 @@
+#1400
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+  
+This zone was intended to be a starting city for evil players. Sort of 
+like the evil Kortaal or soemthing. It is the only zone connected to
+Marduk's Areas.
+  
+This zone links up zone: 16
+~
+14 dk 0 0 0 0
+S
+#1401
+Draymen Road~
+You are standing on Draymen Road which runs north and south through
+the evil city of Mariak. Erected to the east is a building. Constructed of
+marble, this building reaches unexplained heights. It's surface is fashioned
+of a black glowing substance. The entire building floats. There are particles
+of silver floating around in the air. There are exits to the East, North and
+South.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1499 20 20 0 0 0 0 65535 65535
+D1
+You see nothing special.
+~
+~
+0 0 1485 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1402 20 20 0 0 0 0 65535 65535
+S
+#1402
+Draymen Road~
+You are standing on Draymen Road which runs North and South through 
+Mariak. To the west lies a large granite archway adorned with
+the likeness of Marduk's Minions. In the center of the arch there is a
+copper plaque turned green from age. The exits lead to the North, South, and
+West into the courtyard.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1401 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1403 20 20 0 0 0 0 65535 65535
+D3
+Sounds of agony are heard from the west.
+~
+~
+0 0 1486 20 20 0 0 0 0 65535 65535
+E
+plaque~
+The plaque reads:
+                 These sacred grounds act as a outlet of amusement for the
+                    the followers of Marduk and as a torture pit for the
+                                     followers of Hek!
+~
+S
+#1403
+The T of Mariak~
+You have entered the T of Mariak. The air here is weightless and the
+area is calm. Everything from the benches lining the streets to the magician
+showing off his cantrips is surrounded by a black aura. There are exits to
+the North, South, West, and Up. At the junction of the T rests a fountain
+and to it are chained various succubi and incubi.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1402 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1404 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1429 20 20 0 0 0 0 65535 65535
+E
+fountain~
+This fountain was erected by the followers of Marduk. The elemental symbols
+etched on the ground encircling the fountain suggest that this place is the
+center of Chaos and ceremonial gatherings.
+~
+S
+#1404
+Draymen Road~
+You are standing on Draymen Road which runs North and South through
+town. This is one of the residential section of Mariak. There are children 
+playing in the streets wearing costumes resembling warriors of Marduk.
+There are exits to the North, South, and Azia Road runs East and West.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1403 20 20 0 0 0 0 65535 65535
+D1
+You see nothing special.
+~
+~
+0 0 1472 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1405 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1432 20 20 0 0 0 0 65535 65535
+S
+#1405
+Draymen Road~
+You are standing on the North South running Draymen Road. There are homes
+scattered about the street. The houses here are lavishly decorated. Silk
+silver and black carpet runs from the front steps of each home to the street.
+Each carpet is stamped with a sigil of the owners liking. The street is
+constructed of red and black marble tiles and line the road in intricate
+patterns. There are exits North and South.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1404 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1406 20 20 0 0 0 0 65535 65535
+S
+#1406
+Draymen Road~
+You are standing on Draymen Road that runs North and South through
+the city. The stench of stagnant air fills your lungs. The air
+is humid and hazy here. You fight dizziness from the awful stench. There
+are exits to the North, South, East, and West.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1405 20 20 0 0 0 0 65535 65535
+D1
+You see nothing special.
+~
+~
+0 0 1463 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1407 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1436 20 20 0 0 0 0 65535 65535
+S
+#1407
+Draymen Road~
+You are standing on Draymen Road. This part of the road borders on what
+used to be a large pool constructed of stone blocks. The water in the pool
+is stagnant, smelling of rotten vegetation. There are exits North, South and
+East.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1406 20 20 0 0 0 0 65535 65535
+D1
+You see a pool to the East.
+~
+~
+0 0 1487 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1408 20 20 0 0 0 0 65535 65535
+S
+#1408
+Draymen Road~
+You are standing on Draymen Road. On the east wall lies an opening. You
+are in one of the business parts of town. The stagnant scent can still be
+noticed as the haze grows thicker. There are exits to the North, South, and
+East.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1407 20 20 0 0 0 0 65535 65535
+D1
+You see nothing special.
+~
+~
+0 0 1483 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1409 20 20 0 0 0 0 65535 65535
+S
+#1409
+Draymen Road~
+You are standing on Draymen Road. There is a rather large cove to the east.
+Just above the opening is the word Wares . You can still smell the stagnant
+scent and the haze is growing thicker. There are exits to the North, South
+and East.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1408 20 20 0 0 0 0 65535 65535
+D1
+You see nothing special.
+~
+~
+0 0 1484 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1410 20 20 0 0 0 0 65535 65535
+S
+#1410
+Draymen Road~
+You are standing on Draymen Road. This part of the road borders on what
+used to be a large pool constructed of stone blocks. The water in the pool
+is stagnant smelling of rotten vegetation. There are exits North, South and
+East and West.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1409 20 20 0 0 0 0 65535 65535
+D1
+You see nothing special.
+~
+~
+0 0 1445 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1411 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1444 20 20 0 0 0 0 65535 65535
+S
+#1411
+Draymen Road~
+You are standing on a shaded path just off of Draymen Road. Trees line both
+sides of the road. The limbs of the trees form a canopy above your head while
+the roots swell up through the road. There are exits to the North and
+South.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1410 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1412 20 20 0 0 0 0 65535 65535
+S
+#1412
+Dead End~
+You stand on the southern edge of Draymen Road facing towards a very
+large stone wall. This wall seems to be crafted of very fine marble. The only
+exit appears to be North.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1411 20 20 0 0 0 0 65535 65535
+S
+#1413
+Along the crypt fence~
+You are traveling along the fence of Griffter's tomb. The sidewalk is
+cracked and withering away from protruding roots. The trees on the other side
+of the fence are dead and rotting. There are exits to the East, South, and
+West.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1499 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1420 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1414 20 20 0 0 0 0 65535 65535
+S
+#1414
+Along the crypt fence~
+You are traveling along the fence of Griffter's tomb. The sidewalk is
+cracked and withering away from protruding roots. The trees on the other side
+of the fence are dead and rotting. There are exits to the East and West.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1413 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1415 20 20 0 0 0 0 65535 65535
+S
+#1415
+Along the crypt fence~
+You are traveling along the fence of Griffter's tomb. The sidewalk is
+cracked and withering away from protruding roots. The trees on the other side
+of the fence are dead and rotting. There are exits to the East and West.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1414 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1416 20 20 0 0 0 0 65535 65535
+S
+#1416
+Along the crypt fence~
+You have arrived at the junctions of the north gate and east wall. In the
+corner inlaid within the marble is a symbol. Exits lead to the south on to
+Terrian Road and east along the fence.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1415 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1417 20 20 0 0 0 0 65535 65535
+E
+symbol~
+The symbol looks like:
+                          +----0----+
+                           )---*---(
+                            \  |  /
+                             \(|)/*
+                              \|/  *
+                                   *
+                                  *     *
+                                 *    *
+                                  * *
+~
+S
+#1417
+Terrian Road~
+You are standing on the North South running Terrian Road. There are walls on
+each side of you that tower to the cavern ceiling. The air is stale.
+There are exits to the North, South and East.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1416 20 20 0 0 0 0 65535 65535
+D1
+You see nothing special.
+~
+~
+0 0 1418 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1421 20 20 0 0 0 0 65535 65535
+S
+#1418
+A short cutback~
+You are standing on a short cutback that is just south of the Crypt
+Fence. There are a few shops here, some are boarded up and some are in use.
+To the South is a shop. It has a sign hanging above it. The road continues
+East and West.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1419 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1488 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1417 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign reads:
+         Welcome to Rthos's Robes and Cloaks.
+~
+S
+#1419
+A short cutback~
+You are standing on a short cutback that is just south of the Crypt
+Fence. There are a few shops here, some are boarded up and some are in use.
+To the South is a shop. It has a sign hanging above it. The road continues
+East and West.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1420 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1489 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1418 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign reads: 
+         Welcome to Azhid's maps.
+~
+S
+#1420
+The cutback~
+     You are standing on the short cutback. The road heads North back 
+to fence of Griffter's crypt. The sidewalk is different here is lined with
+cracks. Between the cracks flows a black glowing liquid. There are exits
+north and west.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1413 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1419 20 20 0 0 0 0 65535 65535
+S
+#1421
+Terrian Road~
+You are standing on Terrian Road which runs North and South. The walls 
+are towering to the cavern top. The road gets skinner as you walk. There are
+exits to the north and south.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1417 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1422 20 20 0 0 0 0 65535 65535
+S
+#1422
+Terrian Road~
+You are standing on Terrian Road which runs North and South. The walls 
+are towering to the cavern top but the road gets skinner as
+you walk. There are exits to the north and south.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1421 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1423 20 20 0 0 0 0 65535 65535
+S
+#1423
+Terrian Road~
+You are standing on Terrian Road which runs North and South. The walls 
+tower to the cavern top but the road gets skinner as you walk. There are
+exits to the north and south.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1422 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1424 20 20 0 0 0 0 65535 65535
+S
+#1424
+Terrian Road and Alshir~
+You are standing on an intersection of Terrian Road and Alshir. The north way
+is lined with towering buildings. To the south and north is Terrian Road
+while Alshir heads east.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1423 20 20 0 0 0 0 65535 65535
+D1
+You see nothing special.
+~
+~
+0 0 1425 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1433 20 20 0 0 0 0 65535 65535
+S
+#1425
+Alshir Road and Ashten Road~
+You have come upon Alshir Road and an intersection to Ashten. This is the
+part of town where the Warriors of Marduk live. There are many homes along
+Alshir Road here. Above each door is a copper plaque with crossed swords and
+the name of the Warrior. It is said that this road was named after a great
+Warrior of Marduk, Alshir. There are exits to the north, south, west, east.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1426 20 20 0 0 0 0 65535 65535
+D1
+You see nothing special.
+~
+~
+0 0 1430 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+door south~
+2 -1 1490 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1424 20 20 0 0 0 0 65535 65535
+S
+#1426
+Ashten Road~
+You are standing on Ashten Road which runs North from here. This section
+of Mariak is said to be named after a Cleric of Marduk. There are two homes
+here, one to the East and one to the West. They have steel black plaques of
+molded demons upon them. The Demons eyes glow black. Ashten roads runs north
+and south.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1427 20 20 0 0 0 0 65535 65535
+D1
+You see nothing special.
+~
+door east~
+2 -1 1493 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1425 20 20 0 0 0 0 65535 65535
+E
+demon~
+The Demon chants words at you that cannot be comprehended.
+~
+E
+home house~
+The house before you is very dark and Elaborate. It's adorned with 
+pillars and statues. The statues are finely carved replicas of the owner
+that lives within. The pillars are inscribed with unholy prayers to Marduk.
+It is said that when one rubs his hands over the prayers, Marduk answers.
+~
+S
+#1427
+Corner of Ashten and Lithus~
+You are standing on the corner of Ashten and Lithus. Ashten makes a
+sharp turn to the East here onto Lithus, the street of runes. The exits are
+east, and south.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1428 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1426 20 20 0 0 0 0 65535 65535
+S
+#1428
+Lithus Road~
+You are standing on Lithus Road. The sidewalks are sparkling with
+silver runes. There are children playing in the streets. Their bodies are
+polluted with tattoos. This section of town was dedicated to the Tsalari
+of Marduk. There is a home to the South with a sign hanging from it. Lithus
+Road continues east and west.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1429 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+door south~
+2 -1 1494 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1427 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign says:
+               This home is owned is for sale.
+~
+E
+home house~
+This house is Different from any other house you have seen througout Mariak.
+It has no windows. The whole house is dark. 
+~
+S
+#1429
+Lithus Road~
+You are standing on Lithus Road. The sidewalks are sparkling with
+silver runes. There are children playing in the streets. Their bodies are
+polluted with tattoos. This section of town was dedicated to the Tsalari
+of Marduk. There is a home to the South with a sign hanging from it. Lithus
+Road continues east and west.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1403 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+door south~
+2 -1 1495 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1428 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign says:
+               This home is for sale to an evil mage.
+~
+E
+home house~
+This house is Different from any other house you have seen throughout Mariak.
+It has no windows. The whole house is dark. 
+~
+S
+#1430
+Corner of Alshir and Azia~
+You are standing on the corner of Ashten and Azia. Ashten comes to an 
+end here and turns sharply to the North. There is a house the East with a 
+copper plaque above the door. The exits are North, and West.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1431 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1425 20 20 0 0 0 0 65535 65535
+S
+#1431
+Azia Street~
+You are standing on Azia street, one of the most calmest streets in town.
+This street seems to be where people come and rest. There are benches on both 
+sides of the road. The walls are wrote upon as well as the walk way. There
+are exits to the South and East.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1432 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1430 20 20 0 0 0 0 65535 65535
+E
+wall~
+The wall has paintings of evil words and Marduks pictures.
+~
+E
+sidewalks sidewalk~
+The sidewalks have paintings of evil prayer words and Marduks pictures.
+~
+S
+#1432
+Azia Street~
+You are standing on Azia street, one of the most calmest streets in town.
+This street seems to be where people come and rest. There are benches on both 
+sides of the road. The walls are wrote upon as well as the walk way. There
+are exits to the East and West.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1404 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1431 20 20 0 0 0 0 65535 65535
+E
+wall~
+The wall has paintings of evil words and Marduk's pictures.
+~
+E
+sidewalks sidewalk~
+The sidewalks have paintings of evil prayer words and Marduk's pictures.
+~
+S
+#1433
+Terrian and Sundown~
+You are standing on the intersection of Terrian and Sundown. Terrian 
+proceeds South and Sundown runs East. The walls here are closing in
+on you.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1434 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1437 20 20 0 0 0 0 65535 65535
+S
+#1434
+Sundown Road~
+You are standing on Sundown Road. This road is a back alley that runs East to
+Draymen Road. There are no homes or buildings but the aura is glowing blacker.
+There are exits to the West and East.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1435 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1433 20 20 0 0 0 0 65535 65535
+S
+#1435
+Sundown Road~
+You are standing on Sundown Road. This road is a back alley that runs East to
+Draymen Road. There are no homes or buildings but the aura is glowing blacker.
+There are exits to the West and East and South to Highland Road.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1436 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1439 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1434 20 20 0 0 0 0 65535 65535
+S
+#1436
+Sundown Road~
+You are standing on Sundown Road. This road is a back alley that runs East to
+Draymen Road. There are no homes or buildings but the aura is glowing blacker.
+There are exits to the West and East.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1406 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1435 20 20 0 0 0 0 65535 65535
+S
+#1437
+South Terrian~
+You are standing on South Terrian Road. Terrian ends here and turns
+to the East on to highland Road. The walls have come to a sharp point and
+do indeed end. There are exits to the North and East.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1433 20 20 0 0 0 0 65535 65535
+D1
+You see nothing special.
+~
+~
+0 0 1438 20 20 0 0 0 0 65535 65535
+S
+#1438
+Highland Road~
+You are standing on Highland Road. The road here changes from stones to dirt.
+Every step you take seems to sound hollow. The road splits here and runs
+South and East. South is Xaydem Cut. Exits are East, West, and South.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1439 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1440 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1437 20 20 0 0 0 0 65535 65535
+S
+#1439
+North Sundown and Highland~
+You are standing on the corner of Sundown and Highland. Highland turns 
+North here and heads back to Sundown. There are exits to the West and North.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1435 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1438 20 20 0 0 0 0 65535 65535
+S
+#1440
+Xaydem Cut~
+You are standing on Xandem Cut. This cut runs onto the East running Xaydem
+section. There is one house that is abandoned and boarded up. There is a
+sign over the door. Kaylor runs East and to the North is Highland Rode.
+~
+14 d 0 0 0 1
+D0
+you see nothing special.
+~
+~
+0 0 1438 20 20 0 0 0 0 65535 65535
+D1
+You see nothing special.
+~
+~
+0 0 1441 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+2 -1 1496 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign reads:
+          This house is for sale to anyone that wants it!
+~
+S
+#1441
+Section of Xaydem~
+You are standing on the East running section of Xaydem Road. To the South
+is another section of Xaydem Road. There are exits to the West and South.
+~
+14 d 0 0 0 1
+D2
+You see nothing special.
+~
+~
+0 0 1442 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1440 20 20 0 0 0 0 65535 65535
+S
+#1442
+Xaydem Road~
+You are standing on Xaydem Road which runs South and North here. To the
+South is Port Road. There are walls on both sides of this road covered with 
+mud and bones packed within. Whispers can be heard calling from within.
+There are exits to the North and South.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1441 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1443 20 20 0 0 0 0 65535 65535
+S
+#1443
+Port Road~
+You are standing on the corner of Port and Xaydem. Xaydem runs North and
+Port continues East. The walls no longer glow black but instead purple.
+The bushes in this part of town are growing fine and are blooming. There are
+exits to the North and East.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1442 20 20 0 0 0 0 65535 65535
+D1
+You see nothing special.
+~
+~
+0 0 1444 20 20 0 0 0 0 65535 65535
+S
+#1444
+Port Road~
+You are standing on Port Road. Which runs East and West. The bushes are
+growing and blooming. The walls no longer glow Black but rather purple.
+There are exits to the West and East.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1410 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1443 20 20 0 0 0 0 65535 65535
+S
+#1445
+Port Road~
+You are traveling on Port Road. This part of the road borders what used
+to be a large pool constructed of stone. The water left in the pool is cloudy
+and stagnant. There is a fountain in the middle of this pool but it doesn't
+spew water. There are exits to the West and East.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1446 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1410 20 20 0 0 0 0 65535 65535
+S
+#1446
+Port and Concer~
+You are standing on the corner of Port and Concer. The fountain looks
+even more beautiful from this view. The pool is old and withered
+away but The statue has not a scratch on it. There are exits to the South
+and West.
+~
+14 d 0 0 0 1
+D2
+You see nothing special.
+~
+~
+0 0 1447 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1445 20 20 0 0 0 0 65535 65535
+S
+#1447
+Concer Run~
+You are standing on Concer Run. Portal runs back to the North. Concer
+continues to the East. You are walking on the Southern end of the pool. Each
+step breaks away more stones from the side. Better be careful. it's a long
+way down.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1446 20 20 0 0 0 0 65535 65535
+D1
+You see nothing special.
+~
+~
+0 0 1448 20 20 0 0 0 0 65535 65535
+S
+#1448
+Concer Run~
+You are walking on Concer Run. The edge of the pool is more stable here.
+The ground is infested with glowing black moss and silver sparkles. There are
+exits to the East and West.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1449 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1447 20 20 0 0 0 0 65535 65535
+S
+#1449
+Concer at Temple Road~
+You are standing on the corner of Concer and Temple Road. Temple Road
+starts to the North. There is a building revealed, floating just above the
+pool to the North. There are exits to the North and West.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1450 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1448 20 20 0 0 0 0 65535 65535
+S
+#1450
+Temple Road~
+You are standing on the road leading to Marduk's unholy Temple. Both sides
+of the street are lined with statues of Marduk's minions. There are lamp
+posts radiating Black Light. The edge of the pool has thorn bushes growing
+up it. The sidewalk is crafted from carved marble. Legend has it that Marduk once
+roamed this part of town. There are exits to the South and East.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1451 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1449 20 20 0 0 0 0 65535 65535
+S
+#1451
+Temple Road~
+You are standing on the road leading to Marduk's unholy Temple. Both sides
+of the street are lined with statues of Marduk's minions. There are lamp
+posts radiating Black Light. The edge of the pool has thorn bushes growing
+up it. The sidewalk is crafted from carved marble. Legend has it that Marduk once
+roamed this part of town. There are exits to the North and West.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1452 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1450 20 20 0 0 0 0 65535 65535
+S
+#1452
+Temple Road Before the Temple~
+You are standing in front of Marduk's unholy Temple. The Silver sparkles
+grow thicker. The lamp post emits a more radiant black. The marble sidewalk
+has an indent of a very large foot pointing East to the entrance of Marduk's
+Temple. Off to the West there is a shop floating in thin air over the pool.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1453 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 1451 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1454 20 20 0 0 0 0 65535 65535
+E
+temple~
+The large Temple Standing before you is the Temple of Marduk. It's walls are
+black and are adorned with thorn bushes and Faces of Marduk's demons. The
+pillars are constructed of granite and inscribed with prayers. Attached to
+each pillar is a succubi.
+~
+S
+#1453
+Resting Place before the Entrance~
+The place which you stand, is the Resting place where all followers of
+Marduk come before entering his Temple. This place is for the purging
+of one's soul. The walls are granite. There are benches on both walls. On 
+each bench lays one of Marduk's unholy Books. There is a Large Iron Door
+blocking the entrance East into the Temple. There is an exit to the West.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+iron east~
+2 7001 1614 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1452 20 20 0 0 0 0 65535 65535
+S
+#1454
+Priest Shop~
+You have stepped into the Priest Shop. There is a Priest walking behind
+the counter reciting the words of Marduk. On the walls are holy symbols of 
+Marduk. To the West is an exit that leaves from behind the counter. To the
+East is back Before the Temple.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1452 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1497 20 20 0 0 0 0 65535 65535
+S
+#1455
+Temple Road~
+You are standing on the road leading to Marduk's unholy Temple. Both sides
+of the street are lined with statues of Marduk's minions. There are lamp
+posts radiating Black Light. The edge of the pool has thorn bushes growing
+up it. The sidewalk is crafted from carved marble. Legend has it that Marduk once
+roamed this part of town. There are exits to the South and East.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1456 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1452 20 20 0 0 0 0 65535 65535
+S
+#1456
+Temple Road~
+You are standing on Temple Road. Lamp post give off beautiful black light.
+There are granite benches on both sides of the street. Off to the East there
+are children playing in the dirt and mud. Temple Road boarders the Pool here.
+To the North is Zach Road. The West is Temple Road.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1457 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1455 20 20 0 0 0 0 65535 65535
+S
+#1457
+Zach Road and Temple~
+You are walking on the corner of Zach Road and Temple. Temple Road
+runs South. Zach Road runes West. This section of town boarders the pool
+offering an exceptional view of the elaborate Statue and the murky water.
+Granite benches line the banks. The sidewalks are cracked marble. There are
+exits West and South.
+~
+14 d 0 0 0 1
+D2
+You see nothing special.
+~
+~
+0 0 1456 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1458 20 20 0 0 0 0 65535 65535
+S
+#1458
+T-intersection of Zhac and Ryan~
+You are standing on the intersection of Zhac and Ryan. Ryan runs North here.
+Zhac continues East and West. 
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1478 20 20 0 0 0 0 65535 65535
+D1
+You see nothing special.
+~
+~
+0 0 1457 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1459 20 20 0 0 0 0 65535 65535
+S
+#1459
+Zhac Road~
+You are standing on Zhac Road. The view of the pool can be seen at its
+best from here. It gets really crowded here sometimes. Granite benches line
+this marble road. Exits are East and West.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1458 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1460 20 20 0 0 0 0 65535 65535
+S
+#1460
+T-intersection of Zhac and Flay~
+You are walking on an intersection of Zhac and Flay. Flay runs North.
+Zhac continues East and West. The bank of the pool here is slowing withering
+away from old age. The marble road is turning green. 
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1465 20 20 0 0 0 0 65535 65535
+D1
+You see nothing special.
+~
+~
+0 0 1459 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1461 20 20 0 0 0 0 65535 65535
+S
+#1461
+Corner of Zhac and East Sundown~
+You are standing on the corner of Zhac and East Sundown. Zhac stops here
+and turns North onto East Sundown Road. You can see the pool to the South.
+Zhac runs East. The walls of this corner are inscribed with insignia.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1462 20 20 0 0 0 0 65535 65535
+D1
+You see nothing special.
+~
+~
+0 0 1460 20 20 0 0 0 0 65535 65535
+S
+#1462
+East Sundown Road~
+You are walking on East Sundown Road. Sundown Road runs East and West
+through town. The walls of this stretch of road are disintegrating from age.
+There are piles of glowing moss and dirt that have come loose from the wall.
+There are exits to the West and South.
+~
+14 d 0 0 0 1
+D2
+You see nothing special.
+~
+~
+0 0 1461 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1463 20 20 0 0 0 0 65535 65535
+S
+#1463
+Sundown Road~
+You are walking on the East West running Sundown Road. The walls of this
+road are withering away from age. There are piles of glowing moss and dirt
+from the withering walls laying all over. Just to the South you see a little
+park with a monument in the middle and benches around it. Sundown Road runs 
+onto Draymen road to the West.
+~
+14 d 0 0 0 1
+D2
+You see nothing special.
+~
+~
+0 0 1487 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1406 20 20 0 0 0 0 65535 65535
+S
+#1464
+Flay Road~
+You are traveling on Flay Road. There are a few burnt homes to the east.
+The marble road ends here and turns to dirt. Just to the north is
+another pool. Flay road continues north and west. There are signs above each
+alcove.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1467 20 20 0 0 0 0 65535 65535
+D1
+You see nothing special.
+~
+door east~
+2 -1 1498 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1465 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign reads:
+         This place for rent. Talk to Marduk.
+~
+S
+#1465
+Flay Road~
+You are walking on the marble path of Flay Road. The marble is getting
+quite rugged here and slowly diminishing to rubble. Flay Road runs North 
+to the edge of the pool, South to Zhac Road, and East to another section of
+Flay.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1466 20 20 0 0 0 0 65535 65535
+D1
+You see nothing special.
+~
+~
+0 0 1464 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1460 20 20 0 0 0 0 65535 65535
+S
+#1466
+Flay Road at the Pool~
+You are standing on Flay road boarding the pool. This pool is constructed
+of large stone blocks. Murky water flows from it's brim and glows black.
+In the center is a marble statue of a glowing Blade balancing on its tip.
+Flay road runs East, and South.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1467 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1465 20 20 0 0 0 0 65535 65535
+S
+#1467
+Flay Road~
+You are standing on the Southern corner of the pool. The walkway is made of
+marble that have characters inscribed within. There are lamp posts all around
+bordering each side of the pool. There are exits North, South, and West.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1468 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1464 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1466 20 20 0 0 0 0 65535 65535
+S
+#1468
+Flay Road~
+You are walking on flay Road boarding the pool. Many people come here
+every day to admire the blade's beauty. The granite benches surround the pool
+on each side. There is one particular bench that catches your eye. There are
+exits to the East and South.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1469 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1467 20 20 0 0 0 0 65535 65535
+E
+bench~
+This bench is larger than the others. It's granite is a shinny gray. It's
+arm rests on each side are carved into Heads of Demons. The demon's eyes
+glow yellow. The seat is padded with the finest material. Growing up the legs
+are thistle bushes. On the back of the seat is a carving of Marduk's Symbol.
+~
+S
+#1469
+Flay Road~
+This part of Flay Road is collapsing from something heavy above. It's 
+loosing is glow. Not many people walk through here, fearing that it may come 
+down on them. There are exits to the West and North.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1470 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1468 20 20 0 0 0 0 65535 65535
+S
+#1470
+Flay Road~
+This part of Flay Road is the oldest in this Evil city. The
+ceiling is collapsing from something heavy above. Not many people pass 
+through this stretch, fearing they may be trapped if the roof caves in.
+There is an exit to the East that has been supported by wooden pillars.
+These pillars are bowing from the pressure above. Flay Road continues North.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1471 20 20 0 0 0 0 65535 65535
+D1
+You see nothing special.
+~
+~
+0 0 1482 20 20 0 0 0 0 65535 65535
+S
+#1471
+End of Flay Road~
+Flay Road ends here and starts into Baskil Road. This is the main  
+stretch of the pool where the most citizens congregate. There are a few
+fountains around. A few granite benches line the stone shore of the pool.
+The marble sidewalk is worn down from travelers that passes through.
+There are exits to the South and West.
+~
+14 d 0 0 0 1
+D2
+you see nothing special.
+~
+~
+0 0 1470 20 20 0 0 0 0 65535 65535
+D3
+you see nothing special.
+~
+~
+0 0 1472 20 20 0 0 0 0 65535 65535
+S
+#1472
+Baskil Road~
+You are standing on the main Drag of Baskil Road. This is the main  
+stretch of the pool where the most citizens congregate. There are a few
+fountains around. A few granite benches line the stone shore of the pool.
+The marble sidewalk is worn down from travel that passes through. There are
+exits to the West and East.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1471 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1473 20 20 0 0 0 0 65535 65535
+S
+#1473
+Baskil Road~
+You are standing on the main Drag of Baskil Road. This is the main  
+stretch of the pool where the most citizens congregate. There are a few
+fountains around. A few granite benches line the stone shore of the pool.
+The marble sidewalk is worn down from travel that passes through. There are
+exits to the West and East.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1472 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1474 20 20 0 0 0 0 65535 65535
+S
+#1474
+Baskil Road~
+You are standing on Baskil Road. There are roots protruding up through the
+marbel walkway from trees above. There are exits East and South.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1473 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1475 20 20 0 0 0 0 65535 65535
+S
+#1475
+Baskil Road~
+You are standing on Baskil Road. There are roots from the above trees
+protruding up through the marble walkway. There are exits North and South. 
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1474 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1476 20 20 0 0 0 0 65535 65535
+S
+#1476
+Corner of Baskil and Azia~
+You are standing on the corner of Azia Street and Baskil Road. Azia 
+street heads West here. Baskil runs North. The marble walkway is being 
+redone here because the roots from trees above have torn the marble apart.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1475 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1477 20 20 0 0 0 0 65535 65535
+S
+#1477
+Azia Street~
+ You are standing on Azia Street which runs East and West through town.
+The marble walkway is being redone here because of the roots of upper trees
+have torn it apart. There are exits East and West.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1476 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1404 20 20 0 0 0 0 65535 65535
+S
+#1478
+Ryan Lane~
+You are walking along Ryan lane. The walls here are damp. The ceiling 
+is lower than other places you've been. The black aura is almost 
+blinding. Zhac Road is to the South and Ryan Lane continues North.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1479 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1458 20 20 0 0 0 0 65535 65535
+S
+#1479
+Turn in Ryan Lane~
+Ryan Lane turns here and runs East and North. The walls here are damp.
+The ceiling here is lower than other places you have been. The black aura is
+almost blinding. There are exits South and East. 
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1480 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1478 20 20 0 0 0 0 65535 65535
+S
+#1480
+Ryan Lane~
+Ryan Lane Turns North here into a small alcove or cave. The cave opening
+is supported by wooden pillars that are bowing under pressure. Above the
+threshold is a sign. There are exits North and West.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1481 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1479 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign reads: 
+         This part of the road is under construction. Enter at your own
+         Risk.
+~
+S
+#1481
+Ryan Lane~
+You are walking on Ryan Lane. The ceiling is collapsing from pressure
+above. There are roots growing out of the wall. The ceiling is supported by
+wooden beams and pillars. Both of which, are bowing under pressure. There
+are exits North and South.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1482 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1480 20 20 0 0 0 0 65535 65535
+S
+#1482
+Ryan Lane~
+You are standing at Ryan Lane. The road just comes to an end here. 
+The pile of dirt at your feet has many broken shards of wood. The beams of 
+this room couldn't withstand the weight from above. Your only exit is South.
+~
+14 d 0 0 0 1
+D2
+You see nothing special.
+~
+~
+0 0 1481 20 20 0 0 0 0 65535 65535
+S
+#1483
+A Large cove~
+You are standing in a large cove. The walls are stone and cold. Affixed to
+the wall hang many weapons and armors. There is a man walking around behind a
+marble counter. There is an exit to the West.
+~
+14 d 0 0 0 1
+D3
+You see nothing special.
+~
+~
+0 0 1408 20 20 0 0 0 0 65535 65535
+S
+#1484
+A Large cove~
+You are standing in a large cove. The walls are stone and cold. Laying out on
+the counter are many wares ranging from canteens to lanterns. On the north
+wall stands a thick oak book case with a matching oak desk beside it. Many
+things from potions to wands are scattered about it. There is a woman walking
+around behind a marble counter. There is an exit to the West.
+~
+14 d 0 0 0 1
+D3
+You see nothing special.
+~
+~
+0 0 1409 20 20 0 0 0 0 65535 65535
+S
+#1485
+Rune Warehouse~
+You are standing in a huge warehouse. There are many workers at tables
+making rune robes. This must be where the Robe and Cloak shop gets it's 
+supply. There is an exit to the West.
+~
+14 d 0 0 0 1
+D3
+You see nothing special.
+~
+~
+0 0 1401 20 20 0 0 0 0 65535 65535
+S
+#1486
+Courtyard~
+You have entered the courtyard through a huge stone arch. On all three
+walls are candels. On each wall just under the candels, granite benches
+are made. Above each bench is a copper plaque that has turned green with age.
+Made into the floor of this Courtyard is a grate that has been sealed for 
+years. Sounds of agnoy come from below. 
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1402 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 1491 20 20 0 0 0 0 65535 65535
+E
+down floor~
+     This is a dungeon made under the courtyard. There are many bones,
+     weapons, cloaks, and symbols of Hek down there. You can see some
+     shackles on the west wall of the dungeon holding up a still rotting
+     corpse.
+~
+S
+#1487
+Little Park~
+You are standing in a little park just south of Sundown Road and 
+East of Draymen. There is a granite statue of a warrior of Marduk bearing
+his sword. There are a few benches to rest upon. There are exits to the North
+and West.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1463 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1407 20 20 0 0 0 0 65535 65535
+S
+#1488
+Rothos's Robes and Cloaks~
+You are standing in Rothos's Robes and Cloak. Rothos is standing
+behind his counter ready to sell you his wares. There is an exit North.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1418 20 20 0 0 0 0 65535 65535
+S
+#1489
+Azhid's maps~
+You have entered Azhid's map shop. Azhid is sleeping in a chair by the
+fire. There is a sign on the counter. There is an exit North.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+~
+0 0 1419 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign Reads: 
+         If you need assistance wake me.
+                              Thank you, Azhid.
+~
+S
+#1490
+A home of a Warrior~
+This place is for rent to any evil warrior that may want it. The only
+thing in this house is a throw rug in the shape of the symbol of Marduk.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+door north~
+2 -1 1425 20 20 0 0 0 0 65535 65535
+S
+#1491
+Slaver's Pit~
+   In the depths under the city, a Slaver's market has sprouted up, buying
+a selling all manner of beings. The dark stair case is coated in dripping
+slime, and who knows what else! A few weak torches burn in mounted
+holders.
+   There is a sign here.
+~
+14 d 0 0 0 1
+D4
+~
+~
+0 0 1486 0 0 0 0 0 0 0 0
+S
+#1492
+Virtual Market~
+   This is silly.
+~
+14 de 0 0 0 1
+S
+#1493
+A home of a Cleric~
+This place is for rent to any evil cleric that may want it. The only
+thing in this house is a throw rug in the shape of the symbol of Marduk.
+~
+14 d 0 0 0 1
+D3
+You see nothing special.
+~
+door west~
+2 -1 1426 20 20 0 0 0 0 65535 65535
+S
+#1494
+House of Adaline~
+You are standing in an octagonal room. This room is filled with the 
+scent of burning incense and Grand Evil. Along the East wall is the symbol
+of Marduk, which covers the entire wall. On the West wall is a large cryptic
+insignia. On the floor under it are small candles and a circle drawn
+with charcoal. A demon is currently trapped inside this circle thrashing
+along the walls trying to escape. The South wall is dominated by a small 
+alcove which is used for sleeping.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+door north~
+2 -1 1428 20 20 0 0 0 0 65535 65535
+S
+#1495
+A home of a Mage~
+This place is for rent to any evil mage that may want it. The only
+thing in this house is a throw rug in the shape of the symbol of Marduk.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+door north~
+2 -1 1429 20 20 0 0 0 0 65535 65535
+S
+#1496
+A home~
+You are standing in a home that is for sale to anyone evil citizen that
+wants it. The only thing left here is a large throw rug with the symbol of 
+Marduk upon it.
+~
+14 d 0 0 0 1
+D0
+You see nothing special.
+~
+door north~
+2 -1 1440 20 20 0 0 0 0 65535 65535
+S
+#1497
+Statue in the middle of pool~
+You are standing beneath a large diamond Statue. The statue is in the
+shape of a large eyeball. Emitting from the eye is a black aura that gives this
+town it's glow. It's said that Marduk sees through this eye and overlooks
+the town and his followers. There is an exit to the East.
+~
+14 d 0 0 0 1
+D1
+You see nothing special.
+~
+~
+0 0 1454 20 20 0 0 0 0 65535 65535
+S
+#1498
+A Burnt home~
+You are standing in a home that is for sale. There is nothing left in 
+this house. Everything has burnt with the fire. It could use some fixing
+up. It's for sale to any evil citizen that wants in.
+~
+14 d 0 0 0 1
+D3
+You see nothing special.
+~
+door west~
+2 -1 1464 20 20 0 0 0 0 65535 65535
+S
+#1499
+Gate to Griffter's tomb~
+You are standing on broken sidewalk before a wrought iron gate. Adorning
+the gate are tarnished molds of demon faces and brightly glowing sigils. A
+cold wind from the north sends a putrid smell of rotting flesh into your
+nostrils. There are exits to the West and South.
+~
+14 d 0 0 0 1
+D0
+A long muttering of a mantra can be heard from the north.
+~
+north~
+2 -1 1499 20 20 0 0 0 0 65535 65535
+D2
+You see nothing special.
+~
+~
+0 0 1401 20 20 0 0 0 0 65535 65535
+D3
+You see nothing special.
+~
+~
+0 0 1413 20 20 0 0 0 0 65535 65535
+S
+$~

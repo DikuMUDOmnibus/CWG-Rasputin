@@ -1,0 +1,736 @@
+#700
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+  
+This zone is an homage to the Game Designer's Workshop Boardgame -
+@YTalisman@r!@n
+  
+It does not connect to any other in game zones!
+~
+7 dk 0 0 0 0
+S
+#701
+City~
+You are in an unfinished room.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 702 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 724 0 0 0 0 0 0 0 0
+S
+#702
+Fields~
+DRAW 1 CARD.
+Do not draw a Card if there is already one in this space.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 703 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 701 0 0 0 0 0 0 0 0
+S
+T 700
+#703
+Hills~
+DRAW 1 CARD.
+Do not draw a Card if there is already one in this space.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 704 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 702 0 0 0 0 0 0 0 0
+S
+#704
+Plains~
+DRAW 1 CARD.
+Do not draw a Card if there is already one in this space.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 705 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 703 0 0 0 0 0 0 0 0
+S
+#705
+Woods~
+DRAW 1 CARD.
+Do not draw a Card if there is already one in this space.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 706 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 704 0 0 0 0 0 0 0 0
+S
+#706
+Plains~
+DRAW 1 CARD.
+Do not draw a Card if there is already one in this space.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 707 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 705 0 0 0 0 0 0 0 0
+S
+#707
+Tavern~
+YOU MUST ROLL 1 DIE WITH THE FOLLOWING RESULTS:
+1 = You get blind drunk, and collapse in a corner. Miss 1 Turn.
+2 = You get tipsy and get in a fight with a farmer (Strength 3).
+3 = You gamble and lose 1G.
+4 = You gamble and win 1G.
+5 = A wizard offers to Teleport you to an Outer Region space of your choice
+    as your next Move.
+6 = The boatman offers to ferry you to the Temple as your next Move.
+~
+7 0 0 0 0 0
+D1
+~
+~
+0 0 708 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 706 0 0 0 0 0 0 0 0
+S
+#708
+Fields~
+DRAW 1 CARD.
+Do not draw a Card if there is already one in this space.
+~
+7 0 0 0 0 0
+D1
+~
+~
+0 0 709 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 707 0 0 0 0 0 0 0 0
+S
+#709
+Ruins~
+DRAW 2 CARDS
+If there are any Cards already in this space, draw only enough to take the 
+total to 2 Cards.
+~
+7 0 0 0 0 0
+D1
+~
+~
+0 0 710 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 708 0 0 0 0 0 0 0 0
+S
+#710
+Plains~
+DRAW 1 CARD.
+Do not draw a Card if there is already one in this space.
+~
+7 0 0 0 0 0
+D1
+~
+~
+0 0 711 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 709 0 0 0 0 0 0 0 0
+S
+#711
+Forest~
+ROLL 1 DIE:
+1   = Attacked by a brigand of Strength 4
+2-3 = Lost for 1 Turn
+4-5 = Safe
+6   = A ranger guides you out. Gain 1 Craft.
+~
+7 0 0 0 0 0
+D1
+~
+~
+0 0 712 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 710 0 0 0 0 0 0 0 0
+S
+#712
+Fields~
+DRAW 1 CARD.
+Do not draw a Card if there is already one in this space.
+~
+7 0 0 0 0 0
+D1
+~
+~
+0 0 713 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 711 0 0 0 0 0 0 0 0
+S
+#713
+Village~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D2
+~
+~
+0 0 714 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 712 0 0 0 0 0 0 0 0
+S
+#714
+Fields~
+DRAW 1 CARD.
+Do not draw a Card if there is already one in this space.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 713 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 715 0 0 0 0 0 0 0 0
+S
+#715
+Graveyard~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 714 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 716 0 0 0 0 0 0 0 0
+S
+#716
+Woods~
+DRAW 1 CARD.
+Do not draw a Card if there is already one in this space.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 715 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 717 0 0 0 0 0 0 0 0
+S
+#717
+Sentinel~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 716 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 718 0 0 0 0 0 0 0 0
+D4
+~
+~
+0 0 726 0 0 0 0 0 0 0 0
+S
+#718
+Hills~
+DRAW 1 CARD.
+Do not draw a Card if there is already one in this space.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 717 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 719 0 0 0 0 0 0 0 0
+S
+#719
+Chapel~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 718 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 720 0 0 0 0 0 0 0 0
+S
+#720
+Fields~
+DRAW 1 CARD.
+Do not draw a Card if there is already one in this space.
+~
+7 0 0 0 0 0
+D1
+~
+~
+0 0 719 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 721 0 0 0 0 0 0 0 0
+S
+#721
+Crags~
+ROLL 1 DIE:
+1   = Attacked by a Spirit of Craft 4
+2-3 = Lost for 1 Turn
+4-5 = Safe
+6   = Barbarian leads you out. Gain 1 Strength.
+~
+7 0 0 0 0 0
+D1
+~
+~
+0 0 720 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 722 0 0 0 0 0 0 0 0
+S
+#722
+Plains~
+DRAW 1 CARD.
+Do not draw a Card if there is already one in this space.
+~
+7 0 0 0 0 0
+D1
+~
+~
+0 0 721 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 723 0 0 0 0 0 0 0 0
+S
+#723
+Woods~
+DRAW 1 CARD.
+Do not draw a Card if there is already one in this space.
+~
+7 0 0 0 0 0
+D1
+~
+~
+0 0 722 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 724 0 0 0 0 0 0 0 0
+S
+#724
+Fields~
+DRAW 1 CARD.
+Do not draw a Card if there is already one in this space.
+~
+7 0 0 0 0 0
+D1
+~
+~
+0 0 723 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 701 0 0 0 0 0 0 0 0
+S
+#725
+Cursed Glade~
+You are in an unfinished room.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 726 0 0 0 0 0 0 0 0
+S
+#726
+Hills~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 727 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 725 0 0 0 0 0 0 0 0
+D5
+~
+~
+0 0 717 0 0 0 0 0 0 0 0
+S
+#727
+Hidden Valley~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 728 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 726 0 0 0 0 0 0 0 0
+S
+#728
+Black Knight~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 729 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 727 0 0 0 0 0 0 0 0
+S
+#729
+Portal of Power~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D2
+~
+~
+0 0 728 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 730 0 0 0 0 0 0 0 0
+D9
+~
+~
+0 0 741 0 0 0 0 0 0 0 0
+S
+#730
+Castle~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D1
+~
+~
+0 0 729 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 731 0 0 0 0 0 0 0 0
+S
+#731
+Runes~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D1
+~
+~
+0 0 730 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 732 0 0 0 0 0 0 0 0
+S
+#732
+Woods~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D1
+~
+~
+0 0 731 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 733 0 0 0 0 0 0 0 0
+S
+#733
+Temple~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D1
+~
+~
+0 0 732 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 734 0 0 0 0 0 0 0 0
+S
+#734
+Desert~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 733 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 735 0 0 0 0 0 0 0 0
+S
+#735
+Oasis~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 734 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 736 0 0 0 0 0 0 0 0
+S
+#736
+Desert~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 735 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 737 0 0 0 0 0 0 0 0
+S
+#737
+Warlock's Cave~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 736 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 738 0 0 0 0 0 0 0 0
+S
+#738
+Runes~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D1
+~
+~
+0 0 739 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 737 0 0 0 0 0 0 0 0
+S
+#739
+Chasm~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D1
+~
+~
+0 0 740 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 738 0 0 0 0 0 0 0 0
+S
+#740
+Runes~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D1
+~
+~
+0 0 725 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 739 0 0 0 0 0 0 0 0
+S
+#741
+Plain of Peril~
+You are in an unfinished room.
+~
+7 0 0 0 0 0
+D2
+~
+~
+0 0 742 0 0 0 0 0 0 0 0
+D7
+~
+~
+0 0 729 0 0 0 0 0 0 0 0
+S
+#742
+Mines~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 741 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 743 0 0 0 0 0 0 0 0
+S
+#743
+Vampire's Tower~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 742 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 744 0 0 0 0 0 0 0 0
+S
+#744
+Pits~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D1
+~
+~
+0 0 743 0 0 0 0 0 0 0 0
+D3
+~
+~
+0 0 745 0 0 0 0 0 0 0 0
+S
+#745
+Valley of Fire~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 746 0 0 0 0 0 0 0 0
+D1
+~
+~
+0 0 744 0 0 0 0 0 0 0 0
+D7
+~
+~
+0 0 749 0 0 0 0 0 0 0 0
+S
+#746
+Warewolf's Den~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D0
+~
+~
+0 0 747 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 745 0 0 0 0 0 0 0 0
+S
+#747
+Dice with Death~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D1
+~
+~
+0 0 748 0 0 0 0 0 0 0 0
+D2
+~
+~
+0 0 746 0 0 0 0 0 0 0 0
+S
+#748
+Crypt~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D3
+~
+~
+0 0 747 0 0 0 0 0 0 0 0
+S
+#749
+Crown of Command~
+This unfinished room was created by Zizazat.
+~
+7 0 0 0 0 0
+D9
+~
+~
+0 0 745 0 0 0 0 0 0 0 0
+S
+$~

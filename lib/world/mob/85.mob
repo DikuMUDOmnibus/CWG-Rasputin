@@ -1,0 +1,531 @@
+#8500
+furry bunny rabbit~
+a furry bunny~
+A little furry white bunny cavorts here among the flowers.
+~
+This little white bunny has the cutest most endearing little nose and
+whiskers you've ever seen.  You have no desire to slay such a helpless
+little creature.
+~
+dh 0 0 0 l 0 0 0 0 E
+1 20 8 1d1+1 1d1+0
+0 10 8 3
+8 8 1
+BareHandAttack: 4
+E
+#8501
+deer doe~
+a Doe-eyed deer~
+A small innocent looking doe is here sampling the foliage.
+~
+This little deer is oh so cute.  Looking into its large brown eyes you
+feel no desire in harming this animal.
+~
+dh 0 0 0 l 0 0 0 0 E
+1 20 9 1d6+2 1d2+2
+0 10 8 3
+8 8 2
+BareHandAttack: 4
+E
+#8502
+creature small sprite-like sprite pixie~
+a Pixie~
+A small gossamer winged sprite-like creature dances here among the flowers.
+~
+This small Pixie looks like a one foot tall elf.  With his brightly colored
+clothes with pointed hat and shoes, he looks like a little clown.
+~
+cdh 0 0 0 lx 0 0 0 800 E
+3 20 6 2d6+1 1d1+0
+10 360 23 2
+9 9 1
+E
+#8503
+tree treant~
+a Treant~
+A huge living tree-like being stand here raising his branches to the heavens.
+~
+Standing over 15 feet high and covered in a dense brown bark, this being
+is more vegetable than animal.  His powerful limbs appear as large 
+branch-like appendages, and his hands are tipped with wicked thorns.  
+He radiates a feeling of great wisdom and great age.
+~
+bdi 0 0 0 el 0 0 0 750 E
+10 20 2 10d8+60 2d6+10
+0 6000 9 3
+8 8 1
+E
+#8504
+unicorn io~
+Io the unicorn~
+A large majestic white unicorn stands here regally before you.
+~
+Covered in soft white hair, Io the Unicorn is the guardian of Glindor forest.
+Great is her wisdom and she is visited by many elves and humans who seek her
+aid.  Although a good and gentle spirit, one look at her 2 foot long spiraled
+horn tells you that she well be no easy mark in combat.
+~
+abdlm 0 0 0 eil 0 0 0 1000 E
+8 20 1 8d10+48 2d6+8
+100 6000 8 1
+8 8 2
+BareHandAttack: 11
+E
+#8505
+baldar ranger barrel-chested human~
+Baldar the Bowman~
+A large barrel-chested human stands here wearing the forest greens of a Ranger.
+~
+Standing just nigh of 7 feet, this giant of a man towers over all around 
+him.  His bushy black beard fails to hide the grin the splits his broad 
+face.  The large ash bow on his back and his leather and woolen clothes 
+of green and brown proclaim him as Baldar the Bowman, Ranger Lord and
+Defender of Glindor forest.
+~
+bcdil 0 0 0 0 0 0 0 750 E
+10 20 10 10d10+20 1d2+2
+40 6000 0 3
+8 8 1
+E
+#8506
+student human young man ranger~
+Baldar's pupil~
+A young man stands here eagerly absorbing everything Baldar has to teach.
+~
+Dressed in the browns and greens of a forest Ranger, this young man has 
+traveled far to come here and learn from Baldar the Bowman.  Baldar is a 
+tough taskmaster but this youth has the look of being able to hack it.
+~
+bcdil 0 0 0 0 0 0 0 500 E
+6 20 10 6d8+12 1d2+1
+20 1260 0 3
+8 8 1
+E
+#8507
+guard elf guardsmen male~
+an Elven Guardsmen~
+An male elf of the Royal Guards stands here at attention.
+~
+This Elven lad is a member of the High Elven King and Queen's Royal 
+Guards.  Dressed in his fine uniform, and with his shimmering sword and
+armor, his role appears to be of a ceremonial nature.  One look at his 
+stance, and a quick glance into his eyes, shows you that he is no pushover.
+~
+bcdil 0 0 0 l 0 0 0 750 E
+15 20 8 15d10+15 1d2+2
+40 21000 1 3
+8 8 1
+E
+#8508
+guard elf guardswomen female~
+an Elven Guardswomen~
+An female elf of the Royal Guards stands here at attention.
+~
+This Elven lass is a member of the High Elven King and Queen's Royal Guards.
+Dressed in her fine uniform, and with her shimmering spear and armor, her 
+role appears to be of a ceremonial nature.  One look at her stance, and 
+a quick glance into her eyes, shows you that she is no pushover.
+~
+bcdil 0 0 0 l 0 0 0 750 E
+15 20 8 15d10+15 1d2+2
+40 21000 1 3
+8 8 2
+E
+#8509
+large elf smith curunir~
+Curunir the Smith~
+A very large and heavily muscled elf is here hammering away on his anvil.
+~
+This must be the largest High Elf you've ever seen.  Known for their thin 
+slight builds, this elf towers over even the largest humans.  His hugely 
+muscled arms easily lift the heavy hammer that he pounds down again and 
+again in shaping the tough mithril ore.  This must be Curunir the Elven 
+Smith and crafter of the finest Elven mithril arms and armor.
+~
+bds 0 0 0 l 0 0 0 750 E
+14 20 9 14d8+28 1d4+4
+100 10 1 3
+8 8 1
+E
+#8510
+elf bedraggled shopkeeper falathar~
+Falathar the Apothecary~
+A bedraggled elf stands here, peering at you through his thick glasses.
+~
+This is the most bedraggled and befuddled High Elf you've ever seen.  His 
+clothes are a mismatch of anything that appeared handy (not altogether clean 
+either!).  His hair stick's in all directions from the crumpled hat he 
+wears on his head.  What a sorry sight.  Large blue eyes, made even larger 
+by the extremely thick spectacles he wears, stare at you in confused curiosity.
+This is Falathar the Apothecary.
+~
+bds 0 0 0 l 0 0 0 500 E
+10 20 9 10d6+10 1d2+0
+1500 10 1 0
+8 8 1
+E
+#8511
+elf female kementari innkeeper warrioress~
+Kementari the Innkeeper~
+Kementari the Innkeeper stands here waiting to register you.
+~
+Kementari the Innkeeper is a famous warrioress who decided, when she retired, 
+to use her vast fortune (acquired as a very successful adventurer) to build 
+the Tree-Tops Inn.  Her blonde hair is cut very short (to fit the helmet 
+she used to wear) for an Elven women, and she appears to be something of 
+a tom-boy (though she is still very attractive!!).
+~
+bdl 0 0 0 l 0 0 0 600 E
+10 20 8 10d10+20 1d2+3
+90 10 1 3
+8 8 2
+E
+#8512
+man bartender halad human~
+Halad the Bold~
+An old bearded human stands here tending bar, and keeping an out for trouble.
+~
+This old bearded human man appears weathered and grizzled.  His care-worn 
+face appears to be made of old tough leather.  His close cropped white hair 
+and beard make he appear quite old, but his clear blue eyes still hold a 
+gleam of youth.  Though old and on the short side (5' 6") he is quite broad
+and appears to be in excellent shape.  This is Halad the Bold, one of 
+Kementari's (the Innkeeper) old adventuring buddies.
+~
+bdl 0 0 0 0 0 0 0 600 E
+10 20 10 10d10+20 1d2+2
+500 10 0 3
+8 8 1
+E
+#8513
+elf female woman citizen~
+an Elven citizen~
+An Elven woman, citizen of Nangalen, is here walking.
+~
+This is a typical beautiful High Elven women. 
+~
+dh 0 0 0 l 0 0 0 750 E
+6 20 9 6d6+0 1d2+0
+20 1260 1 3
+8 8 2
+E
+#8514
+elf male man citizen~
+an Elven citizen~
+An Elven man, citizen of Nangalen, is here walking.
+~
+This is a typical handsome High Elven man. 
+~
+dh 0 0 0 l 0 0 0 750 E
+6 20 9 6d6+0 1d2+0
+20 1260 1 3
+8 8 1
+E
+#8515
+elf female girl citizen~
+an Elven girl~
+An Elven girl, citizen of Nangalen, is here walking.
+~
+This is a typical pretty High Elven girl. 
+~
+dh 0 0 0 l 0 0 0 750 E
+3 20 9 3d6+0 1d2+0
+5 360 1 3
+8 8 2
+E
+#8516
+elf male boy citizen~
+an Elven boy~
+An Elven boy, a citizen of Nangalen, is here walking.
+~
+This is a typical cute High Elven boy. 
+~
+dh 0 0 0 l 0 0 0 750 E
+3 20 9 3d6+0 1d2+0
+5 360 1 3
+8 8 1
+E
+#8517
+nienna elf female cleric priestess~
+Nienna the Priestess~
+An Elven Priestess of Hek, is here performing a holy ceremony.
+~
+This is Nienna the Holy Priestess of Hek the Merciful.  As the spiritual
+leader of her flock, she holds great responsibility in Nangalen.  Unusually
+tall, even among High Elves she stands almost 6'5", and her lustrous 
+black hair that hangs almost to her waist.
+~
+abcdil 0 0 0 l 0 0 0 1000 E
+12 20 9 12d8+12 1d2+1
+100 18000 1 1
+8 8 2
+E
+#8518
+elf male cleric assistant priest~
+a Priest of Hek~
+An Elven Priest of Hek and assistant to the Holy Priestess is here.
+~
+This is an assistant to the Holy Priestess Nienna.  Dedicated to his god 
+and to his flock, he will do anything to ensure the safety of Nangalen 
+and the High Elven people.
+~
+abcdil 0 0 0 l 0 0 0 1000 E
+8 20 9 8d8+8 1d2+1
+55 6000 1 1
+8 8 1
+E
+#8519
+elf female wife illuin elbereth~
+Elbereth Illuin~
+The Regent's wife, Elbereth Illuin, sits here in majestic splendor.
+~
+You look upon the face of Elbereth Illuin, famous throughout the realms
+as one of the most beautiful of women.  One look at her classical sculpted 
+features tells you what true majesty is all about.  Not only is she beautiful,
+but she is also known among the most powerful of the High Elven magi.
+~
+abdl 0 0 0 l 0 0 0 1000 E
+16 20 8 16d4+0 1d2+1
+200 30000 1 0
+6 6 2
+E
+#8520
+elf male regent osgiliath~
+Regent Osgiliath~
+The High Elven Regent, Osgiliath Illuin, sits here in noble repose.
+~
+This is Regent Osgiliath Illuin one of the great High Elven Lords of old.
+For as long as people can remember he has ruled here, with his beautiful 
+wife, in the village of Nangalen.  Although over 1500 years old he is 
+still famous throughout the lands for his skill with sword and bow.       
+~
+bdl 0 0 0 l 0 0 0 1000 E
+16 20 8 16d10+32 1d2+3
+250 24000 1 3
+6 6 1
+E
+#8521
+elf male cook tall thin emil~
+Emil the Chef~
+A very tall thin elf wearing a black beret is here tasting the soup.
+~
+This unusually tall and thin elf is Emil the Royal Chef.  With his long 
+pointed nose and thin black curled mustache he paints a dashing picture 
+(not!).  Famous the world over for his fine consommes and bouillon, Emil 
+has started a line of canned soups available at all fine markets and groceries.
+~
+bdl 0 0 0 l 0 0 0 750 E
+10 20 9 10d6+0 1d2+0
+25 6000 1 3
+8 8 1
+E
+#8522
+elf male cook assistant~
+a Cook's assistant~
+A elf wearing a white apron is here stirring the soup.             
+~
+This elf is one of Emil the Royal Chef's assistants.  He is an excellent 
+soup stirrer, not to be trifled with.
+~
+bdl 0 0 0 l 0 0 0 750 E
+8 20 9 8d6+0 1d2+0
+13 2920 1 3
+8 8 1
+E
+#8523
+elf male apprentice magi tarlin~
+Tarlin the Apprentice~
+A small pimply elf is here, snoring his brains out in soiled robes.
+~
+This has got to be the sorriest elf you've ever seen.  His straw colored hair 
+is filthy and matted with who knows what.  His entire face, at least the 
+visible parts not covered in dried vomit, is dotted with pimples.  You have 
+no idea what color those rune covered robes are supposed to be.
+~
+adh 0 0 0 l 0 0 0 -500 E
+8 20 10 8d4+8 1d2+0
+0 6000 1 0
+4 8 1
+E
+#8524
+elf male magi minyatur~
+Minyatur the Magnificient~
+A thin cadaverous elf, wearing dark blood red robes, glares menacingly at you.
+~
+Here stands an afront to the High elven nature. A vile, sadistic Necromancer.
+One look into his pale bloodless face and you feel the cold hand of death run 
+up your spine.  
+~
+abdf 0 0 0 el 0 0 0 -1000 E
+16 20 8 16d4+48 1d2+2
+250 30000 1 0
+8 8 1
+E
+#8525
+human warrior warlord terik-nur~
+Terik-Nur the Dark Warlord~
+A large warrior, encased in dark wicked looking armor, stands here menacingly.
+~
+Completely covered in dense black metal, the figure before you exeudes evil.  
+This must be the legendary Terik-Nur, Warlord of the Durag, a dark and evil 
+people from the far south, who in ages past invaded the north lands and 
+laid waste to all in their path.  Terik-Nur vowed to fill the Lake of Dragons
+with the blood of every elf alive.  In the last battle with the High Elven
+King Pelargir, Terik-Nur was bound by great magic since the elves were
+unable to kill him (but at the cost of  Pelargir's death).  He has been 
+imprisoned here ever since.  His punishment, an eternal reminder of the 
+crimes he committed against the Elven people.
+~
+cdfl 0 0 0 e 0 0 0 -1000 E
+18 20 8 18d10+54 1d2+4
+0 30000 0 3
+8 8 1
+Str: 20
+E
+#8526
+griffin falas~
+Falas the Regent's Mount~
+A large male griffin stands here wearing saddle and bridle.
+~
+This large creature before you is a griffin.  With the head, wings and
+forelimbs of a large eagle and the hindquarters of a lion, it is truly 
+an impressive creature.  This is Falas the King's companion and steed.
+~
+bd 0 0 0 lx 0 0 0 500 E
+14 20 2 14d10+42 2d6+6
+0 18000 8 3
+9 9 1
+BareHandAttack: 4
+E
+#8527
+griffin arwen~
+Arwen the Queen's Mount~
+A large female griffin sits here grooming herself.         
+~
+This large creature before you is a griffin.  With the head, wings and 
+forelimbs of a large eagle and the hindquarters of a lion, it is truly 
+an impressive creature.  This is Arwen the Queen's companion and steed.
+~
+bd 0 0 0 lx 0 0 0 500 E
+14 20 2 14d10+42 2d6+6
+0 18000 8 3
+9 9 2
+BareHandAttack: 8
+E
+#8528
+elf young prince edrahil~
+Prince Edrahil~
+A young Elven lad is here learning to ride a griffin.
+~
+You are looking at Crown Prince Edrahil, son of the King and Queen of 
+Elven Nation.  Though young by High Elven standards, he's only 158, he 
+seems capable enough.
+~
+bdl 0 0 0 l 0 0 0 1000 E
+6 20 9 6d10+6 1d2+1
+100 1260 1 3
+8 8 1
+E
+#8529
+elf steward sirion~
+Sirion the Steward~
+A green robed elf sits here, writing in a large ledger.
+~
+This gray haired elf is going slightly bald and his worn face tells of great
+age and greater responsibilities.  This is Sirion the Royal Steward who has
+served the Elven Royal Family since the time of Telemnar (Osgiliath's 
+grandfather!).  Wow this guy is old!
+~
+abdl 0 0 0 l 0 0 0 1000 E
+12 20 10 12d8+0 1d2+0
+50 12000 1 1
+6 6 1
+E
+#8530
+elf male captain rhovanion~
+Rhovanion the Captain~
+The Captain of the Royal Guards stands here in complete confidence.
+~
+This is Rhovanion, the Captain of the Royal Guards.  Unusually swarthy,
+for the normally pale skinned High Elves, his darkly tanned skin almost 
+blends with his strange dark blue colored hair.
+~
+bdil 0 0 0 l 0 0 0 750 E
+15 20 7 15d10+45 1d2+3
+150 21000 1 3
+8 8 1
+E
+#8531
+elf male stablemaster telchar~
+Telchar the Stablemaster~
+A broad and stocky elf is here teaching a young elf how to ride griffins.
+~
+This elf is so short and stocky as to be almost dwarven!  Completing the 
+picture is his iron gray hair and beard.  This is Telchar the Stablemaster, 
+in charge of caring for the Royal griffins.
+~
+bdl 0 0 0 l 0 0 0 750 E
+14 20 9 14d8+42 1d2+2
+50 18000 1 3
+8 8 1
+E
+#8532
+elf male lad stableboy~
+an Elven Stableboy~
+A young Elven lad is here sweeping.
+~
+This young Elven youth is a stableboy in the employ of the Royal Family. 
+His duties include maintaining the stable in a clean and orderly fashion, 
+and in feeding the Royal griffins.  One brave kid!
+~
+cdh 0 0 0 l 0 0 0 750 E
+4 20 9 4d6+0 1d2+0
+10 520 1 3
+8 8 1
+E
+#8533
+elf girl maid eilenil~
+Eilenil the Maid~
+A young Elven girl is here putting out the place settings.
+~
+This has got to be the most buxom Elven girl you've ever seen.  Her simple 
+cotton robe strains in the effort in trying to restrain her ample bosom. 
+You also notice (with a quick glance up) the mischievous gleam in her eye. 
+Maybe you'll get lucky and get a tumble!
+~
+bcdh 0 0 0 l 0 0 0 750 E
+8 20 9 8d6+8 1d2+0
+20 2920 1 3
+8 8 2
+E
+#8534
+elf male wizard ancalimon~
+Ancalimon the Wizard~
+Here stands Ancalimon the great High Elven wizard.
+~
+Ancalimon is one of the most famous of the great High Elven wizards. His
+knowledge of magic is amazing and many of the great magics worked by the
+Elves were first done by Ancalimon.  His long flowing white hair and beard
+fail to hide his gleaming blue eyes, quick grin and long pointed nose.
+~
+abdilm 0 0 0 eil 0 0 0 1000 E
+18 20 8 18d4+54 1d2+0
+500 36000 1 0
+8 8 1
+E
+#8535
+guard elf guardsmen male~
+an Elven Guardsmen~
+An male elf of the Royal Guards stands here at attention.
+~
+This Elven lad is a member of the High Elven King and Queen's Royal
+Guards.  Dressed in his fine uniform, and with his shimmering sword and
+armor, his role appears to be of a ceremonial nature.  One look at his
+stance, and a quick glance into his eyes, shows you that he is no pushover.
+~
+bcdil 0 0 0 l 0 0 0 750 E
+12 20 8 12d10+24 1d2+2
+40 12000 1 3
+8 8 1
+E
+$

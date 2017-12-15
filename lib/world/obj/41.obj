@@ -1,0 +1,66 @@
+#4100
+blade black demon~
+a black demon blade~
+A black demon blade is here...you sense the forces of evil controlling the weapon...~
+~
+5 jlnr 0 0 0 an 0 0 0 0 0 0 0
+16 3 4 11 100 100 0 7 0 0 0 0 0 0 0 0
+8 8000 800 0
+E
+blade~
+You'll become as evil as the weapon, if you use it!
+~
+#4101
+gloves swordmans sgloves~
+a pair of swordmans' gloves~
+A pair of finel crafted gloves are lying on the ground here.~
+They look like the right kind of equipment to use when fighting.
+~
+9 j 0 0 0 ah 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 6 0 0 0 0 0 0 0 0
+1 3500 800 0
+E
+gloves~
+They looks very useful for combat.
+~
+A
+18 2
+A
+19 1
+#4102
+scroll ysafg~
+a scroll which reads "ysafg"~
+A scroll which reads "ysafg", it looks very fragile and quite old.~
+~
+2 0 0 0 0 a 0 0 0 0 0 0 0
+1 56 -1 -1 100 100 0 16 0 0 0 0 0 0 0 0
+1 500 10 0
+E
+scroll~
+It looks informative.
+~
+#4103
+slime mold~
+a green slime mold~
+A green slime mold is here.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+24 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+1 20 8 0
+E
+smile mold~
+It wasn't meant to be food -- at least, certainly not for humans.
+~
+#4104
+slime mold~
+a green slime mold~
+A green slime mold is here.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+24 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+1 20 8 0
+E
+smile mold~
+It wasn't meant to be food -- at least, certainly not for humans.
+~
+$~

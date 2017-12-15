@@ -1,0 +1,61 @@
+#400
+staff quarter oaken quarterstaff~
+an oaken quarterstaff~
+An oaken quarterstaff, adorned with twisting runes has been left here.~
+~
+5 gjs 0 0 0 an 0 0 0 0 0 0 0
+6 1 6 7 100 100 0 12
+4 5 0 0
+E
+staff quarter oaken quarterstaff~
+Standing over 6' in length, the staff has been carved over nearly every 
+inch with twisting runes and sigla. It is unlike anything you have seen 
+before. The runes seem to writhe as you look at them.
+~
+#401
+key small black~
+a small, black key~
+A small, black key has been left here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 8
+1 1 0 0
+#402
+glowing stone~
+a \c10glowing\c00 stone~
+A fist-sized \c10glowing\c00 stone has been left here.~
+~
+1 a 0 0 0 ao 0 0 0 0 0 0 0
+0 0 -1 0 100 100 0 10
+2 1 5 0
+#403
+thin iron lost ring~
+a thin iron ring~
+A thin iron ring has slipped off it's owners finger.~
+~
+11 fgjlnopq 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 5
+1 0 20 0
+E
+thin iron lost ring~
+It looks weather worn from years of exposure to the elements. Very dull 
+looking.
+~
+A
+17 -20
+#404
+robe~
+a robe of the followers of Dziak~
+A robe of the followers of Dziak lies here.~
+~
+11 fgjlnopq 0 0 0 ak 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 17
+1 0 30 0
+E
+robe~
+Embroidered with the sigla of Dziak, there are also various other runic 
+patters sewn into the crimson cloth.
+~
+A
+17 -30
+$~

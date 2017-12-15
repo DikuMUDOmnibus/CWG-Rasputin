@@ -1,0 +1,419 @@
+#3500
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+
+This zone is western part of the King's Forest, north of Kortaal and west
+of Kaon. It is a (lightly) modified version of the stock Miden'Nir.
+
+This zone links up with zones: 31, 60 and 114.
+~
+35 dk 0 0 0 0
+S
+#3505
+The Trail to the King's Forest~
+     You are in a light forest.  A path leads south, but the passage to the
+east is easy enough.  To the west, smoke can be seen rising above the 
+treetops.  
+~
+35 0 0 0 0 3
+D1
+More light forest.
+~
+~
+0 0 3506 20 20 0 0 0 0 65535 65535
+D2
+This path cuts through the darkness of the forest.
+~
+~
+0 0 3507 20 20 0 0 0 0 65535 65535
+D3
+You cannot go this way.  The Inn is closed right now.
+~
+~
+0 0 -1 20 20 0 0 0 0 65535 65535
+S
+#3506
+The King's Forest~
+     You are in a dark forest.  To the east, mountains block passage.  From
+here, only the lighter forest to the west or south offer a way to travel.
+~
+35 0 0 0 0 3
+D2
+The forest is darker to the south.
+~
+~
+0 0 3509 20 20 0 0 0 0 65535 65535
+D3
+The forest gets lighter as you go west.
+~
+~
+0 0 3505 20 20 0 0 0 0 65535 65535
+S
+#3507
+Through the King's Forest~
+   The King's Forest is deep and dark here. The road between Woeld and
+Kaon runs south and west here. To the north, the forest gets lighter.
+However, the southern and eastern paths take you deeper into the wood. 
+~
+35 0 0 0 0 3
+D0
+The forest is lighter in this direction.
+~
+~
+0 0 3505 20 20 0 0 0 0 65535 65535
+D2
+More and darker woods.
+~
+~
+0 0 3510 20 20 0 0 0 0 65535 65535
+D3
+There is a small path leading west.
+~
+~
+0 0 3508 20 20 0 0 0 0 65535 65535
+S
+#3508
+On the Ranger's Way~
+   The road to Woeld passes north and east here, far to the east lies the
+city of Kaon. There is also a small trail south.  
+~
+35 0 0 0 0 3
+D0
+Ranger's Way, the road to Woeld.
+~
+~
+0 -1 6034 20 20 0 0 0 0 65535 65535
+D1
+Wind-swept forest.
+~
+~
+0 0 3507 20 20 0 0 0 0 65535 65535
+D2
+To the south, the trail continues.
+~
+~
+0 0 3511 20 20 0 0 0 0 65535 65535
+S
+#3509
+The King's Forest~
+     More trees...  You can go north, south or travel toward the mountains
+that lie east of here.
+~
+35 0 0 0 0 3
+D0
+The trees lighten up a bit this way.
+~
+~
+0 0 3506 20 20 0 0 0 0 65535 65535
+D1
+Huge grey mountains lie in this direction.
+~
+~
+0 0 3512 20 20 0 0 0 0 65535 65535
+D2
+The forest continues.
+~
+~
+0 0 3514 20 20 0 0 0 0 65535 65535
+S
+#3510
+The Crossroads~
+     Here footworn paths lead north, south and east.  The trees seem to
+be closing in on you at this point. The road between Kaon and Woeld
+runs north and east here.
+~
+35 0 0 0 0 3
+D0
+Trees as far as the eye can see.
+~
+~
+0 0 3507 20 20 0 0 0 0 65535 65535
+D1
+There is an especially dark part of the forest this way.
+~
+~
+0 0 3514 20 20 0 0 0 0 65535 65535
+D2
+There is an especially dark section of forest this way.
+~
+~
+0 0 3516 20 20 0 0 0 0 65535 65535
+S
+#3511
+The Trail~
+     You are on a north-south trail.  To the west, the forest becomes lighter 
+and more inviting.
+~
+35 0 0 0 0 3
+D0
+The trail bends to the north.
+~
+~
+0 0 3508 20 20 0 0 0 0 65535 65535
+D2
+To the south, the path re-enters the forest.
+~
+~
+0 0 3515 20 20 0 0 0 0 65535 65535
+D3
+Lighter forest.
+~
+~
+0 -1 6065 20 20 0 0 0 0 65535 65535
+S
+#3512
+At the Foot of the Mountains~
+     You can go west or south and re-enter the forest.  Mountains prevent
+passage in any other direction.
+~
+35 0 0 0 0 3
+D2
+A light section of forest.
+~
+~
+0 0 3513 20 20 0 0 0 0 65535 65535
+D3
+The forest continues here.
+~
+~
+0 0 3509 20 20 0 0 0 0 65535 65535
+S
+#3513
+The Ranger's Way in the King's Forest~
+    The forest is light here and gets lighter to the east and you can see
+the outskirts of Kaon. To the west everything gets dark. The wind kicks
+up as you ponder your options.
+~
+35 0 0 0 0 3
+D0
+There is a small clearing to the north.
+~
+~
+0 0 3512 20 20 0 0 0 0 65535 65535
+D1
+You can see the outskirts of a town.
+~
+~
+0 0 11409 20 20 0 0 0 0 65535 65535
+D3
+It gets darker and thicker this way.
+~
+~
+0 0 3514 20 20 0 0 0 0 65535 65535
+S
+#3514
+Deep Forest~
+   The Ranger's Way runs east-west here, and off on the eastern horizon
+you can see Kaon. The forest is quite dark here. Footsteeps can
+be heard in the underbrush, but their direction cannot be determined.  
+~
+35 0 0 0 0 3
+D0
+More forest.
+~
+~
+0 0 3509 20 20 0 0 0 0 65535 65535
+D1
+Lighter forest and mountains in the distance.
+~
+~
+0 0 3513 20 20 0 0 0 0 65535 65535
+D2
+More trees.
+~
+~
+0 0 3517 20 20 0 0 0 0 65535 65535
+D3
+The forest continues.
+~
+~
+0 0 3510 20 20 0 0 0 0 65535 65535
+S
+#3515
+Light Forest~
+     The forest is light here and you can easily pick your way through the
+trail.  To the east, the forest becomes deep again and to the west it becomes
+lighter still.  South, the trail continues.
+~
+35 0 0 0 0 3
+D0
+A trail leading north-south.
+~
+~
+0 0 3511 20 20 0 0 0 0 65535 65535
+D1
+The trees get thicker as you go east.
+~
+~
+0 0 3516 20 20 0 0 0 0 65535 65535
+D2
+More trees and some small hills.
+~
+~
+0 0 3518 20 20 0 0 0 0 65535 65535
+D3
+Lighter forest.
+~
+~
+0 -1 6060 20 20 0 0 0 0 65535 65535
+S
+#3516
+The Sink~
+     The ground is quite muddy here and puddles are all around.  Your boots
+make a disgusting SQUISH as you walk here.  You can go in any of the four
+cardinal directions from here.  Hopefully, it will be dryer.
+~
+35 0 0 0 0 3
+D0
+The King's Forest continues.
+~
+~
+0 0 3510 20 20 0 0 0 0 65535 65535
+D1
+More trees.
+~
+~
+0 0 3517 20 20 0 0 0 0 65535 65535
+D2
+The trees get VERY thick to the south.  You can barely see...
+~
+~
+0 0 3519 20 20 0 0 0 0 65535 65535
+D3
+Some light trees and daylight.
+~
+~
+0 0 3515 20 20 0 0 0 0 65535 65535
+S
+#3517
+Near the Mountains~
+    The most prominent feature here is the mountains that lie to the east.
+You can only go north and west from here as the rocks stop all other
+movement.
+~
+35 0 0 0 0 3
+D0
+Many trees to the north.
+~
+~
+0 0 3514 20 20 0 0 0 0 65535 65535
+D3
+There is a bit of a slope downward to the west.
+~
+~
+0 0 3516 20 20 0 0 0 0 65535 65535
+S
+#3518
+The Fading Trail~
+     The trail becomes nearly impassible here.  You can go south and west,
+as the forest is relatively light.  To the north, you can see a path.
+~
+35 0 0 0 0 3
+D0
+You can see a trail this way.
+~
+~
+0 0 3515 20 20 0 0 0 0 65535 65535
+D1
+The trees are nearly trunk-to-trunk this way.
+~
+~
+0 0 -1 20 20 0 0 0 0 65535 65535
+D2
+Dark forests.
+~
+~
+0 0 3522 20 20 0 0 0 0 65535 65535
+D3
+Light trees and mountains in the distance.
+~
+~
+0 0 3520 20 20 0 0 0 0 65535 65535
+S
+#3519
+The Dark Path~
+     You are hemmed in by trees on all sides .  There is no way
+to go west, but to the east is a way out.  The wind, which howled earlier, 
+seems to have died in this natural tunnel.
+~
+35 a 0 0 0 3
+D0
+Ahhh...  daylight.
+~
+~
+0 0 3516 20 20 0 0 0 0 65535 65535
+D1
+Out of the darkness.
+~
+~
+0 0 3126 20 20 0 0 0 0 65535 65535
+D2
+More darkness.
+~
+~
+0 0 3521 20 20 0 0 0 0 65535 65535
+S
+#3520
+On the Verge of Darkness~
+     The forest is getting pretty thick here.  To the south, the forest is
+too dense to venture into.  The path leads east into darkness and west into
+lighter forest.
+~
+35 0 0 0 0 3
+D1
+Light and a visible trail.
+~
+~
+0 0 3518 20 20 0 0 0 0 65535 65535
+D3
+A lighter section of forest.
+~
+~
+0 -1 6096 20 20 0 0 0 0 65535 65535
+S
+#3521
+Carnage~
+     Here, you see a gruesome sight.  Blood is everywhere...  on the trees
+and soaked into the ground.  Two carcasses lie in front of you, seeming to
+look up at you.  The forest is impassible to the south, but the path
+continues north and west.
+~
+35 0 0 0 0 3
+D0
+Darkness...
+~
+~
+0 0 3519 20 20 0 0 0 0 65535 65535
+D3
+More dark forest.
+~
+~
+0 0 3522 20 20 0 0 0 0 65535 65535
+E
+carcass body corpse carcasses bodies corpses~
+   The corpses looked as if they have been pierced by a large, jagged
+spear.  The damage these people sustained is simply amazing.  Worse, the
+lips on the bodies are a light shade of blue, hinting at poison in
+their systems.
+~
+S
+#3522
+Stench~
+   There is a sickening stench here.  It smells of blood and death.  To the
+north, you catch glimpses of daylight.  To the east, you simply cannot see.
+The trees are close and stifling.
+~
+35 a 0 0 0 3
+D0
+Daylight and a trail to follow.
+~
+~
+0 0 3518 20 20 0 0 0 0 65535 65535
+D1
+Darkness..  the smell seems to come from here.
+~
+~
+0 0 3521 20 20 0 0 0 0 65535 65535
+S
+$~

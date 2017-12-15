@@ -1,0 +1,193 @@
+#7000
+rat~
+a large rat~
+A very large rat is here looking for dinner.
+~
+It is a rat about the size of a very fat cat.
+~
+df 0 0 0 l 0 0 0 50 E
+1 20 9 1d2+1 1d2+0
+0 80 8 3
+8 8 1
+E
+#7001
+bat~
+the small bat~
+The small bat is hanging from the ceiling, wondering how you would taste.
+~
+You have never in your entire life seen such a mean looking small creature,
+though it looks rather peaceful, hanging there, sleeping. The thought of 
+arousing this cruel creature doesn't sit well in your bones.
+~
+d 0 0 0 l 0 0 0 -500 E
+1 20 7 1d2+1 1d1+0
+0 50 8 3
+8 8 0
+E
+#7002
+rat~
+the sewer rat~
+The huge hungry-looking sewer rat sits here.
+~
+An undefined string.~
+df 0 0 0 l 0 0 0 -1000 E
+2 20 7 1d4+1 1d2+0
+0 190 8 3
+8 8 1
+E
+#7003
+spider~
+the small spider~
+The small hairy spider is here, busy with its web.
+~
+An undefined string.~
+cd 0 0 0 lu 0 0 0 -700 E
+1 20 3 1d1+1 1d1+0
+0 80 8 3
+8 8 1
+E
+#7004
+beetle~
+the giant earth beetle~
+The giant, mean-looking earth beetle is here.
+~
+An undefined string.~
+df 0 0 0 l 0 0 0 -300 E
+7 20 3 7d8+21 2d6+9
+0 2920 15 3
+4 8 1
+E
+#7005
+maggot~
+the maggot~
+The giant maggot is here, simply existing.
+~
+An undefined string.~
+d 0 0 0 l 0 0 0 300 E
+3 20 9 3d8+6 1d2+0
+0 120 15 3
+8 8 0
+BareHandAttack: 6
+E
+#7006
+snake~
+the snake~
+The snake slithers towards you. It looks very mean.
+~
+The snake rattles it's tail at you, causing the hair on the back of your 
+neck to stand on end.
+~
+abdfq 0 0 0 l 0 0 0 -500 E
+4 20 7 2d4+0 1d4+0
+0 520 17 3
+8 8 0
+E
+#7007
+evil wanderer~
+the evil wanderer~
+The evil wanderer stares at you with a piercing gaze.
+~
+The evil wanderer is very thin.  He is dressed in a grey cloak.  He doesn't
+look like he'd be your first choice as a travelling companion.
+~
+cdef 0 0 0 0 0 0 0 -1000 E
+4 20 6 4d6+8 1d2+1
+8 520 0 3
+8 8 1
+E
+#7009
+xeno cleric priest~
+Xeno of Marduk~
+A priest, in rune covered robes, stands here waiting to sell you something.
+~
+The priest stands here behind a counter waiting to sell you something. He is
+dressed in black robes, covered in silver runes. His face is hidden deep within
+the folds of his hood.
+~
+bcds 0 0 0 0 0 0 0 -1000 E
+26 20 7 26d8+78 1d2+2
+5000 10 0 1
+8 8 1
+E
+#7012
+patrol gorkel young soldier~
+the Gorkel patrol soldier~
+A young Gorkel soldier on patrol is wandering around here.
+~
+A young Gorkel guard, you would guess he is a conscripted slave. He has
+no love of the Empire, or it's citizens, but he also has a job to do. You
+wonder if he'd like to kill a citizen of the Empire down here, in the dark...
+~
+cd 0 0 0 l 0 0 0 550 E
+2 20 8 2d10+4 1d2+2
+0 190 10 3
+8 8 1
+E
+#7013
+patrol soldier gorkel young~
+the Gorkel patrol soldier~
+A young Gorkel soldier is here sleeping.
+~
+A young Imperial guard who has just finished a shift is here sleeping.
+~
+cd 0 0 0 l 0 0 0 550 E
+2 20 8 2d10+4 1d2+2
+0 190 10 3
+4 4 1
+E
+#7014
+high priest~
+the High Priest of Marduk~
+The High Priest of Marduk is standing here.
+~
+Here stands a man totally given over to the worship of Marduk. He is dressed
+in long black robes with small holy symbols all over. You can feel the evil
+ebbing forth from this man.
+~
+abdjlnop 0 0 0 eiq 0 0 0 -1000 E
+25 20 -10 25d8+75 1d2+4
+300 10 0 1
+8 8 1
+E
+#7015
+marlock~
+the Son of Marduk~
+Marlock, the Son of Marduk, is here hovering just above the ground.
+~
+The huge demon, Marlock, is here hovering just about the ground on his huge,
+leathery wing. This eyes are large, yellow and bulbus. Covering his mouth
+are many tiny tenticals. 
+~
+abdejlnopq 0 0 0 elqx 0 0 0 -1000 E
+33 20 -5 33d8+165 2d6+5
+0 75000 10 3
+8 8 1
+Str: 22
+E
+#7016
+assassin~
+the assassin~
+An assassin of Marduk is here guarding the entrance.
+~
+A thief totally given over to Marduk, he will kill without a thought.
+~
+abcdejlnop 0 0 0 eru 0 0 0 -1000 E
+33 20 100 33d6+99 1d2+2
+0 75000 0 2
+8 8 1
+E
+#7044
+lemure blob~
+the lemure~
+The lemure blob slithers towards you for an attack!
+~
+This looks like a vaguely human blob.  Big black yellow eyes, and a mouth going
+a little bit out from the face.  The lemure does not look interested in you at
+all, but it attacks anyway.  It looks like its mind has been burned out.
+~
+d 0 0 0 l 0 0 0 -500 E
+5 20 6 5d8+0 1d4+0
+0 810 9 3
+8 8 0
+E
+$

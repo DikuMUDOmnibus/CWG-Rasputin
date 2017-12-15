@@ -1,0 +1,254 @@
+#5500
+key stone~
+a small stone key~
+There is a small key made of stone laying here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 10 0 0 0 0 0 0 0 0
+1 10 0 0
+Z
+4
+#5501
+key stone~
+a large stone key~
+There is a large key made of stone laying here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 10 0 0 0 0 0 0 0 0
+3 100 0 0
+Z
+4
+#5502
+key dungeon~
+a dungeon key~
+There is a key for the dungeons of Castle Kilgrave laying here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 9 0 0 0 0 0 0 0 0
+2 50 0 0
+Z
+4
+#5503
+iron battle mask~
+a battle mask~
+An iron mask, made for battle lies here.~
+~
+9 j 0 0 0 as 0 0 0 0 0 0 0
+20 1 100 0 100 100 0 5 0 0 0 0 0 0 0 0
+4 40 0 0
+Z
+4
+E
+mask iron battle~
+The mask has been cast with the face of an angry looking demon. It is to
+protect the wearers face in battle.
+~
+#5504
+crested shield~
+a crested shield~
+A shield bearing the crest of Kilgrave lies here.~
+~
+9 jmnort 0 0 0 aj 0 0 0 0 0 0 0
+10 4 100 1 100 100 5 9 0 0 0 0 0 0 0 0
+7 55 0 0
+Z
+4
+E
+shield~
+The shield has been forged by one of the greatest craftsmen in the realms.
+It has the crest of Kilgrave upon it, an elf skull partly crushed.
+~
+#5506
+book spellbook~
+a spellbook~
+A magical book has been dropped here by some magi.~
+~
+29 g 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 16 0 0 0 0 0 0 0 0
+10 1200 100 0
+Z
+4
+S
+20 1
+S
+1 2
+S
+5 2
+S
+8 2
+S
+29 4
+S
+19 4
+S
+26 6
+S
+30 6
+S
+2 10
+S
+53 4
+S
+52 14
+S
+31 6
+S
+75 14
+S
+76 16
+S
+77 18
+#5508
+mail damaged chain hauberk~
+a damaged chain mail hauberk~
+There is a damaged chain mail hauberk laying here.~
+~
+9 mor 0 0 0 ad 0 0 0 0 0 0 0
+20 1 6 0 100 100 10 9 0 0 0 0 0 0 0 0
+40 20 0 0
+Z
+4
+#5509
+black hooded cloak~
+a black hooded cloak~
+A hooded cloak of common, black cloth has been left here.~
+~
+9 gjmnpr 0 0 0 ac 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 17 0 0 0 0 0 0 0 0
+2 300 0 0
+Z
+4
+A
+2 1 0
+A
+19 1 0
+#5511
+earring~
+a stone earring~
+A stone, carved into a cresent moon lies here.~
+~
+11 gjopt 0 0 0 aq 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 10 0 0 0 0 0 0 0 0
+1 15000 0 0
+Z
+4
+E
+earring~
+The stone is in two parts with a pin between. You could wear it in your
+ear.
+~
+A
+12 20 0
+#5512
+jade necklace~
+a necklace made of @gjade@n~
+A necklace with a @Ygolden@n chain, and a @gjade@n stone lies here.~
+~
+11 g 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 4 0 0 0 0 0 0 0 0
+2 75 0 0
+Z
+4
+#5513
+demon cloak~
+a demonic cloak~
+A black leather cloak has been left here.~
+~
+9 gjlmopt 0 0 0 ac 0 0 0 0 0 0 0
+20 1 100 0 100 100 0 6 0 0 0 0 0 0 0 0
+3 20000 0 0
+Z
+4
+A
+4 1 0
+A
+12 20 0
+#5515
+helmet steel~
+a steel helmet~
+A steel helmet is lying on the ground.~
+~
+9 r 0 0 0 ae 0 0 0 0 0 0 0
+20 1 100 0 100 100 0 9 0 0 0 0 0 0 0 0
+5 20 0 0
+Z
+4
+#5516
+frosty gauntlets~
+a pair of frosty gauntlets~
+A pair of frosty gauntlets lies here on the ground.~
+~
+9 g 0 0 0 ah 0 0 0 0 0 0 0
+20 1 100 0 100 100 0 7 0 0 0 0 0 0 0 0
+8 2000 0 0
+Z
+4
+A
+1 2 0
+A
+17 -10 0
+#5517
+boots~
+a pair of black leather boots~
+A pair of black leather boots have been dropped here.~
+~
+11 g 0 0 0 ag 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 6 0 0 0 0 0 0 0 0
+4 8000 0 0
+Z
+4
+A
+14 25 0
+#5518
+statue~
+a large statue~
+A golden statue of a multi-armed demoness stands here.~
+~
+8 ae 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 4 0 0 0 0 0 0 0 0
+200 5000 0 0
+Z
+4
+E
+statue~
+A large staute that looks quite abit like Dziak, Harbringer of Chaos!
+It looks very heavy.
+~
+#5519
+gold coins pile~
+a pile of gold coins~
+A small pile of gold coins has been left here.~
+~
+20 0 0 0 0 a 0 0 0 0 0 0 0
+250 0 0 0 100 100 0 4 0 0 0 0 0 0 0 0
+25 250 0 0
+Z
+4
+#5520
+earring~
+a garnet earring~
+A small garnet set into a gold post lies here.~
+~
+11 0 0 0 0 aq 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 34 0 0 0 0 0 0 0 0
+0 150 0 0
+Z
+4
+#5521
+steel band~
+a thick steel band~
+A thick steel band has slipped off it's owners finger.~
+~
+11 fgjlmq 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 9 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+E
+steel band~
+It looks weather worn from years of exposure to the elements.  Very dull
+looking.    
+~
+A
+17 -20 0
+$~

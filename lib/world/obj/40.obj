@@ -1,0 +1,104 @@
+#4000
+ring yellow green~
+a yellow and green ring~
+A ring is here, with yellow and green ornamentation.  It looks very old.~
+~
+11 hq 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 27 0 0 0 0 0 0 0 0
+1 50 20 0
+Z
+4
+E
+ring~
+It feels heavy.
+~
+A
+1 -2 20
+#4001
+corpse~
+a corpse~
+A halfway decayed corpse of a goblin is here, giving off a foul odor.~
+~
+15 0 0 0 0 a 0 0 0 0 0 0 0
+10 0 -1 0 100 100 0 14 0 0 0 0 0 0 0 0
+10 0 500 0
+Z
+4
+#4002
+coins~
+some coins~
+A small pile of coins is on the ground.~
+~
+20 0 0 0 0 a 0 0 0 0 0 0 0
+50 0 0 0 100 100 0 4 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+#4050
+potion purple~
+a purple potion~
+A vial filled with purple liquid is here.~
+~
+10 0 0 0 0 ao 0 0 0 0 0 0 0
+8 36 33 33 100 100 0 13 0 0 0 0 0 0 0 0
+1 4000 300 0
+Z
+4
+E
+potion purple~
+The vial reeks of moss. The vial itself is greasy with animal fat.
+~
+#4051
+helmet metal~
+a metal helmet~
+A metal helmet in here.~
+~
+9 0 0 0 0 ae 0 0 0 0 0 0 0
+20 1 100 0 100 100 0 9 0 0 0 0 0 0 0 0
+4 3000 100 0
+Z
+4
+E
+helmet metal~
+It looks somehow magical!.
+~
+A
+38 2 100
+A
+40 2 100
+#4052
+mushroom~
+a mushroom~
+A small mushroom is here.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+2 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+1 9 3 0
+Z
+4
+E
+mushroom~
+Let's put it this way - I wouldn't eat it!!
+~
+#4053
+dirk~
+a thieves' dirk~
+A beautifully crafted dirk is lying here.~
+Nothing.
+~
+5 n 0 0 0 an 0 0 0 0 0 0 0
+16 2 4 11 100 100 0 23 0 0 0 0 0 0 0 0
+3 850 500 0
+Z
+4
+E
+dirk~
+It's a medium sized, beautifully crafted dirk made from some greyish alloy.
+Its blade is double-edged and very thin...this looks like a good thieves'
+weapon.
+~
+A
+18 1 500
+A
+19 1 500
+$~

@@ -1,0 +1,138 @@
+#2500
+humanoid unknown stone guardian statue~
+a stone guardian~
+A stone statue of an unknown humanoid stands here.
+~
+The statue stands over nine feet tall, and depicts a humanoid of unknown
+origin. It appears that, where it not made of granite, it has some type
+of scales rather than skin, and has small horns or spikes in various places
+on it's face, mostly around the jaw and forehead. Also, it has a strangly 
+upturned nose.
+~
+bdeflnopr 0 0 0 eglq 0 0 0 0 E
+4 20 2 4d12+24 2d4+2
+0 520 9 3
+8 8 0
+Str: 17
+E
+#2501
+lizard gray small~
+a small grey lizard~
+There is a small grey lizard here, minding it's own business.
+~
+Just over four feet in length, the small grey lizard does not look very
+threating.
+~
+dh 0 0 0 l 0 0 0 0 E
+2 20 6 2d2+4 1d4+0
+0 190 8 3
+8 8 0
+E
+#2502
+bat yellow-eyed yellow eyed~
+a yellow-eyed bat~
+There is a small, yellow-eyed bat hanging from the ceiling looking at you.
+~
+It is nothing special, just a bat. It must have flown down the chimney.
+~
+bd 0 0 0 l 0 0 0 0 E
+2 20 8 1d4+2 1d2+0
+0 190 8 3
+8 8 0
+E
+#2503
+worm-like larva worm~
+a worm-like larva~
+There is a worm-like larva slithering around on the ground.
+~
+The larva is nearly three feet long, and is covered in a strange green-gray
+ichor that makes it look very slimy in the dim light.
+~
+df 0 0 0 bl 0 0 0 -300 E
+2 20 7 2d2+4 1d2+0
+0 190 8 3
+8 8 0
+BareHandAttack: 4
+E
+#2504
+iron cobra snake~
+an iron cobra~
+You see a strange snake made of metal writhing around on the ground.
+~
+A product of some bizzare magical experiment gone awry no doubt. It looks
+very much like a cobra, except it is made of metal and animated!
+~
+df 0 0 0 l 0 0 0 0 E
+3 20 0 3d4+6 1d4+0
+0 520 9 3
+8 8 0
+E
+#2505
+lich magi magic user azimer~
+Azimer the Lich~
+Standing here is a skeleton with shriveled skin still adhearing to it.
+~
+It is wearing rotting robes, and its eyes are two cold, twinkling white
+points of light. You can feel a deathly cold in the room, you suspect that
+it is his doing.
+~
+adjlnp 0 0 0 er 0 0 0 -1000 E
+19 20 0 19d12+19 2d8+4
+150 42000 0 0
+8 8 1
+E
+#2506
+impish creature demon imp~
+a small demon-imp~
+There is a small impish looking creature here, squawking chaoticly.
+~
+The little demon stand about three feet tall and has a single horn in the
+middle of it's forehead. It's pure red eyes glare at you as it licks it
+needle-like teeth and drools.
+~
+cdjl 0 0 0 elq 0 0 0 -1000 E
+2 20 3 2d8+8 1d4+1
+0 520 10 3
+8 8 0
+E
+#2507
+piercer~
+a piercer~
+On the ceiling you see a piercer waiting to drop on you.
+~
+A piercer is a creature of opporitunity, waiting for an unexpecting person
+to happen by, then dropping down and drinking their blood.
+~
+df 0 0 0 l 0 0 0 0 E
+2 20 7 2d8+4 1d4+2
+0 190 8 3
+8 8 0
+E
+#2508
+grell brain thing brain-thing~
+the grell~
+A floating, writhing tentacled brainlike monster with a strange beak.
+~
+It floats near you, a huge brainlike monster with a parrotlike beak and ten
+tentacles, each as long as a man is tall. It doesn't look very friendly.
+~
+df 0 0 0 l 0 0 0 -1000 E
+5 20 4 5d8+10 1d6+4
+0 810 8 3
+8 8 0
+E
+#2509
+tungian warrior~
+a Tungian warrior~
+One of Lashan's Tungian warriors is here looking for something.
+~
+A strange looking humanoid dressed as a warrior, is searching the area 
+for something. His forehead has a strange, ridged patch in the middle it 
+looks like bone of some sort.
+~
+cdl 0 0 0 0 0 0 0 -750 E
+6 20 8 6d10+12 1d2+2
+23 1260 0 3
+8 8 1
+E
+$

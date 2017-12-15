@@ -1,0 +1,264 @@
+#4200
+npc human gaunt tall dorn~
+Dorn~
+You see a very tall, and nearly impossibly gaunt human.
+~
+The young man before you is very tall, over six foot, but looks like he
+might only weigh one hundred and twenty pounds. Equipment and all. He is
+dressed quite simply and wearing a hooded cloak.
+~
+dl 0 0 0 0 0 0 0 -500 E
+2 20 6 2d6+2 1d2+0
+13 190 0 2
+8 8 1
+E
+#4201
+npc tall gorkel strange zenstance~
+Zenstance~
+You see a Gorkel dressed in very dark greens and browns.
+~
+He seems rather well dressed for a Gorkel, but you notice that he still 
+wears the war paints of his people.
+~
+dl 0 0 0 l 0 0 0 250 E
+2 20 3 2d10+4 1d2+2
+23 190 10 3
+8 8 1
+E
+#4202
+npc huge hulk ludwig~
+Ludwig~
+You see a huge hulk of a man, dressed in full plate mail.
+~
+Towering over you at 6'6", Ludwig looks rather massive under his
+ancient, elven plate mail. You briefly wonder how he came into the
+possession of it, but then decide it might be better not to know.
+~
+dl 0 0 0 0 0 0 0 500 E
+9 20 9 9d10+27 1d2+3
+10 4200 0 3
+8 8 1
+Str: 18
+E
+#4203
+nick npc red robed gaunt milamber de'coin~
+Milamber De'Coin~
+You see a gaunt human dressed in strange @rred robes@n.
+~
+The man before you looks like magi. His robes are quite strange, and 
+covered with strange symbols and icons. You have no idea where this
+man could have come from.
+~
+acdl 0 0 0 0 0 0 0 500 E
+3 20 8 3d4+0 1d2+0
+28 810 0 0
+8 8 1
+E
+#4204
+npc priest monk robed ian man lassik~
+Lassik the Priest~
+You see before you a man dressed in robes of a Priest of Hek.
+~
+The good father standing before you nods and smiles as you approach. He
+is dressed in the dark brown traveling robes common to his order.
+~
+adl 0 0 0 0 0 0 0 500 E
+4 20 8 4d8+4 1d2+1
+15 1260 0 1
+8 8 1
+E
+#4205
+npc bard colorful bright young man bahb~
+Bahb the Bard~
+You see before you a young man dressed colorfully.
+~
+This young man, you assume to be a bard by his dress, is wandering around
+here. Socializing with passers by and playing a flute.
+~
+adl 0 0 0 0 0 0 0 500 E
+4 20 4 4d6+0 1d2+1
+15 1260 0 2
+8 8 1
+E
+#4206
+npc wizard magi man robed blue dyrian timberwheel~
+Dyrian Timberwheel~
+You see before you a man in dark blue robes, leaning on a quarterstaff.
+~
+You can tell by the robes, and strange book hanging at his waist, that this
+man is a wizard. Given his age, perhaps middle thirties, you would guess
+he knows quite a few spells.
+~
+adl 0 0 0 0 0 0 0 500 E
+5 20 7 5d4+5 1d2+0
+35 1950 0 0
+8 8 1
+E
+#4207
+npc man cloaked zinth~
+Zinth~
+You see before you a man dressed in chain mail and a cloak.
+~
+Wearing rather new looking clothes, this man looks rather like a swashbuckler
+from a distant land. He is well tanned and looks like he is in very good shape.
+He also has a rather large tower shield in his right hand.
+~
+dl 0 0 0 0 0 0 0 500 E
+4 20 9 4d10+4 1d2+2
+30 520 0 3
+8 8 1
+E
+#4208
+npc monk young missionary greg~
+Greg the Singing~
+You see before you a young monk wearing Hek's robes.
+~
+Greg is singing a hymn to himself as he passes by. He is dressed in robes
+of a missionary of Hek.
+~
+adl 0 0 0 0 0 0 0 500 E
+1 20 5 1d8+8 1d2+1
+24 360 0 1
+8 8 1
+E
+#4209
+npc young cloaked half elf half-elf rhyan~
+Rhyan~
+You see before you a young, cloaked half-elf.
+~
+Half elven, and well tanned, Rhyan stands before you. He is 
+wearing a purple cloak, and is dressed in dark greens.
+~
+dl 0 0 0 l 0 0 0 500 E
+1 20 6 1d4+1 1d2+0
+5 360 4 0
+8 8 1
+E
+#4210
+npc regally regal prince high elf elven relonor~
+Prince Relonor~
+You see before you a regally dressed High Elf.
+~
+Prince of the High Elven Kingdoms, Relonor is dressed in fine 
+clothing fitting his station.
+~
+dl 0 0 0 l 0 0 0 150 E
+2 20 4 2d10+4 1d2+1
+15 190 1 3
+8 8 1
+E
+#4211
+npc elven knight valas~
+High Knight Valas~
+You see before you an Elven Knight, dressed in full plate.
+~
+The Knight before you is a member of the Elite King's Own, a 
+protector of the Elven King, Zaor.
+~
+dl 0 0 0 l 0 0 0 1000 E
+4 20 1 4d10+4 1d2+3
+12 190 1 3
+8 8 1
+E
+#4212
+npc eric eo xanth paladin~
+Xanth of Hek~
+You see before you a mighty Paladin of Hek dressed for travel.
+~
+Among his metals and honors worn on his armor, you can see that this Paladin
+is a veteran of several tours in the Shaar. He is dressed in fine clothing,
+of purples and blacks, and wears a suit of splint mail over them.
+~
+dl 0 0 0 0 0 0 0 1000 E
+18 20 8 18d10+1 1d2+3
+38 360 0 4
+8 8 1
+E
+#4213
+npc ian bhalzhamon scholar young~
+Bhalzhamon of Rethmar~
+You see before you a young scholar.
+~
+The young man you see in front of you is dressed for travel, and looks as
+if he has traveled a very long distance to be here. Most of his clothes
+and eqipment has a brownish tinge of road dust.
+~
+adl 0 0 0 0 0 0 0 150 E
+3 20 7 3d4+0 1d2+0
+32 810 0 0
+8 8 1
+E
+#4214
+member extremist faithful npc chris go-go go monk brother dalanar~
+Dalanar the Monk of Hek~
+You see before you a member of an extremist group of Hek's faithful.
+~
+The monk you see before you is dressed in a hooded, brown robe. You can
+see his freshly shaven head, save for a single tiny braided ponytail on
+the back of his head. He also wears a goatee that is light brown like his
+ponytail.
+~
+adl 0 0 0 0 0 0 0 -100 E
+3 20 8 3d6+3 1d4+1
+32 810 0 4
+8 8 1
+E
+#4215
+npc elf elven high swashbuckler sierge vaasa nick~
+Sierge Moonleaf~
+You see before you a High Elven swashbuckler.
+~
+Dressed as a swashbuckling gentleman, this handsome High Elf takes you by
+suprise with his charm and grace. He is dressed in the most treandy of this
+years fashions.
+~
+dl 0 0 0 l 0 0 0 250 E
+4 20 6 4d10+0 1d2+0
+40 520 1 3
+8 8 1
+E
+#4216
+npc halfling l'ril tron ril bruce~
+L'Ril Tron~
+You see before you a halfling ragamuffin.
+~
+You almost mistook the halfling for you young human child at first glance.
+He looks very much like several other young children you have seen running
+around the city, save for the pointed ears under his unkempt hair. His 
+clothing is nearly in rags.
+~
+dl 0 0 0 l 0 0 0 0 E
+3 20 6 3d6+0 1d2+0
+0 360 5 2
+8 8 1
+E
+#4217
+npc ranger shandi chris elven half-elven elf half~
+Shandi the Half-Elven~
+You see before you what appears to be a half elven ranger.
+~
+Dressed in the deep greens favored by Naga's Own, this young half-elf appears
+to be a ranger. You also suspect, by his strange feathers and war paints that
+he has been spending time with the Gorkel.
+~
+dl 0 0 0 l 0 0 0 350 E
+3 20 6 3d10+1 1d2+1
+11 360 4 3
+8 8 1
+E
+#4219
+lord thiombur~
+His Lordship, Thiombur~
+Lord Thiombur, Lord of Woeld, stands here overseeing his town.
+~
+Lord Thiombur, the lord of Woeld, appears to have alot of work on his 
+shoulders, or so you can tell by the wear of years on his face. He's 
+dressed in fine clothing obviously pointing him out as a high noble of 
+the land.
+~
+cdl 0 0 0 0 0 0 0 1000 E
+8 20 10 8d6+16 1d2+1
+45 2920 0 3
+8 8 1
+E
+$

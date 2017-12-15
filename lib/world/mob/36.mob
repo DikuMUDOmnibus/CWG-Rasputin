@@ -1,0 +1,27 @@
+#3600
+young man fop foppish traveler~
+a simple traveler~
+You see a young man wandering the road, he is traveling the countryside.
+~
+The young man looks slightly foppish. He is dressed in, perhaps in his mind,
+the fashions of next year. He is quite impressed with himself.
+~
+dl 0 0 0 0 0 0 0 750 E
+6 20 9 6d6+6 1d2+1
+17 1260 0 3
+8 8 1
+E
+#3601
+older man simple pilgrim missionary pilgrim~
+a missionary of Hek~
+You see an older looking man, dressed in a simple brown robe.
+~
+The pilgrim is slightly balding and looks as if he has traveled far in his
+lifetime performing the work of Hek.
+~
+adil 0 0 0 0 0 0 0 1000 E
+5 20 9 5d8+10 1d2+1
+7 1950 0 1
+8 8 1
+E
+$

@@ -1,0 +1,269 @@
+#300
+dog celestial~
+the celestial dog~
+A celestial dog is here, attentive to its current master.
+~
+You can tell this is not an ordinary dog by the much greater than usual
+spark of intelligence in its eyes, as well as the fact that they are
+actually glowing with a golden radiance. It looks like about 20kg of
+confident dog.
+~
+d 0 0 0 l e 0 0 1000 E
+1 20 10 1d8+0 1d4+0
+0 0 8 3
+8 8 1
+Size: 3
+BareHandAttack: 4
+Str: 13
+Dex: 17
+Int: 4
+Wis: 12
+Con: 15
+Cha: 6
+E
+#301
+owl celestial~
+the celestial owl~
+A celestial owl is here, attentive to its current master.
+~
+You can tell this is not an ordinary owl by the much greater than usual
+spark of intelligence in its eyes, as well as the fact that they are
+actually glowing with a golden radiance. It has a wingspan of just
+under 2 meters, and very sharp looking claws.
+~
+d 0 0 0 lx e 0 0 1000 E
+1 20 10 1d8+0 1d4+0
+0 0 8 3
+8 8 1
+Size: 2
+BareHandAttack: 8
+Str: 4
+Dex: 17
+Int: 6
+Wis: 14
+Con: 10
+Cha: 4
+E
+#302
+beetle giant fire celestial~
+the celestial giant fire beetle~
+A celestial giant fire beetle is here, attentive to its current master.
+~
+You can tell this is not an ordinary fire beetle by the much greater
+than usual spark of intelligence in its eyes, as well as the fact that
+they are actually glowing with a golden radiance. There is a bright
+gland above each eye that is producing the affect. Overall, it is
+about 2 feet long; you wouldn't want to get your hand caught in those
+mandibles!
+~
+d 0 0 0 l e 0 0 1000 E
+1 20 10 1d8+0 2d4+0
+0 0 8 3
+8 8 1
+Size: 3
+BareHandAttack: 4
+Str: 10
+Dex: 11
+Int: 3
+Wis: 10
+Con: 11
+Cha: 7
+E
+#303
+badger celestial~
+the celestial badger~
+A celestial badger is here, attentive to its current master.
+~
+You can tell this is not an ordinary badger by the much greater than
+usual spark of intelligence in its eyes, as well as the fact that they
+are actually glowing with a golden radiance. It is about 80cm of squat
+power and confidence, with the sharp claws and teeth to back it up.
+~
+d 0 0 0 l e 0 0 1000 E
+1 20 10 1d8+0 1d2+3
+0 0 8 3
+8 8 1
+Size: 3
+BareHandAttack: 8
+Str: 8
+Dex: 17
+Int: 4
+Wis: 12
+Con: 15
+Cha: 6
+E
+#304
+monkey celestial~
+the celestial monkey~
+A celestial monkey is here, attentive to its current master.
+~
+You can tell this is not an ordinary monkey by the much greater than
+usual spark of intelligence in its eyes, as well as the fact that they
+are actually glowing with a golden radiance. It looks confident,
+though it is only about the size of a housecat.
+~
+d 0 0 0 l e 0 0 1000 E
+1 20 10 1d8+0 1d4+0
+0 0 8 3
+8 8 1
+Size: 2
+BareHandAttack: 4
+Str: 3
+Dex: 15
+Int: 5
+Wis: 12
+Con: 10
+Cha: 5
+E
+#305
+rat dire fiend fiendish~
+the fiendish dire rat~
+A fiendish dire rat is here, attentive to its current master.
+~
+You can tell this is not an ordinary dire rat by the much greater than
+usual spark of intelligence in its eyes, as well as the fact that they
+are actually glowing blood red. It is about 4 feet long, and over 20kg.
+~
+d 0 0 0 l f 0 0 -1000 E
+1 20 10 1d8+0 1d4+0
+0 0 8 3
+8 8 1
+Size: 3
+BareHandAttack: 4
+Str: 10
+Dex: 17
+Int: 3
+Wis: 12
+Con: 12
+Cha: 4
+E
+#306
+raven fiend fiendish~
+the fiendish raven~
+A fiendish raven is here, attentive to its current master.
+~
+This huge raven has a spark of intelligence in its glowing red eyes. It
+has a wing span of about 8 feet and very sharp looking claws.
+~
+d 0 0 0 l f 0 0 -1000 E
+1 20 10 1d1+0 1d2+0
+0 0 8 2
+8 8 1
+Size: 2
+BareHandAttack: 8
+Str: 10
+Dex: 13
+Int: 3
+Wis: 14
+Con: 14
+Cha: 4
+E
+#307
+centipede monstrous fiend fiendish~
+the fiendish monstrous centipede~
+A fiendish monstrous centipede is here, attentive to its current master.
+~
+This centipede is about 2 meters long, and well over 40kg. It has sharp,
+dripping mandibles under blood red glowing eyes.
+~
+d 0 0 0 l f 0 0 -1000 E
+1 20 10 1d8+0 1d6+0
+0 0 8 3
+8 8 1
+BareHandAttack: 4
+Str: 9
+Dex: 15
+Int: 3
+Wis: 10
+Con: 10
+Cha: 2
+E
+#308
+scorpion monstrous fiend fiendish~
+the fiendish monstrous scorpion~
+A fiendish monstrous scorpion is here, attentive to its current master.
+~
+This scorpion weighs at least 15kg, and must be almost 2 meters long
+(though half of that is its long tail and stinger).  A spark of
+intelligence is in its glowing red eyes.
+~
+d 0 0 0 l f 0 0 -1000 E
+1 20 10 1d8+0 2d3+0
+0 0 8 3
+8 8 1
+Size: 3
+BareHandAttack: 1
+Str: 9
+Dex: 10
+Int: 3
+Wis: 10
+Con: 14
+Cha: 2
+E
+#309
+hawk fiend fiendish~
+the fiendish hawk~
+A fiendish hawk is here, attentive to its current master.
+~
+This would be an average looking hawk, having almost a 2 meter wing span,
+except for the spark of intelligence is in its glowing red eyes. It has
+very sharp looking talons.
+~
+d 0 0 0 l f 0 0 -1000 E
+1 20 10 1d8+0 1d4+0
+0 0 8 3
+8 8 1
+Size: 2
+Str: 6
+Dex: 17
+Int: 5
+Wis: 14
+Con: 10
+Cha: 6
+E
+#310
+spider monstrous fiend fiendish~
+the fiendish monstrous spider~
+A fiendish monstrous spider is here, attentive to its current master.
+~
+This spider weighs at least 15kg, and its legs span close to 180cm. A
+spark of intelligence is in its glowing red eyes. Its dripping mandibles
+look quite dangerous.
+~
+d 0 0 0 l f 0 0 -1000 E
+1 20 10 1d8+0 1d4+0
+0 0 8 3
+8 8 1
+Size: 3
+BareHandAttack: 4
+Str: 7
+Dex: 17
+Int: 3
+Wis: 10
+Con: 10
+Cha: 2
+E
+#311
+viper fiend fiendish~
+the fiendish viper~
+A fiendish viper is here, attentive to its current master.
+~
+This snake weighs at least 15kg, and must be almost 2 meters long
+(though half of that is its long tail and stinger).  A spark of
+intelligence is in its glowing red eyes. Its sharp fangs drip with
+poison.
+~
+d 0 0 0 l f 0 0 -1000 E
+1 20 10 1d8+0 1d4+0
+0 0 8 3
+8 8 1
+Size: 3
+BareHandAttack: 4
+Str: 6
+Dex: 17
+Int: 3
+Wis: 12
+Con: 11
+Cha: 2
+E
+$

@@ -1,0 +1,54 @@
+#100
+impish creature demon imp~
+a @rsmall @bdemon-imp@n~
+There is a @rsmall @bimpish@n looking creature here, squawking chaoticly.
+~
+The little demon stand about @gthree@n feet tall and has a @csingle@n horn in the
+middle of it's forehead. It's pure @Rred@n eyes glare at you as it licks it
+needle-like teeth and @Mdrools@n.
+~
+dj 0 0 0 l 0 0 0 -1000 E
+3 20 5 3d8+0 1d4+0
+0 360 10 3
+8 8 0
+E
+#101
+cleric teacher~
+a @Ycleric of Hek@n~
+A ragged looking @Ycleric of Hek@n is here seaching for escape.
+~
+It looks as if this cleric has spent many years trapped inside the Tower.
+Perhaps @Cdeath@n will be his final release.
+~
+cdi 0 0 0 0 0 0 0 1000 E
+4 20 9 4d8+0 1d4+0
+0 520 0 1
+8 8 1
+E
+#102
+minotaur~
+a @rminotaur@n~
+A @rminotaur@n is wandering around here.
+~
+Standing over 8 feet tall, the powerful looking @rminotaur@n 
+growls at you when he notices you. He wears nothing but a 
+loin cloth and you can see his powerful bare chest.
+~
+cdfl 0 0 0 l 0 0 0 -750 E
+6 20 8 6d8+12 1d4+3
+25 810 19 3
+8 8 1
+E
+#103
+drow mage~
+a @bdrow@n~
+Hidden in the shadows is a @bdrow mage@n...waiting to strike.
+~
+He is dressed in black, and waiting for the right time to strike.
+~
+abcdf 0 0 0 l 0 0 0 -1000 E
+6 20 8 6d4+0 1d4+0
+100 2920 6 0
+8 8 1
+E
+$

@@ -1,0 +1,43 @@
+changelog:
+	6/30/05  (release)
+	- (C) Initialized unique object pools as part of boot_db.
+	  Thanks to Fnord!
+	6/23/05 
+	- (R) Update to find_eq_pos. If a mob was trying to wear something 
+	  that was flagged WEAR_HOLD, the game would crash. 
+	- (C) Updates to free_room_strings, free_room, and free_srings.
+	  Thanks to Welcor!
+	6/14/05 
+	- (R) Update to roll_real_abils.
+	  Thanks to Welcor (welcor@builderacademy.net)!
+	6/09/05 
+	- (R) Changed byte to sbyte for ability_mod_value and dex_mod_capped.
+	  Thanks to Fnord (fnord@cosanostra.net)!
+	6/08/05 
+	- (R) Removed various log() statements left over from DEBUG.
+	- (C) Applied board update patch
+	  Thanks to Cunning (scmeis1@hotmail.com)! 
+	- (R) Removed redundant NUM_SEX define in structs.h
+	  Thanks to Fantebsb (fantebsb@gmail.com)!
+	- (R) Updated external call to spell_sort_info in feats.c.
+	  Thanks to Dastuun (theeds@mac.com)!
+	6/03/05 
+	- (C) Added pagelength patch provided by Ken!
+	6/02/05 
+	- There is some confusion about the changes made to item_in_list. So
+	  the changes were rolled out.
+	  Thanks Ken!
+	6/01/05 
+	- (R) Fixed scroll objects for memorization code. Scrolls are now 
+	  limited to only 1 spell per scroll.
+	- (R) Also fixed small bug where spellbook and scroll objects wouldn't
+	  show you what spells were scribed in them if the object had an extra
+	  description.
+	- (R) Update class_names from warrior to fighter to keep consistancy.
+	  Thanks to snob99 (prattgary@hotmail.com)
+	- (C) Fixed typo and bad logic related to EXP_MULTIPLIER cedit addition.
+	  Thanks to Maclir (kenr86@hotmail.com)
+	5/31/05 (release)
+	5/29/05
+	- Start of the ChangeLog.rasputin file.
+	- Happy Birthday to Fnord! :P

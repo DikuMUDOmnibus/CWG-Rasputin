@@ -1,0 +1,31 @@
+#1
+None.~
+Tower of the Ordeal~
+100 199 40 2
+D 0 102 0 2 -1 	(Center of the tower)
+D 0 105 2 2 -1 	(A ladder to the next level)
+D 0 106 2 1 -1 	(The second level)
+D 0 107 0 1 -1 	(Center of the tower)
+D 0 107 2 2 -1 	(Center of the tower)
+D 0 110 0 2 -1 	(A ladder to the next level)
+D 0 111 0 2 -1 	(A small landing)
+D 0 112 2 2 -1 	(A magical workshop)
+D 0 112 0 2 -1 	(A magical workshop)
+M 0 100 2 104 0 	(a @rsmall @bdemon-imp@n)
+G 1 100 10 -1 0 	(a small stone key)
+M 0 100 2 103 0 	(a @rsmall @bdemon-imp@n)
+M 0 101 2 109 0 	(a @Ycleric of Hek@n)
+E 1 1116 200 5 0 	(a leather jacket)
+E 1 1307 200 16 0 	(a warhammer)
+G 1 102 200 -1 0 	(a small blue vial)
+M 0 101 2 108 0 	(a @Ycleric of Hek@n)
+E 1 1116 200 5 0 	(a leather jacket)
+E 1 1307 200 16 0 	(a warhammer)
+G 1 101 10 -1 0 	(a small stone key)
+M 0 103 1 112 0 	(a @bdrow@n)
+E 1 1110 200 12 0 	(a black, rune covered robe)
+E 1 1301 200 16 0 	(a rune enscribed short sword)
+E 1 1318 200 17 0 	(a dagger)
+E 1 7001 200 3 0 	(a holy symbol of Marduk Kurios)
+S
+$

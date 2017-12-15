@@ -1,0 +1,1039 @@
+#12000
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+
+This zone is for the town of Tekaro. It is a large city along the northern edge
+of the Empire. There are many shops and guilds.
+
+This zone links up with zones: 22, 31 and 36.
+~
+120 dk 0 0 0 0
+S
+#12001
+Boarding Row~
+   You are standing along Boarding Row, all around you are Inns and taverns.
+Most of Tekaro's visitors are directed to this part of town by the city guard.
+To the east lies Calantar's Way, the Row continues south, and to the north is
+Dhalmass Road, which runs into the monument to Dhalmass. To the west lies the
+rather large Church of Hek.
+~
+120 0 0 0 0 0
+D0
+~
+~
+0 -1 12009 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 12054 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12002 20 20 0 0 0 0 65535 65535
+D3
+~
+door~
+1 12099 12042 20 20 0 0 0 0 65535 65535
+S
+#12002
+Boarding Row and Tavern Pass~
+   You are along one of the numerous tavern sections of Tekaro. You can see
+Calantar's Gate to the southeast. Boarding Row ends to the south, and Tavern
+Pass runs east-west here.
+~
+120 0 0 0 0 0
+D0
+~
+~
+0 -1 12001 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 12035 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12003 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12004 20 20 0 0 0 0 65535 65535
+S
+#12003
+The end of Boarding Row~
+   Here you stand at the end of the road. It runs right into the city's great
+wall. You can hear the noise from Tavern Pass, and think you hear a drunken
+song or two.
+~
+120 0 0 0 0 0
+D0
+~
+~
+0 -1 12002 20 20 0 0 0 0 65535 65535
+S
+#12004
+Tavern Pass and Morning Lord's Way~
+   You can see more taverns along here, and the Pass intersects with an old
+road that runs back toward the center of town. There is one shop here with a 
+sign that reads "Daglar Maermeet - Armorer".
+~
+120 0 0 0 0 0
+D0
+~
+~
+0 -1 12008 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 12002 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12005 20 20 0 0 0 0 65535 65535
+D3
+~
+door~
+1 12099 12048 20 20 0 0 0 0 65535 65535
+S
+#12005
+Sundown Alley~
+   You are at the end of the Morning Lord's Way, called Sundown alley by the
+locals. There are a few brick buildings. To the north the Lord's Way continues,
+and crosses Tavern Pass.
+~
+120 0 0 0 0 0
+D0
+~
+~
+0 -1 12004 20 20 0 0 0 0 65535 65535
+S
+#12006
+On Tavern Pass~
+   You stand in a small circle of inns and taverns along the westen edge of
+the city wall. Just to the north and abit west lies the High Horn Gate. To the
+west is a lively little pub, with a picture of a bent bow hanging over the
+door.
+~
+120 0 0 0 0 0
+D0
+~
+~
+0 -1 12007 20 20 0 0 0 0 65535 65535
+D3
+~
+door~
+1 12099 12037 20 20 0 0 0 0 65535 65535
+S
+#12007
+Gatepass Road~
+   You are now on Gatepass Road, the most heavly traveled road in the city. It
+connects the western High Horn Gate and the eastern Eastgate. Many of the shops
+and stores of Tekaro can be found along this road. Just to the west you can see
+the High Horn Gate.
+~
+120 0 0 0 0 0
+D1
+~
+~
+0 -1 12011 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12006 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12010 20 20 0 0 0 0 65535 65535
+S
+#12008
+The Morning Lord's Way~
+   Here you stand one of the many side roads of Tekaro. You can see many shops
+and stands offering various wares to you, some even at reasonable prices. To
+the north lies Gatepass Road, and the Way runs parallel to the east.
+~
+120 0 0 0 0 0
+D1
+~
+~
+0 -1 12009 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12004 20 20 0 0 0 0 65535 65535
+S
+#12009
+The Morning Lord's Way~
+   You stand along the Way. You can see the shops and stores of Tekaro. You
+can connect with Gatepass Road to the north and west. The road to the north
+runs into Dhalmass Square.
+~
+120 0 0 0 0 0
+D0
+~
+~
+0 -1 12011 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12001 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12008 20 20 0 0 0 0 65535 65535
+S
+#12010
+The High Horn Gate~
+   Before you is the massive High Horn Gate of Tekaro. The wall itself was
+erected to keep out the goblinoids from the Stormlands to the north. The road, 
+know as the East Way, is a major trade route passing through the Empire. The
+Storm Horns lay to the west, past Helgor and Tyrluk. To the east lies the
+heart of the city.
+~
+120 0 0 0 0 0
+D0
+~
+~
+0 -1 12013 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 12007 20 20 0 0 0 0 65535 65535
+D3
+~
+gate~
+2 12016 3605 20 20 0 0 0 0 65535 65535
+S
+#12011
+Gatepass Road~
+   The Gatepass Road runs east-west here. The High Horn gate is a short ways to
+the west, and the Eastgate lies on the other side of town from here. To the
+north, a smaller road runs into Dhalmass Square. The political center of
+Tekaro is just to the east of here.
+~
+120 0 0 0 0 0
+D0
+~
+~
+0 -1 12012 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 12015 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12009 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12007 20 20 0 0 0 0 65535 65535
+S
+#12012
+Dhalmass Square~
+   Standing in this small square, you can see in the center, a granite monument
+to the great King Dhalmass. To the south lies Gatepass Road, in all other 
+directions is part of Tekaro's residential section.
+~
+120 0 0 0 0 0
+D0
+~
+~
+0 -1 12022 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12011 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12013 20 20 0 0 0 0 65535 65535
+E
+monument granite dhalmass~
+The monument shows the great King Dhalmass, looking over the countryside 
+thoughtfully. Known as 'The Warrior King' the likness is dressed for both
+travel, and battle. You cannot help but notice his 'vision' is looking toward
+Nelva to the east.
+~
+S
+#12013
+Northwall Road~
+   You stand on the Northwall Road, which passes though part of Tekaro's 
+residential section. To the south lies the High Horn Gate, and to the east
+lies Dhalmass Square. A small gem shop to the west catches your eye.
+~
+120 0 0 0 0 0
+D0
+~
+~
+0 -1 12014 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 12012 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12010 20 20 0 0 0 0 65535 65535
+D3
+~
+door~
+1 12099 12041 20 20 0 0 0 0 65535 65535
+S
+#12014
+Northwall Road~
+   You are standing along the Northwall Road. This road runs, eventually, into
+the Citadel, which is the prison, and the court and city hall known as the 
+Palace. To the south is more of Tekaro's residential section.
+~
+120 0 0 0 0 0
+D0
+~
+~
+0 -1 12021 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12013 20 20 0 0 0 0 65535 65535
+S
+#12015
+The Gatepass Road~
+   You are standing on the Gatpass Road, which is part of a major trade route
+that runs throught Tekaro. It runs right into Nelva to the east, very far to 
+the east. You are nearing the center of Tekaro. To the north you notice one
+interesting shop, it has weapons of all descriptions on the window.
+~
+120 0 0 0 0 0
+D0
+~
+door~
+1 12099 12038 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 12016 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12011 20 20 0 0 0 0 65535 65535
+S
+#12016
+Central Square~
+   You stand in the center of Tekaro. The area is slightly more raised 
+than the rest of the surrournding countryside, so you can see the entire 
+city and some of the srrounding farmlands and plains. To the north you can 
+see the jail and the city hall. To the south you can see Calantar's Gate, 
+and the east and west gates are also in their respective directions.
+~
+120 0 0 0 0 0
+D0
+~
+~
+0 -1 12017 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 12023 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12054 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12015 20 20 0 0 0 0 65535 65535
+S
+#12017
+Calantar's Way~
+   Calantar's Way continues north here, running into the political 'center' 
+of Tekaro. The Way also runs south to the Calantar's Gate. To the east you
+can hook up with Goblin Gate Road. You can see a small merchant shop along
+the road to the west.
+~
+120 0 0 0 0 0
+D0
+~
+~
+0 -1 12018 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 12019 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12016 20 20 0 0 0 0 65535 65535
+D3
+~
+door~
+1 12099 12043 20 20 0 0 0 0 65535 65535
+S
+#12018
+Justice Circle~
+   You are standing in a large circle that connects the north wall road and
+Calantar's Way. Here you can see the impressive Citadel, the local jail, and
+the Palace which contains the court and the mayor's office. 
+   There is a small hand painted sign on the gate of the Citadel.
+~
+120 0 0 0 0 0
+D0
+~
+gate~
+2 12099 12039 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 12040 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12017 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12022 20 20 0 0 0 0 65535 65535
+E
+citadel jail~
+The Citadel is a large, walled keep built within the city to deal with
+criminals. It is very well kept, and clean. You can see many guards patroling
+the area from various places.
+~
+E
+sign small hand painted handpainted~
+The sign reads: The Citadel is currently closed to the public.
+                -- Myrmeen Lhal
+~
+S
+#12019
+Goblin Gate Road~
+   You stand on Goblin Gate Road, so named as it leads to the north gate of
+Tekaro where many Goblinkin from the Helmlands sweep down to attack the city.
+Directly to the north you see the Palace, political seat of Tekaro. The road
+also continues west and north past several minor nobles' houses.
+~
+120 0 0 0 0 1
+D0
+~
+~
+0 -1 12040 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 12020 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12017 20 20 0 0 0 0 65535 65535
+S
+#12020
+Goblin Gate Road~
+   To the north you can see the great Northern Gate, sometimes called the
+Goblin Gate. All around you there are large estates of many of the nobles 
+of Tekaro.
+~
+120 0 0 0 0 0
+D0
+~
+~
+0 -1 12029 20 20 0 0 0 0 65535 65535
+D1
+~
+gate~
+2 6026 12045 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12019 20 20 0 0 0 0 65535 65535
+S
+#12021
+Northwall Road~
+   You stand in part of Tekaro's residental section, along the wall road. In
+the distance to the east you can see the Citidal and the Palace, the political
+and judicial centers of the city.
+~
+120 0 0 0 0 0
+D1
+~
+~
+0 -1 12022 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12014 20 20 0 0 0 0 65535 65535
+S
+#12022
+Northwall Road~
+   The houses here thin abit to make way for several parks that lay between
+here and the Palace. The city wall is directly to the north offering the
+silent assurance of protection from invasion. To the south you can see
+Dhalmass Square, and the statue of the great King there.
+~
+120 0 0 0 0 1
+D1
+~
+~
+0 -1 12018 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12012 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12021 20 20 0 0 0 0 65535 65535
+S
+#12023
+Gatepass Road~
+   The Gatepass Road continues to run here, east-west, past the center of
+town, to the Eastgate on the east end of town and High Horn Gate to the west.
+There is a large staircase along the western wall that leads up into the
+Pride of Tekaro, a well known traveler's inn. To the north lies the Commoner's
+Circle.
+~
+120 0 0 0 0 1
+D0
+~
+~
+0 -1 12034 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 12024 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12028 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12016 20 20 0 0 0 0 65535 65535
+D4
+~
+door~
+1 12099 12044 20 20 0 0 0 0 65535 65535
+S
+#12024
+Gatepass Road~
+   Gatepass Road continues here through the town east-west. There is also
+a smaller road running south here into a few houses and inns. To the north
+lies the Commoner's Circle.
+~
+120 0 0 0 0 1
+D0
+~
+~
+0 -1 12036 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 12025 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12027 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12023 20 20 0 0 0 0 65535 65535
+S
+#12025
+Gatepass Road~
+   The Gatepass Road runs here, to the Eastgate just to the east. It also
+runs through town to the west and into the High Horn Gate. You can see several
+merchant shops and warehouses around this area. To the north lies a general
+store known as The Lamps.
+~
+120 0 0 0 0 1
+D0
+~
+door~
+1 12099 12046 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 12026 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12024 20 20 0 0 0 0 65535 65535
+S
+#12026
+Eastgate~
+   Here you stand overlooking the eastern countryside of the Empire. The
+highway known as the East Way runs directly into Nelva. The gate is closed
+and locked.
+   There is a small sign here.
+~
+120 0 0 0 0 1
+D1
+~
+gate~
+2 12016 12026 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12033 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12025 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign reads: The East Way and Nelva are awaiting construction.
+                --Ziz
+~
+S
+#12027
+Warehouse Row~
+   This road runs though a section of Tekaro that contains most of the
+warehouses and trading yards for the large number of traveling merchants
+that pass though, and stop in, Tekaro. To the north lies Gatepass Road, and
+the south lies Southwall Road.
+~
+120 0 0 0 0 2
+D0
+~
+~
+0 -1 12024 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12031 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12028 20 20 0 0 0 0 65535 65535
+S
+#12028
+Warehouse Row~
+   Closer to the physical center of Tekaro, the warehouses and trading
+yards begin to blend into some houses and shops. Most of them seem to belong
+to the commoners of the city. To the south, in the distance, you can see
+a large estate.
+~
+120 cd 0 0 0 0
+D0
+~
+~
+0 -1 12023 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 12027 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12030 20 20 0 0 0 0 65535 65535
+S
+#12029
+The Great North Gate~
+This is the northern gateway to the city of Tekaro.  The huge gate appears to be
+closed against intrusion.  A large road muddy road runs through the gate and 
+into the countryside.  Goblin Gate Road runs south from here.
+~
+120 0 0 0 0 1
+D0
+~
+gate~
+1 12016 2245 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12020 20 20 0 0 0 0 65535 65535
+E
+gate~
+The gate is made of solid iron and is well maintained.
+~
+S
+#12030
+Before a large estate~
+   To the south, behind closed gates, lies the very large estate of some
+unknown noble of Tekaro. You wonder, briefly, what they did to get their
+money. To the west lies the center of town, and to the east begins the
+Southwall Road, which also runs into the Eastgate.
+~
+120 0 0 0 0 1
+D0
+~
+~
+0 -1 12028 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 12031 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12054 20 20 0 0 0 0 65535 65535
+S
+#12031
+Southwall Road~
+   The road follows the southern edge of the city walls here. To the north
+lies Warehouse Row, and this road continues to the east. 
+~
+120 0 0 0 0 1
+D0
+~
+~
+0 -1 12027 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 12032 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12030 20 20 0 0 0 0 65535 65535
+S
+#12032
+Southwall Road~
+   You are standing along the Southwall Road, which follows the city wall
+and turns to the north here, running into Eastgate. All around you can see
+merchant warehouses and trading yards. To the south you can see the estates
+of several minor nobles.
+~
+120 0 0 0 0 1
+D0
+~
+~
+0 -1 12033 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12031 20 20 0 0 0 0 65535 65535
+S
+#12033
+Eastwall Road~
+   Still following the city wall, you are on the eastern edge of Tekaro, near
+the Eastgate to the north. You can see several warehouses in this area, the
+last holding grounds before many of these goods are shipped off to Nelva.
+~
+120 0 0 0 0 1
+D0
+~
+~
+0 -1 12026 20 20 0 0 0 0 65535 65535
+D1
+~
+door~
+1 12099 12047 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12032 20 20 0 0 0 0 65535 65535
+S
+#12034
+Commoner's Circle~
+   This small road is a semi-circle off of the Gatepass Road, and is home to
+some of the commoners of Tekaro. It is quite clear that nobility is not
+welcome here. To the south is Gatepass Road, and the Circle continues to
+the east. 
+~
+120 0 0 0 0 1
+D1
+~
+~
+0 -1 12036 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12023 20 20 0 0 0 0 65535 65535
+S
+#12035
+Calantar's Gate~
+This is the southern gateway to the city of Tekaro.  The bronze gate is open. 
+Looking through you see a heavily traveled road leading out of the city. 
+Calantar's Way continues here and runs north to the Citadel and the Palace.
+~
+120 0 0 0 0 1
+D0
+~
+~
+0 -1 12054 20 20 0 0 0 0 65535 65535
+D2
+~
+gate~
+1 12016 3142 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12002 20 20 0 0 0 0 65535 65535
+S
+#12036
+Commoner's Circle~
+   You stand on what is known as Commoner's Circle by the nobility of Tekaro.
+Many of the commoners have homes in this area, and this is a small open air
+market place for them to do their business. You cannot help but notice a few
+lusty looking wenches working the crowd. The Gatepass Road lies to the south,
+and the Circle continues to the west. 
+~
+120 0 0 0 0 1
+D2
+~
+~
+0 -1 12024 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12034 20 20 0 0 0 0 65535 65535
+E
+prostitutes tarts lusty wenches whores~
+The scantly clad tarts giggle to themselves and scurry away when they notice
+you looking at them.
+~
+S
+#12037
+The Bent Bow Inn~
+   One of the many Inns in Tekaro, the Bent Bow comes highly recommended by
+the locals. If the smells comming from the kitchen are any indication, you
+understand why. You can see quite a few travelers here eating, drinking and
+talking. There are also quite a few locals here. 
+~
+120 d 0 0 0 1
+D1
+~
+door~
+1 12099 12006 20 20 0 0 0 0 65535 65535
+S
+#12038
+The Wary Warrior~
+   Sitting at an important trading crossroads, and given the general political
+situation in the Empire, you are not suprised at all to see this weapons 
+merchant has nearly more weapons than he can store. He deals in weapons of all
+types, from all lands. If it's a weapon, he'll buy it.
+~
+120 d 0 0 0 1
+D2
+~
+door~
+1 12099 12015 20 20 0 0 0 0 65535 65535
+S
+#12039
+The Citadel~
+   You stand inside the Citadel, a massive four towered keep that was built by
+criminals, for criminals. You really don't want to be on this side of the 
+walls, none have escaped here alive.
+~
+120 d 0 0 0 1
+D2
+~
+gate~
+2 12099 12018 20 20 0 0 0 0 65535 65535
+S
+#12040
+The Palace~
+   You stand in the open courtyard of before the Palace. Inside justice is
+delivered by agents of the Emperor and everyday descisions about the city
+are made by the Mayor and her aides. The grounds here are lush and green,
+they keep more than a few citizen employed to maintain them. To the south
+lies Goblin Gate Road, and Northwall Road lies to the west.
+~
+120 d 0 0 0 1
+D2
+~
+~
+0 -1 12019 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12018 20 20 0 0 0 0 65535 65535
+S
+#12041
+The Net of Pearls~
+   Judging by the type of merchandise being sold here, you cannot help but
+wonder how often the city guard comes by. Gems and jewels of all types are
+for sale here, a great way to transport large ammounts of gold.
+~
+120 d 0 0 0 1
+D1
+~
+door~
+2 12099 12013 20 20 0 0 0 0 65535 65535
+S
+#12042
+The Church of Hek~
+   This is, perhaps, the largest Church to Hek in the Empire. It is done up 
+all in marble and gold trim. Huge stained glass windows allow light to flood
+into the cathedral. Rows upon rows of pews line the room. At the far end, you 
+can see the altar, and raised dias that the High Priest uses in his sermons.
+~
+120 d 0 0 0 0
+D1
+~
+door~
+1 12099 12001 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12050 20 20 0 0 0 0 65535 65535
+S
+#12043
+The House of Thond~
+   This is the small shop of the merchant Thond. He specializes in buying and
+selling eveything. He also has a reputation of buying stolen goods from local
+thieves, but nothing has ever been proven, of course. 
+~
+120 d 0 0 0 1
+D1
+~
+door~
+1 12099 12017 20 20 0 0 0 0 65535 65535
+S
+#12044
+The Pride of Tekaro~
+   Another of Tekaro's fine Inns, the Pride is just that. It is frequented by
+most visiting nobles and diplomats. Everything is plush and comforable, with
+an air of dignitay and nobility.
+~
+120 d 0 0 0 1
+D5
+~
+door~
+1 12099 12023 20 20 0 0 0 0 65535 65535
+S
+#12045
+House Marliir~
+   A noble's estate that is underconstruction.
+~
+120 0 0 0 0 1
+D3
+~
+gate~
+2 6026 12020 20 20 0 0 0 0 65535 65535
+S
+#12046
+The Lamps~
+   The Lamps is a general store owned by an old, wrinkled wizard. His goods
+are displayed around the room in an orderly fashion.
+~
+120 d 0 0 0 1
+D2
+~
+door~
+1 12099 12025 20 20 0 0 0 0 65535 65535
+S
+#12047
+Nyaril Warehouse~
+   You stand in the dark, filled warehouse of the merchant Nyaril. He is known
+in town as a trafficer of illegal goods, and is not very friendly to visitors,
+especially when they are unwelcome.
+~
+120 d 0 0 0 1
+D1
+~
+~
+0 -1 12049 20 20 0 0 0 0 65535 65535
+D3
+~
+door~
+1 12099 12033 20 20 0 0 0 0 65535 65535
+S
+#12048
+Daglar Maermeet's Armors~
+   You see before you, the fair sized shop of Daglar Maermeet, armoror. You
+can see that he has his own forge and work area in back, so he must do his
+own work. You see mostly Imperial armors lining the walls, but you notice a
+few Elven peices and a few others you cannot quite place.
+~
+120 d 0 0 0 1
+D1
+~
+door~
+1 12000 12004 20 20 0 0 0 0 65535 65535
+S
+#12049
+Nyaril's Office~
+   You stand in the midsized, rather plush office of Nyaril the merchant-thief.
+His desk is a clutter with various papers involved in his business.
+~
+120 d 0 0 0 1
+D3
+~
+~
+0 -1 12047 20 20 0 0 0 0 65535 65535
+S
+#12050
+Near the Alter~
+   You stand next to the Alter of Hek, the whole room is brightly light from 
+hidden light sources in the church itself. All around you is the beauty and
+splendor of the mighty Hek.
+~
+120 d 0 0 0 1
+D0
+~
+~
+0 -1 12042 20 20 0 0 0 0 65535 65535
+S
+#12051
+Entrance of the Red Raven Compound~
+   You stand in the open courtyard of the Red Raven's Compund, a mercenary
+group that comes to the aid of the Purple Dragons from time to time in these
+parts. It appears that the courtyard is also an open air arena for 
+the practicing of combat skills. To the west lies an enclosed building, 
+the headquarters no doubt.
+~
+120 0 0 0 0 1
+D1
+~
+gate~
+1 1101 3142 20 20 0 0 0 0 65535 65535
+D3
+~
+door~
+1 1101 12052 20 20 0 0 0 0 65535 65535
+S
+#12052
+Headquarters of the Red Raven~
+   The headquarters is a barely coherent jumble of troop strenghts and 
+movements for the northern reigons of Toran. Activity reports on the 
+Purple Dragons, the Red Ravens themselves, the goblins in the wastes of 
+Loncair, as well as the Nelven army near the boarder of Toran. Quite a 
+mess, but informative to the right people apparently. There is a large 
+steel door set into the northern wall.
+~
+120 d 0 0 0 1
+D0
+~
+steel~
+2 1101 12053 20 20 0 0 0 0 65535 65535
+D1
+~
+door~
+2 1101 12051 20 20 0 0 0 0 65535 65535
+S
+#12053
+The Red Raven's Armory~
+   There are weapons and armor of all types laying about this secure vault, all
+are etched with the symbol of the Red Raven.
+~
+120 d 0 0 0 1
+D2
+~
+steel~
+2 1101 12052 20 20 0 0 0 0 65535 65535
+S
+#12054
+Near the center of town, at Calantar's Way and Boarding Row~
+   You stand at the crossroads of Calantar's Way, which runs north-south, and
+Boarding Row, which runs east-west. Calantar's Gate lies to the south, and 
+the center of town to the north. 
+~
+120 0 0 0 0 0
+D0
+~
+~
+0 -1 12016 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 12030 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 12035 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 12001 20 20 0 0 0 0 65535 65535
+S
+$~

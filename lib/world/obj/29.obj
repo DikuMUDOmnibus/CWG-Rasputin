@@ -1,0 +1,108 @@
+#2901
+granite horn~
+an 8 inch piece of granite~
+An 8 inch piece of granite has been left here.~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 35 0 0 0 0 0 0 0 0
+1 15 2 0
+Z
+4
+E
+granite horn~
+The peice of granite resembles a carved horn of some animal.
+~
+#2902
+granite key~
+a granite key~
+An odd shaped key of granite has been left here.~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 35 0 0 0 0 0 0 0 0
+5 20 2 0
+Z
+4
+E
+granite key~
+The oddly shaped key is carved with many strange runes.
+~
+#2903
+sarcophagus~
+a sarcophagus~
+A human-sized sarcophagus sits in the middle of the room.~
+~
+15 0 0 0 0 a 0 0 0 0 0 0 0
+1000 15 2902 0 100 100 0 28 0 0 0 0 0 0 0 0
+1000 2000 200 0
+Z
+4
+E
+sarcophagus tomb detailed~
+The sarcophagus has been richly carved with intricate runes 
+and symbols. You notice a few symbols of Marduk also. The name 
+of Rethtack Resneb is carved on the side.
+~
+#2904
+black robe rune~
+a @Kblack robe@n stiched with @Wsilver runes@n~
+A @Kblack robe@n stiched with @Wsilver runes@n has been left here.~
+~
+9 degjlpqt 0 0 0 ak 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 17 0 0 0 0 0 0 0 0
+4 200 0 0
+Z
+4
+#2905
+loin loincloth cloth~
+a loin cloth~
+A dark brown, leather loin cloth has been left here.~
+~
+9 0 0 0 0 al 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 6 0 0 0 0 0 0 0 0
+5 10 1 0
+Z
+4
+#2906
+book lammashta~
+a black leather bound book~
+A black, leather bound book has been left here.~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 16 0 0 0 0 0 0 0 0
+10 100 10 0
+Z
+4
+E
+book lammashta~
+The book has the word "Lammashta" written on the cover, and is 
+quite heavy.
+~
+#2907
+holy symbol unholy marduk~
+a holy symbol of Marduk~
+A vile holy symbol of the Evil Marduk has been put here.~
+~
+12 jl 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 8 0 0 0 0 0 0 0 0
+1 500 50 0
+Z
+4
+E
+holy symbol unholy marduk~
+The unholy symbol has a "BT" carved on the bottom.
+~
+A
+12 20 50
+A
+19 2 50
+#2908
+portal~
+a @Yglowing portal@n~
+A @Yglowing portal@n hovers here forming a gateway to another place.~
+~
+28 0 0 0 0 0 0 0 0 0 0 0 0
+613 0 -1 -1 100 100 0 36 20 20 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+$~

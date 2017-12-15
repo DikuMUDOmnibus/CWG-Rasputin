@@ -1,0 +1,92 @@
+#1000
+@rOut of Character@n~
+ 
+Everything is very bright. And white.
+ 
+You find yourself transformed into your new, virtual body. You are almost 
+ready to join the @BIn Character@n areas and become part of the @rGAME@n. 
+ 
+First, however, you should @Ypractice@n your skills. It does you no good to 
+have skills and/or spells if you do not know how to use them. The @bguildmaster@n
+here will allow you to @Ypractice@n your skills.
+ 
+After that, you might want to head toward the @Gstore@n, and equip yourself.
+ 
+To the north lies the @Gstore@n, and to the south leads toward the @rGAME@n.
+~
+10 de 0 0 0 0
+D0
+You can see a @gstore@n filled with things that adventurers might find 
+helpful. ~
+~
+0 -1 1001 20 20 0 0 0 0 65535 65535
+D2
+You can see the threshold before the @rGAME@n.
+~
+~
+0 -1 1002 20 20 0 0 0 0 65535 65535
+S
+#1001
+@rOut of Character - Supply Store@n~
+   
+The room is filled with shelves and tables of all descriptions. You see 
+many things here that you may find useful in your travels. There are weapons 
+and armors, and other things like food and water.
+ 
+There is a very large @Msign@n here that you think you should @yread@n.
+ 
+To the south leads back toward the @rGAME@n.
+~
+10 de 0 0 0 0
+D2
+A vast, clear practice yard lies to the south.
+~
+~
+0 -1 1000 20 20 0 0 0 0 65535 65535
+E
+sign large~
+The @Msign@n reads:
+ 
+To see how many @Ygold coins@n your are carrying, type @rgold@n.
+ 
+For more information on what weapons/armors are allowed to your 
+character class you should consult the help system for more information 
+on your class. (IE: @rhelp @Bwarrior@n, @Rhelp @Bbard@n etc..)
+
+Also - 
+
+Use @rLIST@n to see what is for sale.
+@rBUY@n <item> to purchase the <item> from the shopkeeper.
+@rSELL@n <item> to sell the <item> back to the shopkeeper.
+@rVALUE@n <item> to determine the value of the <item> in question.
+~
+S
+#1002
+@rOut of Character - The threshold to the GAME@n~
+ 
+This is the last stop before you are intergrated into the @rGAME@n. You make a 
+final check of your @gskills and equipment@n to make sure they are all in place. 
+ 
+If, at this point, you still feel like you are unsure of what you are doing,
+make sure you consult the @Rhelp@n system. 
+ 
+Especially help on the following:
+@rINFO@n, @rPOLICIES@n, @rNEWBIE@n, and also on your charcter's class (IE: Druid)
+ 
+To the north lies the @gguild@n area and the @gstore@n.
+   
+To the south lies the @rGAME@n.
+~
+10 de 0 0 0 0
+D0
+A vast, clear practice yard lies to the north.
+~
+~
+0 -1 1000 20 20 0 0 0 0 65535 65535
+D2
+The city of @MKortaal@n lies before you, on the other side of the portal.
+~
+~
+0 -1 3001 20 20 0 0 0 0 65535 65535
+S
+$~

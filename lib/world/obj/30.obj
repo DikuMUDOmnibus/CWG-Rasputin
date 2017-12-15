@@ -1,0 +1,708 @@
+#3000
+barrel beer~
+a barrel~
+A beer barrel has been left here.~
+~
+17 0 0 0 0 a 0 0 0 0 0 0 0
+50 50 1 0 100 100 0 12 0 0 0 0 0 0 0 0
+65 50 5 0
+Z
+4
+#3001
+bottle beer~
+a bottle~
+A beer bottle has been left here.~
+~
+17 0 0 0 0 a 0 0 0 0 0 0 0
+8 8 1 0 100 100 0 13 0 0 0 0 0 0 0 0
+10 1 1 0
+Z
+4
+#3002
+bottle dark ale~
+a bottle~
+A dark bottle of ale has been left here.~
+~
+17 0 0 0 0 a 0 0 0 0 0 0 0
+8 8 3 0 100 100 0 13 0 0 0 0 0 0 0 0
+10 1 1 0
+Z
+4
+#3003
+bottle firebreather~
+a firebreather~
+A firebreather has been left here.~
+~
+17 0 0 0 0 a 0 0 0 0 0 0 0
+8 8 7 0 100 100 0 13 0 0 0 0 0 0 0 0
+10 2 1 0
+Z
+4
+#3004
+bottle local~
+a bottle~
+A dark bottle has been left here.~
+~
+17 0 0 0 0 a 0 0 0 0 0 0 0
+8 8 8 0 100 100 0 13 0 0 0 0 0 0 0 0
+10 1 1 0
+Z
+4
+#3005
+ship~
+the passenger ship Shooting Star~
+A fair sized passenger ship bobs up and down in the water.~
+~
+24 0 0 0 0 0 0 0 0 0 0 0 0
+3037 1 -1 0 100 100 0 12 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+#3006
+key~
+a key to the gates of Kortaal~
+A large key, that opens the main gates of Kortaal has been left here.~
+~
+18 dq 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 11 0 0 0 0 0 0 0 0
+1 100 100 0
+Z
+4
+#3007
+gang plank~
+a gang plank~
+A gang plank leads off the ship.~
+~
+25 0 0 0 0 0 0 0 0 0 0 0 0
+3005 1 -1 0 100 100 0 12 20 20 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+#3008
+wheel control~
+a control wheel~
+A large wooden wheel used to stear the ship is here.~
+~
+27 0 0 0 0 0 0 0 0 0 0 0 0
+3005 0 0 0 100 100 0 12 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+#3010
+bread~
+a bread~
+A loaf of bread has been left here.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+12 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+1 2 1 0
+Z
+4
+#3011
+danish pastry~
+a danish pastry~
+A nice looking delicious danish pastry has been placed here.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+5 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+1 1 1 0
+Z
+4
+#3012
+ornul shaarian~
+a Shaarian ornul~
+A tasty looking Shaarian ornul has been dropped here.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+15 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+1 2 2 0
+Z
+4
+E
+ornul shaarian~
+A flour tortllia filled with spicy meat, fresh lettuce and some cheese.
+Yummy!
+~
+#3013
+purrto hot~
+a spicy hot purrto~
+A spicy looking purrto has been set here.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+10 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+1 1 2 0
+Z
+4
+E
+purrto hot~
+A flour tortllia wapped around spicy meat, fresh hot peppers and cheese.
+Yummy!
+~
+#3014
+rakos cheese~
+some rakos with cheese~
+Some rakos have been left here.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+5 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+1 1 1 0
+Z
+4
+E
+rakos cheese~
+Fried ornul chips covered in hot cheese.
+Yummy!
+~
+#3015
+meat chunk~
+a piece of meat~
+A rather dubious looking piece of meat is on the ground here.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+14 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+5 10 1 0
+Z
+4
+E
+meat~
+It's not so much that the meat looks poisoned or anything, but that you
+just are not sure of it's origins.  You doubt that a hunter would drop a
+side of venison or rabbit meat... what in the world could this meat have
+come from, you wonder...
+~
+#3016
+sash purple~
+a purple sash~
+A silk purple sash has been left here.~
+~
+11 0 0 0 0 acl 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 19 0 0 0 0 0 0 0 0
+1 1 1 0
+Z
+4
+#3017
+jester's mask~
+a @Mjester's mask@n~
+A white mask, painted with a @ggreen@n smiling face.~
+~
+11 0 0 0 0 as 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 1 0 0 0 0 0 0 0 0
+2 25 0 0
+Z
+4
+E
+jester's mask~
+The mask is white with a @ggreen@n face painted on it.  It seems to set your
+mind at ease.    
+~
+#3018
+jester's cap~
+a @mjester's cap@n~
+Made of several different colored fabrics, a belled cap lies here.~
+~
+11 0 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 18 0 0 0 0 0 0 0 0
+2 15 0 0
+Z
+4
+E
+jester's cap~
+Worn by the court's fool, the cap is brightly colored, and has many
+annoying bells on it.
+~
+#3019
+spellbook~
+a spellbook of the Order of Jlker~
+A spellbook of the Order of Jlker lies here.~
+~
+29 g 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 16 0 0 0 0 0 0 0 0
+20 600 0 0
+Z
+4
+E
+spellbook~
+The spellbook is a leather bound tome, with the emblem of the Order of Jlker
+magically burned into the cover. There is also a single gold band running
+the length of the cover to the right of the spine.
+~
+S
+1 2
+S
+32 2
+S
+20 1
+S
+5 2
+S
+19 4
+S
+30 6
+#3020
+spellbook~
+a spellbook of the Order of Jlker~
+A spellbook of the Order of Jlker lies here.~
+~
+29 g 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 16 0 0 0 0 0 0 0 0
+20 900 0 0
+Z
+4
+E
+spellbook~
+The spellbook is a leather bound tome, with the emblem of the Order of Jlker
+magically burned into the cover. There are two gold bands running the length
+of the cover to the right of the spine.
+~
+S
+1 2
+S
+32 2
+S
+20 1
+S
+5 2
+S
+19 4
+S
+30 6
+S
+50 4
+S
+53 4
+S
+33 8
+#3021
+spellbook~
+a spellbook of the Order of Jlker~
+A spellbook of the Order of Jlker lies here.~
+~
+29 g 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 16 0 0 0 0 0 0 0 0
+20 1200 0 0
+Z
+4
+E
+spellbook~
+The spellbook is a leather bound tome, with the emblem of the Order of Jlker
+magically burned into the cover. There are three gold bands running the length
+of the cover to the right of the spine.
+~
+S
+1 2
+S
+32 2
+S
+20 1
+S
+5 2
+S
+19 4
+S
+30 6
+S
+50 4
+S
+53 4
+S
+33 8
+S
+31 6
+S
+29 4
+S
+39 4
+#3030
+torch~
+a torch~
+A large torch.~
+~
+1 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 6 0 100 100 0 12 0 0 0 0 0 0 0 0
+1 2 2 0
+T 3
+Z
+4
+#3031
+lantern~
+a lantern~
+A brass lantern is here.~
+~
+1 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 12 0 100 100 0 27 0 0 0 0 0 0 0 0
+1 7 3 0
+Z
+4
+#3032
+bag~
+a bag~
+A small bag is here.~
+~
+15 0 0 0 0 ao 0 0 0 0 0 0 0
+15 1 -1 0 100 100 0 6 0 0 0 0 0 0 0 0
+1 5 1 0
+Z
+4
+#3033
+box~
+a box~
+A small box is here.~
+~
+15 0 0 0 0 ao 0 0 0 0 0 0 0
+20 1 -1 0 100 100 0 12 0 0 0 0 0 0 0 0
+5 1 4 0
+Z
+4
+#3034
+banker~
+a banker~
+A banker wanders around carrying a strong box.~
+~
+12 e 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+E
+banker~
+Dressed in heavy chain mail, the banker carries a stong box which is
+chained to his waist. He travels the Empire and hold money for others.
+
+To use, type "BALANCE", "WITHDRAW x", or "DEPOSIT x".  Please report any
+strange occurrences to the bank manager.
+~
+#3035
+fountain water~
+the large fountain~
+A large fountain carved from blue-streaked marble is here, bubbling merrily.~
+~
+23 0 0 0 0 0 0 0 0 0 0 0 0
+-1 1 15 0 100 100 0 28 0 0 0 0 0 0 0 0
+1000 0 0 0
+Z
+4
+E
+marble blue streaked~
+It is very beautiful white marble, shot through with electric blue streaks
+that look almost like lightning dancing along the sides of the fountain.
+~
+E
+fountain water~
+It is a well crafted fountain, carved from a single piece of marble. It
+seems to be enchanted in some manner, as the water level seems to never
+lower.
+~
+#3036
+banker~
+a banker~
+A banker wanders around carrying a strong box.~
+~
+12 e 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+E
+banker~
+Dressed in heavy chain mail, the banker carries a stong box which is
+chained to his waist. He travels the Empire and hold money for others.
+
+To use, type "BALANCE", "WITHDRAW x", or "DEPOSIT x".  Please report any
+strange occurrences to the bank manager.
+~
+#3037
+banker~
+a banker~
+A banker wanders around carrying a strong box.~
+~
+12 e 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+E
+banker~
+Dressed in heavy chain mail, the banker carries a stong box which is
+chained to his waist. He travels the Empire and hold money for others.
+
+To use, type "BALANCE", "WITHDRAW x", or "DEPOSIT x".  Please report any
+strange occurrences to the bank manager.
+~
+#3039
+portal~
+a @Yglowing portal@n~
+A @Yglowing portal@n hovers here forming a gateway to another place.~
+~
+28 0 0 0 0 0 0 0 0 0 0 0 0
+8055 0 -1 -1 50 50 0 36 20 20 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+#3050
+scroll identify~
+a scroll of identify~
+A scroll has carelessly been left here.~
+~
+2 g 0 0 0 ao 0 0 0 0 0 0 0
+12 56 -1 -1 100 100 0 16 0 0 0 0 0 0 0 0
+1 500 0 0
+Z
+4
+E
+scroll identify~
+The scroll has a magic formula drawn upon it:
+     ???
+    ?   ?
+       ?
+      ?
+      ?
+      *
+~
+#3051
+potion yellow seeinvis~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+~
+10 g 0 0 0 ao 0 0 0 0 0 0 0
+12 19 -1 -1 100 100 0 13 0 0 0 0 0 0 0 0
+1 700 0 0
+Z
+4
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'.
+~
+#3052
+scroll recall~
+a scroll of recall~
+A scroll has carelessly been left here.~
+~
+2 g 0 0 0 ao 0 0 0 0 0 0 0
+12 42 -1 -1 100 100 0 16 0 0 0 0 0 0 0 0
+4 600 0 0
+Z
+4
+E
+scroll~
+The scroll has written a formulae of 'Word of Recall' upon it.
+~
+#3053
+wand invis~
+a wand of invisibility~
+A wand has carelessly been left here.~
+~
+3 g 0 0 0 ao 0 0 0 0 0 0 0
+12 2 2 29 100 100 0 12 0 0 0 0 0 0 0 0
+2 1000 0 0
+Z
+4
+E
+wand~
+The wand is an old dark stick.  You notice a small symbol etched at the
+base of the wand.  It looks like this:
+
+     \ /
+    - O -
+     / \
+~
+#3054
+staff sleep~
+a staff of sleep~
+A staff has carelessly been left here.~
+~
+4 g 0 0 0 ao 0 0 0 0 0 0 0
+12 4 4 38 100 100 0 12 0 0 0 0 0 0 0 0
+17 1200 0 0
+Z
+4
+E
+staff~
+The staff is made of old oak, and is around five feet long. It fits
+perfectly into your hand. You notice a small symbol etched at the
+base of the staff, it looks like:
+
+  ZZZZZ
+     Z
+    Z
+   Z
+  ZZZZZ  z   z
+~
+#3055
+staff~
+a staff of healing~
+A staff has carelessly been left here.~
+~
+4 g 0 0 0 ao 0 0 0 0 0 0 0
+10 8 8 15 100 100 0 23 0 0 0 0 0 0 0 0
+7 1500 0 0
+Z
+4
+E
+staff~
+The staff is made of metals unknown to you.
+~
+#3060
+raft~
+a raft~
+A raft has been left here.~
+~
+22 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 12 0 0 0 0 0 0 0 0
+75 150 10 0
+Z
+4
+E
+raft~
+The raft looks very primitive.
+~
+#3061
+canoe~
+a canoe~
+A canoe has been left here.~
+~
+22 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 12 0 0 0 0 0 0 0 0
+32 70 8 0
+Z
+4
+E
+canoe~
+The canoe is fairly light.
+~
+#3090
+board warrior ranger bulletin~
+a Warrior/Ranger Bulletin board~
+A large bulletin board for Warriors and Rangers is here.~
+~
+12 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 12 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+E
+board~
+Type look board to use the board.
+~
+#3091
+board thief bulletin~
+a theives bulletin board~
+A large bulletin board for Thieves is here.~
+~
+12 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 12 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+E
+board~
+Type look board to use the board.
+~
+#3092
+board marduk cleric tsalari bulletin~
+a Board of Marudk~
+A large bulletin board for the Clerics of Marduk and Tsalari is here.~
+~
+12 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 12 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+E
+board~
+Type look board to use the board.
+~
+#3093
+board magic bulletin~
+a bulletin board of magic users~
+A large bulletin board for Magic Users.~
+~
+12 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 12 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+E
+board~
+Type look board to use the board.
+~
+#3094
+board cleric bulletin~
+a Cleric of Hek bulletin board~
+A large bulletin board for Clerics of Hek is here.~
+~
+12 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 12 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+E
+board~
+Type look board to use the board.
+~
+#3095
+earring~
+an earring~
+A small silver earring is laying on the ground.~
+~
+11 0 0 0 0 aq 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 11 0 0 0 0 0 0 0 0
+1 1 1 0
+Z
+4
+#3096
+board social bulletin~
+a social bulletin board~
+A large, sociable bulletin board is mounted on a wall here.~
+~
+29 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 12 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+E
+board~
+Type look board to use the board.
+~
+#3097
+board frozen bulletin~
+a frozen bulletin board~
+A large bulletin board is here, carved from a block of ice.~
+~
+29 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 12 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+E
+board~
+Type look board to use the board.
+~
+#3098
+board holy bulletin~
+a holy bulletin board~
+A large bulletin board is mounted on a wall here.  It glows with a faint aura.~
+~
+30 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 12 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+E
+board~
+Type look board to use the board.
+~
+#3099
+board bulletin~
+a bulletin board~
+A large bulletin board is mounted on a wall here.~
+~
+29 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 12 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+E
+board~
+Type look board to use the board.
+~
+$~

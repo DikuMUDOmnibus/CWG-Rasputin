@@ -1,0 +1,104 @@
+#4100
+older magi man~
+the magi~
+An older man, dressed in faded blue robes stands here.
+~
+Upon closer inspection, you see his robes to be embrossed with many magical
+formula, perhaps to ward off harm to himself! He must be a powerful magi
+indeed!
+~
+abdeflnop 0 0 0 e 0 0 0 -100 E
+13 20 2 13d4+13 1d2+0
+32 21000 0 0
+8 8 1
+E
+#4101
+troll~
+the troll~
+A large mean-looking troll is here.
+~
+The troll is little more than rubbery skin tightly streched over enlongated 
+bones, with sharp claws and teeth!
+~
+bdef 0 0 0 l 0 0 0 -800 E
+8 20 1 8d8+42 1d6+6
+35 12000 18 3
+8 8 1
+Str: 17
+E
+#4102
+snake~
+the snake~
+A large green snake is here, looks like a guardian for an evil force.
+~
+You see an evil creature.
+~
+abdfq 0 0 0 l 0 0 0 -700 E
+5 20 5 5d8+10 1d6+2
+0 6000 17 3
+8 8 1
+E
+#4103
+thief~
+the thief~
+A thief is here, all dressed in black.
+~
+He seems to be counting a handful of coins.  Maybe you ought to count YOUR
+gold too...
+~
+dehl 0 0 0 qu 0 0 0 -600 E
+8 20 3 8d6+8 1d2+1
+10 2920 0 2
+8 8 1
+E
+#4104
+orc~
+the orc~
+A ugly orc is standing here.
+~
+It's quite disgusting to look at.
+~
+djl 0 0 0 l 0 0 0 -200 E
+4 20 4 4d8+0 1d4+3
+10 1950 16 3
+8 8 1
+E
+#4105
+centipede~
+a centipede~
+A small harmless centipede is here.
+~
+Well it doesn't seem to pay any attention to you.
+~
+d 0 0 0 l 0 0 0 300 E
+1 20 4 1d2+1 1d1+0
+0 1260 15 3
+8 8 0
+E
+#4106
+warrior~
+the warrior~
+A human warrior is here.  He has a evil grin in his face.
+~
+He doesn't look friendly at all...
+~
+defq 0 0 0 0 0 0 0 -300 E
+9 20 3 9d10+18 1d2+3
+25 4200 0 3
+8 8 1
+Str: 17
+E
+#4107
+kobold~
+the kobold~
+A green kobold is here.
+~
+Unlike the mostly red/orange skinned kobolds you have seen before, this one
+is a distinct shade of green. It sort of makes your stomach churn.
+~
+dfl 0 0 0 l 0 0 0 -100 E
+5 20 6 5d4+0 1d2+0
+2 1950 20 3
+8 8 1
+E
+$

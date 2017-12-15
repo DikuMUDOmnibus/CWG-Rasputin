@@ -1,0 +1,224 @@
+#100
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+  
+This zone is not directly connected to the game. It is a quest zone for
+those who wish to follow Marduk and become one of His clerics or a rune-mage
+Tsalari.
+  
+It probably could use some rework.
+  
+This zone links back up with zone: 30
+~
+1 dk 0 0 0 0
+S
+#101
+Tower enterance~
+    You stand in the entryway of the Tower of the Ordeal. In order to recieve
+magical gifts from Marduk, you must pass through this tower alive. It is dark
+and cold within the tower, and you hear screams in the distance. 
+    There is a magical mouth on the east wall.
+~
+1 d 0 0 0 0
+D0
+~
+~
+0 -1 102 20 20 0 0 0 0 65535 65535
+E
+magical mouth east~
+As you look at the mouth, it comes alive and speaks!
+ 
+The mouth says, "To die is to fail. To quit is to fail. In order win the 
+gifts of Marduk, you must reach the top. If you fail, you will not be 
+readmitted. You have been warned."
+ 
+~
+S
+#102
+Center of the tower~
+    Every surface of the tower has been worn smooth with age, you wonder how
+long this place has stood. It is obviously quite old. Oddly you notice 
+there are no cobwebs or dust...just smooth, black stone. There is a wooden door
+to the north that is close, and presumeably locked.
+~
+1 d 0 0 0 0
+D0
+~
+door wooden north n~
+2 100 105 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 103 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 101 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 104 20 20 0 0 0 0 65535 65535
+S
+#103
+East end~
+    It is very dark inside the tower, as there are no windows whatever. This
+whole area glows with an unnatural light, the source of which you are not
+quite sure.
+~
+1 d 0 0 0 0
+D3
+~
+~
+0 -1 102 20 20 0 0 0 0 65535 65535
+S
+#104
+West end~
+   It is very dark inside the tower, as there are no windows whatever. This
+whole area glows with an unnatural light, the source of which you are not
+quite sure.
+~
+1 d 0 0 0 0
+D1
+~
+~
+0 -1 102 20 20 0 0 0 0 65535 65535
+S
+#105
+A ladder to the next level~
+    You have made it to the ladder to the second level, congradulations. The
+ladder itself is cold to the touch and made of steel bolted to the north 
+wall.
+~
+1 d 0 0 0 0
+D2
+~
+door wooden south s~
+2 100 102 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 106 20 20 0 0 0 0 65535 65535
+S
+#106
+The second level~
+    You stand in a small room, with a door to the south. You give silent 
+prayer to Marduk to grant you the strength to finish this ordeal. Along the 
+north wall there is a ladder bolted to the wall leading downward.
+~
+1 d 0 0 0 0
+D2
+~
+door wooden south s~
+1 0 107 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 105 20 20 0 0 0 0 65535 65535
+S
+#107
+Center of the tower~
+    You stand in the center of the tower, you can feel magical energy flowing
+through the stones of the tower. Marduk's power flowing into the tower. 
+If you survive the ordeal, you will feel that power flowing into you as 
+well. To the north and south are small doorways. You hear a faint prayer 
+nearby also. 
+~
+1 d 0 0 0 0
+D0
+~
+door n north~
+1 0 106 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 108 20 20 0 0 0 0 65535 65535
+D2
+~
+wooden south s~
+2 101 110 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 109 20 20 0 0 0 0 65535 65535
+S
+#108
+East end~
+    It is very dark inside the tower, as there are no windows whatever. This
+whole area glows with an unnatural light, the source of which you are not
+quite sure.
+~
+1 d 0 0 0 0
+D3
+~
+~
+0 -1 107 20 20 0 0 0 0 65535 65535
+S
+#109
+West end~
+   It is very dark inside the tower, as there are no windows whatever. This
+whole area glows with an unnatural light, the source of which you are not
+quite sure. It looks as if someone has been living in this end of the tower,
+there is a small straw bed here and some food scraps.
+~
+1 d 0 0 0 0
+D1
+~
+~
+0 -1 107 20 20 0 0 0 0 65535 65535
+S
+#110
+A ladder to the next level~
+    You have made it to the ladder to the third level, congradulations. The
+ladder itself is cold to the touch and made of steel bolted to the south 
+wall.
+~
+1 d 0 0 0 0
+D0
+~
+wooden n north~
+2 101 107 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 111 20 20 0 0 0 0 65535 65535
+S
+#111
+A small landing~
+    The ladder back to the second level is bolted to the southern wall, and
+there is a door leading toward the tower's center to the north. 
+~
+1 d 0 0 0 0
+D0
+~
+door wooden n north~
+2 101 112 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 110 20 20 0 0 0 0 65535 65535
+S
+#112
+A magical workshop~
+    Here is the labrotory of the tower's master. You can see many bottle and
+beakers here. Some are being warmed over flame, or mixed to seperated. There
+is a rather large bookshelf on the western wall containing, you'd guess, many
+books on a large varitiy of subjects. There is a magical portal set into
+the north wall, which lies dormant and closed. It is the exit you seek.
+~
+1 d 0 0 0 0
+D0
+~
+portal magical n north~
+2 7001 3001 20 20 0 0 0 0 65535 65535
+D2
+~
+door wooden south s~
+1 0 111 20 20 0 0 0 0 65535 65535
+E
+portal magical north~
+The portal is your escape from the ordeal, and your path toward the glory of
+Marduk. Once active it will transport you out of the tower.
+~
+S
+$~

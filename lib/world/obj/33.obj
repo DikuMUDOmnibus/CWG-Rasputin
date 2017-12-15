@@ -1,0 +1,35 @@
+#3300
+key~
+a key~
+This is a small key, with a 'C' shaped handle.~
+~
+18 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 10
+1 25 5 0
+#3301
+rune knife~
+a rune enscribed knife~
+A knife, covered in strange sigla lies here.~
+~
+5 gjnr 0 0 0 ano 0 0 0 0 0 0 0
+2 1 4 11 100 100 0 9
+3 80 30 0
+A
+19 1
+#3302
+fountain blood~
+a fountain of blood~
+A large, marble blood fountain sets here.~
+~
+23 0 0 0 0 0 0 0 0 0 0 0 0
+-1 1 13 0 100 100 0 28
+1000 1 1 0
+#3303
+flask crystal blood~
+a crystal flask~
+A fine crystal flask is setting here.~
+~
+17 j 0 0 0 a 0 0 0 0 0 0 0
+48 48 13 0 100 100 0 13
+53 1 1 0
+$~

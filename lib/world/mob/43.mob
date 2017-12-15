@@ -1,0 +1,99 @@
+#4300
+nathan giant butler~
+the giant, Nathan~
+A giagantic butler stands here, dressed in a black suit waiting to wait on you.
+~
+You realize that Nathan is actually a giant! He almost looks comical in
+the black butler suit. Almost because he wants to rip your head off!
+~
+bdeflnopq 0 0 0 eglr 0 0 0 -1000 E
+12 20 0 12d8+48 1d4+10
+200 12000 13 3
+8 8 1
+Str: 21
+E
+#4301
+shade disembodied~
+a shade~
+Floating around the room is a disembodied shade!
+~
+Before you floats a human shaped cloud of wist mist. Dark spots serve as
+eyes, and thin tendrils hang in place of arms and legs. The mouth hangs
+open in a perpetually silent scream. Thin wisps of vapor escape instead
+of sound. 
+~
+deklnpqr 0 0 0 cegrt 0 0 0 -500 E
+3 20 0 3d12+3 0d0+0
+0 360 0 1
+8 8 1
+E
+#4342
+lyrzaxyn~
+LyrzaXyn @rthe Twisted@n~
+A Tsalari robed demon flies around cackling insanely!
+~
+The rune ensrcibed robes, and body tattooing reveal this demon to be one
+of Marduk's Tsalari. His skin tone is reddish, and he has two small horns
+protruding from his head. He flies around the room on large, leathery
+wings. The skin over his bones is drawn and withered. He glares at you
+from hollow blue pinpoints of light.
+~
+abdefloq 0 0 0 elrsx 0 0 0 -1000 E
+18 20 -2 18d6+54 1d6+1
+0 69000 10 0
+9 9 1
+Str: 20
+Dex: 20
+E
+#4350
+rat~
+a tunnel rat~
+A large disgusting rat sits here, staring at you with beady red eyes.
+~
+This rat is larger than any you have ever seen, its fur is matted and its 
+claws are long and fithy.
+~
+d 0 0 0 lt 0 0 0 0 E
+1 20 9 1d8+1 1d4+0
+0 80 8 3
+8 8 0
+BareHandAttack: 8
+E
+#4351
+snake~
+snake~
+A snake sits here hissing at you.
+~
+All you seem to see are its large fangs!
+~
+d 0 0 0 l 0 0 0 -1000 E
+2 20 7 2d4+2 1d4+0
+0 810 17 3
+8 8 0
+BareHandAttack: 4
+E
+#4352
+rush~
+Rush~
+Rush stands here daring you to argue with him.
+~
+Rush is a fat man with an opinion for everything, he glares at you.
+~
+df 0 0 0 0 0 0 0 -100 E
+6 20 7 6d8+6 1d2+1
+12 1260 0 3
+8 8 1
+E
+#4353
+shadow wraith~
+Shadow Wraith~
+A Shadow Wraith hovers here, sucking what little warmth there is from the air. 
+~
+An undefined string.~
+dl 0 0 0 l 0 0 0 -1000 E
+6 20 0 6d12+0 1d6+0
+37 1260 0 3
+8 8 0
+BareHandAttack: 9
+E
+$

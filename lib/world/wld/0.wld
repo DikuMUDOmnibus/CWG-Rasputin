@@ -1,0 +1,24 @@
+#0
+The Void~
+    You are awe stricken by your presense here. You stand in a part of the
+universe not made for mortals. You are surrounded by the great Nothing.
+~
+0 d 0 0 0 0
+D4
+~
+~
+0 -1 3001 20 20 0 0 0 0 65535 65535
+S
+#1
+Limbo~
+    The dwelling place of a soul, you stand on the plane of Limbo. Everything
+around you is grey and swirling. You do not feel the pull of time upon your
+bones here, you wonder how long you will stay...
+~
+0 d 0 0 0 1
+D5
+~
+~
+0 0 1000 20 20 0 0 0 0 65535 65535
+S
+$~

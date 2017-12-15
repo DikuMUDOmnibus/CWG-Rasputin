@@ -1,0 +1,56 @@
+CircleMUD v3.0 Shop File~
+#11305~
+3030
+3031
+3108
+-1
+1.75
+0.8
+1
+8
+15
+17
+19
+-1
+%s Sorry, just what you see.~
+%s Are you trying to pull a fast one?~
+%s You might try across the road.~
+%s I regret I cannot afford such a wonderful item.~
+%s I don't work on credit, come back when you have the coins.~
+%s Fine choice, that's %d coins.~
+%s %d coins is twice it's worth, but I'll take it.~
+1
+0
+3102
+0
+11305
+-1
+0
+28
+0
+0
+#11304~
+-1
+1.5
+0.75
+5
+9
+-1
+%s Sorry, I've never heard of that!~
+%s Show me that again, I didn't see it!~
+%s Sorry, I have no need for that. Try across the road...~
+%s A very fine item, indeed, but I cannot afford it.~
+%s You had better count your coins again.~
+%s That'll be %d coins.~
+%s I can give you %d coins for that.~
+1
+0
+3103
+0
+11304
+-1
+0
+28
+0
+0
+$~

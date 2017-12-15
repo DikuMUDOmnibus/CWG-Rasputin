@@ -1,0 +1,2129 @@
+#3000
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+  
+This zone is for the capital city of Kortaal. It is one of the
+largest cities in this region. It has a mostly human population. It is
+protected on the north edge by a large forest and on the south by the
+Lake of Dragons. 
+  
+This zone links up with zones: 2, 31, 32, 43, 70 and 90
+~
+30 dk 0 0 0 0
+S
+#3001
+The Fountain Square~
+   You stand in the center of the capital city of Kortaal, the center of the 
+Empire of Toran. This walled, port city is the center of trade in the 
+Empire. Here stands a large dragon statue, and a fountain sits for wary
+adventurers. To the west lies a donation area, the Promenade runs north-
+south here. North toward the northern gate, and south towards the Imperial
+Palace, which is currently under reconstruction and the College of the Jlker
+Wizards. 
+   There is a manhole cover next at the base of the fountain.
+~
+30 0 0 0 0 1
+D0
+To the north lies the northern gate of Kortaal.
+~
+~
+0 -1 3054 20 20 0 0 0 0 65535 65535
+D1
+To the east you see the Post Office of Kortaal.
+~
+~
+0 -1 3062 20 20 0 0 0 0 65535 65535
+D2
+The Promenade runs south toward the Palace.
+~
+~
+0 -1 3005 20 20 0 0 0 0 65535 65535
+D3
+On the western side of the square lies a donation room.
+~
+~
+0 -1 3063 20 20 0 0 0 0 65535 65535
+D5
+~
+cover manhole down d~
+1 -1 7046 20 20 0 0 0 0 65535 65535
+E
+dragon statue~
+The statue here has a small plaque on it, and is a huge, purple marble,
+depiction of a dragon.
+~
+E
+plaque~
+The plaque dedicates the statue to King Chelnar the IV, may he rest in peace.
+~
+E
+cover manhole~
+A large manhole cover next to the fountain, which leads to the sewers of 
+Kortaal.
+~
+S
+#3002
+Cleric's Inner Sanctum~
+   This is the inner sanctum.  A picture of the mighty Hek, is hanging on
+the wall, just above the altar which is set against the western wall.
+~
+30 cd 0 0 0 0
+D2
+You see your favorite place, the bar of divination.
+~
+~
+0 -1 3003 20 20 0 0 0 0 65535 65535
+S
+#3003
+Cleric's Bar~
+   The bar is one of the finest in the land, lucky it is members only.  Fine
+furniture is set all around the room.  A small sign is hanging on the wall.
+~
+30 cd 0 0 0 0
+D0
+You see the inner sanctum.
+~
+~
+0 -1 3002 20 20 0 0 0 0 65535 65535
+D1
+You see the entrance.
+~
+~
+0 -1 3004 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign reads:
+Free instructions provided by the waiter:
+
+   Buy  - Buy something (drinkable) from the waiter.
+   List - The waiter will show you all the different drinks and
+		specialties, and tell the price of each.
+~
+S
+#3004
+Entrance of the Church of Hek~
+   The entrance hall is a huge room, with lavish decorations. To the east
+lies the Promenade, and to the west is the rest of the church.
+~
+30 d 0 0 0 0
+D1
+You see the Promenade.
+~
+~
+0 -1 3082 20 20 0 0 0 0 65535 65535
+D3
+You see the bar, richly decorated with really stylish furniture.
+~
+~
+0 -1 3003 20 20 0 0 0 0 65535 65535
+S
+#3005
+The Promenade~
+   You stand on the north-south running Promenade which runs around the
+center of the city. Farther south is a the Imperial Palace, and to the 
+southwest is the Six Candles Inn and Tavern. To your east lies the grounds
+of the College of the Jlker Wizards. Sounds like a good place to learn more
+about magic.
+~
+30 0 0 0 0 1
+D0
+You see the Fountain Square.
+~
+~
+0 -1 3001 20 20 0 0 0 0 65535 65535
+D1
+The grounds of the College of the Jlker Wizards.
+~
+~
+0 -1 3017 20 20 0 0 0 0 65535 65535
+D2
+You see more of the Promenade.
+~
+~
+0 -1 3014 20 20 0 0 0 0 65535 65535
+S
+#3006
+Entrance of the Six Candles Inn~
+   You are standing in the common room of the Six Candles Inn, the bar is
+along the western wall. There are many adventurers here drinking and trading
+tales of glory.
+~
+30 d 0 0 0 1
+D0
+You see an area to rent rooms.
+~
+~
+0 -1 3008 20 20 0 0 0 0 65535 65535
+D1
+You see the Promenade.
+~
+~
+0 -1 3014 20 20 0 0 0 0 65535 65535
+D3
+You can see the Tavern.
+~
+~
+0 -1 3007 20 20 0 0 0 0 65535 65535
+S
+#3007
+The Six Candles Tavern~
+   You are standing in the bar.  The bar is set against the western wall, old
+archaic writing, carvings and symbols cover its top.  A fireplace is built into
+the northern wall, and through the southern windows you can see the 
+Emperor's Road. This place makes you feel like home.
+A small sign with big letters is fastened to the bar.
+~
+30 d 0 0 0 0
+D1
+You see the exit to the entrance hall.
+~
+~
+0 -1 3006 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign reads:
+Free instructions provided by the Six Candles Inn.
+
+   Buy  - Buy something (drinkable) from the bartender.
+   List - The bartender will show you all the different drinks and
+		specialties, and tell the price of each.
+~
+E
+writing carving carvings symbols symbol~
+Although it is very hard to understand, you think it looks a lot like beer,
+poems about beer, and small beer-mugs.
+3
+~
+S
+#3008
+The Reception~
+   You are standing in the reception.  To the south lies the main Inn.
+There is a small sign on the counter.
+~
+30 d 0 0 0 0
+D2
+You see the entrance hall.
+~
+~
+0 -1 3006 20 20 0 0 0 0 65535 65535
+E
+sign~
+Rooms are expensive but good!  You may:
+
+   Offer - get an offer on a room - Time is in real life days.
+   Rent  - Rent a room (saves your stuff, and quits the game),
+		 minimum charge is one day.
+
+
+					 MY WAY OR THE HIGHWAY
+					    PAY YOUR RENT!
+			 WE WON'T THINK TWICE BEFORE KICKING YOU OUT.
+~
+S
+#3009
+The Bakery~
+   You are standing inside the small bakery.  A sweet scent of Danish and
+fine bread fills the room.  The bread and Danish are arranged in fine order
+on the shelves, and seem to be of the finest quality.
+A small sign is on the counter.
+~
+30 d 0 0 0 0
+D2
+You see Merchant Street.
+~
+~
+0 -1 3073 20 20 0 0 0 0 65535 65535
+E
+danish pastry~
+You see that this is truly delicious pastry.  Must be made by a Dane from
+Denmark (which surely is not the capital of Sweden!).  Former ruler of
+Scandinavia, England, Northern Germany, Northern France, Russia, Greenland,
+Iceland, Estonia etc.  etc.
+   The sight of those large, wholesome chokoladeboller makes your mouth water
+and your soul sing.
+
+~
+E
+sign~
+Free instructions provided by the store:
+
+   Buy  - Will buy you some bread or pastry.
+   List - The baker will kindly tell you the price and sort of the bread in
+		his bakery.
+~
+S
+#3010
+The General Store~
+   You are inside the general store.  All sorts of items are stacked on shelves
+behind the counter, safely out of your reach.
+A small note hangs on the wall.
+~
+30 d 0 0 0 0
+D2
+You see Merchant Street.
+~
+~
+0 -1 3072 20 20 0 0 0 0 65535 65535
+E
+note~
+The note reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+		pay for your item.
+  Sell  - Sell an item.
+~
+S
+#3011
+The Weapon Shop~
+   You are inside the weapon shop.  There is a small note on the counter.
+~
+30 d 0 0 0 0
+D2
+You see Merchant Street.
+~
+~
+0 -1 3071 20 20 0 0 0 0 65535 65535
+E
+note~
+The note reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+		pay for your item.
+  Sell  - Sell an item.
+~
+S
+#3012
+The Emperor's Road~
+   You stand on the east-west running Emperor's Road. Off in the eastern
+distance you can see the Imperial Palace, and to the west is the city gate. 
+~
+30 0 0 0 0 1
+D1
+You see the Emperor's Road.
+~
+~
+0 -1 3013 20 20 0 0 0 0 65535 65535
+D3
+You see the Emperor's Road.
+~
+~
+0 -1 3065 20 20 0 0 0 0 65535 65535
+S
+#3013
+The Emperor's Road~
+   You are on the east-west running Emperor's Road. To the east you can see
+the grounds of the Imperial Palace, and to the west you can see the western 
+edge of the walled portion of Kortaal and a massive gate.
+~
+30 0 0 0 0 1
+D1
+You see the Promenade.
+~
+~
+0 -1 3025 20 20 0 0 0 0 65535 65535
+D3
+You see the Emperor's Road.
+~
+~
+0 -1 3012 20 20 0 0 0 0 65535 65535
+S
+#3014
+The Promenade~
+   You stand on the Promenade which runs around the center of Kortaal. To
+the west you can see the Six Candles Inn and Tavern, and just south of you
+lies the Emperor's Road which runs east-west throught the city, and past
+the newly obscured Palace.
+~
+30 0 0 0 0 1
+D0
+You see the Promenade.
+~
+~
+0 -1 3005 20 20 0 0 0 0 65535 65535
+D2
+You see the Emperor's Road.
+~
+~
+0 -1 3025 20 20 0 0 0 0 65535 65535
+D3
+You see the Six Candles Inn and Tavern.
+~
+~
+0 -1 3006 20 20 0 0 0 0 65535 65535
+S
+#3015
+The Emperor's Road~
+   You are standing on on the east-west Emperor's Road. To the east lies
+the grounds of the Imperial Palace. To the south lies the business district 
+of Kortaal.
+~
+30 0 0 0 0 1
+D1
+~
+~
+0 -1 3016 20 20 0 0 0 0 65535 65535
+D2
+You see Merchant Street.
+~
+~
+0 -1 3070 20 20 0 0 0 0 65535 65535
+D3
+You see the Emperor's Road.
+~
+~
+0 -1 3025 20 20 0 0 0 0 65535 65535
+S
+#3016
+The Emperor's Road~
+   You stand on the Emperor's Road. To the north you see the massive Imperial
+Palace and Senate complex. In the distance, from here, you can see the lake
+of the Dragons to the south.
+   There is a small sign planted in the ground.
+~
+30 0 0 0 0 1
+D1
+You see the Promenade.
+~
+~
+0 -1 3081 20 20 0 0 0 0 65535 65535
+D3
+You see the Emperor's Road.
+~
+~
+0 -1 3015 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign reads: The Imperial Palace is under reconstruction.
+		--Ziz
+~
+S
+#3017
+The Grounds of the College of the Jlker Wizards~
+   Here lie the beautful grounds tended to by first year students at the
+College. There are many magi buzzing around running to classes and tending
+to the grounds.
+~
+30 d 0 0 0 1
+D0
+~
+~
+0 0 3053 0 0 0 0 0 0 0 0
+D1
+You see the Office of Admissions.
+~
+~
+0 -1 3064 20 20 0 0 0 0 65535 65535
+D2
+You see a large classroom to the south.
+~
+~
+0 -1 3052 20 20 0 0 0 0 65535 65535
+D3
+You see the Promenade.
+~
+~
+0 -1 3005 20 20 0 0 0 0 65535 65535
+S
+#3018
+Mage's Bar~
+   Here you see many mages drinking and swaping tales between classes. 
+~
+30 d 0 0 0 0
+D2
+You see the main grounds.
+~
+~
+0 -1 3017 20 20 0 0 0 0 65535 65535
+S
+#3019
+Mage's Laboratory~
+   This is the Magical Experiments Laboratory.  Dark smoke-stained stones
+arch over numerous huge oaken tables, most of these cluttered with strange-
+looking pipes and flasks.  The floor is covered with half-erased pentagrams
+and even weirder symbols, and a blackboard in a dark corner has only been
+partially cleaned, some painful-looking letters faintly visible.  
+~
+30 cd 0 0 0 1
+D3
+You see the Office of Admissions.
+~
+~
+0 -1 3064 20 20 0 0 0 0 65535 65535
+S
+#3020
+The Armory~
+   The armory with all kinds of armors on the walls and in the window.  You
+see helmets, shields and chain mails.  To the north is the main street.
+On the wall is a small note.
+~
+30 d 0 0 0 0
+D0
+You see Merchant Street.
+~
+~
+0 -1 3071 20 20 0 0 0 0 65535 65535
+E
+note~
+  You can use these commands for trading:
+
+  value <item>     To get the price of an item in your possession.
+  sell <item>      To sell something.
+  buy <item>       To buy something (provided that the shop has it in store).
+  list             Gives you a listing of the shop's inventory.
+
+	   WE DON'T GIVE CREDIT; WE DON'T EXPECT TO RECEIVE CREDIT!
+					    NO HAGGLING
+~
+S
+#3021
+Entrance Hall to the School of Swordsmen~
+   The entrance hall to the Guild of Swordsmen.  A place where one has to be
+careful not to say something wrong (or right).  To the east is the bar and to
+the west is the main street.
+~
+30 d 0 0 0 0
+D1
+You see the swordsmen's bar, many noises comes from there.
+~
+~
+0 -1 3022 20 20 0 0 0 0 65535 65535
+D3
+You see the Promenade.
+~
+~
+0 -1 3077 20 20 0 0 0 0 65535 65535
+S
+#3022
+The Bar of Swordsmen~
+   The bar of swordsmen, once upon a time beautifully furnished.  But now the
+furniture is all around you in small pieces.  To the north is the yard, and
+to the west is the entrance hall.
+~
+30 cd 0 0 0 0
+D0
+You see the practice yard.
+~
+~
+0 -1 3023 20 20 0 0 0 0 65535 65535
+D3
+You see the entrance hall to the swordsmen school.
+~
+~
+0 -1 3021 20 20 0 0 0 0 65535 65535
+S
+#3023
+The Tournament and Practice Yard~
+   The practice yard of the fighters.  To the south is the bar.  
+~
+30 cd 0 0 0 0
+D2
+You see the bar.
+~
+~
+0 -1 3022 20 20 0 0 0 0 65535 65535
+S
+#3024
+Eastern End of Poor Alley~
+   You are at the poor alley.  South of here is the Leaning Post Inn and to the
+east you see Copper Street.  The alley continues further west.
+~
+30 0 0 0 0 1
+D1
+You see Copper Street.
+~
+~
+0 -1 3067 20 20 0 0 0 0 65535 65535
+D2
+You see the Leaning Post Inn.
+~
+~
+0 -1 3048 20 20 0 0 0 0 65535 65535
+D3
+You see the poor alley.
+~
+~
+0 -1 3044 20 20 0 0 0 0 65535 65535
+S
+#3025
+The Emperor's Road~
+   This is a crossroads between the Emperor's Road and the Promenade. The
+Emperor's Road runs east-west, and the Promenade runs north-south. To
+the east you can see the grounds of the Imperial Palace. Just south of the 
+Palace grounds lies the business district of Kortaal.
+~
+30 0 0 0 0 1
+D0
+You see the Promenade.
+~
+~
+0 -1 3014 20 20 0 0 0 0 65535 65535
+D1
+You see the Emperor's Road.
+~
+~
+0 -1 3015 20 20 0 0 0 0 65535 65535
+D2
+You see the Promenade.
+~
+~
+0 -1 3034 20 20 0 0 0 0 65535 65535
+D3
+You see the Emperor's Road.
+~
+~
+0 -1 3013 20 20 0 0 0 0 65535 65535
+S
+#3026
+The Dark Alley~
+   The dark alley, to the west is the common square and to the south is the
+Guild of Thieves.  The alley continues east.
+~
+30 0 0 0 0 1
+D1
+The alley continues east.
+~
+~
+0 -1 3045 20 20 0 0 0 0 65535 65535
+D2
+You see the entrance to the thieves guild.
+~
+~
+0 -1 3027 20 20 0 0 0 0 65535 65535
+D3
+You see the common square.
+~
+~
+0 -1 3025 20 20 0 0 0 0 65535 65535
+E
+guild~
+It is the thieves guild, don't enter if you care about your health or money.
+~
+S
+#3027
+Entrance Hall to the Guild of Thieves~
+   You stand in a fairly rundown looking building. This sort of place might
+appeal to rogues. There are doorways to the west and east.
+~
+30 d 0 0 0 0
+D1
+You see Copper Road.
+~
+~
+0 -1 3069 20 20 0 0 0 0 65535 65535
+D3
+You see a few people having some drinks.
+~
+~
+0 -1 3028 20 20 0 0 0 0 65535 65535
+S
+#3028
+The Thieves Bar~
+   The bar of the thieves.  Once upon a time this place was beautifully
+furnished, but now it seems almost empty.  To the west is the training yard, 
+and to the east is the entrance hall.
+   (Maybe the furniture has been stolen?!)
+~
+30 cd 0 0 0 0
+D1
+You see an empty room.
+~
+~
+0 -1 3027 20 20 0 0 0 0 65535 65535
+D3
+You see the practice yard.
+~
+~
+0 -1 3029 20 20 0 0 0 0 65535 65535
+E
+furniture~
+As you look at the furniture, the chair you sit on disappears.
+~
+S
+#3029
+The Secret Yard~
+   The secret practice yard of thieves and assassins.  To the east is the
+bar.  
+~
+30 cd 0 0 0 0
+D1
+You see the bar.
+~
+~
+0 -1 3028 20 20 0 0 0 0 65535 65535
+S
+#3030
+The Dump~
+   The dump, where the people from the city drop their garbage.  Through the
+garbage you can see a large junction of pipes, looks like the entrance to the
+sewer system.
+~
+30 c 0 0 0 1
+D1
+You see the Promenade, which runs around the center of Kortaal.
+~
+~
+0 -1 3076 20 20 0 0 0 0 65535 65535
+D5
+You see the an enterance to the sewers.
+~
+cover~
+1 -1 7045 20 20 0 0 0 0 65535 65535
+S
+#3031
+@yThe Clothier@n~
+   The newly opened clothier sells the latest fashions available within
+the Empire. It also bosts what hope to be next year's fashions!
+~
+30 d 0 0 0 0
+D0
+You see Merchant Street.
+~
+~
+0 -1 3073 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign reads:
+
+  Use 'List' to see the available pets.
+  Use 'Buy <pet>' to buy yourself a pet.
+
+  Instructions for having pets:
+
+  You can use 'order <pet> <instructions>' to order your pets around.
+  If you abuse your pet, it will no longer regard you as its master.
+  If you have several pets you may use 'order followers <instructions>'
+
+  You can name the pet you buy as : "buy <pet> <name>"
+
+ Regards,
+.
+ The Shopkeeper
+~
+S
+#3032
+Pet Shop Store~
+   This  is the small dark room in which the Pet shop keeps his pets.
+It is vital that this room's virtual number is exactly one larger
+than the Pet Shop number.
+~
+30 d 0 0 0 0
+S
+#3033
+The Magic Shop~
+   Behind the counter you see various items, neatly placed in racks,
+presumably most of them are magic.
+~
+30 d 0 0 0 0
+D0
+You see Merchant Street.
+~
+~
+0 -1 3072 20 20 0 0 0 0 65535 65535
+S
+#3034
+The Promenade~
+   You are standing along the Promenade which runs around the central part
+of Kortaal. To the north lies an intersection with the Emperor's Road, and to
+the southeast lies the Purple Dragon Garrison, further south lies the Port
+of Kortaal. To the west lies the slave market of Kortaal.
+~
+30 d 0 0 0 0
+D0
+~
+~
+0 -1 3025 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 3076 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 3035 20 20 0 0 0 0 65535 65535
+S
+#3035
+Kortaal's Slave Market~
+   You stand in the large, open air slave market. It is crowded with citizens
+and their slaves, slavers and slaves. Most of the slaves are Gorkel,
+taken from the surrounding forest.
+   There is a sign here.
+~
+30 0 0 0 0 1
+D1
+~
+~
+0 -1 3034 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign reads:
+
+  Use 'List' to see the available slaves.
+  Use 'Buy <slave>' to buy yourself a slave.
+
+  Instructions for having slaves:
+
+  You can use 'order <slave> <instructions>' to order your slaves around.
+  If you abuse your slaves, they will no longer regard you as its master.
+  If you have several slaves you may use 'order followers <instructions>'
+
+  You can name the slave you buy as : "buy <slave> <name>"
+~
+S
+#3036
+Virtual Market~
+   This is silly.
+~
+30 de 0 0 0 1
+S
+#3037
+The Deck of the Shooting Star~
+You are standing on the deck of the passenger ship, The Shooting Star.  It is
+used by many people to cross the Lake of Dragons to and from Kortaal and Maakan.
+
+~
+30 eg 0 0 0 1
+S
+#3038
+Below Deck~
+It is from here that the Shooting Star is navigated.
+~
+30 defghj 0 0 0 0
+S
+#3039
+Oharian Embassy~
+The Embassy of Ohari is a small piece of the Empire of Ohari located here in
+Kortaal.  Diplomatic relations between the two Empires have recently picked up
+again, due to the distance seperating the two, the Jlker Wizards have
+constructed gateways to connect the two.  
+~
+30 cd 0 0 0 0
+D0
+~
+~
+0 0 3092 20 20 0 0 0 0 65535 65535
+S
+#3040
+The Field-Gates of Kortaal~
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy iron forged gate.  The Emperor's
+Road leads east, and the Wall Road leads north-south from here.
+~
+30 0 0 0 0 1
+D0
+You see the Wall Road.
+~
+~
+0 -1 3084 20 20 0 0 0 0 65535 65535
+D1
+You see the Emperor's Road.
+~
+~
+0 -1 3065 20 20 0 0 0 0 65535 65535
+D2
+You see the north-south running Wall Road.
+~
+~
+0 -1 3042 20 20 0 0 0 0 65535 65535
+D3
+The city gate is to the west.
+~
+gate~
+2 3006 3116 20 20 0 0 0 0 65535 65535
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very large double doors made from iron.  They have been
+reinforced with large steel bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3041
+The Eastgate of Kortaal~
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy iron forged gate.  The Wall Road
+runs east-west here.
+~
+30 0 0 0 0 1
+D0
+You see the Plains of Kortaal.
+~
+gate~
+2 3006 3111 20 20 0 0 0 0 65535 65535
+D1
+You see the wall road.
+~
+~
+0 -1 3097 20 20 0 0 0 0 65535 65535
+D3
+The wall road runs east-west here.
+~
+~
+0 -1 3095 20 20 0 0 0 0 65535 65535
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from iron.  They have been
+reinforced with large steel bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3042
+Wall Road~
+   You are walking next to the western city wall.  The road continues further
+south and the city gate is just north of here.
+~
+30 0 0 0 0 1
+D0
+You see the city gate.
+~
+~
+0 -1 3040 20 20 0 0 0 0 65535 65535
+D2
+The road continues further south.
+~
+~
+0 -1 3043 20 20 0 0 0 0 65535 65535
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3043
+Wall Road~
+   You are walking next to the western city wall.  Wall Road continues further
+north and south.  A small, poor alley leads east.
+~
+30 0 0 0 0 1
+D0
+The road continues further north.
+~
+~
+0 -1 3042 20 20 0 0 0 0 65535 65535
+D1
+The alley leads east.
+~
+~
+0 -1 3044 20 20 0 0 0 0 65535 65535
+D2
+The road continues further south.
+~
+~
+0 -1 3047 20 20 0 0 0 0 65535 65535
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3044
+Poor Alley~
+   You are in the poor alley, which continues further east.  You see the
+city wall to the west.
+~
+30 0 0 0 0 1
+D1
+The alley leads east.
+~
+~
+0 -1 3024 20 20 0 0 0 0 65535 65535
+D3
+The alley leads west.
+~
+~
+0 -1 3043 20 20 0 0 0 0 65535 65535
+S
+#3045
+Alley at Levee~
+   You are standing in the alley which continues east and west.  South of
+here you see the levee.
+~
+30 0 0 0 0 1
+D1
+The alley leads east.
+~
+~
+0 -1 3046 20 20 0 0 0 0 65535 65535
+D2
+You see the levee.
+~
+~
+0 -1 3049 20 20 0 0 0 0 65535 65535
+D3
+The alley leads west.
+~
+~
+0 -1 3026 20 20 0 0 0 0 65535 65535
+S
+#3046
+Eastern end of Alley~
+   You are standing at the eastern end of the alley, the city wall is just
+east, blocking any further movement.  A small warehouse is directly south of
+here and a mexican food stand has been set up north of here.
+~
+30 0 0 0 0 1
+D0
+You see the taco stand.
+~
+~
+0 -1 3056 20 20 0 0 0 0 65535 65535
+D2
+You see the warehouse.
+~
+~
+0 -1 3050 20 20 0 0 0 0 65535 65535
+D3
+You see the alley.
+~
+~
+0 -1 3045 20 20 0 0 0 0 65535 65535
+S
+#3047
+End of the Road~
+   You are standing on the road next to the western city wall, which
+continues north only. To the south is the solid face of a building.
+~
+30 0 0 0 0 1
+D0
+You see the road.
+~
+~
+0 -1 3043 20 20 0 0 0 0 65535 65535
+D3
+You see a small grate.
+~
+grate~
+1 3133 3101 20 20 0 0 0 0 65535 65535
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3048
+The Leaning Post Inn~
+   You are inside the old Leaning Post Inn.  This place has not been cleaned 
+for several decades; vile smells make you dizzy.
+~
+30 d 0 0 0 0
+D0
+You see the alley.
+~
+~
+0 -1 3024 20 20 0 0 0 0 65535 65535
+D5
+~
+trapdoor~
+1 3099 4348 20 20 0 0 0 0 65535 65535
+S
+#3049
+Port of Kortaal~
+  You are at the Port of Kortaal.  South of here you see the Lake of Dragons, 
+which feeds into the Sea of Fallen Stars to the east.
+~
+30 q 0 0 0 1
+D0
+You see the Promenade.
+~
+~
+0 -1 3076 20 20 0 0 0 0 65535 65535
+D2
+You see the Lake of Dragons.
+~
+~
+0 -1 3280 20 20 0 0 0 0 65535 65535
+S
+#3050
+Warehouse~
+   You are inside the warehouse.  The room is decorated with various old
+items from ships.
+~
+30 d 0 0 0 0
+D0
+You see the Alley.
+~
+~
+0 -1 3046 20 20 0 0 0 0 65535 65535
+S
+#3051
+On the Bridge~
+   You are standing on the stone bridge crosses the river.  The bridge is
+built out from the western city wall and the river flows west through an
+opening in the wall ten feet below the bridge.
+~
+30 0 0 0 0 1
+D0
+You see the road.
+~
+~
+0 -1 3047 20 20 0 0 0 0 65535 65535
+E
+bridge~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar, just like the wall.
+~
+E
+opening~
+You cannot really see it from here as it is somewhere beneath your feet.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3052
+A Classroom~
+   This large room looks to seat about twenty wizards at a time, on the
+far wall you can see a blackboard filled with meaningless scribble.
+~
+30 d 0 0 0 0
+D0
+You see the main grounds.
+~
+~
+0 0 3017 20 20 0 0 0 0 0 0
+S
+#3053
+College of the Jlker Wizards Bookstore~
+  The College Bookstore is the place for all freshman wizards to buy (and
+sell back) all the spellbooks and scrolls they will need for their
+various classes.
+~
+30 d 0 0 0 0
+D2
+~
+~
+0 0 3017 0 0 0 0 0 0 0 0
+S
+#3054
+The Promenade~
+   You are standing on the Promenade, a road which runs around the central
+part of Kortaal. To the south lies the fountain square, and to the north is 
+the wall road. The Promenade also continues east.
+~
+30 0 0 0 0 1
+D0
+You see the wall road.
+~
+~
+0 -1 3091 20 20 0 0 0 0 65535 65535
+D1
+You see the Promenade.
+~
+~
+0 -1 3083 20 20 0 0 0 0 65535 65535
+D2
+You see the city gate.
+~
+~
+0 -1 3001 20 20 0 0 0 0 65535 65535
+S
+#3055
+Odin's Store~
+   This is the small dark room in which Odin keeps the player items that he
+takes care of.  It is vital that this room's virtual number is exactly one
+larger than the room by the temple altar.
+~
+30 d 0 0 0 0
+S
+#3056
+Jeggred Khalazza's Eatery~
+   This place makes your nose run just from the smell of the spicy food they
+sell.  Spicy as it may be it still looks very tasty.  A box of ornul shells
+is set on the counter.
+   There is a large, friendly sign hanging on the wall here.
+~
+30 d 0 0 0 0
+D0
+You see Merchant Street.
+~
+~
+0 -1 3074 20 20 0 0 0 0 65535 65535
+E
+sign~
+   It is a hand-written sign with large, friendly letters which say "If it
+ain't Jeggred Khalazza's, it ain't any good!"
+~
+E
+box ornul shells~
+The small, wooden box is filled with fresh, hot ornul shells. The ornul 
+shell, like Jeggred himself, comes from the Shaar. The shell is an 8 
+inch, flat flour tortilla.
+~
+S
+#3058
+Ye Olde Water Shoppe~
+   You are in Wally's World O' Water, whose proprietor, Wally, is sure to
+have something to meet all of your water needs.
+~
+30 d 0 0 0 0
+D2
+You see Merchant Street.
+~
+~
+0 -1 3074 20 20 0 0 0 0 65535 65535
+S
+#3059
+The Horngate of Kortaal~
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy iron forged gate.  The Wall Road
+runs south and east of here.
+~
+30 0 0 0 0 1
+D0
+You see the city gate.
+~
+gate~
+2 3006 3115 20 20 0 0 0 0 65535 65535
+D1
+You see the Wall Road.
+~
+~
+0 -1 3092 20 20 0 0 0 0 65535 65535
+D2
+You see the Wall Road.
+~
+~
+0 -1 3090 20 20 0 0 0 0 65535 65535
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from iron.  They have been
+reinforced with large steel bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3062
+The Post Office~
+   You are in the central post office for Kortaal. Piles of assorted mail lay
+untouched in the corners, collecting cobwebs.  Several large crates have been
+pried open by curious customs agents, and are now stacked along the west wall,
+hiding plenty of 'WANTED' posters.
+   There is a sign posted on the wall here.
+~
+30 cd 0 0 0 1
+D3
+You see the Fountain Square of Kortaal.
+~
+~
+0 -1 3001 20 20 0 0 0 0 65535 65535
+E
+sign~
+**********************************************************
+*                                                        *
+*    Mail Instructions :                                 *
+*                                                        *
+*      To send a note to someone :                       *
+*         MAIL <playername>                              *
+*                                                        *
+*      To see if you have any mail :                     *
+*         CHECK                                          *
+*                                                        *
+*      To get the Postmaster to give you your mail :     *
+*         RECEIVE                                        *
+*                                                        *
+*         Stamps cost 150 coins per letter               *
+*         Type 'HELP MAIL' for more info                 *
+**********************************************************
+~
+E
+assorted~
+Envelopes of all sizes are heaped into hugh piles around the room.  As you look
+closer, you see a letter that you had posted a full week ago, laying unnoticed
+and slightly rat-chewed towards the bottom of the pile.
+~
+E
+cobwebs~
+They seem to cover everything here, even the Postmaster himself.
+~
+E
+crates opened large~
+As you know, it is illegal to send contraband items through the Kortaal mail.
+The custom's agents use this as a great excuse to seize liquor, rare spices,
+and just about anything they might find useful or profitable.
+~
+E
+WANTED posters poster wall~
+Faces of various known Killers and Thieves can barely be seen behind the crates
+on the west wall.  Some of them look quite familar, sorta like that guy who you
+saw in the Reception a minute ago...but then again, they are rather hard to see
+past the crates. One sign in particular catches your attention, it is the most
+recently posted and reads: Wanted - Zizazat Lazuras for the assassination of
+King Chelnar the IV.
+~
+S
+#3063
+Donation Square~
+   Here is a small portion of the square dedicated to helping new adventures
+or perhaps just a place to leave unwanted junk.
+~
+30 c 0 0 0 1
+D1
+The other end of the square.
+~
+~
+0 -1 3001 20 20 0 0 0 0 65535 65535
+E
+junk~
+Just a bunch of unwanted stuff people have disguarded.
+~
+S
+#3064
+The Admissions Office~
+    You stand in a largish room with a large marble desk, and sitting behind
+it is the Dean of Admissions, a mage of some power you would guess. To
+the east lies the serious training rooms, and west is the main grounds.
+~
+30 d 0 0 0 1
+D1
+Other classrooms lie east.
+~
+~
+0 -1 3019 20 20 0 0 0 0 65535 65535
+D3
+The main grounds lie west.
+~
+~
+0 -1 3017 20 20 0 0 0 0 65535 65535
+S
+#3065
+The Emperor's Road~
+    You are standing on the east-west running Emperor's Road. To the east,
+in the distance you can see the grounds of the Imperial Palace, to the 
+west lies the gate. Also, to the south leads to the poorer sections of Kortaal.
+~
+30 0 0 0 0 1
+D1
+You see the Emperor's Road.
+~
+~
+0 -1 3012 20 20 0 0 0 0 65535 65535
+D2
+You see the poorer sections of Kortaal.
+~
+~
+0 -1 3066 20 20 0 0 0 0 65535 65535
+D3
+You see the west gate of Kortaal.
+~
+~
+0 -1 3040 20 20 0 0 0 0 65535 65535
+S
+#3066
+Copper Street~
+    You are standing on a north-south road that runs through the less 
+wealthy sections of Kortaal. You keep your eyes, and hands, near your
+gold pouch.
+~
+30 0 0 0 0 1
+D0
+You see the Emperor's Road.
+~
+~
+0 -1 3065 20 20 0 0 0 0 65535 65535
+D2
+You see Copper Road continues.
+~
+~
+0 -1 3067 20 20 0 0 0 0 65535 65535
+S
+#3067
+Copper Street~
+    You are standing on a north-south road that runs through the less 
+wealthy sections of Kortaal. You keep your eyes, and hands, near your
+gold pouch. There are many run down buildings in the area.
+~
+30 0 0 0 0 1
+D0
+Copper Road continues north.
+~
+~
+0 -1 3066 20 20 0 0 0 0 65535 65535
+D1
+An abandoned wearhouse lies east.
+~
+door east e~
+2 200 208 20 20 0 0 0 0 65535 65535
+D2
+You see Copper Road continues.
+~
+~
+0 -1 3068 20 20 0 0 0 0 65535 65535
+D3
+You see a poor ally.
+~
+~
+0 -1 3024 20 20 0 0 0 0 65535 65535
+S
+#3068
+Copper Street~
+    You are standing on a north-south road that runs through the less 
+wealthy sections of Kortaal. You keep your eyes, and hands, near your
+gold pouch. There are many run down buildings in the area.
+~
+30 0 0 0 0 1
+D0
+Copper Road continues north.
+~
+~
+0 -1 3067 20 20 0 0 0 0 65535 65535
+D2
+You see Copper Road continues.
+~
+~
+0 -1 3069 20 20 0 0 0 0 65535 65535
+S
+#3069
+Copper Street~
+    You are standing on a north running road that runs through the less 
+wealthy sections of Kortaal. You keep your eyes, and hands, near your
+gold pouch. There are many run down buildings in the area. To the south
+you can see the Lake of Dragons. To the west you see an abandoned looking
+building.
+~
+30 0 0 0 0 1
+D0
+Copper Road continues north.
+~
+~
+0 -1 3068 20 20 0 0 0 0 65535 65535
+D3
+You see an empty building.
+~
+~
+0 -1 3027 20 20 0 0 0 0 65535 65535
+S
+#3070
+Merchant Street~
+   You are standing on a road that runs through the business district of 
+Kortaal.
+~
+30 0 0 0 0 1
+D0
+You see the Emperor's Road.
+~
+~
+0 -1 3015 20 20 0 0 0 0 65535 65535
+D1
+You see many shops along the street.
+~
+~
+0 -1 3071 20 20 0 0 0 0 65535 65535
+S
+#3071
+Merchant Street~
+    You are standing on a road that throught the business district of 
+Kortaal.
+There are shops to the north and south.
+~
+30 0 0 0 0 1
+D0
+You see a weapons shop.
+~
+~
+0 -1 3011 20 20 0 0 0 0 65535 65535
+D1
+You see more shops.
+~
+~
+0 -1 3072 20 20 0 0 0 0 65535 65535
+D2
+You see an armor shop.
+~
+~
+0 -1 3020 20 20 0 0 0 0 65535 65535
+D3
+You see the start of Merchant Street.
+~
+~
+0 -1 3070 20 20 0 0 0 0 65535 65535
+S
+#3072
+Merchant Street~
+    You are standing on a road that throught the business district of Kortaal.
+There are shops to the north and south.
+~
+30 0 0 0 0 1
+D0
+You see a general store.
+~
+~
+0 -1 3010 20 20 0 0 0 0 65535 65535
+D1
+You see more shops.
+~
+~
+0 -1 3073 20 20 0 0 0 0 65535 65535
+D2
+You see a magic shop. 
+~
+~
+0 -1 3033 20 20 0 0 0 0 65535 65535
+D3
+You see more shops.
+~
+~
+0 -1 3071 20 20 0 0 0 0 65535 65535
+S
+#3073
+Merchant Street~
+    You are standing on a road that throught the business district of Kortaal.
+You can smell bakery fresh goods from the north. @yTo the south lies the
+Clothier@n.
+~
+30 0 0 0 0 1
+D0
+You see a bakery.
+~
+~
+0 -1 3009 20 20 0 0 0 0 65535 65535
+D1
+You see more shops.
+~
+~
+0 -1 3074 20 20 0 0 0 0 65535 65535
+D2
+You see a clothier.
+~
+~
+0 -1 3031 20 20 0 0 0 0 65535 65535
+D3
+You see more shops.
+~
+~
+0 -1 3072 20 20 0 0 0 0 65535 65535
+S
+#3074
+Merchant Street~
+    You are standing on a road that throught the business district of Kortaal.
+There are shops to the north and south.
+~
+30 0 0 0 0 1
+D0
+You see a water shop.
+~
+~
+0 -1 3058 20 20 0 0 0 0 65535 65535
+D1
+You see the Promenade.
+~
+~
+0 -1 3080 20 20 0 0 0 0 65535 65535
+D2
+You see a Mexican resturant.
+~
+~
+0 -1 3056 20 20 0 0 0 0 65535 65535
+D3
+You see more shops.
+~
+~
+0 -1 3073 20 20 0 0 0 0 65535 65535
+S
+#3076
+The Promenade~
+    You are stanging along the Promenade which runs around the central part
+of Kortaal. To the north lies the Emperor's Road, to the east is the Purple 
+Dragons' Garrison and fighters' school, and to the south lies the Port of
+Kortaal.
+~
+30 0 0 0 0 1
+D0
+You see the Promenade.
+~
+~
+0 -1 3034 20 20 0 0 0 0 65535 65535
+D1
+You see the Promenade.
+~
+~
+0 -1 3077 20 20 0 0 0 0 65535 65535
+D2
+You see the Port of Kortaal.
+~
+~
+0 -1 3049 20 20 0 0 0 0 65535 65535
+D3
+You see the Dump of Kortaal.
+~
+~
+0 -1 3030 20 20 0 0 0 0 65535 65535
+S
+#3077
+The Promenade~
+    You are stanging along the Promenade which runs around the central part
+of Kortaal. In the distance to the north you can see both the business district
+of the city, and the newly covered Imperial Palace. To the east lies the 
+entrance to the garrison and fighters' school.
+~
+30 0 0 0 0 1
+D1
+You see the fighters' school.
+~
+~
+0 -1 3021 20 20 0 0 0 0 65535 65535
+D2
+You see the Promenade.
+~
+~
+0 -1 3078 20 20 0 0 0 0 65535 65535
+D3
+You see the Promenade.
+~
+~
+0 -1 3076 20 20 0 0 0 0 65535 65535
+S
+#3078
+The Promenade~
+    You are stanging along the Promenade which runs around the central part
+of Kortaal. In the distance to the north you can see both the business district
+of the city, and the grounds of the Imperial Palace. 
+~
+30 0 0 0 0 1
+D0
+You see the Promenade.
+~
+~
+0 -1 3077 20 20 0 0 0 0 65535 65535
+D1
+You see the Promenade.
+~
+~
+0 -1 3079 20 20 0 0 0 0 65535 65535
+S
+#3079
+The Promenade~
+    You are stanging along the Promenade which runs around the central part
+of Kortaal. In the distance to the north you can see both the business district
+of the city, and the grounds of the Imperial Palace.
+~
+30 0 0 0 0 1
+D0
+You see the Promenade.
+~
+~
+0 -1 3080 20 20 0 0 0 0 65535 65535
+D3
+You see the Promenade.
+~
+~
+0 -1 3078 20 20 0 0 0 0 65535 65535
+S
+#3080
+The Promenade~
+    You are stanging along the Promenade which runs around the central part
+of Kortaal. To the west lies the business district of the city.
+~
+30 0 0 0 0 1
+D0
+You see the Promenade.
+~
+~
+0 -1 3081 20 20 0 0 0 0 65535 65535
+D2
+You see the Promenade.
+~
+~
+0 -1 3079 20 20 0 0 0 0 65535 65535
+D3
+You see the business district.
+~
+~
+0 -1 3074 20 20 0 0 0 0 65535 65535
+S
+#3081
+The Promenade~
+    You are standing along the Promenade which runs around the central part
+of Kortaal. To the west you can see the Senate complex and the ground of
+the Imperial Palace that lay just beyond.
+~
+30 0 0 0 0 1
+D0
+You see the Promenade.
+~
+~
+0 -1 3082 20 20 0 0 0 0 65535 65535
+D2
+You see the Promenade.
+~
+~
+0 -1 3080 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 3016 20 20 0 0 0 0 65535 65535
+S
+#3082
+The Promenade~
+    You are stanging along the Promenade which runs around the central part
+of Kortaal. The mighty Church of Hek lies to the west.
+~
+30 0 0 0 0 1
+D0
+You see the Promenade.
+~
+~
+0 -1 3083 20 20 0 0 0 0 65535 65535
+D2
+You see the Promenade.
+~
+~
+0 -1 3081 20 20 0 0 0 0 65535 65535
+D3
+You see the impressive Church of Hek.
+~
+~
+0 -1 9021 20 20 0 0 0 0 65535 65535
+S
+#3083
+The Promenade~
+    You are stanging along the Promenade which runs around the central part
+of Kortaal. The great eastern gate lies to the east.
+~
+30 0 0 0 0 1
+D1
+You see the wall road.
+~
+~
+0 -1 3096 20 20 0 0 0 0 65535 65535
+D2
+You see the Promenade.
+~
+~
+0 -1 3082 20 20 0 0 0 0 65535 65535
+D3
+You see the Promenade.
+~
+~
+0 -1 3054 20 20 0 0 0 0 65535 65535
+S
+#3084
+Wall Road~
+   You are walking next to the western city wall.  The road continues further
+north and the city gate is just south of here.
+~
+30 0 0 0 0 1
+D0
+The road continues further north.
+~
+~
+0 -1 3085 20 20 0 0 0 0 65535 65535
+D2
+The great gate lies south.
+~
+~
+0 -1 3040 20 20 0 0 0 0 65535 65535
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3085
+Wall Road~
+   You are walking next to the western city wall.  The road continues further
+north and the city gate lies south of here.
+~
+30 0 0 0 0 1
+D1
+The wall road lies east.
+~
+~
+0 -1 3086 20 20 0 0 0 0 65535 65535
+D2
+The wall road lies south.
+~
+~
+0 -1 3084 20 20 0 0 0 0 65535 65535
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3086
+Wall Road~
+   You are walking next to the northwestern section of the city wall.  The 
+road continues further north and west here. To the east, you see a large
+house, perhaps that of a noble.
+~
+30 0 0 0 0 1
+D0
+The wall road lies north.
+~
+~
+0 -1 3087 20 20 0 0 0 0 65535 65535
+D1
+A large house.
+~
+door~
+2 6026 3151 20 20 0 0 0 0 65535 65535
+D3
+The wall road lies west.
+~
+~
+0 -1 3085 20 20 0 0 0 0 65535 65535
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3087
+Wall Road~
+   You are walking along the northwestern section of the city wall. The road 
+continues further east and south of here.
+~
+30 0 0 0 0 1
+D1
+The wall road lies east.
+~
+~
+0 -1 3088 20 20 0 0 0 0 65535 65535
+D2
+The wall road lies south.
+~
+~
+0 -1 3086 20 20 0 0 0 0 65535 65535
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3088
+Wall Road~
+   You are walking next to the northwestern section of the city wall.  The 
+road continues further north and west here.
+~
+30 0 0 0 0 1
+D0
+The wall road lies north.
+~
+~
+0 -1 3089 20 20 0 0 0 0 65535 65535
+D3
+The wall road lies west.
+~
+~
+0 -1 3087 20 20 0 0 0 0 65535 65535
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3089
+Wall Road~
+   You are walking along the northwestern section of the city wall. The road 
+continues further east and south of here.
+~
+30 0 0 0 0 1
+D1
+The wall road lies east.
+~
+~
+0 -1 3090 20 20 0 0 0 0 65535 65535
+D2
+The wall road lies south.
+~
+~
+0 -1 3088 20 20 0 0 0 0 65535 65535
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3090
+Wall Road~
+   You are walking next to the north section of the city wall.  The 
+road continues further north and west here.
+~
+30 0 0 0 0 1
+D0
+The wall road lies north.
+~
+~
+0 -1 3059 20 20 0 0 0 0 65535 65535
+D3
+The wall road lies west.
+~
+~
+0 -1 3089 20 20 0 0 0 0 65535 65535
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3091
+Wall Road~
+   You are walking along the northern section of the city wall. The road 
+continues east and west of here. To the south the Promenade begins.
+~
+30 0 0 0 0 1
+D1
+The wall road lies east.
+~
+~
+0 -1 3093 20 20 0 0 0 0 65535 65535
+D2
+The Promenade lies south.
+~
+~
+0 -1 3054 20 20 0 0 0 0 65535 65535
+D3
+The wall road lies west.
+~
+~
+0 -1 3092 20 20 0 0 0 0 65535 65535
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3092
+Wall Road~
+   You are walking along the north section of the city wall. The road 
+continues further east and west of here. The northwestern gate lies to the
+west. 
+~
+30 0 0 0 0 1
+D1
+The wall road lies east.
+~
+~
+0 -1 3091 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 3039 20 20 0 0 0 0 65535 65535
+D3
+The northwestern gate lies west.
+~
+~
+0 -1 3059 20 20 0 0 0 0 65535 65535
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3093
+Wall Road~
+   You are walking along the north section of the city wall. The road 
+continues further east and west of here. The northeastern gate lies to the
+east.
+~
+30 0 0 0 0 1
+D1
+The wall road lies east.
+~
+~
+0 -1 3094 20 20 0 0 0 0 65535 65535
+D3
+The wall road lies west.
+~
+~
+0 -1 3091 20 20 0 0 0 0 65535 65535
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3094
+Wall Road~
+   You are walking along the north section of the city wall. The road 
+continues further east and west of here. The northern gate lies off to the
+west and the eastern gate is on the eastern horizon.
+~
+30 0 0 0 0 1
+D0
+You see a small, closed grate over the river enterance.
+~
+grate~
+1 3133 3109 20 20 0 0 0 0 65535 65535
+D1
+The wall road lies east.
+~
+~
+0 -1 3095 20 20 0 0 0 0 65535 65535
+D3
+The wall road lies west.
+~
+~
+0 -1 3093 20 20 0 0 0 0 65535 65535
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3095
+Wall Road~
+   You are walking along the northeastern section of the city wall. The road 
+continues further east and west of here. The northeastern gate lies off to the
+east.
+~
+30 0 0 0 0 1
+D1
+The Northeastern Gate lies to the east.
+~
+~
+0 -1 3041 20 20 0 0 0 0 65535 65535
+D3
+The wall road lies west.
+~
+~
+0 -1 3094 20 20 0 0 0 0 65535 65535
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3096
+Wall Road~
+   You are walking along the eastern section of the city wall. The road 
+continues north and south from here. The northeastern gate lies to the
+north. The Promenade lies west.
+~
+30 0 0 0 0 1
+D0
+The wall road lies north.
+~
+~
+0 -1 3097 20 20 0 0 0 0 65535 65535
+D2
+The wall road lies south.
+~
+~
+0 -1 3098 20 20 0 0 0 0 65535 65535
+D3
+The Promenade.
+~
+~
+0 -1 3083 20 20 0 0 0 0 65535 65535
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3097
+Wall Road~
+   You are walking along the northeastern section of the city wall. The road 
+continues further south and west of here. You can see the eastern gate to 
+the west.
+~
+30 0 0 0 0 1
+D2
+The wall road lies south.
+~
+~
+0 -1 3096 20 20 0 0 0 0 65535 65535
+D3
+The Northeastern Gate lies west.
+~
+~
+0 -1 3041 20 20 0 0 0 0 65535 65535
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3098
+Wall Road~
+   You are walking along the eastern section of the city wall. The road 
+continues further north and south of here. You can see the eastern gate to 
+the north.
+~
+30 0 0 0 0 1
+D0
+The Wall Road.
+~
+~
+0 -1 3096 20 20 0 0 0 0 65535 65535
+D2
+The Great Eastern Gate lies south.
+~
+~
+0 -1 3099 20 20 0 0 0 0 65535 65535
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3099
+The end of the road~
+   You are walking along the eastern section of the city wall. The road 
+ends here, to the south you can see the Lake of Dragons, and have a pretty
+good view of the Imperial Palace, which is still under reconstruction. The 
+northeastern gate of city lies to the north along Wall Road.
+~
+30 0 0 0 0 1
+D0
+The wall road.
+~
+~
+0 -1 3098 20 20 0 0 0 0 65535 65535
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+$~

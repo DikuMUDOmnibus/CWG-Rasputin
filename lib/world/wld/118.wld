@@ -1,0 +1,655 @@
+#11800
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+
+This zone is for the town of Helgor. It lies north of the King's Forest and
+west of Tekaro. It currently is the western edge of the game world in terms
+of building.
+
+This zone links up with zone: 36.
+~
+118 dk 0 0 0 0
+S
+#11803
+Starwater Road~
+   You are standing on Starwater Road in Helgor. To the south lies
+the massive King's Forest. The residential section of the town lies to the 
+east. To the north lies the town square. Off in the distance to the north
+you see a huge tower that seems to extend to the sky.
+~
+118 0 0 0 0 1
+D0
+To the north lies the town square.
+~
+~
+0 0 11807 20 20 0 0 0 0 65535 65535
+D1
+To the east lies the residental section of Helgor.
+~
+~
+0 0 11804 20 20 0 0 0 0 65535 65535
+D2
+To the south you can see a long, straight, and narrow trail through the 
+King's Forest.
+~
+~
+0 0 3640 20 20 0 0 0 0 65535 65535
+S
+#11804
+Residential Section~
+   This is the residential section of Helgor. The road is lined with
+many small houses of the local citizens. The road is lined with full, green
+bushes and tall green trees.
+~
+118 0 0 0 0 1
+D1
+To the east lies more of the residential section of town.
+~
+~
+0 0 11805 20 20 0 0 0 0 65535 65535
+D3
+To the west lies Starwater Road.
+~
+~
+0 0 11803 20 20 0 0 0 0 65535 65535
+E
+bushes~
+There are many wild, edible berries growing on the bushes.
+~
+E
+trees~
+The trees appear to have lucious fruit growing on them in abundance.
+~
+S
+#11805
+Residential Section~
+   You are now deep into the residential section of Helgor. Directly
+to the north lies Senator Morim's house. Here you also see many local
+citizen's homes.
+~
+118 0 0 0 0 1
+D0
+To the north you see Senator Tzin Morim's home.
+~
+door north n~
+1 0 11806 20 20 0 0 0 0 65535 65535
+D3
+To the west continues the residential section of the town.
+~
+~
+0 0 11804 20 20 0 0 0 0 65535 65535
+S
+#11806
+Senator Tzin Morim's House~
+   You are now in the humble home of the good Senator Tzin Morim. The 
+place is nicely decorated with many fine tapestries. All of the furniture 
+is made of pure Toranian oak.
+~
+118 cd 0 0 0 0
+D2
+To the south lies the main street of the residential section.
+~
+door south s~
+1 0 11805 20 20 0 0 0 0 65535 65535
+E
+tapestries decorations~
+They are ranging to quite a few different styles, some new some old. It appears
+that the Senator is at has at least a minor interest in art.
+~
+E
+furniture~
+Don't you wish you had enough money to buy this stuff?
+~
+S
+#11807
+Town Square~
+   You are standing in the town square of Helgor. To the north lies 
+Morning Street with the huge Tower of Morning off in the distance. Main 
+Street extends to the east and west turning into The High Road outside 
+city limits. To the south is Starwater Road which continues into the 
+King's Forest.
+~
+118 0 0 0 0 1
+D0
+To the north lies Morning Street.
+~
+~
+0 0 11810 20 20 0 0 0 0 65535 65535
+D1
+To the east runs Main Street towards Tekaro.
+~
+~
+0 0 11809 20 20 0 0 0 0 65535 65535
+D2
+To the south lies Starwater Road.
+~
+~
+0 0 11803 20 20 0 0 0 0 65535 65535
+D3
+To the east lies Main Street towards Tyrluk.
+~
+~
+0 0 11808 20 20 0 0 0 0 65535 65535
+S
+#11808
+Main Street~
+   You are standing on the westbound running of Main Street. To the north 
+you see one of the finest inns in Helgor. To the southwest lies the 
+merchant district, where you see many people bustling around doing their 
+shopping.
+~
+118 0 0 0 0 1
+D0
+To the north is the Lonsome Tankard Inn.
+~
+door north n~
+1 11899 11829 20 20 0 0 0 0 65535 65535
+D1
+The town square lies to the east.
+~
+~
+0 0 11807 20 20 0 0 0 0 65535 65535
+D3
+Main street continues to the west.
+~
+~
+0 0 11819 20 20 0 0 0 0 65535 65535
+S
+#11809
+Main Street~
+   You are standing on the eastbound running of Main Street, which runs 
+into Tekaro. Main street continues to the east and west. To the north you 
+see the City Hall. To your south, though you cannot get there from here, 
+lies the residential section of town.
+~
+118 0 0 0 0 1
+D0
+To the north lies the City Hall.
+~
+door north n~
+1 11899 11824 20 20 0 0 0 0 65535 65535
+D1
+Main Street continues to the east and west.
+~
+~
+0 0 11823 20 20 0 0 0 0 65535 65535
+D3
+The town square is directly to the west.
+~
+~
+0 0 11807 20 20 0 0 0 0 65535 65535
+S
+#11810
+Morning Street~
+   You are now on Morning Street, which runs to the north to a fork in 
+the road. The town square lies to the south. To the northeast, off in the 
+distance you can see the huge Tower of Morning.
+~
+118 0 0 0 0 1
+D0
+Morning Street continues to the north.
+~
+~
+0 0 11811 20 20 0 0 0 0 65535 65535
+D2
+The town square lies to the south.
+~
+~
+0 0 11807 20 20 0 0 0 0 65535 65535
+S
+#11811
+Morning Street~
+   You are on Morning Street, which continues to the north and south. In 
+the distance to the south, you see the town square with many people 
+bustling about. To the northeast is the Tower of Morning. Also, to the 
+northwest, you see a chapel.
+~
+118 0 0 0 0 1
+D0
+To the north there is a fork in Morning Street.
+~
+~
+0 0 11812 20 20 0 0 0 0 65535 65535
+D2
+To the south continues Morning Street.
+~
+~
+0 0 11810 20 20 0 0 0 0 65535 65535
+S
+#11812
+A Fork in Morning Street~
+   You are standing in a fork in morning street. One way goes to the east 
+where you see the huge Tower of Morning reaching to the sky. To the west 
+the fork leads to the House of Morning, which appears to be a chapel. 
+Morning Street continues to the south, leading to the town square.
+~
+118 0 0 0 0 1
+D1
+To the east is the Tower of Morning.
+~
+door east e~
+1 11899 11817 20 20 0 0 0 0 65535 65535
+D2
+Morning Street continues to the south.
+~
+~
+0 0 11811 20 20 0 0 0 0 65535 65535
+D3
+To the west you see the House of Morning.
+~
+~
+0 0 11813 20 20 0 0 0 0 65535 65535
+S
+#11813
+Entrance to the House of Morning~
+   You are standing in the entrance foyer to the House of Morning, a 
+local chapel dedicated to the service of Hek. There's a huge set of double 
+wooden doors leading to the west. There's a small door to the north.
+~
+118 d 0 0 0 0
+D0
+To the north is the quarters of the seneschal.
+~
+door north n~
+1 0 11814 20 20 0 0 0 0 65535 65535
+D1
+To the east is Morning Street.
+~
+~
+0 0 11812 20 20 0 0 0 0 65535 65535
+D3
+To the west is the Sanctuary.
+~
+wooden double doors west w~
+1 0 11815 20 20 0 0 0 0 65535 65535
+S
+#11814
+The Seneschal's Quarters~
+   This is the quarters of the seneschal of the chapel. It's obvious that 
+the person that lives here is quite humble. There are only two peices of 
+furniture in the whole room, a ragged straw bed, and an old desk.
+~
+118 d 0 0 0 0
+D2
+The entrance to the chapel is to the south.
+~
+door south s~
+1 0 11813 20 20 0 0 0 0 65535 65535
+S
+#11815
+The Sanctuary~
+   This is the sanctuary of the House of Morning. The room is very dusty, 
+and it looks like there's been noone here for ages. There are about 
+fifteen rows of old creaky pews. To the south there is a small narrow 
+passageway. In the front of the room, the altar stands. There is a small 
+book laying on the altar. To the east are the huge wooden double doors 
+leading back to the entrance.
+~
+118 d 0 0 0 0
+D1
+To the east is the entrance to the chapel.
+~
+doors wooden double west w~
+1 0 11813 20 20 0 0 0 0 65535 65535
+D2
+To the south is a small passage leading to the priests quarters.
+~
+~
+0 0 11816 20 20 0 0 0 0 65535 65535
+E
+book~
+This closed book has a wierd looking symbol on it's cover. There's also a 
+latch on the side of it that looks like it might have been a lock, but 
+it's open.
+~
+E
+altar~
+The altar has splitting rails and is made of some kind of old wood that 
+you've never seen before.
+~
+S
+#11816
+The Priests Quarters~
+   This is the priest's quarters. The room's sparsely furnished with only 
+a bed, desk, and a bookcase. On the bookcase are many old religous books 
+that look like they might date back to the creation of life itself. There 
+is one book sticking out farther than the others.
+~
+118 d 0 0 0 0
+D0
+To the north is the sanctuary of the chapel.
+~
+~
+0 0 11815 20 20 0 0 0 0 65535 65535
+E
+book~
+On the spine of the book is one symbol that looks like two swords forming 
+a cross. Below that are written the words "The Crusade". 
+Since your curiosity has overtaken you, you remove the book from the shelf.
+On the front cover of the book are written the words:
+
+			    THE CRUSADE
+
+		 A prophecy of the death of Marduk.
+~
+S
+#11817
+The Tower of Morning~
+   You are standing in the base of the Tower of Morning. As you look up 
+the long winding staircase, it surprises you that you can't see the top. 
+The small room here at the bottom is filled with paintings of religous 
+events.
+~
+118 cd 0 0 0 0
+D3
+To the west is Morning Street.
+~
+door east e~
+1 11899 11812 20 20 0 0 0 0 65535 65535
+D4
+As you look up you see the long winding stairwell leading to the top of 
+the Tower of Morning.
+~
+~
+0 0 11818 20 20 0 0 0 0 65535 65535
+E
+paintings~
+The paintings depict the fall of Marduk long ago, and also his recent return.
+The followers of Hek must band together to stop them once again.
+~
+S
+#11818
+The Top of the Tower of Morning~
+   You are finally in the top of the tower of morning, after that long 
+climb. As you look through the open-air windows, you can almost see all 
+of Toran. You can definately make out the Lake of Dragons to the south, 
+and to the north, barely through the break of the Storm Horn Mountains, 
+you can just make out the vast barren Anauroch.
+~
+118 cd 0 0 0 0
+D0
+You can clearly see the great Storm Horn Mountains, and just barely see 
+the Anauroch desert beyond that.
+~
+~
+0 0 11818 20 20 0 0 0 0 65535 65535
+D1
+Far off in the distance to the east, you can see the huge Hullack Forest, 
+and barely see the Thunder Peaks beyond that.
+~
+~
+0 0 11818 20 20 0 0 0 0 65535 65535
+D2
+To the south, almost looking straight down, you see the massive King's 
+Forest. Beyond that you see the Lake of Dragons.
+~
+~
+0 0 11818 20 20 0 0 0 0 65535 65535
+D3
+Off to the west you can see the massive Storm Horn Mountains. You also 
+see a very small collection of activity that you assume to be the High Horn.
+~
+~
+0 0 11818 20 20 0 0 0 0 65535 65535
+D5
+As you look down the long stairwell you back up, fearing you'd meet your 
+death if you fell.
+~
+~
+0 0 11817 20 20 0 0 0 0 65535 65535
+S
+#11819
+Main Street~
+   You are standing on the Main Street of Helgor. To the west you 
+can see the road leading to Tyrluk. To the east, Main Street continues 
+into the road leading to Tekaro. Directly to the south you see a large 
+area with many tents in a circle with many people bustling about. To the
+north you can see a small tailor's shop.
+~
+118 0 0 0 0 1
+D0
+You see a small shop containing many clothes.
+~
+door north n~
+1 11899 11830 20 20 0 0 0 0 65535 65535
+D1
+Main Street continues to the east.
+~
+~
+0 0 11808 20 20 0 0 0 0 65535 65535
+D2
+To the south is the merchant district of Helgor.
+~
+~
+0 0 11825 20 20 0 0 0 0 65535 65535
+D3
+Main Street continues to the west.
+~
+~
+0 0 11820 20 20 0 0 0 0 65535 65535
+S
+#11820
+Main Street~
+   You are on Main Street which continues to the east and west. To the 
+north you see a small worn path that leads to a dusty path.
+~
+118 0 0 0 0 1
+D0
+To the north lies the path to a dusty path.
+~
+~
+0 0 11821 20 20 0 0 0 0 65535 65535
+D1
+Main Street continues to the east.
+~
+~
+0 0 11819 20 20 0 0 0 0 65535 65535
+D3
+The High Road starts directly west of you.
+~
+~
+0 -1 11822 20 20 0 0 0 0 65535 65535
+S
+#11821
+Dusty Path~
+    You are standing on a dirt path, winding its way northbound through some
+hilly plains. An eerie silence covers this area broken only occassionally by
+wind swaying the tall grasses in a rythmic pattern. Far off in the northern
+distance you can see the faint outline of mountains.
+~
+118 0 0 0 0 1
+D2
+Main Street lies to the south.
+~
+~
+0 0 11820 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign reads:
+	       This area is currently under construction by Paithan. All
+	       questions and comments are welcome via Post Office.
+		-Paithan, Guide of The King's Forest
+~
+S
+#11822
+The High Road~
+  You are standing on the High Road between Tyrluk and Helgor. To 
+the south lies the massive King's Forest, though there is no path to it 
+from here.
+  There is a small sign here.
+~
+118 0 0 0 0 2
+D1
+The Main Street of Helgor lies directly to the east.
+~
+~
+0 0 11820 20 20 0 0 0 0 65535 65535
+E
+sign small~
+The sign reads: This section of the road, and what lies west of it are
+		currently under construction.
+		If you are interested in building possibilities within the 
+		Empire, please contact your MudOps.
+~
+S
+#11823
+Main Street~
+  You are standing on the eastern end of Main Street in Helgor. The 
+high road continues to the east towards Tekaro. To the south lies the 
+residential district of the town, although there's no distinctive path to 
+there from here. Main Street continues to the west.
+~
+118 0 0 0 0 1
+D1
+The High Road continues to the east.
+~
+~
+0 0 3661 20 20 0 0 0 0 65535 65535
+D3
+Main Street continues to the west.
+~
+~
+0 0 11809 20 20 0 0 0 0 65535 65535
+S
+#11824
+The City Hall~
+   You are standing in the City Hall, where all the major business of the 
+town is conducted. All the people working here are bustling about trying 
+to get things done. Directly to the south lies the Main Street.
+~
+118 d 0 0 0 1
+D2
+To the south lies Main Street.
+~
+door south s~
+1 11899 11809 20 20 0 0 0 0 65535 65535
+S
+#11825
+The Merchant Square~
+   You are standing in the middle of the Merchant District of 
+Helgor. There are tents all around selling goods from all over the 
+land. To the east is the Gem Store, to the south is the Weapons and Armor 
+Shop, and to the west is a small stone building which serves as a general
+store.
+~
+118 0 0 0 0 1
+D0
+To the north lies Main Street.
+~
+~
+0 0 11819 20 20 0 0 0 0 65535 65535
+D1
+To the east lies the Gem Store.
+~
+~
+0 0 11827 20 20 0 0 0 0 65535 65535
+D2
+To the south lies a weapons and armors tent.
+~
+flap south s~
+1 11899 11826 20 20 0 0 0 0 65535 65535
+D3
+To the west lies the General Store.
+~
+door west w~
+1 11899 11828 20 20 0 0 0 0 65535 65535
+S
+#11826
+The weapons and armors tent~
+   You are standing in a large tent, where you can see many types of weapons
+and armor on display. The selection is abit limited due to seasonal and
+Imperial demands on both weapons and armors.
+~
+118 d 0 0 0 0
+D0
+To the north is Merchant Square.
+~
+flap north n~
+1 11899 11825 20 20 0 0 0 0 65535 65535
+S
+#11827
+The Gem Store~
+   You are standing in the gem booth, where you see a wide variety of 
+beautiful gems and other valuables. The display case is edged with pure 
+gold and appears, with it's contents, to cost a fortune.
+~
+118 d 0 0 0 0
+D3
+To the west lies merchant square.
+~
+~
+0 0 11825 20 20 0 0 0 0 65535 65535
+S
+#11828
+The General Store~
+   You are standing in the general store, where you can buy anything that 
+an adventurer needs to survive, and make life a little more pleasant. 
+There are many sorts of food items, and things to drink. You can also buy 
+utilities such as backpacks, and tools.
+~
+118 d 0 0 0 0
+D1
+To the east lies Merchant Square.
+~
+door east e~
+1 11899 11825 20 20 0 0 0 0 65535 65535
+S
+#11829
+The Lonesome Tankard Inn~
+   You are in one of the finest of the three major inns in Helgor. 
+The reception area here is huge with many frills. The receptionists desk 
+is at the rear of the room and is manned by three people.
+~
+118 d 0 0 0 0
+D2
+To the south lies Main Street.
+~
+door south s~
+1 11899 11808 20 20 0 0 0 0 65535 65535
+S
+#11830
+The House of Garak~
+   You are standing in a small tailor shop, owned by Garak. He is a simple man
+living a simple life selling you clothing off all sorts. You can see the 
+clothing that was all the rage in Kortaal last year and, according to Garak,
+the clothing that will be all the rage next year.
+~
+118 d 0 0 0 0
+D2
+To the south lies Main Street.
+~
+door south s~
+1 11899 11819 20 20 0 0 0 0 65535 65535
+S
+#11831
+Corridors of Marduk~
+   This room is for chaos.
+~
+118 d 0 0 0 1
+D0
+~
+~
+0 -1 11809 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 11820 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 11803 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11817 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 11804 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 11811 20 20 0 0 0 0 65535 65535
+S
+$~

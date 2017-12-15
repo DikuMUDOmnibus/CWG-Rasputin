@@ -1,0 +1,1016 @@
+#8500
+iron key~
+a small iron key~
+A small iron key is here.~
+~
+18 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+1 0 0 0
+Z
+4
+#8501
+mithril key~
+mithril key~
+A mithril key, set with a green gem, lies here.~
+~
+18 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+1 500 0 0
+Z
+4
+#8502
+mithril key~
+mithril key~
+A mithril key, set with a pink gem, lies here.~
+~
+18 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+1 500 0 0
+Z
+4
+#8503
+ruby key~
+ruby key~
+A key, fashioned from ruby, is lying here.~
+~
+18 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+1 1000 0 0
+Z
+4
+#8504
+small brass key~
+small brass key~
+A small brass key is lying here.~
+~
+18 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+1 0 0 0
+Z
+4
+#8505
+large iron key~
+large iron key~
+A large key, fashioned of iron, lies here on the ground.~
+~
+18 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+1 0 0 0
+Z
+4
+#8506
+silver key~
+silver guards key~
+A silver key lies here on the ground.~
+~
+18 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+1 100 0 0
+Z
+4
+#8507
+green crystalline key~
+green crystalline key~
+A key, fashioned of green crystal, lies here on the ground.~
+~
+18 g 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+1 1000 0 0
+Z
+4
+#8508
+crystal key~
+crystal key~
+A key, fashioned from crystal, lies here.~
+~
+18 0 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+1 800 0 0
+Z
+4
+#8509
+long ornate wooden chest~
+a long ornate wooden chest~
+A long ornate wooden chest lies here.~
+~
+15 0 0 0 0 a 0 0 0 0 0 0 0
+100 5 -1 0 100 100 0 0 0 0 0 0 0 0 0 0
+20 10 10 0
+Z
+4
+E
+long ornate wooden chest~
+This strange chest has been fashioned from oak, its weird dimensions make it 
+appear to be some sort of case rather than a chest. It is loving covered in 
+intricate carvings of birds and other flying creatures.
+~
+#8510
+obelisk black~
+obelisk~
+A @Kgiant black obelisk@n stands here, thrusting up into the sky.~
+~
+12 a 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+99999 0 0 0
+Z
+4
+E
+obelisk black~
+This giant obelisk has been fashioned from smoothly polished black granite.  
+Elvish runes, describing the history of Nangalen, have been carved all over 
+the surface of the obelisk.
+~
+#8511
+archery target~
+target~
+An archery target, painted with a large red bulls-eye, sits here.~
+~
+12 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+99999 0 0 0
+Z
+4
+E
+archery target~
+This is a simple archery target fashioned of wood and hide. Painted on the 
+front is a large red bulls-eye. There are many holes in the target attesting 
+to Bard's accuracy, especially in the bulls-eye.
+~
+#8512
+anvil black~
+large black anvil~
+A large black anvil sits here, waiting to be used to shape a new masterpiece.~
+~
+12 a 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+99999 0 0 0
+Z
+4
+E
+anvil black~
+This large anvil has been fashioned from some unknown hard metal, allowing the 
+construction of mithril items upon it. 
+~
+#8513
+pink quartz altar~
+pink quartz altar~
+The pink quartz altar, dedicated to Lord Hek, stands here.~
+~
+12 i 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+99999 0 0 0
+Z
+4
+E
+pink quartz altar~
+This large altar has been fashioned from pink quartz. Engraved with images of 
+Lord Hek, it also has built in insence holders.
+~
+#8514
+pink quartz fountain~
+pink quartz fountain~
+A large pink quartz fountain sits here, merrily shooting up a small geyser of 
+water.~
+~
+23 0 0 0 0 0 0 0 0 0 0 0 0
+10000 10000 15 0 100 100 0 0 0 0 0 0 0 0 0 0
+99999 0 0 0
+Z
+4
+E
+pink quartz fountain~
+The fountain is large, and the water looks cool and refreshing.
+~
+#8515
+teak bar~
+teak bar~
+The tavern's bar, fashioned from teak, sits along the east wall.~
+~
+12 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+99999 0 0 0
+Z
+4
+E
+teak bar~
+The tavern's bar has been fashioned from teak. All of the fictures and trim 
+are of the polished brass. 
+~
+#8516
+throne~
+throne~
+A large golden throne sits here, the seat of the Regent and his wife.~
+~
+12 a 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+99999 0 0 0
+Z
+4
+E
+throne~
+This beautiful throne has been fashioned from gold and mithril and has inlays 
+of pink quartz, emeralds, diamonds, rubies and sapphires.
+~
+#8517
+iron chest~
+plain iron chest~
+A small iron chest lies here.~
+~
+15 0 0 0 0 a 0 0 0 0 0 0 0
+100 5 -1 0 100 100 0 0 0 0 0 0 0 0 0 0
+20 10 2 0
+Z
+4
+E
+plain iron chest~
+This plain chest has been crafted of iron.  It has a hinged lid.
+~
+#8518
+ornate crystal chest~
+ornate crystal chest~
+A large ornate crystal chest lies here.~
+~
+15 0 0 0 0 a 0 0 0 0 0 0 0
+50 9 3006 0 100 100 0 0 0 0 0 0 0 0 0 0
+10 100 10 0
+Z
+4
+E
+ornate crystal chest~
+This large chest has been fashioned from crystal. Exquisite drawings have been 
+etched all over the surface.
+~
+#8519
+stained glass window~
+stained glass window~
+A huge stained glass window is set here in the ceiling, letting forth 
+profusions of coloured light.~
+~
+12 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+99999 0 0 0
+Z
+4
+E
+stained glass window~
+This beautiful stained glass window is an eclectic pattern of colourful 
+geometric shapes.
+~
+#8520
+banquet table~
+banquet table~
+A large banquet table rests here in the center of the room, almost filling it.~
+~
+12 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+99999 0 0 0
+Z
+4
+E
+banquet table~
+This huge table has enough space to seat over 100 guests. Inlaid with ivory and 
+mother of pearl, the table is quite a treasure.
+~
+#8521
+bell~
+bell~
+A large golden bell hangs here from the ceiling.~
+~
+12 b 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+99999 0 0 0
+Z
+4
+E
+bell~
+This large bell is the used by the Elven look outs to warn Nangalen of 
+approaching dangers.
+~
+#8522
+pixie sword~
+a pixie sword~
+A tiny sword lies here on the ground.~
+~
+5 0 0 0 0 an 0 0 0 0 0 0 0
+2 1 4 11 100 100 0 11 0 0 0 0 0 0 0 0
+1 40 40 0
+Z
+2
+E
+pixie sword~
+This small sword is used by pixie's.
+~
+A
+40 2 40
+#8523
+studded leather vest~
+a studded leather vest~
+A finely crafted studded leather vest rests here on the ground.~
+~
+9 mqr 0 0 0 ad 0 0 0 0 0 0 0
+30 1 5 1 100 100 15 0 0 0 0 0 0 0 0 0
+20 30 15 0
+Z
+4
+E
+studded leather vest~
+This vest has been crafted from very tough animal skin of unkown origin. It 
+has been studded and trimmed with mithril.
+~
+#8524
+green feathered hat~
+a green feathered hat~
+A green hat, with a large white feather stuck in it, lies here on the ground.~
+~
+11 0 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+1 1 1 0
+Z
+4
+E
+green feathered hat~
+This green cloth hat has a large feather, possibly that of an eagle, stuck in
+its side. This hat cries out for you to place it on your head at a jaunty angle.
+~
+#8525
+green breeches~
+a pair of green breeches~
+A pair of green breeches lies here on the ground.~
+~
+11 0 0 0 0 af 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+2 2 2 0
+Z
+4
+E
+green breeches~
+These breeches have been sewn from green cloth, they provide excellent
+camoflauge in the forest.
+~
+#8526
+brown leather boots~
+a pair of brown leather boots~
+A pair of well worn brown leather boots sits here.~
+~
+11 0 0 0 0 ag 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+5 7 7 0
+Z
+4
+E
+brown leather boots~
+These brown leather boots are well worn but have been well cared for.
+~
+#8527
+green leather gloves~
+a pair of green leather gloves~
+A pair of green leather gloves lies here on the ground.~
+~
+11 0 0 0 0 ah 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+3 5 5 0
+Z
+4
+E
+green leather gloves~
+These plain green leather gloves are long and cover the forearms of the wearer 
+as well as the hands. The middle three fingers have been reinforced for the 
+use of archers.
+~
+#8528
+emerald hilted long sword~
+an emerald hilted long sword~
+A long sword, with a large emerald in the hilt rests here.~
+~
+5 mnor 0 0 0 an 0 0 0 0 0 0 0
+15 1 8 3 100 100 0 9 1 0 0 0 0 0 0 0
+5 200 200 0
+Z
+4
+E
+emerald hilted long sword~
+This long sword is quite plain though of excellent craftsmenship. It's one 
+redeeming feature is the large emerald set in the hilt.
+~
+#8529
+white leather cape~
+a royal elven cape~
+A white leather cape, emblazoned with a red griffon, lies on the floor.~
+~
+11 0 0 0 0 ac 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+6 35 17 0
+Z
+4
+E
+white leather cape~
+This leather cape provides excellent cover from the sun and rain for the 
+Royal Elven guardsmen when they're on duty. It has been emblazoned with the 
+sign of the red griffon, the symbol of the Elven King and Queen, and has been 
+trimmed in silver.
+~
+#8530
+elven long sword~
+an elven long sword~
+A finely crafted silver long sword lies here.~
+~
+5 mnor 0 0 0 an 0 0 0 0 0 0 0
+15 1 8 3 100 100 0 7 1 0 0 0 0 0 0 0
+4 150 150 0
+Z
+4
+E
+elven long sword~
+This long sword is of the finest craftsmenship. Elvish runes have been etched 
+all over the surface except on the white leather wrapped hilt.
+~
+A
+18 1 150
+A
+19 1 150
+#8531
+elven spear~
+an elven spear~
+A finely crafted silver spear lies here.~
+~
+5 mno 0 0 0 an 0 0 0 0 0 0 0
+5 1 6 11 100 100 0 11 0 0 0 0 0 0 0 0
+6 100 100 0
+Z
+4
+E
+elven spear~
+This large two handed spear is of the finest craftsmenship. Elvish runes have 
+been etched all over the surface, inlcuding the haft which also appears to be
+of metal.
+~
+A
+18 1 100
+A
+19 1 100
+#8532
+winged helmet~
+a winged helmet~
+A beautiful white winged helmet, polished to a bright shine, lies here.~
+~
+9 0 0 0 0 ae 0 0 0 0 0 0 0
+0 1 100 0 100 100 0 0 0 0 0 0 0 0 0 0
+10 40 20 0
+Z
+4
+E
+winged helmet~
+This is a typical High Elven war helm. Open faced, but long in the back to 
+protect the back of the neck, it has two large white wings attached to the 
+sides.
+~
+#8533
+silver suit fine chain~
+a suit of elven chain~
+A suit of fine silver chain mail rests here on the ground.~
+~
+9 degkqr 0 0 0 ad 0 0 0 0 0 0 0
+50 2 2 5 100 100 30 0 0 0 0 0 0 0 0 0
+20 500 250 0
+Z
+4
+E
+silver suit fine chain~
+This suit of chain mail is of the finest craftsmenship. It covers the torso, 
+arms and legs of the wielder in light but strong silver loops of intertwined 
+metal rings.
+~
+#8534
+white leather boots~
+a pair of white leather boots~
+A pair of strong white leather boots sits here.~
+~
+11 0 0 0 0 ag 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+5 25 13 0
+Z
+4
+E
+white leather boots~
+These white leather boots are of the finest craftsmenship. They are extremely 
+rugged but don't hinder the wearer in any way.  They have been trimmed in red 
+and silver.
+~
+#8535
+white leather gloves~
+a pair of white leather gloves~
+A pair of strong white leather gloves rests here on the ground.~
+~
+11 0 0 0 0 ah 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+2 25 13 0
+Z
+4
+E
+white leather gloves~
+These white leather gloves are of the finest craftsmenship. They are extremely 
+rugged but don't hinder the wearer in any way.  They have been trimmed in red 
+and silver.
+~
+#8536
+tough leather apron~
+a tough leather apron~
+A tough leather apron rest here on the ground.~
+~
+9 0 0 0 0 ak 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 0 0 0 0 0 0 0 0 0
+9 10 1 0
+Z
+4
+E
+tough leather apron~
+This tough leather apron provides excellent protection from the heat of the 
+forge. It is very cumbersome.
+~
+#8537
+heavy mithril hammer~
+a heavy mithril hammer~
+A heavy hammer, crafted of mithril, lies here on the ground.~
+~
+5 mort 0 0 0 an 0 0 0 0 0 0 0
+12 2 4 7 100 100 1 7 0 0 0 0 0 0 0 0
+14 100 100 0
+Z
+4
+E
+heavy mithril hammer~
+This large heavy hammer is used by Curunir to fashion his mithril items for 
+sale.
+~
+A
+18 1 100
+A
+19 1 100
+#8538
+spectacles~
+a pair of wire frammed spectacles~
+A pair of flimsy wire frammed spectacles rests here on the ground.~
+~
+11 0 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+2 50 5 0
+Z
+4
+E
+spectacles~
+These flimsy spectacles hold very thick scratched lenses.
+~
+#8539
+plain mousy robe~
+a plain mousy robe~
+A plain mousy colored robe sits here.~
+~
+9 0 0 0 0 ak 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 0 0 0 0 0 0 0 0 0
+4 1 1 0
+Z
+4
+E
+plain mousy robe~
+These plain robes are of a non-descript biege/gray color. They appear quite 
+ordinary.
+~
+#8540
+red battle axe~
+a red battle axe~
+A heavy battle axe, with a red blade rests here.~
+~
+5 agmnorst 0 0 0 an 0 0 0 0 0 0 0
+25 1 8 3 100 100 1 31 0 0 0 0 0 0 0 0
+14 300 300 0
+Z
+4
+E
+red battle axe~
+This heavy battle axe bears a strange blade crafted of some unknown red 
+material. Magical runes have been engraved on the blade. The haft appears to 
+be of black stone.
+~
+A
+18 2 300
+A
+19 2 300
+#8541
+lavender robe~
+a lavender robe~
+A beautiful lavender robe sits here.~
+~
+9 0 0 0 0 ak 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 0 0 0 0 0 0 0 0 0
+4 25 13 0
+Z
+4
+E
+lavender robes~
+These beautiful garment is the standard raiment worn in day to day life by the 
+High Elves. It contains many pockets, is warm in winter, cool in the summer and 
+provides excellent protection from the elements.  
+~
+#8542
+blue robe~
+a blue robe~
+A beautiful blue robe sits here.~
+~
+9 0 0 0 0 ak 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 0 0 0 0 0 0 0 0 0
+4 25 13 0
+Z
+4
+E
+lavender robes~
+These beautiful garment is the standard raiment worn in day to day life by the 
+High Elves. It contains many pockets, is warm in winter, cool in the summer and 
+provides excellent protection from the elements.  
+~
+#8543
+ornate robe~
+a priestly robe~
+An ornate robes, decorated with the symbol of Hek rests here.~
+~
+9 gi 0 0 0 ak 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 17 0 0 0 0 0 0 0 0
+5 100 50 0
+Z
+4
+E
+ornate robes~
+These ornately stitched robes have been blessed by Lord Hek for the usage of 
+His high clerics.
+~
+A
+40 4 50
+#8545
+staff golden~
+a staff of striking~
+An ornate golden staff lies here glowing on the ground.~
+~
+5 g 0 0 0 an 0 0 0 0 0 0 0
+6 1 6 7 100 100 0 4 0 0 0 0 0 0 0 0
+4 300 300 0
+Z
+4
+E
+staff golden~
+This ornate staff has been crafted of golden metal. Magical runes have been 
+etched all over the surface, you can feel their power.
+~
+A
+18 2 300
+A
+19 2 300
+#8546
+golden robe~
+a sun robe~
+A fine golden robe is crumpled here on the floor.~
+~
+9 agkl 0 0 0 ak 0 0 0 0 0 0 0
+20 1 100 0 100 100 0 19 0 0 0 0 0 0 0 0
+6 150 75 0
+Z
+4
+E
+golden robe~
+These golden robes glow with the light of the sun.  You can almost feel their 
+magical power.
+~
+A
+40 5 75
+#8547
+red cape~
+a red cape~
+An elegant red cape, with a silver crescent moon, lies here on the ground.~
+~
+9 g 0 0 0 ac 0 0 0 0 0 0 0
+0 1 100 0 100 100 0 21 0 0 0 0 0 0 0 0
+5 250 125 0
+Z
+4
+E
+red cape~
+This red cape, has been emblazoned with a silver crescent moon, the symbol of 
+the High Elven Regent.
+~
+A
+40 2 125
+#8548
+red boots~
+a pair of red boots~
+A pair of elegant red boots sits here.~
+~
+11 0 0 0 0 ag 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+4 200 75 0
+Z
+4
+E
+red boots~
+These red riding boots are of excellent craftsmenship. They appear otherwise 
+quite ordinary.
+~
+A
+2 1 75
+#8549
+black beret~
+a black beret~
+A foppish black beret lies here on the ground.~
+~
+11 0 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+1 10 5 0
+Z
+4
+#8550
+black blood red robe~
+a blood robe~
+A black and blood red robe lies here crumpled on the ground.~
+~
+9 gjl 0 0 0 ak 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 21 0 0 0 0 0 0 0 0
+6 400 200 0
+Z
+4
+E
+black blood red robes~
+These black robes appear to have been soaked in the fresh blood of many 
+slaughtered innocents. Probably happened that way.
+~
+A
+40 3 200
+A
+38 2 0
+#8551
+black dragon helm~
+a dragon helm~
+A black helm, shaped in the form of a dragon's head, sits here staring at you.~
+~
+9 agjl 0 0 0 ae 0 0 0 0 0 0 0
+0 1 100 0 100 100 0 23 0 0 0 0 0 0 0 0
+10 300 150 0
+Z
+4
+E
+black dragon helm~
+This hideous helm transforms the wearers face into that of a evil looking 
+dragon. Two small glowing red eyes peer at you from the eyeslits.
+~
+A
+38 3 150
+#8552
+black mithril breastplate~
+a black mithril breastplate~
+A breastplate, fashioned of blackened mithril, lies here on the ground.~
+~
+9 gjlmort 0 0 0 ad 0 0 0 0 0 0 0
+60 2 0 7 100 100 40 0 0 0 0 0 0 0 0 0
+45 800 400 0
+Z
+4
+E
+black mithril breastplate~
+This breastplate has been carved in the form of a muscular male torso. It is 
+very thick and strong.
+~
+#8553
+black mithril skirt~
+a black mithril skirt~
+A skirt, fashioned of blackened mithril, lies here on the ground.~
+~
+9 gjl 0 0 0 al 0 0 0 0 0 0 0
+0 1 100 0 100 100 0 7 0 0 0 0 0 0 0 0
+15 60 30 0
+Z
+4
+E
+black mithril skirt~
+This skirt has been fahsioned of blackened mithril. It provides excellent 
+cover to a users groin and thighs.
+~
+A
+38 3 30
+#8554
+black mithril greaves~
+a pair of black mithril greaves~
+A pair of blackened mithril greaves lies here on the ground.~
+~
+9 gjl 0 0 0 af 0 0 0 0 0 0 0
+0 1 100 0 100 100 0 7 0 0 0 0 0 0 0 0
+15 600 30 0
+Z
+4
+E
+black mithril greaves~
+This set of greaves, fashioned of blackened mithril, provides excellent 
+protection to a wearer's legs.
+~
+A
+39 1 30
+#8555
+mithril bracers~
+black mithril bracers~
+A pair of blackened mithril bracers lies here on the ground.~
+~
+9 gjlmr 0 0 0 ai 0 0 0 0 0 0 0
+0 1 100 0 100 100 0 0 0 0 0 0 0 0 0 0
+6 30 15 0
+Z
+4
+E
+black mithril bracers~
+This pair of bracers, fashioned of blackened mithril, provides excellent 
+protection to a wearer's arms.
+~
+#8556
+gem studded gauntlets~
+a pair of bloodstone gauntlets~
+A pair of gem studded gauntlets lies here on the ground.~
+~
+9 gjl 0 0 0 ah 0 0 0 0 0 0 0
+0 1 100 0 100 100 0 0 0 0 0 0 0 0 0 0
+8 2000 500 0
+Z
+4
+E
+gem studded gauntlets~
+These gauntlets, fashioned of blackened mithril, have been studded with a 
+large number of bloodstones.
+~
+A
+1 1 500
+A
+5 1 500
+#8557
+sword blade flame~
+a dragon blade~
+A large sword, its blade a tongue of writhing flame, lies here burning on the 
+ground.~
+~
+5 egjlmnoqr 0 0 0 an 0 0 0 0 0 0 0
+15 1 8 3 100 100 0 7 0 0 0 0 0 0 0 0
+4 4000 400 0
+Z
+4
+E
+sword flame~
+This hilt of this sword has been crafted in the image of a dragon's head and 
+mouth, while the blade appears to be a gout of flame that the dragon has 
+expelled. You can feel the emanations of heat exuded by the writhing blade 
+of flame.
+~
+A
+18 2 400
+A
+19 2 400
+#8558
+blue leather gloves~
+a pair of blue leather gloves~
+A pair of strong blue leather gloves rests here on the ground.~
+~
+11 0 0 0 0 ah 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+3 35 17 0
+Z
+4
+E
+blue leather gloves~
+These blue leather gloves are of the finest craftsmenship. They are extremely 
+rugged but don't hinder the wearer in any way. They have been trimmed in black 
+and gold.
+~
+#8559
+blue leather boots~
+a pair of blue leather boots~
+A pair of strong blue leather boots sits here.~
+~
+11 0 0 0 0 ag 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+5 50 25 0
+Z
+4
+E
+blue leather boots~
+These blue leather boots are of the finest craftsmenship. They are extremely 
+rugged but don't hinder the wearer in any way. They have been trimmed in black 
+and gold.
+~
+#8560
+strange glass clear sword katana~
+a crystal katana~
+A strange sword, with a blade as clear as glass, rests here on the ground.~
+~
+5 agmnor 0 0 0 an 0 0 0 0 0 0 0
+15 1 8 3 100 100 0 38 0 0 0 0 0 0 0 0
+8 250 250 0
+Z
+4
+E
+strange glass clear sword~
+This strange sword looks like nothing you've ever seen before. The blade, which 
+appears to be made of some clear crystal, arcs in a gentle three foot curve to 
+a chisel like point. The blade is one sided. The haft can accomidate one or two 
+hands. It looks neither like a Nelven nor Oharian weapon.
+~
+A
+18 2 250
+A
+19 2 250
+#8561
+slender silver gold wand~
+a slender wand~
+A slender wand, fashioned of silver and gold, lies here on the ground.~
+~
+3 ag 0 0 0 ao 0 0 0 0 0 0 0
+9 50 20 26 100 100 0 0 0 0 0 0 0 0 0 0
+2 30000 15000 0
+Z
+4
+E
+slender silver gold wand~
+This wand has been fashioned of silver and has been topped with an ornate 
+golden head shaped like a very small flower. You can just make out the word 
+'Tsyros' etched in the handle.
+~
+#8562
+snow white robe~
+a robe of ice~
+A snow white robe, with a strange collar, lies here on the ground.~
+~
+9 agk 0 0 0 ak 0 0 0 0 0 0 0
+20 1 100 0 100 100 0 19 0 0 0 0 0 0 0 0
+6 300 150 0
+Z
+4
+E
+snow white robes~
+These snow white robes appear to be actually made of snow. The collar and cuffs 
+appear to have ice encrusted all over them.  Oddly they are very warm to the 
+touch.  
+~
+A
+38 3 150
+#8563
+long two headed spear~
+a flight lance~
+A long two headed spear, rests here on the ground.~
+~
+5 dgmnos 0 0 0 an 0 0 0 0 0 0 0
+5 2 6 11 100 100 0 7 0 0 0 0 0 0 0 0
+10 300 300 0
+Z
+4
+E
+long two headed spear~
+This strange spear has blades on both ends, one end is sharply barbed while the 
+other is a sleek stiletto point. Both points are made of some shiny bluish 
+metal. The shaft appears to be made of some unknown strong but very light 
+substance.  This is truly a formidable weapon.
+~
+A
+18 2 300
+A
+19 2 300
+#8564
+book spellbook~
+the spellbook of High Wizard Ancalimon~
+A book with elven and magical writing has been left here.~
+~
+29 g 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 16 0 0 0 0 0 0 0 0
+10 1500 100 0
+Z
+4
+S
+7 2
+S
+1 2
+S
+5 2
+S
+39 4
+S
+29 4
+S
+19 4
+S
+26 6
+S
+30 6
+S
+2 10
+S
+53 4
+S
+52 14
+S
+31 6
+S
+74 12
+S
+75 14
+S
+76 16
+$~

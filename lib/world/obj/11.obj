@@ -1,0 +1,715 @@
+#1100
+body shield large~
+a body shield~
+There is a large, wooden body shield lying here.~
+~
+9 0 0 0 0 aj 0 0 0 0 0 0 0
+10 4 100 1 100 100 5 12 0 0 0 0 0 0 0 0
+15 10 5 0
+Z
+4
+E
+body shield large~
+The body shield is a massive shield reaching nearly from chin to toe. It must
+be firmly fastened to the forearm and the shield hand must grip it at all 
+times. It provides a great deal of protection, but is rather heavy.
+~
+#1101
+mail chain hauberk~
+a chain mail hauberk~
+There is a chain mail hauberk with a red raven on the chest laying here.~
+~
+9 mor 0 0 0 ad 0 0 0 0 0 0 0
+50 2 2 5 100 100 30 9 0 0 0 0 0 0 0 0
+40 85 42 0
+Z
+4
+E
+mail chain hauberk~
+This armor is made of interlocking metal rings. It is always worn with a
+layer of quilted fabric padding underneath to prevent painful chafing and
+to cushion the impact of blows. Several layers of mail are normally hung
+over vital areas. The links yield easily to blows, absorbing some of the 
+shock. Most of the weight of this armor is carried on the shoulders and it
+is uncomfortable to wear for long periods of time.
+The suit of chain mail is of fair quality, with a large red raven upon the
+chest. It is the symbol of the Red Ravens of the the Empire, a mercenary
+group that helps the Purple Dragons defend the Helmlands.
+~
+#1102
+full suit plate mail battle armor~
+a full suit of plate mail~
+A beautiful suit of full plate mail has been left here.~
+~
+9 mort 0 0 0 ad 0 0 0 0 0 0 0
+10 3 8 0 100 100 5 9 0 0 0 0 0 0 0 0
+70 7000 3500 0
+Z
+4
+#1104
+splint mail~
+a suit of splint mail~
+A suit of splint mail armor has been left here.~
+~
+9 mort 0 0 0 ad 0 0 0 0 0 0 0
+60 2 0 7 100 100 40 5 0 0 0 0 0 0 0 0
+40 80 40 0
+Z
+4
+#1107
+thin leather breastplate breast plate~
+a thin leather breast plate~
+A thin leather breast plate has been left here.~
+~
+9 0 0 0 0 ad 0 0 0 0 0 0 0
+20 1 6 0 100 100 10 6 0 0 0 0 0 0 0 0
+12 7 3 0
+Z
+4
+#1108
+crown golden~
+a golden crown~
+A magnificently jewelled golden crown has been left here.~
+~
+11 gk 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 4 0 0 0 0 0 0 0 0
+40 12000 10000 0
+Z
+4
+A
+12 30
+A
+3 1
+#1109
+mail chain hauberk~
+a guard's chain mail hauberk~
+A chain mail hauberk lies on the floor~
+~
+9 mor 0 0 0 ad 0 0 0 0 0 0 0
+50 2 2 5 100 100 30 9 0 0 0 0 0 0 0 0
+40 85 42 0
+Z
+4
+#1110
+black robe robes tsalari~
+a black, rune covered robe~
+A long, black robe, stitched with runes has been left here neatly.~
+~
+9 gjlnopqrtuv 0 0 0 adk 0 0 0 0 0 0 0
+10 1 8 0 100 100 5 17 0 0 0 0 0 0 0 0
+2 500 250 0
+Z
+4
+A
+17 -15
+#1113
+suit plate mail~
+a suit of plate mail~
+A suit of plate mail is lying on the ground.~
+~
+9 mort 0 0 0 ad 0 0 0 0 0 0 0
+70 3 0 7 100 100 40 9 0 0 0 0 0 0 0 0
+50 600 300 0
+Z
+4
+E
+suit plate mail~
+This armor is a combination of chain or brigandine with metal plates 
+(curiass, epaulettes, elbow guards, gauntlets, tassets, and greaves) 
+covering vital areas. The weight is distributed over the whole body and 
+the whole thing is held together by buckles and straps. This is the most 
+common form of heavy armor.
+~
+#1114
+chain mail shirt~
+a chain mail shirt~
+A chain mail shirt is lying on the ground.~
+~
+9 mor 0 0 0 ad 0 0 0 0 0 0 0
+50 2 2 5 100 100 30 9 0 0 0 0 0 0 0 0
+40 75 37 0
+Z
+4
+#1115
+shield~
+a shield~
+A small wooden shield is lying on the ground.~
+~
+9 0 0 0 0 aj 0 0 0 0 0 0 0
+10 4 100 1 100 100 5 12 0 0 0 0 0 0 0 0
+10 3 1 0
+Z
+4
+#1116
+jacket soft leather~
+a leather jacket~
+A soft leather jacket is lying on the ground.~
+~
+9 0 0 0 0 ad 0 0 0 0 0 0 0
+20 1 6 0 100 100 10 6 0 0 0 0 0 0 0 0
+15 5 2 0
+Z
+4
+#1117
+jacket leather studded~
+a studded leather jacket~
+A studded leather jacket is lying on the ground.~
+~
+9 mr 0 0 0 ad 0 0 0 0 0 0 0
+30 1 5 1 100 100 15 6 0 0 0 0 0 0 0 0
+25 20 10 0
+Z
+4
+#1118
+jacket scale mail~
+a scale mail jacket~
+A scale mail jacket is lying on the ground.~
+~
+9 mor 0 0 0 ad 0 0 0 0 0 0 0
+40 2 4 2 100 100 20 6 0 0 0 0 0 0 0 0
+40 120 60 0
+Z
+4
+#1119
+bronze platemail~
+a suit of bronze platemail~
+A suit of bronze platemail is lying on the ground.~
+~
+9 mort 0 0 0 ad 0 0 0 0 0 0 0
+60 2 0 7 100 100 40 29 0 0 0 0 0 0 0 0
+45 400 200 0
+Z
+4
+#1120
+gauntlets bronze~
+a pair of bronze gauntlets~
+A pair of bronze gauntlets is lying on the ground.~
+~
+9 0 0 0 0 ah 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 29 0 0 0 0 0 0 0 0
+5 10 5 0
+Z
+4
+#1122
+helmet bronze~
+a bronze helmet~
+A bronze helmet is lying on the ground.~
+~
+9 0 0 0 0 ae 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 29 0 0 0 0 0 0 0 0
+5 10 5 0
+Z
+4
+#1124
+leggings bronze~
+a pair of bronze leggings~
+A pair of bronze leggings is lying on the ground.~
+~
+9 0 0 0 0 af 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 29 0 0 0 0 0 0 0 0
+5 10 5 0
+Z
+4
+#1126
+sleeves bronze~
+a pair of bronze sleeves~
+A pair of bronze sleeves is lying on the ground.~
+~
+9 0 0 0 0 ai 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 29 0 0 0 0 0 0 0 0
+5 10 5 0
+Z
+4
+#1127
+sleeves leather~
+a pair of leather sleeves~
+A pair of leather sleeves is lying on the ground.~
+~
+9 0 0 0 0 ai 0 0 0 0 0 0 0
+50 2 100 0 100 100 0 6 0 0 0 0 0 0 0 0
+4 5 2 0
+Z
+4
+#1144
+suit full plate mail platemail~
+a suit of full plate mail~
+A suit of full plate mail armor has been left here.~
+~
+9 0 0 0 0 ad 0 0 0 0 0 0 0
+100 3 8 0 100 100 5 9 0 0 0 0 0 0 0 0
+70 7000 3500 0
+Z
+4
+#1145
+suit field plate mail platemail ancient elven~
+a suit of ancient elven field plate mail~
+A suit of ancient elven field plate mail lie here unattended.~
+~
+9 mort 0 0 0 ad 0 0 0 0 0 0 0
+70 3 0 7 100 100 40 9 0 0 0 0 0 0 0 0
+60 9000 4500 0
+Z
+4
+#1146
+robe endin~
+the robe of a Jlker Wizard~
+A robe, belonging to a Jlker Wizard of Toran lies at your feet.~
+~
+9 agiknopqrtuv 0 0 0 ak 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 24 0 0 0 0 0 0 0 0
+3 100 50 0
+Z
+4
+E
+robe~
+The robe is a deep purple, the color of Toran. It has gold trim, and you 
+notice two gold bands on the end of each sleeve.
+~
+A
+17 5
+#1147
+helmet seige pointed~
+a pointed seige helmet~
+A pointed seige helmet lies here.~
+~
+9 0 0 0 0 ae 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 5 0 0 0 0 0 0 0 0
+10 30 15 0
+Z
+4
+E
+helmet seige pointed~
+The seige helmet is made of steel and is unscratched. There 
+are studs running up the forehead and a metal strip covering 
+the nose of the wearer.
+~
+#1148
+chain mail cowl chainmail~
+a chain mail cowl~
+A chain mail cowl has been left here.~
+~
+9 0 0 0 0 ae 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 9 0 0 0 0 0 0 0 0
+6 20 10 0
+Z
+4
+E
+chain mail cowl chainmail~
+A head covering made of interlocked steel rings attatched to a 
+cloth padding. The face is left open under the wearers chin.
+~
+#1149
+cap druidity~
+the cap of druidity~
+The fabeled cap of druidity lies here.~
+~
+9 0 0 0 0 ae 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 6 0 0 0 0 0 0 0 0
+1 1 1 0
+Z
+4
+A
+7 5
+#1154
+vest leather elven~
+a leather elven vest~
+A leather vest, made for an elf, lies here.~
+~
+9 0 0 0 0 ado 0 0 0 0 0 0 0
+20 1 6 0 100 100 10 6 0 0 0 0 0 0 0 0
+12 10 5 0
+Z
+4
+#1155
+shield large~
+a large round shield~
+A large round shield has been left here.~
+~
+9 0 0 0 0 aj 0 0 0 0 0 0 0
+10 4 100 1 100 100 5 12 0 0 0 0 0 0 0 0
+15 30 15 0
+Z
+4
+E
+shield large~
+It is made from hard wood that has been reinforced with heavy iron bands.
+~
+#1156
+buff coat~
+a buff coat~
+A buff coat has been left here.~
+~
+9 0 0 0 0 ad 0 0 0 0 0 0 0
+30 1 5 1 100 100 15 6 0 0 0 0 0 0 0 0
+5 35 2 0
+Z
+4
+E
+buff coat~
+This was the standard piece of armor throughtout the period. It offered no
+protection against firearms, but neither did heavier armor. Yet it was
+sufficient to stop an arrow or turn aside a clumsy sword slash. The buff
+coat was supple, not hardened leather.
+~
+#1157
+vest leather elven~
+a leather elven vest~
+A leather vest, made for an elf, lies here.~
+~
+9 0 0 0 0 ado 0 0 0 0 0 0 0
+20 1 6 0 100 100 10 6 0 0 0 0 0 0 0 0
+12 10 2 0
+Z
+4
+#1158
+breast plate~
+a breast plate~
+A breast plate is lying on the ground.~
+~
+9 mort 0 0 0 ad 0 0 0 0 0 0 0
+70 3 0 7 100 100 40 9 0 0 0 0 0 0 0 0
+50 600 300 0
+Z
+4
+#1160
+visor black knight's~
+a black knight's visor~
+A black visor sits here.~
+~
+9 0 0 0 0 ae 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 7 0 0 0 0 0 0 0 0
+5 40 20 0
+Z
+4
+E
+visor black knight's~
+A visor that protects the head, good for warriors.
+~
+#1161
+plate dwarven mail~
+a suit of dwarven plate mail~
+There is dwarven plate mail lying here.~
+~
+9 mort 0 0 0 ad 0 0 0 0 0 0 0
+60 2 0 7 100 100 40 7 0 0 0 0 0 0 0 0
+80 2500 1300 0
+Z
+4
+#1162
+helmet~
+a dwarven helmet~
+A dwarven helmet is here.~
+~
+9 0 0 0 0 ae 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 7 0 0 0 0 0 0 0 0
+4 30 15 0
+Z
+4
+#1163
+gold ring~
+a golden dwarven ring~
+A golden dwarven ring is lying here.~
+~
+11 0 0 0 0 ab 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 4 0 0 0 0 0 0 0 0
+1 1000 500 0
+Z
+4
+A
+18 2
+A
+19 2
+#1164
+gloves~
+a pair of dwarven gloves~
+A pair of thick dwarven gloves lay here.~
+~
+9 0 0 0 0 ah 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 7 0 0 0 0 0 0 0 0
+2 1000 500 0
+Z
+4
+A
+5 2
+#1165
+shirt scale~
+a black dragon scale shirt~
+A black dragon scale shirt has been left here.~
+~
+9 g 0 0 0 ad 0 0 0 0 0 0 0
+40 2 4 2 100 100 20 23 0 0 0 0 0 0 0 0
+10 150 75 0
+Z
+4
+E
+shirt scale~
+It is a sleeveless shirt made from big, black dragon scales joined with silver
+threads.  Its inside has been made from the soft skin on the dragon's belly,
+making it very comfortable to wear.
+~
+#1166
+skirt scale~
+a black dragon scale skirt~
+A black dragon scale skirt has been left here.~
+~
+9 g 0 0 0 af 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 23 0 0 0 0 0 0 0 0
+8 100 50 0
+Z
+4
+E
+skirt scale~
+It is a short skirt made from big, black dragon scales joined with silver
+threads.  Its inside has been made from the soft skin on the dragon's belly,
+making it very comfortable to wear.
+~
+#1169
+symbol holy timoth shield~
+a holy shield of Timoth~
+A shield, embossed with the holy symbol of Timoth lies here.~
+~
+9 0 0 0 0 aj 0 0 0 0 0 0 0
+10 4 100 1 100 100 5 12 0 0 0 0 0 0 0 0
+15 10 5 0
+Z
+4
+E
+shield symbol~
+The shield displays a large, golden leaf on the front side. Although used
+in combat, the symbol seems unmared.
+~
+#1170
+symbol holy timoth shield~
+a holy shield of Timoth~
+A shield, embossed with the holy symbol of Timoth lies here.~
+~
+9 0 0 0 0 aj 0 0 0 0 0 0 0
+20 4 100 2 100 100 15 12 0 0 0 0 0 0 0 0
+14 100 100 0
+Z
+4
+E
+shield symbol~
+The shield displays a large, golden leaf on the front side. Although used
+in combat, the symbol seems unmared.
+~
+A
+12 25
+#1173
+skull white~
+a strange white skull~
+A strange white skull lies on the floor looking at you.~
+~
+12 gh 0 0 0 ae 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+30 0 0 0
+Z
+4
+#1174
+gauntlets muddy~
+a pair of muddy gauntlets~
+A pair of muddy gauntlets have been thrown away here.~
+~
+9 g 0 0 0 ah 0 0 0 0 0 0 0
+50 2 100 0 100 100 0 6 0 0 0 0 0 0 0 0
+6 80 40 0
+Z
+4
+E
+muddy gauntlets~
+These gauntlets are muddy indeed, however they look very effective.
+~
+A
+1 1
+#1175
+boots muddy~
+a pair of muddy boots~
+A pair of muddy boots has been dropped here.~
+~
+9 g 0 0 0 ag 0 0 0 0 0 0 0
+50 2 100 0 100 100 0 6 0 0 0 0 0 0 0 0
+4 65 32 0
+Z
+4
+A
+14 15
+#1176
+plate breast silvery PalItem~
+a silvery breast plate~
+There is a silvery breast plate on the floor.~
+~
+9 giklmort 0 0 0 ad 0 0 0 0 0 0 0
+10 3 8 0 100 100 5 11 0 0 0 0 0 0 0 0
+110 25000 13000 0
+Z
+4
+E
+plate breast~
+On the breast plate you notice a relief of large rose. The metal seems to be 
+some kind of silver or platinum.
+~
+#1177
+greaves silvery PalItem~
+a pair of silvery greaves~
+On the floor you see a shiny pair of greaves.~
+~
+9 giklmort 0 0 0 af 0 0 0 0 0 0 0
+20 1 100 0 100 100 0 11 0 0 0 0 0 0 0 0
+40 12500 8000 0
+Z
+4
+E
+greaves~
+They seem to be made from silver or platinum. You see the outline of a rose.
+~
+#1178
+gauntlets silvery PalItem~
+a pair of silvery gauntlets~
+You can see a pair of gauntlets on the floor.~
+~
+9 giklmort 0 0 0 ah 0 0 0 0 0 0 0
+20 1 100 0 100 100 0 11 0 0 0 0 0 0 0 0
+24 9000 8000 0
+Z
+4
+E
+gauntlets~
+They seem to be made from silver or platinum. You see the outline of a rose.
+~
+A
+18 1
+#1179
+helmet~
+a silvery helmet~
+A silvery helmet lies here.~
+~
+9 giklmort 0 0 0 ae 0 0 0 0 0 0 0
+20 1 100 0 100 100 0 11 0 0 0 0 0 0 0 0
+40 12000 13000 0
+Z
+4
+E
+helmet~
+The helmet is made from platinum or silver and has a white fur brush attached
+on the top.
+~
+A
+4 2
+A
+12 15
+#1180
+shield rose~
+a shield of the rose~
+A shield of the rose rests on the floor.~
+~
+9 giklmort 0 0 0 aj 0 0 0 0 0 0 0
+20 4 100 2 100 100 15 11 0 0 0 0 0 0 0 0
+60 15000 9000 0
+Z
+4
+E
+shield~
+On the shield you see a clear and perfect painting of a dark red rose on a 
+white background.  You also notice the inscription :'Pax Est Sanctuum'.
+~
+A
+2 1
+#1181
+boots~
+a pair of silvery plated boots~
+A pair of heavy plated boots stand on the floor.~
+~
+9 giklmort 0 0 0 ag 0 0 0 0 0 0 0
+20 1 100 0 100 100 0 11 0 0 0 0 0 0 0 0
+40 2000 9000 0
+Z
+4
+E
+boots~
+The boots are made from a silvery metal.
+~
+A
+14 20
+#1182
+plates arm~
+a pair of silvery arm plates~
+On the floor you see some arm plates.~
+~
+9 giklmort 0 0 0 ai 0 0 0 0 0 0 0
+20 1 100 0 100 100 0 11 0 0 0 0 0 0 0 0
+40 12500 8000 0
+Z
+4
+E
+plates arm~
+They seem to be made from silver or platinum. You see the outline of a rose.
+~
+#1183
+rosfanth~
+a rosfanth-sreklas~
+A rosfanth-sreklas lies here, aparrently lost by some Elite Guardsman.~
+~
+9 mor 0 0 0 ad 0 0 0 0 0 0 0
+50 2 2 5 100 100 30 9 0 0 0 0 0 0 0 0
+35 500 50 0
+Z
+4
+E
+rosfanth~
+  A rosfanth-sreklas (pronounced ROASE-FANTH ZRIK-LAHSS) is a part of the
+uniform of the Ohari Elite and National Guards. It is an inverted metal
+triangle, similar to bronze plate but lighter, that slips over the head and
+covers the front and back at the same time. Those of the National Guard are
+red, and those of the Elite Guard are dark purple.
+~
+#1189
+suit hide~
+a suit of hide armor~
+A suit of hide armor has been left here.~
+~
+9 mo 0 0 0 ad 0 0 0 0 0 0 0
+40 2 4 2 100 100 20 6 0 0 0 0 0 0 0 0
+30 10 0 0
+Z
+4
+#1190
+leather breastplate~
+a @YHoly@n leather breast plate~
+A @Yholy@n leather breast plate has been left here.~
+~
+9 gkmo 0 0 0 ad 0 0 0 0 0 0 0
+30 1 5 1 100 100 15 6 0 0 0 0 0 0 0 0
+12 25 0 0
+Z
+4
+#1191
+chain mail shirt~
+a large chain mail shirt~
+A large chain mail shirt is lying here on the ground.~
+~
+9 mor 0 0 0 ad 0 0 0 0 0 0 0
+50 2 2 5 100 100 30 9 0 0 0 0 0 0 0 0
+40 75 0 0
+Z
+4
+#1192
+guards guard's armor~
+a suit of Imperial Guard's armor~
+A strange looking suit of bone white Imperial Guard's armor has been left here.~
+~
+9 dfmoqr 0 0 0 ad 0 0 0 0 0 0 0
+80 3 1 6 100 100 35 0 0 0 0 0 0 0 0 0
+30 0 2500 0
+Z
+4
+#1193
+purple robe~
+a purple, Imperial Guard's robe~
+The robe of an Imperial Guard has been left here.~
+~
+9 q 0 0 0 ak 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 0 0 0 0 0 0 0 0 0
+2 50 5 0
+Z
+4
+$~

@@ -1,0 +1,104 @@
+CircleMUD v3.0 Shop File~
+#1483~
+1303
+1307
+1308
+1361
+1362
+1402
+1403
+-1
+1.0
+1.0
+5
+9
+17
+19
+8
+-1
+%s Sorry, I've never heard of that!~
+%s Show me that again, I didn't see it!~
+%s Sorry, I have no need for that.~
+%s A very fine item, indeed, I regret I cannot afford it.~
+%s You had better do your math again.~
+%s That'll be %d coins.~
+%s I can give you %d coins for that.~
+1
+0
+1402
+0
+1483
+-1
+0
+28
+0
+0
+#1484~
+7007
+7008
+7009
+7010
+7011
+3052
+3050
+3108
+3104
+3031
+3031
+1400
+-1
+1.0
+1.0
+1
+2
+3
+4
+8
+10
+17
+19
+-1
+%s Sorry, I've never heard of that!~
+%s Show me that again, I didn't see it!~
+%s Sorry, I have no need for that.~
+%s A very fine item, indeed, I regret I cannot afford it.~
+%s You had better do your math again.~
+%s That'll be %d coins.~
+%s I can give you %d coins for that.~
+1
+0
+1403
+0
+1484
+-1
+0
+28
+0
+0
+#1488~
+1251
+1289
+-1
+1.0
+1.0
+9
+8
+-1
+%s Sorry, I've never heard of that!~
+%s Show me that again, I didn't see it!~
+%s Sorry, I have no need for that.~
+%s A very fine item, indeed, I regret I cannot afford it.~
+%s You had better do your math again.~
+%s That'll be %d coins.~
+%s I can give you %d coins for that.~
+1
+0
+1401
+0
+1488
+-1
+0
+28
+0
+0
+$~

@@ -1,0 +1,156 @@
+#7001
+symbol holy unholy~
+a holy symbol of Marduk Kurios~
+A vile holy symbol of the evil Marduk Kurios has been put here.~
+~
+11 ijl 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 22 0 0 0 0 0 0 0 0
+1 10 2 0
+Z
+4
+#7002
+symbol holy~
+a holy symbol of Hek~
+A holy symbol of the benovelant Hek has been put here.~
+~
+1 akt 0 0 0 aco 0 0 0 0 0 0 0
+0 0 -1 0 100 100 0 22 0 0 0 0 0 0 0 0
+1 100 20 0
+Z
+4
+E
+holy symbol~
+The holy symbol of Hek is a round black stone with white specals, it is bordered
+by thin peace of silver.
+~
+A
+12 15
+A
+17 -10
+#7003
+symbol holy unholy~
+a holy symbol of Marduk Kurios~
+A vile holy symbol of the evil Marduk Kurios has been put here.~
+~
+11 jl 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 22 0 0 0 0 0 0 0 0
+1 100 20 0
+Z
+4
+A
+12 15
+A
+19 2
+#7004
+symbol holy~
+a holy symbol of Hek~
+A holy symbol of the benovelant Hek has been put here.~
+~
+12 ik 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 8 0 0 0 0 0 0 0 0
+1 10 2 0
+Z
+4
+E
+holy~
+The holy symbol of Hek is a round black stone with white specals, it is bordered
+by a thin peace of silver.
+~
+A
+26 1
+#7005
+symbol holy shield~
+a holy shield of Timoth~
+A shield, embossed with the holy symbol of Timoth lies here.~
+~
+9 0 0 0 0 aj 0 0 0 0 0 0 0
+10 4 100 1 100 100 5 12 0 0 0 0 0 0 0 0
+15 10 2 0
+Z
+4
+E
+shield symbol~
+The shield displays a large, golden leaf on the front side. Although used
+in combat, the symbol seems unmared.
+~
+#7006
+symbol holy shield~
+a holy shield of Timoth~
+A shield, embossed with the holy symbol of Timoth lies here.~
+~
+9 0 0 0 0 aj 0 0 0 0 0 0 0
+30 4 100 3 100 100 30 12 0 0 0 0 0 0 0 0
+14 100 20 0
+Z
+4
+E
+shield symbol~
+The shield displays a large, golden leaf on the front side. Although used
+in combat, the symbol seems unmared.
+~
+#7007
+potion black bless~
+a black potion of bless~
+A small vial of black liquid has been left here.~
+~
+10 jl 0 0 0 a 0 0 0 0 0 0 0
+26 3 1 46 100 100 0 13 0 0 0 0 0 0 0 0
+1 1500 100 0
+Z
+4
+#7008
+potion black removing blind~
+a black potion of removing blindness~
+A small vial of black liquid has been left here.~
+~
+10 jl 0 0 0 a 0 0 0 0 0 0 0
+26 14 46 -1 100 100 0 13 0 0 0 0 0 0 0 0
+1 1000 0 0
+Z
+4
+#7009
+potion black removing poison~
+a black potion of removing poison~
+A small vial of black liquid has been left here.~
+~
+10 jl 0 0 0 a 0 0 0 0 0 0 0
+26 43 46 -1 100 100 0 13 0 0 0 0 0 0 0 0
+1 2500 0 0
+Z
+4
+#7010
+potion black curing~
+a black potion of curing~
+A small vial of black liquid has been left here.~
+~
+10 gjl 0 0 0 a 0 0 0 0 0 0 0
+26 16 16 46 100 100 0 13 0 0 0 0 0 0 0 0
+1 200 0 0
+Z
+4
+#7011
+symbol holy unholy ~
+a holy symbol of Marduk~
+A vile holy symbol of the evil Marduk has been put here.~
+~
+11 jl 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 22 0 0 0 0 0 0 0 0
+1 10 0 0
+Z
+4
+#7090
+waybread food~
+a waybread~
+Some waybread has been put here.~
+~
+19 0 0 0 0 a 0 0 0 0 0 0 0
+24 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+1 5 1 0
+Z
+4
+E
+waybread~
+The waybread is the traditional feed of elves when travelling, they call it
+lembas.  It is said to refresh the weary traveler greatly.
+~
+$~

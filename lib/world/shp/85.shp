@@ -1,0 +1,57 @@
+CircleMUD v3.0 Shop File~
+#8500~
+-1
+2.0
+0.75
+-1
+%s I don't sell those you moron.~
+%s You don't have one of those you idiot.~
+%s I don't want that crap.~
+%s blah blah blah~
+%s You don't have enough money you damned fool.~
+%s %d gold, now hand it over!~
+%s blah blah blah~
+0
+0
+8509
+0
+8519
+-1
+6
+12
+13
+18
+#8501~
+1300
+1301
+1302
+1303
+1304
+1305
+-1
+1.5
+0.75
+2
+3
+4
+10
+-1
+%s So sorry, but it seems I don't have any of those.~
+%s Excuse me, hate to bother you, but you don't have any of those.~
+%s Oh so sorry, but I don't deal in that sort of thing.~
+%s Oh my! I can't afford such a wonderful thing.~
+%s Excuse me, but you don't have enough money for this, could I place a hold on it for you?~
+%s Um, that will be %d gold, thank you.~
+%s Here you go, %d shiny new coins for you.~
+1
+1
+8510
+0
+8515
+-1
+8
+12
+13
+17
+$~
+

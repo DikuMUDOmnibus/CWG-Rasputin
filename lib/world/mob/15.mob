@@ -1,0 +1,157 @@
+#1500
+warhost~
+the Warhost~
+A member of Hek's Warhost is hovering above the ground here.
+~
+Dressed in pure white, the Warhost glows with an natural beauty. She 
+floats around gently on wings of golden light. You feel at peace looking 
+upon her.
+~
+cdeilno 0 0 0 egilx 0 0 0 1000 E
+12 20 0 12d8+48 2d6+5
+0 12000 22 3
+9 9 2
+E
+#1501
+angela warhost~
+the Warhost Angela~
+One of the greatest Warhost hunters, Angela is hovering above the ground here.
+~
+Dressed in pure white, Angela glows with an natural beauty. She 
+floats around gently on wings of golden light. You feel at peace looking 
+upon her. Feared by many, she is one of the greatest hunters in Hek's Warhost.
+~
+cdeilno 0 0 0 egilx 0 0 0 1000 E
+16 20 0 16d8+64 2d6+7
+0 24000 22 3
+9 9 2
+E
+#1502
+surielle warhost~
+the Warhost Surielle~
+A member of Hek's Warhost is hovering above the ground here.
+~
+Dressed in pure white, Surielle glows with an natural beauty. She 
+floats around gently on wings of golden light. You feel at peace looking 
+upon her.
+~
+bcdilno 0 0 0 egilx 0 0 0 1000 E
+14 20 0 14d8+56 2d6+5
+0 18000 22 3
+9 9 2
+E
+#1503
+kaun yin warhost~
+the Warhost Kaun Yin~
+A member of Hek's Warhost is hovering above the ground here.
+~
+Dressed in pure white, Kaun Yin glows with an natural beauty. She 
+floats around gently on wings of golden light. You feel at peace looking 
+upon her.
+~
+bcdilno 0 0 0 egilx 0 0 0 1000 E
+14 20 0 14d8+56 2d6+5
+0 18000 22 3
+9 9 2
+E
+#1504
+anahita warhost~
+the Warhost Anahita~
+A member of Hek's Warhost is hovering above the ground here.
+~
+Dressed in pure white, Anahita glows with an natural beauty. She 
+floats around gently on wings of golden light. You feel at peace looking 
+upon her.
+~
+cdilno 0 0 0 egilx 0 0 0 1000 E
+14 20 0 14d8+56 2d6+5
+0 18000 22 3
+9 9 2
+E
+#1505
+saranyu warhost~
+the Warhost Saranyu~
+A member of Hek's Warhost is hovering above the ground here.
+~
+Dressed in pure white, Saranyu glows with an natural beauty. She 
+floats around gently on wings of golden light. You feel at peace looking 
+upon her.
+~
+cdilno 0 0 0 egilx 0 0 0 1000 E
+14 20 0 14d8+56 2d6+5
+0 18000 22 3
+9 9 2
+E
+#1506
+gabrielle warhost~
+Director Gabrielle~
+The Director of Toranian Affairs, Gabrielle, sits here behind her desk shuffling papers.
+~
+Dressed in very odd clothing, Gabrielle is wearing a dark gray jacket unlike 
+any you have seen before. It has buttons on the front and long sleeves. She is 
+also wearing a matching skirt that is much too short!
+~
+cdilno 0 0 0 egilx 0 0 0 1000 E
+18 20 0 18d8+72 2d6+5
+0 30000 22 3
+9 9 2
+E
+#1507
+callindra warhost~
+the Warhost Callindra~
+A member of Hek's Warhost is hovering above the ground here.
+~
+Dressed in pure white, Callindra glows with an natural beauty. She 
+floats around gently on wings of golden light. You feel at peace looking 
+upon her. She seems younger than any of the other Warhost you have seen.
+~
+cdilno 0 0 0 egilx 0 0 0 1000 E
+8 20 0 8d8+32 1d6+3
+0 2920 22 3
+9 9 2
+E
+#1508
+avengelyne warhost~
+the Warhost Avengelyne~
+One of the greatest Warhost hunters, Avengelyne is hovering above the ground here.
+~
+Dressed in pure white, Avengelyne glows with an natural beauty. She 
+floats around gently on wings of golden light. You feel at peace looking 
+upon her. Feared by many, she is one of the greatest hunters in Hek's Warhost.
+~
+bcdilno 0 0 0 egilx 0 0 0 1000 E
+16 20 0 16d8+64 2d6+7
+0 24000 22 3
+9 9 2
+E
+#1509
+sandalphon dragon~
+a dreaded @GSandalphon dragon@n~
+A very large @Gdragon@n lies curled up before you.
+~
+With a length of nearly 40', the beast before you is surely one of the most 
+powerful creatures you have ever seen. Rumored to be among the most savage 
+dragons in existence, you had best steer clear of the dragons of Sandalphon IV.
+~
+dfl 0 0 0 elx 0 0 0 -1000 E
+20 20 -5 20d12+100 2d6+11
+0 36000 11 3
+5 5 1
+Str: 21
+E
+#1510
+lord melchidael demon~
+the demon Lord, Melchidael~
+Sitting here, pondering his vengeance is the demon Lord Malchidael.
+~
+Dressed in strange, shinny black armor, Lord Malchidael is rather imposing. 
+Standing nearly 8' tall, the horns projecting from his forehead look to be 
+about 2' long an curved toward the back of his head. Unlike many other demons 
+you have seen, Lord Malchidael has no wings.
+~
+cdjlno 0 0 0 elq 0 0 0 -1000 E
+20 20 -8 20d8+60 2d6+4
+0 36000 10 0
+6 6 1
+E
+$

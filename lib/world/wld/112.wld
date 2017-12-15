@@ -1,0 +1,336 @@
+#11200
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+
+This zone lies in the north west portion of the King's Forest. It is a small
+mining village that is incomplete. 
+
+This zone links up with zone: 36.
+~
+112 dk 0 0 0 0
+S
+#11201
+Farm Land~
+   You are on a road leading through farmland.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 -1 11223 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 11202 20 20 0 0 0 0 65535 65535
+S
+#11202
+Farm Land~
+   You are on a road leading through farmland.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 -1 11201 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 11203 20 20 0 0 0 0 65535 65535
+S
+#11203
+Espar~
+   You are standing on the outskirts of the small town of Espar.
+There are small houses to the east and west of you.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 -1 11202 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 11205 20 20 0 0 0 0 65535 65535
+S
+#11205
+Espar~
+   You are in the small town of Espar.  To the south you see more of the
+town and to the east you see a church of Hek.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 -1 11203 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 11206 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 11210 20 20 0 0 0 0 65535 65535
+S
+#11206
+Church of Hek in Espar~
+   You are in the entryway of the Church of Hek in Espar.  To the east is a
+hallway leading to the teaching area for the clerics of Hek.  To the
+south is the chapel for the rest of the followers of Hek.
+~
+112 d 0 0 0 0
+D1
+~
+~
+0 -1 11207 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11205 20 20 0 0 0 0 65535 65535
+S
+#11207
+Espar's Clerical Guildroom~
+This a little furnished room.  About all there is here is a few
+wooden pews, but they seem well used.
+~
+112 d 0 0 0 0
+D3
+~
+~
+0 -1 11206 20 20 0 0 0 0 65535 65535
+S
+#11208
+Pub~
+This is a small, almost private, pub.  The bar is very clean unlike the
+floor, but what do you expect in a farming town.
+~
+112 d 0 0 0 0
+D1
+~
+~
+0 -1 11209 20 20 0 0 0 0 65535 65535
+S
+#11209
+Entrance to the Pub/Inn of Espar~
+This is the entrance way to the small pub/inn of Espar. You can see a long
+bar to the west.
+~
+112 d 0 0 0 0
+D1
+~
+~
+0 -1 11210 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11208 20 20 0 0 0 0 65535 65535
+S
+#11210
+Espar~
+You are in the small town of Espar.  To the east is the general store
+and to the west is the inn/pub.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 -1 11205 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 11211 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 11218 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11209 20 20 0 0 0 0 65535 65535
+S
+#11211
+General Store~
+This is a small farm store.  Not much of interest for the adventurer.
+~
+112 d 0 0 0 0
+D3
+~
+~
+0 -1 11210 20 20 0 0 0 0 65535 65535
+S
+#11212
+Mine shaft~
+There is much gold here.
+~
+112 d 0 0 0 0
+D1
+~
+~
+0 -1 11213 20 20 0 0 0 0 65535 65535
+S
+#11213
+Mine Shaft~
+You are in a dark mine shaft.
+~
+112 d 0 0 0 0
+D1
+~
+~
+0 -1 11214 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11212 20 20 0 0 0 0 65535 65535
+S
+#11214
+Entrance to the Mines of Naga~
+You stand before a mineshaft in the side of a mountain.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 -1 11215 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11213 20 20 0 0 0 0 65535 65535
+S
+#11215
+Mine Road~
+You stand on a road leading to the mountains.  There is a sign here.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 -1 11216 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11214 20 20 0 0 0 0 65535 65535
+E
+sign~
+
+   The Sign says: No unauthorized personal.  USE OF DEADLY FORCE AUTHROIZED.
+
+~
+S
+#11216
+East - West road~
+You are on a road leading to and from the mountains and Espar.  There are small
+farms around the road.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 -1 11217 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11215 20 20 0 0 0 0 65535 65535
+S
+#11217
+East - West road~
+You are on and east - west road leading to the mountains.  There are small farms
+around the road.
+~
+112 0 0 0 0 0
+D1
+~
+~
+0 -1 11218 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11216 20 20 0 0 0 0 65535 65535
+S
+#11218
+City Square of Espar~
+You are in the City Square of Espar.  There are many buildings to the
+north including what looks like a church.  To the west there is a road
+that looks like wagons have traveled.  To the south is the market.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 -1 11210 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 11219 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 11217 20 20 0 0 0 0 65535 65535
+S
+#11219
+Market~
+You are overwhelmed by the smell of fresh fruit and vegetables. This is the
+open air farmers market of Espar.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 -1 11218 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 11220 20 20 0 0 0 0 65535 65535
+S
+#11220
+Farm Land~
+   You are on a road leading through farmland.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 -1 11219 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 11221 20 20 0 0 0 0 65535 65535
+S
+#11221
+Farm Land~
+   You are on a road leading through farmland.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 -1 11220 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 11222 20 20 0 0 0 0 65535 65535
+S
+#11222
+Farm Land~
+   You are on a road leading through farmland.
+~
+112 0 0 0 0 0
+D0
+~
+~
+0 -1 11221 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 3650 20 20 0 0 0 0 65535 65535
+S
+#11223
+Farm Land~
+   You are on a road leading through farmland.
+~
+112 0 0 0 0 0
+D2
+~
+~
+0 -1 11201 20 20 0 0 0 0 65535 65535
+S
+$~

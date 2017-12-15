@@ -1,0 +1,305 @@
+#11903
+guard ranger~
+a @granger guard@n~
+A @granger guard@n is standing here, waiting for troublemakers to come along.
+~
+This is one of the @granger guards@n of the Kings Forest. He's adorned
+in some of the finest armor that Toran has to offer.
+~
+abcdl 0 0 0 de 0 0 0 1000 E
+10 20 2 10d10+20 1d2+1
+132 6000 0 3
+8 8 1
+E
+#11904
+ranger~
+a @granger@n~
+A @granger@n of the King's Forest is standing here.
+~
+This is one of the many @grangers@n that patrol the cities of the King's Forest
+keeping the peace. He's wearing armor provided to the Ranger's Guild by the
+@Clocal militias@n.
+~
+cdil 0 0 0 0 0 0 0 1000 E
+8 20 3 8d10+16 1d2+1
+49 2920 0 3
+8 8 1
+E
+#11905
+ranger young~
+a @gyoung ranger@n~
+A @gyoung ranger@n is standing here, watching for trouble.
+~
+This is one of the @gyounger rangers@n of the King's @gforest@n. He's looks like he's
+learning quite a bit about being a good ranger.
+~
+cdil 0 0 0 0 0 0 0 1000 E
+6 20 4 6d8+12 1d2+1
+21 1260 0 3
+8 8 1
+E
+#11906
+ranger trainee young~
+a @gyoung ranger trainee@n~
+A @gyoung ranger trainee@n is standing here.
+~
+This is one of the newer recruits to the Ranger Guild. He looks like he's about
+17 or 18. He's not too well equipped and looks like he has a lot of learning to
+do.
+~
+cdil 0 0 0 0 0 0 0 1000 E
+3 20 7 3d8+6 1d2+1
+13 360 0 5
+8 8 1
+E
+#11907
+citizen woeld~
+a @ycitizen of @BWoeld@n~
+A @ycitizen of @BWoeld@n is standing here.
+~
+This is one of the commoners of Woeld. There sure seems to be alot of them
+around for such a small town.
+~
+cd 0 0 0 0 0 0 0 1000 E
+3 20 9 3d6+6 1d2+1
+3 360 0 3
+8 8 1
+E
+#11908
+citizen woeld~
+a @ycitizen of @BWoeld@n~
+A @ycitizen of @BWoeld@n is standing here.
+~
+This is one of the commoners of Woeld. There sure seems to be alot of them
+around for such a small town.
+~
+cd 0 0 0 0 0 0 0 1000 E
+3 20 9 3d6+9 1d2+0
+3 360 0 3
+8 8 2
+E
+#11909
+street sweeper streetsweeper~
+a @bstreet sweeper@n~
+A @bstreet sweeper@n is walking around here, picking up some trash.
+~
+This poor man is obviously @munderpaid@n for such a hard job that he has. He's 
+dressed in rags and smells like he hasn't had a bath in months!
+~
+cd 0 0 0 0 0 0 0 1000 E
+1 20 9 1d6+0 1d2+0
+6 100 0 3
+8 8 1
+E
+#11910
+dwarf bum beggar poor~
+a @cpoor beggar@n~
+A @cpoor beggar@n is sitting here, asking for alms.     
+~
+This is one of the smelliest, dirtiest people you've ever seen in your life! May 
+@YHek@n have mercy on his soul!
+~
+cd 0 0 0 l 0 0 0 500 E
+1 20 9 1d4+0 1d2+0
+0 100 3 3
+6 6 1
+E
+#11911
+purple recruit young~
+a @Myoung purple dragon@n recruit~
+A @Myoung purple dragon@n recruit is standing here.
+~
+This is one of the newer recruits to the @MPurple Dragon@n militia in Woeld. He's 
+dressed in standard @MPurple Dragon@n issue clothing and is not armed. Boy does he 
+have alot to learn!
+~
+cdil 0 0 0 0 0 0 0 1000 E
+2 20 8 2d10+4 1d2+1
+11 190 0 3
+8 8 1
+E
+#11912
+/a~
+a @MPurple Dragon@n Trainer~
+A @MPurple Dragon@n Trainer is standing here.
+~
+This is one of the trainers at the local @MPurple Dragon@n training facility. He
+looks as if he's fought many battles in his lifetime. Better not mess with him.
+~
+cdil 0 0 0 0 0 0 0 1000 E
+10 20 0 10d10+9 1d2+2
+25 6000 0 3
+8 8 1
+E
+#11913
+trainer~
+an @yanimal trainer@n~
+An animal trainer is standing here, ready to @gtame@n the @Rwild@n beasts.
+~
+With all the wild animals here, it's necessary to keep people like this to stop
+the animals from killing you.
+~
+cd 0 0 0 0 0 0 0 1000 E
+6 20 4 6d8+12 1d2+2
+8 1260 0 3
+8 8 1
+E
+#11914
+lion wild~
+a @ywild lion@n~
+A @ywild lion@n is circling here, looking VERY hungry.
+~
+This lion looks like he could rip you apart in seconds!
+~
+bdh 0 0 0 l 0 0 0 -350 E
+5 20 6 5d8+10 1d4+5
+0 360 8 3
+8 8 0
+E
+#11915
+elephant wild~
+a @cwild elephant@n~
+A wild elephant is sitting here, seeming quite content with his size.
+~
+This elephant seems like he would have no problems sitting on you if you get 
+him mad enough.
+~
+bd 0 0 0 l 0 0 0 0 E
+11 20 5 11d8+55 2d6+10
+0 810 8 3
+6 6 0
+E
+#11916
+entertainer~
+an @Centertainer@n~
+An @Centertainer@n is standing here, practicing for the next big show.
+~
+This is one of the local people who happens to have a talent for entertaining.
+He's a volunteer for the town of Woeld whenever there's a festival going on.
+~
+bd 0 0 0 0 0 0 0 1000 E
+3 20 7 3d6+6 1d2+2
+3 360 0 3
+8 8 1
+E
+#11917
+citizen helper~
+a @ycitizen of @BWoeld@n~
+A @ycitizen of @BWoeld@n is here, busy setting up for the next festival.
+~
+This is one of the commoners of Woeld. Most of the people in the town 
+offer their services when festivals are near.
+~
+bcd 0 0 0 0 0 0 0 1000 E
+2 20 8 2d6+4 1d2+1
+2 190 0 3
+8 8 1
+E
+#11918
+gailswind rendal vendor armor~
+@mRendal Gailswind@n~
+@mRendal Gailswind@n is standing here, ready to strike a bargain.
+~
+This is one of the best armor makers in Toran. He's well known across 
+the land for his craftsmanship.
+~
+bds 0 0 0 0 0 0 0 1000 E
+8 20 3 8d8+16 1d2+2
+500 10 0 3
+8 8 1
+E
+#11919
+bleth geldor vendor weapon~
+@mGeldor Bleth@n~
+@mGeldor Bleth@n is standing here, ready to do business.
+~
+Geldor is a member of one of the richest families in Toran, and it 
+shows. He's dressed in fine @Csilk@n clothes and wearing plenty of expensive 
+@Yjewelry@n. This is obviously a pass time for him, since his family controls 
+the largest merchant company in the land.
+~
+bds 0 0 0 0 0 0 0 1000 E
+7 20 4 7d6+14 1d2+0
+120 10 0 3
+8 8 1
+E
+#11920
+heron alec~
+@mAlec Heron@n~
+@mAlec Heron@n is here mixing drinks and mumbling about the good ol days.
+~
+Alec is a middle aged man who appears to have plenty of energy. He looks 
+almost angry, but you feel that he'll serve you with a smile. 
+~
+bd 0 0 0 0 0 0 0 1000 E
+9 20 3 9d6+18 1d2+1
+50 10 0 3
+8 8 1
+E
+#11921
+feril lorin~
+@mLorin Feril@n~
+@mLorin Feril@n is standing here with a smile, ready to assist you.
+~
+Lorin is an attractive young female in her early 20's. Although she seems 
+to be new in the merchant business, it looks like she knows what she's doing.
+~
+bds 0 0 0 0 0 0 0 1000 E
+4 20 6 4d6+8 1d2+0
+75 10 0 3
+8 8 2
+E
+#11924
+secretary~
+the secretary~
+The secretary is sitting here, shuffling through some paperwork.
+~
+This is @YLord Thiombur's@n private secretary. It looks like she's hard at 
+work organizing the towns affairs and records.
+~
+bcd 0 0 0 0 0 0 0 1000 E
+3 20 7 3d6+6 1d2+1
+13 360 0 3
+8 8 2
+E
+#11925
+stonegiant ildul receptionist~
+@mIldul Stonegiant@n~
+@mIldul Stonegiant@n is standing here, ready to help you.
+~
+This is @GLord Thiombur's@n number one aide and assistant in maintaining the 
+@RBlushing Maiden Inn@n. He's young and looks like he's full of energy.
+~
+abds 0 0 0 0 0 0 0 1000 E
+3 20 7 3d6+6 1d2+1
+6 10 0 3
+8 8 1
+E
+#11926
+thentias gandor guild guildmaster~
+@BThentias Gandor@n~
+@BThentias Gandor@n, your guildmaster, is standing here.
+~
+This man looks like he's one of the most experienced @grangers@n in Toran. 
+He's dressed in a @ybrown@n robe that looks almost as old as he is.
+~
+abdils 0 0 0 0 0 0 0 1000 E
+10 20 2 10d8+20 1d2+1
+37 10 0 3
+8 8 1
+E
+#11927
+melec guard guild~
+@yMelec@n the guard~
+@yMelec@n the guard is standing here, guarding the entrance to the guild.
+~
+Melec has been assigned to guard the entrance to the rangers guild. He's 
+looks like he may be in his mid 40's, but you'd still better not mess 
+with him. He looks as if he could take you out with one blow.
+~
+abdenopqr 0 0 0 e 0 0 0 1000 E
+30 20 -10 30d10+90 1d2+5
+29 10 0 3
+8 8 1
+E
+$

@@ -1,0 +1,567 @@
+#2100
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+  
+This zone is attached to the Manticore Hills, and is the remains of a complex
+used by the Tsalari for demon summoning. 
+  
+This zone links up with zone: 24
+~
+21 dk 0 0 0 0
+E
+runes rune walls wall~
+The faded runes are almost impossible to see, let alone understand or identify.
+~
+S
+#2101
+Begining of a long tunnel~
+   You stand at one end of a long tunnel, stretching west. It is dark and 
+dusty here. To the south you can see sunlight and smell fresh air.
+~
+21 ad 0 0 0 1
+D2
+~
+~
+0 -1 2129 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2104 20 20 0 0 0 0 65535 65535
+S
+#2102
+Narrow tunnel~
+   This narrow tunnel runs into a dead end to the south, and also west into
+a small cavern. You can feel a slight breeze blowing from the north.
+~
+21 ad 0 0 0 1
+D0
+~
+~
+0 -1 2129 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2103 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2107 20 20 0 0 0 0 65535 65535
+S
+#2103
+Dead end~
+   The narrow tunnel ends here abruptly. There are a few more of the faint runes
+on the walls here.
+~
+21 ad 0 0 0 1
+D0
+~
+~
+0 -1 2102 20 20 0 0 0 0 65535 65535
+E
+rune runes wall walls~
+The runes here are faint, but you can make most of them out. They seem familiar
+yet you cannot place them.
+~
+S
+#2104
+Tunnel crossroads~
+   The long tunnel branches north here into what appears to be a cave, and also
+conintues west and east. The dust here is very thick and the walls very rough.
+~
+21 ad 0 0 0 1
+D0
+~
+~
+0 -1 2105 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2101 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2106 20 20 0 0 0 0 65535 65535
+S
+#2105
+Before a large cave~
+   To the north you can hear the growls of some animal, apparently, in it's 
+home. The cave, you can see, is quite large. There are some runes enscribed
+on the western wall.
+~
+21 ad 0 0 0 1
+D0
+~
+~
+0 -1 2119 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2104 20 20 0 0 0 0 65535 65535
+E
+rune runes wall western~
+The runes on the wall are etched into the stone, in a very dark redish brown 
+perhaps in the blood of some animal. They look familiar somehow...
+~
+S
+#2106
+Before a rank cave~
+   You can see a cave to the west, and can smell something quite foul wafting
+from inside. It almost smells like rotting meat, but not quite. The tunnel
+runes east-west here.
+~
+21 ad 0 0 0 1
+D1
+~
+~
+0 -1 2104 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2111 20 20 0 0 0 0 65535 65535
+S
+#2107
+A small alcove~
+   Standing in a small alcove, you can see exits in all directions. However, 
+to the north the exit is blocked by a large, rune enscribe door. You can see
+faint tracks in the dust here.
+~
+21 ad 0 0 0 1
+D0
+~
+door north n~
+2 2100 2109 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2102 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2108 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2110 20 20 0 0 0 0 65535 65535
+E
+track tracks dust~
+They are very confusing. Unlike anything you've ever seen...you begin to wonder
+if some of the rumors you've heard about this place are true.
+~
+E
+rune runes door~
+The runes are burned into the wood of the door. You can still smell a faint
+amount of burnt wood as you examine them. The rune structure is very complex
+and nearly impossible for you to understand. 
+~
+S
+#2108
+A sloping tunnel~
+   The tunnel heads south there, and slopes downward quite abit. 
+~
+21 ad 0 0 0 1
+D0
+~
+~
+0 -1 2107 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2116 20 20 0 0 0 0 65535 65535
+S
+#2109
+Aghazstamn's lab~
+   This large room is filled with all manner of equipment. There are bottle,
+beakers, burners, and flaming braziers here. There is also an extensive looking
+bookshelf along the north wall. Carved about three inches into the stone floor
+is some sort of summoning circle.
+~
+21 d 0 0 0 1
+D2
+~
+door south s~
+2 2100 2107 20 20 0 0 0 0 65535 65535
+E
+floor circle carved summoning~
+The circle carved into the floor is edged by carved runes, and there appears to
+be dried blood in the center of it.
+~
+E
+book books bookshelf~
+The bookshelf is lined with many, many books. You catch of few of the titles:
+The History of the Azagthoth, Aghazstamn's Summoning, and Binding the Servents
+of Evil. Scarry stuff!
+~
+E
+beaker beakers bottle bottles burner burners brazier braziers~
+All of this equipment seems to be in use for something you do not understand.
+It's all bubbling, burping, and flaming.
+~
+S
+#2110
+End of the tunnel~
+   You stand in another dead end tunnel.
+~
+21 ad 0 0 0 1
+D1
+~
+~
+0 -1 2107 20 20 0 0 0 0 65535 65535
+S
+#2111
+A rank cave~
+   You cannot pinpoint from where, exactly, the stench is comming from, but it
+is enought to nearly make you sick. The cave extends around you in all 
+directions.
+~
+21 ad 0 0 0 1
+D0
+~
+~
+0 -1 2114 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2106 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2112 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2113 20 20 0 0 0 0 65535 65535
+S
+#2112
+The bedchamber of...something~
+   Here there is a large pile of straw, and a few tattered blankets covered in
+a strange slime. It really stinks.
+~
+21 ad 0 0 0 1
+D0
+~
+~
+0 -1 2111 20 20 0 0 0 0 65535 65535
+S
+#2113
+More cave~
+   There are several strange tracks in this part of the cave, and the walls
+are covered with various, semi-dryed slimes.
+~
+21 ad 0 0 0 1
+D0
+~
+~
+0 -1 2115 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2111 20 20 0 0 0 0 65535 65535
+S
+#2114
+In the cave~
+   More of the bizzare cave, there is some junk scattered around this part of
+the cave, a few rotting boards on the north wall, a chewed up blanket, and a
+few skulls.
+~
+21 ad 0 0 0 1
+D0
+~
+board boards north n~
+1 -1 2124 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2111 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2115 20 20 0 0 0 0 65535 65535
+E
+skull skulls~
+They look like humanoid skulls!
+~
+E
+blanket~
+The chewed up blanket is covered in more of that semi-dry slime.
+~
+E
+board boards~
+The boards are just setting against the wall, partly rotted and chewed on.
+~
+S
+#2115
+Back of the cave~
+   This part of the cave looks unused and is very dusty. Perhaps a safe place
+to rest for abit?
+~
+21 acd 0 0 0 1
+D1
+~
+~
+0 -1 2114 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2113 20 20 0 0 0 0 65535 65535
+S
+#2116
+A steep, sloping tunnel~
+   The tunnel turns west here, and slopes even more...you can feel yourself 
+decending into the earth.
+~
+21 ad 0 0 0 1
+D0
+~
+~
+0 -1 2108 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2117 20 20 0 0 0 0 65535 65535
+S
+#2117
+At a hole~
+   There is a fair sized hole in the floor here, with a small metal ladder 
+decending into the floor.
+~
+21 cd 0 0 0 1
+D1
+~
+~
+0 -1 2116 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 2118 20 20 0 0 0 0 65535 65535
+S
+#2118
+The second level~
+   There is a ladder here, leading up through a hole in the floor. You have
+a very bad feeling about this place.
+~
+21 ad 0 0 0 1
+D4
+~
+~
+0 -1 2117 20 20 0 0 0 0 65535 65535
+S
+#2119
+In a large cave~
+   To the east you can hear something thrashing around, perhaps it's eating
+it's dinner. The cave itself is pretty dull, and dusty.
+~
+21 ad 0 0 0 1
+D0
+~
+~
+0 -1 2121 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2120 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2105 20 20 0 0 0 0 65535 65535
+S
+#2120
+A bedchamber~
+   Something, obviously, enjoys it's meals here. There are half eaten carcasses
+littering the floor there, and various juices and fluids make the floor slick.
+~
+21 ad 0 0 0 1
+D0
+~
+~
+0 -1 2122 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2119 20 20 0 0 0 0 65535 65535
+S
+#2121
+A small bedchamber~
+   Here is another bedchamber, perhaps for a smaller creature that shares the
+cave with the others. There is a tapestry on the west wall.
+~
+21 ad 0 0 0 1
+D1
+~
+~
+0 -1 2122 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2119 20 20 0 0 0 0 65535 65535
+D3
+~
+tapestry west w~
+1 -1 2123 20 20 0 0 0 0 65535 65535
+E
+tapestry~
+It is quite worn, and stained, but you can make out what appears to be a Tsalari
+summoning some kind of demon.
+~
+S
+#2122
+Cave corner~
+   The cave here is pretty barren looking, and there are a few rotting corpses
+of small animals here.
+~
+21 ad 0 0 0 1
+D2
+~
+~
+0 -1 2120 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2121 20 20 0 0 0 0 65535 65535
+S
+#2123
+Tiny tunnel~
+   This tunnel is very narrow, and makes you very uncomfortable to travel in
+it. You can squeeze to the west. There is a tapestry on the eastern wall.
+~
+21 ad 0 0 0 1
+D1
+~
+tapestry east e~
+1 -1 2121 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2124 20 20 0 0 0 0 65535 65535
+E
+tapestry~
+It is quite worn, and stained, but you can make out what appears to be a
+Tsalari
+summoning some kind of demon.
+~
+S
+#2124
+Strange, smooth cavern~
+   This cavern looks like it does not belong here at all. It is very clean, and
+the torches on the walls provided light. The walls are very smooth cut stone, 
+with runes set into them. You can feel a strong evil presence nearby.
+~
+21 d 0 0 0 1
+D0
+~
+~
+0 -1 2125 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2123 20 20 0 0 0 0 65535 65535
+D2
+~
+board boards south s~
+1 -1 2114 20 20 0 0 0 0 65535 65535
+S
+#2125
+Before a strange altar~
+   This room is also light by torches on the walls, and contains only one
+object of interest. There is a huge stone altar along the north wall, it is
+covered in dust and cobwebs...and dried blood of sacrifices.
+~
+21 d 0 0 0 1
+D1
+~
+~
+0 -1 2127 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2124 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2126 20 20 0 0 0 0 65535 65535
+E
+altar~
+The huge stone altar looks as if it hasn't been used in many, many years. 
+It is covered with very intricate runes, both in detail, and the actual 
+rune magic structure. There is a thick layer of dust and dried blood on it.
+~
+S
+#2126
+Summoning chamber~
+   You stand in a very small, smoothed walled chamber. Set into the floor, 
+almost taking up the entire floor, is s summoning circle inlayed with runes.
+~
+21 d 0 0 0 1
+D1
+~
+~
+0 -1 2125 20 20 0 0 0 0 65535 65535
+S
+#2127
+Guardian's chamber~
+   As you enter this room, you aren't quite sure that you are still in the
+same place as you were a minute ago. Things feel very...unreal here. The
+walls are almost entirely covered with strange runes carved and painted in
+various ways.
+~
+21 d 0 0 0 1
+D3
+~
+~
+0 -1 2125 20 20 0 0 0 0 65535 65535
+S
+#2128
+The shoot~
+This is a silly room.
+~
+21 cd 0 0 0 1
+D0
+~
+~
+0 -1 2103 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2120 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2112 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2110 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 2113 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 2101 20 20 0 0 0 0 65535 65535
+S
+#2129
+Entrance to the caves~
+   You are standing inside a ancient series of tunnles and caves. There is alot
+of thick dust, and cobwebs everywhere. Along some of the walls you can see 
+faded runes, which you cannot fully make out.
+~
+21 acd 0 0 0 1
+D0
+~
+~
+0 -1 2101 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2424 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2102 20 20 0 0 0 0 65535 65535
+E
+runes rune walls wall~
+The faded runes are almost impossible to see, let alone understand or identify.
+~
+S
+$~

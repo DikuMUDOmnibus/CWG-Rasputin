@@ -1,0 +1,75 @@
+#400
+demon odd~
+the Loncaric demon~
+A demon from the wastelands of Loncar is here, looking for trouble.
+~
+Standing only 2 1/2 feet, the Loncaric demon looks like he is 
+composed of 12" claws, 5" teeth, and a few eyes. The thing 
+before you looks...dangerous.
+~
+bdflno 0 0 0 elqu 0 0 0 -1000 E
+6 20 2 6d8+6 1d4+0
+0 6000 10 3
+8 8 1
+BareHandAttack: 9
+Str: 18
+E
+#401
+follower~
+a follower of Dziak~
+A follower of the Ways of Dziak is here.
+~
+Dziak and her followers come from the wastelands of Loncar. The follower 
+is deeply tanned, and has black hair.
+~
+adl 0 0 0 el 0 0 0 -1000 E
+9 20 8 9d8+0 1d4+0
+30 9000 0 0
+8 8 1
+E
+#402
+neophyte follower wimpy~
+a neophyte of Dziak~
+A neophyte follower of the Ways of Dziak is here, reading.
+~
+A young bookworm, you wonder how far he will advance in his studies into 
+the Ways of Dziak.
+~
+adl 0 0 0 e 0 0 0 -1000 E
+7 20 8 7d8+0 1d3+0
+25 4200 0 0
+6 6 1
+E
+#403
+priest cleric~
+an unholy priest of Lammashta~
+Dressed in black robes, the Priest of Lammashta looks quite evil.
+~
+A follower of the Ways of Dziak, the priest prays for the favor of the 
+dark Goddess Lammashta. Under his robes, he could be anyone. Even the guy 
+that lives next door to you!
+~
+abdlm 0 0 0 eg 0 0 0 -1000 E
+11 20 9 11d8+11 1d4+0
+35 15000 0 1
+8 8 1
+Str: 17
+E
+#404
+dziak high priestess demon~
+Dziak, demon-priestess of Lammashta~
+Flying around the room on leathery wings, the demon Dziak glares at you!
+~
+Over 7' in length, the demon-priestess Dziak is dressed
+in light battle armor, designed around her winged, four-armed 
+body. Otherwise, she appears quite attractive with large, 
+round eyes and a cute smile. Too bad she wants to kill you and 
+tear out your soul.
+~
+adeflnop 0 0 0 elx 0 0 0 -1000 E
+16 20 4 16d8+32 4d4+1
+50 54000 10 3
+9 9 2
+Str: 19
+E
+$

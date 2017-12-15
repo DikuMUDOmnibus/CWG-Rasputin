@@ -1,0 +1,32 @@
+#61
+None.~
+The King's Forest (More)~
+6100 6199 24 2
+M 0 6100 2 6116 0 	(the vicious warg)
+M 0 6100 2 6116 0 	(the vicious warg)
+M 0 6101 2 6127 0 	(the ferocious warg)
+M 0 6101 2 6127 0 	(the ferocious warg)
+M 0 6102 4 6108 0 	(the large, grey wolf)
+M 0 6102 4 6108 0 	(the large, grey wolf)
+M 0 6102 4 6104 2 	(the large, grey wolf)
+M 0 6102 4 6104 2 	(the large, grey wolf)
+M 0 6103 4 6112 0 	(the large, black wolf)
+M 0 6103 4 6112 0 	(the large, black wolf)
+M 0 6103 4 6118 2 	(the large, black wolf)
+M 0 6103 4 6118 2 	(the large, black wolf)
+M 0 6112 1 6143 0 	(a @ggreen dragon@n)
+M 0 6113 3 6133 0 	(the huge, poisonous spider)
+M 0 6113 3 6133 2 	(the huge, poisonous spider)
+M 0 6113 3 6133 3 	(the huge, poisonous spider)
+M 0 6114 1 6134 0 	(the Queen Spider)
+M 0 6116 1 6155 0 	(the Elder Druid)
+E 1 1370 1 16 0 	(the Scythe of the Heirophant)
+D 1 6152 1 1 0 	(The circle of trees)
+D 1 6153 3 1 0 	(Inside the great tree)
+O 0 6102 1 6103 0 	(a colossal tree)
+O 0 6106 4 6104 0 	(a toadstool)
+O 0 6106 4 6111 1 	(a toadstool)
+O 0 6106 4 6122 1 	(a toadstool)
+O 0 6107 4 6119 1 	(a toadstool)
+S
+$

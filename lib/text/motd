@@ -1,0 +1,25 @@
+(lib/text/motd)
+
+      Welcome to
+
+        C    I    R    C    L    E    M    U    D         3    .    1
+                  "We addict players for their own enjoyment."
+                 Created by Jeremy Elson (jelson@@circlemud.org)
+
+CWG-Rasputin Beta!
+
+  We are converting the rules of CircleMUD to follow the SRD published under
+  the Open Gaming License. For more information on the SRD please follow the
+  link: @ghttp://www.wizards.com/default.asp?x=d20/article/srd35@n
+
+  There are a few new commands you'll need to know. 
+
+  @yfeat@n will show you your feats.
+  @ylearn@n will allow you to learn new feats.
+  @ygain@n will allow you to advance a level when you have enough xp.
+  @ytrain@n will allow you to train attributes if you level enough.
+  @ymemorize@n will let you learn spells if you are a spell caster.
+  @yscribe@n will let you write spells on scrolls or spellbooks.
+  @yresurrect@n will let you return from the dead (@rwith xp penalty@n!)
+
+All of these commands are also now documented in the help system.

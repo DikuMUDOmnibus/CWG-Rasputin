@@ -1,0 +1,730 @@
+#2200
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+  
+This zone is near the northern edge of the Empire of Toran. Previously Loncair was thought to lie to the extream south, but could just as
+easily be on the northern edge of the Empire. Also, the shattered
+Castle Killgrave is connected to Tekaro by this zone.
+  
+This zone links up with zones: 23, 55 and 120
+~
+22 dk 0 0 0 0
+S
+#2201
+The Mountain Ride~
+   You stand on the Mountain Ride, the north road to the land of Zanthu.
+You can see the mighty Storm Horn mountains to the north, and
+you are approaching the mountain pass.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2202 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2245 20 20 0 0 0 0 65535 65535
+S
+#2202
+Near the Helmlands~
+   Off to the west are the beginings of the Helmlands, an area of foothills
+surrounding the eastern Strom Horns near Gnoll Pass. During the Time of
+Troubles, these lands erupted in a series of bubbling tar pits. 
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2204 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2203 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2201 20 20 0 0 0 0 65535 65535
+S
+#2203
+East of the Helmlands~
+   Directly to the west, you can see the bubbling quagmire of tar that are
+the Helmlands.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2205 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2202 20 20 0 0 0 0 65535 65535
+S
+#2204
+Near the Helmlands~
+   You are north of the tar pits, known as the Helmlands. The Storm Horns
+grow closer, and the mighty city of Tekaro lies to the south.
+~
+22 0 0 0 0 1
+D1
+~
+~
+0 -1 2205 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2202 20 20 0 0 0 0 65535 65535
+S
+#2205
+The Mountain Ride~
+   You are along the Mountain Ride, running toward the land of Zanthu. 
+You are getting closer to the Storm Horns, and the Gnoll Pass. You begin 
+watching the countryside more closely for raiders and monsters.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2206 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2203 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2204 20 20 0 0 0 0 65535 65535
+S
+#2206
+The Mountain Ride~
+   To the north lies the Storm Horns, and the Castle Kilgrave. The
+surrounding countryside is nothing but small foothills, and grassland.
+Rumors of the destruction of Castle Kilgrave apparently have been
+overstated.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2207 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2205 20 20 0 0 0 0 65535 65535
+S
+#2207
+Before Castle Kilgrave~
+   You stand just before the moat and bridge that allow access to Castle
+Kilgrave. To your east are a few mountains which make up the eastern side
+of the Gnoll Pass.
+~
+22 c 0 0 0 1
+D0
+~
+~
+0 -1 5544 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2209 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2206 20 20 0 0 0 0 65535 65535
+S
+#2209
+The Dragon Trail~
+   The Mountain Ride splits here, north and east. To the north it continues
+toward the land of Zanthu and beyond. 
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2210 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2207 20 20 0 0 0 0 65535 65535
+S
+#2210
+The enterance to the Gnoll Pass~
+   You have entered the Gnoll Pass, known for the Gnolls which inhabit the
+area. The Storm Horns rise up on each side of you.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2211 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2209 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 -1 20 20 0 0 0 0 65535 65535
+S
+#2211
+The Gnoll Pass~
+   On either side tower the Storm Horn mountains. The walls of the pass look
+stable, and you can see small caves along them up and down the pass. Homes
+to Gnolls, you'd guess.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2212 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2210 20 20 0 0 0 0 65535 65535
+S
+#2212
+The Gnoll Pass~
+   You are standing in the Gnoll Pass which leads you through the Storm Horns
+north toward the land of Zanthu and beyond, and south toward Tekaro.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2213 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2211 20 20 0 0 0 0 65535 65535
+S
+#2213
+The Gnoll Pass~
+   The Pass narrows abit here, but travel is still comfortable. There are a
+few loose rocks laying about. You can see many small caves upon the walls
+of the pass, home to Gnolls.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2215 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2214 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2212 20 20 0 0 0 0 65535 65535
+S
+#2214
+End of Gnoll Pass~
+   You are standing in the north end of the Gnoll Pass. To the north lies the
+trail to Zanthu, and to the northwest the Stonebolt Trail that bypasses
+the Vertil ruins and runs north out of the Empire.
+
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2216 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2213 20 20 0 0 0 0 65535 65535
+S
+#2215
+Stonebolt Trail~
+   The trail before you leads you runs northwest directly into the land of 
+Zanthu.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2219 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2216 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2213 20 20 0 0 0 0 65535 65535
+S
+#2216
+Moonsea Ride~
+   To the east, the Moonsea Ride continues towards the Vertil ruins. Also it 
+nears the Thunder Peak mountains.
+~
+22 0 0 0 0 1
+D1
+~
+~
+0 -1 2217 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2214 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2215 20 20 0 0 0 0 65535 65535
+S
+#2217
+The Monnsea Ride~
+   You are following the Moonsea Ride toward the Thundar Peaks. To the northeast
+lies the ruins of Vertil and the southwest Tekaro.
+~
+22 0 0 0 0 1
+D1
+~
+~
+0 -1 2218 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2216 20 20 0 0 0 0 65535 65535
+S
+#2218
+The Moonsea Ride~
+   The Ride runs northeast toward the ruins of Vertil, and southwest to Tekaro. 
+You are  approaching the Thundar Peaks to the east.
+~
+22 0 0 0 0 1
+D1
+~
+~
+0 -1 2244 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2217 20 20 0 0 0 0 65535 65535
+S
+#2219
+The Stonebolt Trail~
+   Here the Trail runs northernly toward the land of Zanthu, and southernly 
+toward Tekaro. Closer to the north, lie the StoneLands. 
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2220 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2215 20 20 0 0 0 0 65535 65535
+S
+#2220
+Southend of the Stonebolt Trail~
+   You see the Stonebolt Trail spread out before you, and to the west you 
+can see the StoneLands, and the edge of the Great Anauroch Desert.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2221 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2219 20 20 0 0 0 0 65535 65535
+S
+#2221
+Along the Stonebolt Trail~
+   The Trail is drawing nearer to the Desertsmouth Mountains to the north,
+and the Anauroch Desert. The land of Zanthu lies far to the north.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2222 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2220 20 20 0 0 0 0 65535 65535
+S
+#2222
+Bend in the Trail~
+   You stand along the Stonebolt Trail, which runs into the land of Zanthu 
+and south toward Tekaro.
+~
+22 0 0 0 0 1
+D1
+~
+~
+0 -1 2223 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2221 20 20 0 0 0 0 65535 65535
+S
+#2223
+Along the Stonebolt Trail~
+   To you west stretch out the Stonelands, and the Goblin Marches futher to
+the west. North lies the land of Zanthu. South lies the Crossroads of the 
+Empire, Tekaro.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2224 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2222 20 20 0 0 0 0 65535 65535
+S
+#2224
+Along the Stonebolt Trail~
+   You stand on the Trail that cuts through the StoneLands, leading to the
+far off land of Zanthu.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2225 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2223 20 20 0 0 0 0 65535 65535
+S
+#2225
+Northern end of the Stonebolt Trail~
+   The farther north you follow the Trail, the closer the Desertsmouth 
+Mountains get. 
+~
+22 0 0 0 0 1
+D1
+~
+~
+0 -1 2226 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2224 20 20 0 0 0 0 65535 65535
+S
+#2226
+Before the Shadow Gap~
+   You are near the Shadow Gap, a pass between the Desertsmouth Mountains
+and the Thunder Peaks. Far to the north lies the land of Zanthu.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2227 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2225 20 20 0 0 0 0 65535 65535
+S
+#2227
+Near the Mountains~
+   On either side of you loom huge mountains. The Desertsmouth Mountains to
+the west, and the Thunder Peaks to the east.
+~
+22 0 0 0 0 1
+D1
+~
+~
+0 -1 2228 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2226 20 20 0 0 0 0 65535 65535
+S
+#2228
+On the road to Shadowdale~
+   The path here leads west and north toward the land of Zanthu. To the east 
+and south lies the ruins of Vertil.
+~
+22 0 0 0 0 1
+D2
+~
+~
+0 -1 2229 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2227 20 20 0 0 0 0 65535 65535
+S
+#2229
+Along the Thunder Peaks~
+   You are along the Thunder Peaks, just south of the mighty mountains. To
+the south, further, lies the ruins of Vertil. 
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2228 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2230 20 20 0 0 0 0 65535 65535
+S
+#2230
+Near the Thunder Peaks~
+   You are following Thunder Road which runs between the Shadow Gap and 
+the Vertil ruins.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2229 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2231 20 20 0 0 0 0 65535 65535
+S
+#2231
+Near the Thunder Peaks~
+   You are following Thunder Road, which runs between the Shadow Gap and
+the Vertil ruins, which you can see to the south. Once a mighty walled city,
+now the victim of Marduk's evil.
+~
+22 0 0 0 0 1
+D2
+~
+~
+0 -1 2232 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2230 20 20 0 0 0 0 65535 65535
+S
+#2232
+Nearing the Thunder Peaks~
+   You are drawing nearer to the ruins of Vertil. You can see it's large,
+scorched, cracked walls surrounding it. You are entering more of a grassland 
+area, comming out of the foothills of the Thunder Peaks.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2231 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2233 20 20 0 0 0 0 65535 65535
+S
+#2233
+An open field~
+   You are standing in an open field, just before the toppeled walls of the
+Vertil ruins. The once mighty gate is to the south, smashed into nothingness
+by the forces of Marduk.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2232 20 20 0 0 0 0 65535 65535
+D2
+~
+gate~
+2 -1 2233 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2234 20 20 0 0 0 0 65535 65535
+S
+#2234
+An open field~
+   The field that extends around the ruins is nothing but grassland. You are
+following the trail around the northwestern corner of the ruins.
+~
+22 0 0 0 0 1
+D1
+~
+~
+0 -1 2233 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2235 20 20 0 0 0 0 65535 65535
+S
+#2235
+North of the ruins~
+   You are along a trail that leads to Tekaro, far to the south. Just south
+of you, however, lie the ruins of Vertil.
+~
+22 0 0 0 0 1
+D1
+~
+~
+0 -1 2234 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2236 20 20 0 0 0 0 65535 65535
+S
+#2236
+East of the ruins~
+   You are just east of the ruins of Vertil. The scorched walls rise up high, 
+and the gate looks the victim of powerful magics. There is a small sign here.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2235 20 20 0 0 0 0 65535 65535
+D1
+~
+gate~
+2 -1 2343 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2237 20 20 0 0 0 0 65535 65535
+E
+sign~
+The sign reads:
+               The Vertil ruins are under construction.
+               --Zizazat Lazuras
+~
+S
+#2237
+South of ruins~
+   You are following the Moonsea Ride, and just to the north lies the ruins of
+Vertil.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2236 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2238 20 20 0 0 0 0 65535 65535
+S
+#2238
+The Moonsea Ride~
+   The Ride here runs next to the Thunder Peaks here, and runs southwest toward
+Tekaro, and norteast toward Zanthu.
+~
+22 0 0 0 0 1
+D1
+~
+~
+0 -1 2237 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2239 20 20 0 0 0 0 65535 65535
+S
+#2239
+Along the Moonsea Ride~
+   You are traveling away from the Thunder Peaks.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2238 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2240 20 20 0 0 0 0 65535 65535
+S
+#2240
+Along the Moonsea Ride~
+   The Ride passes through a grassland area. The Thunder Peaks rise to the 
+northeast.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2239 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2241 20 20 0 0 0 0 65535 65535
+S
+#2241
+Along the Moonsea Ride~
+   The Ride here is almost equally far from the ruins of Vertil as Tekaro. The
+ruins lie to the northeast, and Tekaro to the southwest.
+~
+22 0 0 0 0 1
+D1
+~
+~
+0 -1 2240 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2242 20 20 0 0 0 0 65535 65535
+S
+#2242
+Along the Moonsea Ride~
+   You are standing along a well traveled trail that leads from Tekaro to
+the land of Zanthu.
+~
+22 0 0 0 0 1
+D1
+~
+~
+0 -1 2241 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2243 20 20 0 0 0 0 65535 65535
+S
+#2243
+Along the Moonsea Ride~
+   The path here nears the Storm Horns to the south, and runs toward Zanthu
+toward the northeast. 
+~
+22 0 0 0 0 1
+D1
+~
+~
+0 -1 2242 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2244 20 20 0 0 0 0 65535 65535
+S
+#2244
+Along the Moonsea Ride~
+   The path here runs between the land of Zanthu and Tekaro. It's is a quiet,
+peaceful trail.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2243 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2218 20 20 0 0 0 0 65535 65535
+S
+#2245
+North of Tekaro~
+   To the south, lies the massive gate of Tekaro - major trade city of the 
+Empire. You are upon the Mountain Ride, which runs into Tekaro, and north out
+of the Empire, into unknown lands.
+~
+22 0 0 0 0 1
+D0
+~
+~
+0 -1 2201 20 20 0 0 0 0 65535 65535
+D2
+~
+gate~
+2 12016 12029 20 20 0 0 0 0 65535 65535
+S
+$~

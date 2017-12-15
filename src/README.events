@@ -1,0 +1,77 @@
+Circle 3.0 DG Events Patch 1.1
+==============================
+
+Second release, 9 March 1998
+
+This patch implements events for CircleMUDs.  Events allow you to schedule
+an action in the future.  You first create an event, specifying how long
+from the current time you wish it to occur, an event function, and an event
+object.  When the mud reaches that time, the event function is called with
+the event object passed to it.
+
+This patch is similar to the one by Luis Carvalho <sil12632@ci.uminho.pt>.
+It should be a little more efficient, especially if you heavily use events.
+It probably can even co-exist with the other event patch, though for
+simplicity it is probably best to chose one or the other.
+
+
+Installation
+------------
+   1.  Copy the files queue.h, queue.c, events.c, and events.h to your
+       circle/src directory.
+   2.  In your circle directory (not circle/src), run
+       "patch -p1 < dgevent.patch".
+   3.  Rerun configure (to update your Makefile).
+   4.  Recompile your MUD.
+
+  The patch is based on Circle 3.0 pl12, so you may have to do some patching
+  by hand if you have modified your source or are using it on a different
+  version.  This has only been tested on Linux, but hopefully will work on
+  all systems unmodified.  Please let me know if you have to make any changes
+  for it to work on your system.
+
+
+Using
+-----
+  The document events.doc distributed with the patch provides the details
+  for using events on your MUD.  This patch will do nothing will do nothing
+  by itself; you will have to write some events to make use of it.  For
+  some code which makes use of this, see the DG Regen patch.
+
+
+Possible Problems
+-----------------
+  If the mud fails to compile with this patch due to errors like:
+
+    events.o(.text+0xaf8): undefined reference to `queue_init'
+    comm.o(.text+0x0bc): undefined reference to `event_process'
+
+  then you did not properly update your Makefile, either by rerunning
+  configure, or copying over the Makefile.win to Makefile.  events.o
+  and queue.o must be added to OBJFILES in order for it to compile
+  properly.
+
+
+  If your mud starts crashing when using events, make sure you are not
+  referencing pointers in your event_obj which have been freed.  I generally
+  solve this by attaching a pointer to the event to the object refered to in
+  the event and freeing it when the object is freed (see the events.doc for
+  more information).  Please note that it is not safe to check a list of
+  objects to make sure the pointer still exists; pointers can be reused.
+
+
+Location
+--------
+  The latest version of the dg events patch should be available from the
+  CircleMUD ftp site (ftp://ftp.circlemud.org/pub/CircleMUD/contrib/code).
+  Please note that this is different from the other events patch found there.
+  They are similar in purpose, but are implemented in different ways and
+  by different authors.
+
+
+If you find a problem with this package, please email me.
+
+
+Eric Green
+ejg3@cornell.edu
+http://www.imaxx.net/~thrytis

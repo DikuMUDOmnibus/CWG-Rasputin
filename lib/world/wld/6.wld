@@ -1,0 +1,256 @@
+#600
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+ 
+This zone contains a ruined temple of Marduk. It is presumed to be located
+in the wasteland of Loncair.
+ 
+This zone links up with zone: 29
+~
+6 dk 0 0 0 0
+E
+pillars skeletons~
+The skeletons are held upright by nails driven into the rock. 
+Their weapons and armor are old and corroded beyond use.
+~
+S
+#601
+The pillar walk~
+    This narrow ramp of pillars rises up out of the sand. At 
+its low end, only the broken tops of the columns can be seen, 
+but as the ramp reaches the top, the columns are taller and 
+more complete. 
+~
+6 0 0 0 0 1
+D1
+~
+~
+0 -1 602 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 613 20 20 0 0 0 0 65535 65535
+S
+#602
+The outdoor altar~
+    This large open area is almost completely free of sand. In 
+its center is a stone pool, now dry and clogged with sand.
+~
+6 0 0 0 0 1
+D1
+~
+~
+0 -1 603 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 601 20 20 0 0 0 0 65535 65535
+E
+pictures writings~
+Some of the pictures show people making offerings of flowers 
+and fruit to a scorpion-man deity sitting in front of a 
+flaming pit; others show the scorpion-man battling fearsome 
+monsters. The writing is in an unknown tongue.
+~
+E
+pool~
+You clear away some of the sand on the bottom of the pool, and 
+it reveals a series of pictures and writings.
+~
+S
+#603
+Anteroom~
+    This large room has small piles of rubble and decayed 
+wood. Lining its far wall are three sarcophagi. All of the 
+cases are decorated with writing and pictures. 
+~
+6 d 0 0 0 1
+D1
+~
+~
+0 -1 604 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 602 20 20 0 0 0 0 65535 65535
+E
+writing pictures~
+Though defaced, the picture once showed a scorpion-man 
+surrounded by flames. The writing, tells that these cases 
+contain the bodies of three lesser priests of the temple.
+~
+S
+#604
+Hall of the Dead~
+    To either side of the main staircase is a statue of a 
+crouching sphinx. There are several frescos decorating the 
+walls. At the far end of the hall is a small raised platform.
+~
+6 d 0 0 0 1
+D1
+~
+~
+0 -1 608 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 603 20 20 0 0 0 0 65535 65535
+E
+frescos paintings wall walls~
+They depict scenes of ritual burial, and the afterlife that 
+awaits. Most of them have been purposefully defaced - sections 
+of them are chipped away, so that what they might have been is 
+impossible to tell.
+~
+E
+statue sphinx~
+Both of the sphinx statues are carved from a transparent, 
+golden stone. You would guess it is amber.
+~
+S
+#608
+Hall of the Dead~
+    Here there is a small raised platform. You also see more 
+frescos, similar to those in the other end of the hall. There 
+is a worn wooden door to the north.
+~
+6 d 0 0 0 1
+D0
+~
+door worn wooden north n~
+1 -1 609 20 20 0 0 0 0 65535 65535
+D1
+~
+secret east e~
+3 -1 611 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 604 20 20 0 0 0 0 65535 65535
+E
+frescos paintings wall walls~
+They depict scenes of ritual burial, and the afterlife that 
+awaits. Most of them have been purposefully defaced - sections 
+of them are chipped away, so that what they might have been is 
+impossible to tell.
+~
+S
+#609
+Storeroom~
+    This room contains many old chests, crumbling furniture, 
+broken statues, and stopped urns. A thick layer of dust 
+covers everything in the room. A worn wooden door leads south, 
+and a heavy stone door goes west.
+~
+6 d 0 0 0 1
+D2
+~
+door wooden worn south s~
+1 -1 608 20 20 0 0 0 0 65535 65535
+D3
+~
+stone door heavy west w~
+1 -1 610 20 20 0 0 0 0 65535 65535
+E
+scrolls hidden~
+The scrolls tell of the scorpion-man who lived at this temple. 
+Send by Lord Hek to fight off the demons of Marduk Kurios. He 
+was charged with keeping certain evil horrors under the earth, 
+away from the world of men. In time, a religion grew around 
+the scorpion-man, and his worshippers built the temple around 
+him. 
+~
+E
+chest chests furniture statues broken urns~
+All of what was once stored here has degenerated into 
+uselessness.
+~
+S
+#610
+Burial chamber~
+    This room contains two ornate sarcophagi, resting on 
+platforms on the floor. The rest of the room is carved with 
+ornate detail.
+~
+6 d 0 0 0 1
+D1
+~
+stone door heavy east e~
+1 -1 609 20 20 0 0 0 0 65535 65535
+E
+sarcophagi floor platform~
+Carved around the base of each is a warning not to disturb the
+peace of the high priest and priestess of He Who Keeps Us. The 
+cases are very large and heavy. 
+~
+S
+#611
+Abatu's Chamber~
+    A well lit room, the chamber contains a table.
+~
+6 d 0 0 0 1
+D0
+~
+~
+0 -1 612 20 20 0 0 0 0 65535 65535
+D3
+~
+secret west w~
+3 -1 608 20 20 0 0 0 0 65535 65535
+E
+hidden scrolls~
+You find a scroll, and it reads:
+"They have slipped past the Malakaz. Learn what they know and 
+report it to me."
+Tucked inside this scroll is a second, shorter note. It reads:
+"Get the map and send it to the Black One across the desert!"
+~
+E
+table~
+The table is covered with a haphazard collection of stuff.
+~
+S
+#612
+The gate~
+    This is a small stone cavern. At one end is a pool of 
+water, at the other a shaft that disappears into the bowels of 
+the earth. Scattered about the room are bones of some unknown 
+creature.
+~
+6 d 0 0 0 1
+D2
+~
+~
+0 -1 611 20 20 0 0 0 0 65535 65535
+E
+scattered bones bone~
+The bones look like a combination of man and insect. The bones 
+also appear to have been deliberately broken apart.
+~
+E
+shaft pit~
+The pit looks bottomless.
+~
+S
+#613
+The pillar walk~
+    This narrow ramp of pillars rises up out of the sand. At 
+its low end, only the broken tops of the columns can be seen, 
+but as the ramp reaches the top, the columns are taller and 
+more complete. Propped against the six uppermost pillars are 
+six skeletons, wearing ragged bits of clothing, armor and 
+holding various weapons.
+~
+6 0 0 0 0 1
+D1
+~
+~
+0 -1 601 20 20 0 0 0 0 65535 65535
+E
+pillars skeletons~
+The skeletons are held upright by nails driven into the rock. 
+Their weapons and armor are old and corroded beyond use.
+~
+S
+$~

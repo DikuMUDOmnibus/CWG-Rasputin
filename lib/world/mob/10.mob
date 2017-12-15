@@ -1,0 +1,27 @@
+#1000
+guildmaster guild master~
+your guildmaster~
+Standing watch over this area the @Gmaster@n of your @Yguild@n is waiting to teach.
+~
+Your guildmaster is dressed in a humble manner, with alot of @ybrown@n.
+Just by looking at him, you can tell that he is a master of his skills.
+~
+abds 0 0 0 l 0 0 0 1000 E
+33 20 -10 0d0+30000 1d20+-57
+0 10 4 3
+8 8 0
+E
+#1001
+man human middle aged shopkeeper~
+the shopkeeper~
+There is a middle aged man here, @moffering@n to help you.
+~
+Tall, and with black hair, the man looks very serious about his business. 
+He is interested in selling quality wares to @Bnew advenuters@n.
+~
+bds 0 0 0 0 0 0 0 900 E
+8 20 7 8d4+16 1d4+0
+1000 10 0 3
+8 8 1
+E
+$

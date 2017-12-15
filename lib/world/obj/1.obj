@@ -1,0 +1,29 @@
+#100
+key stone~
+a small stone key~
+There is a small key made of stone laying here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 10
+1 1 1 0
+#101
+key stone~
+a small stone key~
+There is a small key made of stone laying here.~
+~
+18 f 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 10
+1 1 1 0
+#102
+blue potion vial~
+a small blue vial~
+A small vial of blue liquid has been left here.~
+~
+10 g 0 0 0 a 0 0 0 0 0 0 0
+10 19 33 -1 100 100 0 13
+1 25 3 0
+E
+potion vial blue~
+There is a faded lable on the bottle, which reads: "Drink me"
+~
+$~

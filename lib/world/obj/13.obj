@@ -1,0 +1,928 @@
+#1300
+scimitar~
+a scimitar~
+A curved, sharp scimitar has been set here.~
+~
+5 0 0 0 0 ano 0 0 0 0 0 0 0
+15 1 6 3 100 100 0 9 2 0 0 0 0 0 0 0
+4 15 15 0
+Z
+4
+E
+scimitar~
+The sword is very wide, and curved. The massive edge has been sharpened to
+a razor edge.
+The scimitar use the long sword skill.
+~
+#1301
+rune sigla sword short~
+a rune enscribed short sword~
+A short sword, covered with strange sigla lies here.~
+~
+5 gjlmnruv 0 0 0 ano 0 0 0 0 0 0 0
+16 1 6 11 100 100 0 9 1 0 0 0 0 0 0 0
+3 300 30 0
+Z
+4
+E
+rune sigla sword short~
+The sword was crafted from the hottest forges of Hell! It has been
+tempered in the blood of innocent. It is etched with runic structures that
+improve it's quality!
+~
+A
+19 3 30
+#1302
+wooden sword~
+a small wooden sword~
+A small wooden sword, the plaything of a child perhaps, lies here.~
+~
+5 0 0 0 0 ano 0 0 0 0 0 0 0
+3 1 2 7 100 100 0 12 0 0 0 0 0 0 0 0
+2 1 1 0
+Z
+4
+E
+sword wooden~
+A well used play thing of some young child. You notice that it is of very
+good design for a childs toy, but well loved by someone.
+The wooden sword is a mace weapon.
+~
+#1303
+dagger~
+a dagger~
+A dagger with a long thin blade is here.~
+~
+5 0 0 0 0 an 0 0 0 0 0 0 0
+2 1 4 11 100 100 0 9 1 0 0 0 0 0 0 0
+1 2 2 0
+Z
+4
+E
+dagger~
+The dagger is an indispensible tool in this day and age. 
+~
+#1304
+rapier~
+a rapier~
+A rapier lies here.~
+~
+5 mnr 0 0 0 an 0 0 0 0 0 0 0
+16 1 6 11 100 100 0 9 2 0 0 0 0 0 0 0
+3 20 20 0
+Z
+4
+E
+rapier~
+It is about 4 feet long. The blade is rigid and has both a point for 
+thrusting and an edge for cutting.
+The rapier uses the short sword skill.
+~
+#1305
+saber~
+a saber~
+A saber, favored weapon in Toran, has been left here.~
+~
+5 0 0 0 0 an 0 0 0 0 0 0 0
+15 1 6 3 100 100 0 9 1 0 0 0 0 0 0 0
+3 23 23 0
+Z
+4
+E
+saber~
+The blade is long, straight, and heavy, with a single edge.
+The saber uses the long sword skill.
+~
+#1306
+club wooden~
+a wooden club~
+A simple looking wooden club is here.~
+~
+5 0 0 0 0 an 0 0 0 0 0 0 0
+3 1 6 7 100 100 0 12 0 0 0 0 0 0 0 0
+3 2 2 0
+Z
+4
+E
+club~
+A standard chunck of wood.
+The club is a mace weapon.
+~
+#1307
+warhammer hammer~
+a warhammer~
+A medium sized warhammer is here.~
+~
+5 mrt 0 0 0 an 0 0 0 0 0 0 0
+12 1 8 7 100 100 1 9 0 0 0 0 0 0 0 0
+8 12 12 0
+Z
+4
+E
+warhammer~
+A large, heavy hammer used to bash your enemies.
+The warhammer is a hammer weapon.
+~
+#1308
+horseman's horseman flail large~
+a horseman's flail~
+A horseman's flail is here.~
+~
+5 mrt 0 0 0 an 0 0 0 0 0 0 0
+14 1 8 7 100 100 0 9 0 0 0 0 0 0 0 0
+5 8 8 0
+Z
+4
+E
+flail~
+A short staff, with two small spiked balls attached by lenghts of chain.
+The flail is a blunt weapon.
+~
+#1309
+long sword~
+a long sword~
+A long sword has been left here.~
+~
+5 0 0 0 0 an 0 0 0 0 0 0 0
+15 1 8 3 100 100 0 9 1 0 0 0 0 0 0 0
+4 15 15 0
+Z
+4
+#1310
+sword short~
+a short sword~
+A short sword has been left here.~
+~
+5 mnr 0 0 0 an 0 0 0 0 0 0 0
+16 1 6 11 100 100 0 9 1 0 0 0 0 0 0 0
+3 10 10 0
+Z
+4
+#1311
+rune knife~
+a rune enscribed knife~
+A knife, covered in strange sigla lies here.~
+~
+5 gjlnopruv 0 0 0 ano 0 0 0 0 0 0 0
+2 1 4 11 100 100 0 7 0 0 0 0 0 0 0 0
+3 100 100 0
+Z
+4
+E
+rune knife~
+This is clearly an unholy implement of sacrifice.
+The knife uses the dagger skill.
+~
+A
+18 1 100
+A
+19 1 100
+#1312
+black unholy long sword~
+an unholy black long sword~
+A black long sword, bearing the holy symbol of Marduk has been left here.~
+~
+5 gjlq 0 0 0 an 0 0 0 0 0 0 0
+15 1 8 3 100 100 0 7 1 0 0 0 0 0 0 0
+4 300 300 0
+Z
+4
+E
+black unholy long sword~
+The sword has been imbued with power from the blood of Marduk Himself!
+~
+A
+18 2 300
+A
+19 2 300
+#1313
+blade assassin's assassin~
+an assassin's blade~
+A long, sharp blade, the tool of an assassin no doubt, has been dropped here.~
+~
+5 djl 0 0 0 an 0 0 0 0 0 0 0
+2 2 4 11 100 100 0 7 0 0 0 0 0 0 0 0
+5 100 100 0
+Z
+4
+E
+blade assassin's assassin~
+The blade is made of an incredibly lightweight material, however it is
+stronger than anything you have ever seen. This weapons was crafted for
+someone who likes to kill...
+The blade uses the dagger skill.
+~
+#1314
+long sword commoner~
+a commoner's long sword~
+A commoner's long sword made of adamantite has been left here.~
+~
+5 gjmno 0 0 0 an 0 0 0 0 0 0 0
+15 1 8 3 100 100 0 23 1 0 0 0 0 0 0 0
+6 100 100 0
+Z
+4
+A
+18 1 100
+A
+19 1 100
+#1315
+halberd polearm~
+a halberd~
+A mighty halberd lies against the wall.~
+~
+5 mnorst 0 0 0 an 0 0 0 0 0 0 0
+20 1 10 3 100 100 0 9 0 0 0 0 0 0 0 0
+15 10 10 0
+Z
+4
+E
+halberd~
+The halberd is a long, curved blade on a medium wooden pole. 
+The halberd is a pole arm.
+~
+#1316
+battle axe four bladed~
+a four bladed battle axe~
+A large battle axe, with four sharp blades rests on the ground.~
+~
+5 0 0 0 0 ano 0 0 0 0 0 0 0
+25 1 10 3 100 100 1 7 0 0 0 0 0 0 0 0
+14 25 25 0
+Z
+5
+#1317
+dagger well crafted~
+a well crafted dagger~
+A well crafted dagger has been left here.~
+~
+5 n 0 0 0 ano 0 0 0 0 0 0 0
+2 1 4 11 100 100 0 7 1 0 0 0 0 0 0 0
+0 10 10 0
+Z
+4
+#1318
+dagger~
+a dagger~
+A dagger with a long thing blade lies here.~
+~
+5 gn 0 0 0 ano 0 0 0 0 0 0 0
+2 1 4 11 100 100 0 9 1 0 0 0 0 0 0 0
+1 100 100 0
+Z
+4
+E
+dagger~
+The dagger is an indispensible tool in this day and age.
+~
+A
+18 1 100
+A
+19 1 100
+#1319
+harpoon~
+a long, pointed harpoon~
+A long, pointed harpoon lies here.~
+~
+5 mnort 0 0 0 an 0 0 0 0 0 0 0
+5 2 4 11 100 100 0 9 0 0 0 0 0 0 0 0
+6 20 20 0
+Z
+4
+#1320
+pick horseman's~
+a horseman's pick~
+A pick, used by mounted hoursemen lies here.~
+~
+5 mnort 0 0 0 an 0 0 0 0 0 0 0
+20 1 4 11 100 100 0 5 0 0 0 0 0 0 0 0
+4 7 7 0
+Z
+4
+#1321
+holy long sword~
+a holy long sword~
+A well crafted ornamental long sword has been left here.~
+~
+5 gkmnor 0 0 0 an 0 0 0 0 0 0 0
+15 1 8 3 100 100 0 7 1 0 0 0 0 0 0 0
+4 300 300 0
+Z
+4
+A
+18 2 300
+A
+19 2 300
+#1322
+long sword noble~
+a noble's long sword~
+A drow noble's longsword, made of adamantite, lies here.~
+~
+5 gmnor 0 0 0 an 0 0 0 0 0 0 0
+15 1 8 3 100 100 0 23 1 0 0 0 0 0 0 0
+7 300 300 0
+Z
+4
+A
+18 2 300
+A
+19 2 300
+#1323
+whip snake twoheaded~
+a two headed snake whip~
+A whip with two snakes heads lies here.~
+~
+5 gjm 0 0 0 an 0 0 0 0 0 0 0
+26 1 3 2 100 100 0 6 0 0 0 0 0 0 0 0
+3 500 300 0
+Z
+4
+A
+18 1 300
+A
+19 1 300
+#1324
+whip snake threeheaded~
+a three headed snake whip~
+A whip with three snake heads has been left here.~
+~
+5 gjm 0 0 0 an 0 0 0 0 0 0 0
+26 1 4 2 100 100 0 6 0 0 0 0 0 0 0 0
+4 1000 400 0
+Z
+4
+A
+18 2 400
+A
+19 2 400
+#1325
+whip snake fourheaded~
+a four headed snake whip~
+A whip with four snake heads has been carelessly left here.~
+~
+5 gj 0 0 0 an 0 0 0 0 0 0 0
+26 1 5 2 100 100 0 6 0 0 0 0 0 0 0 0
+5 1500 500 0
+Z
+4
+A
+18 2 500
+A
+40 4 500
+#1326
+long sword black~
+a black long sword~
+A black long sword has been carelessly left here.~
+~
+5 gjmnor 0 0 0 an 0 0 0 0 0 0 0
+15 1 8 3 100 100 0 23 1 0 0 0 0 0 0 0
+6 300 300 0
+Z
+4
+A
+18 2 300
+A
+19 2 300
+#1327
+whip snake fiveheaded~
+a five headed snake whip~
+A whip with five snake heads has been carelessly dropped here.~
+~
+5 gjm 0 0 0 an 0 0 0 0 0 0 0
+26 1 6 2 100 100 0 6 0 0 0 0 0 0 0 0
+6 2000 600 0
+Z
+4
+A
+19 2 600
+A
+3 2 600
+#1328
+whip snake sixheaded~
+a six headed snake whip~
+A whip with six snake heads has been dropped here very carelessly.~
+~
+5 gj 0 0 0 an 0 0 0 0 0 0 0
+26 2 5 2 100 100 0 6 0 0 0 0 0 0 0 0
+7 3000 700 0
+Z
+4
+A
+40 8 700
+A
+3 3 700
+#1329
+dagger sacrificial spider~
+a spider shaped dagger~
+A dagger with spider leg shaped blades lies on the ground.~
+~
+5 gjln 0 0 0 an 0 0 0 0 0 0 0
+2 2 4 11 100 100 0 23 1 0 0 0 0 0 0 0
+8 800 800 0
+Z
+4
+A
+18 2 800
+A
+19 1 800
+#1330
+mace~
+a mace~
+A mace lies here.~
+~
+5 r 0 0 0 an 0 0 0 0 0 0 0
+3 1 6 7 100 100 0 9 0 0 0 0 0 0 0 0
+6 5 0 0
+Z
+4
+#1331
+axe battle~
+a battle axe~
+A heavy battle axe lies here.~
+~
+5 0 0 0 0 ano 0 0 0 0 0 0 0
+25 1 8 3 100 100 1 9 0 0 0 0 0 0 0 0
+7 5 5 0
+Z
+4
+#1332
+huge star morning~
+a huge morning star~
+A huge morning star is here covered with dried blood and gore.~
+~
+5 gjl 0 0 0 an 0 0 0 0 0 0 0
+3 3 4 7 100 100 0 9 0 0 0 0 0 0 0 0
+16 70 0 0
+Z
+4
+E
+huge star morning~
+The morning star is a mace weapon.
+~
+A
+18 2 0
+A
+19 2 0
+A
+40 2 0
+#1334
+elven mace~
+an elven mace~
+A finely crafted silver mace lies here.~
+~
+5 r 0 0 0 an 0 0 0 0 0 0 0
+3 1 6 7 100 100 0 11 0 0 0 0 0 0 0 0
+5 30 30 0
+Z
+4
+E
+elven mace~
+This mace is of the finest craftsmenship.  Elvish runes have been etched all over the surface except on the white leather wrapped hilt.
+~
+A
+19 1 30
+#1335
+morning-star star morning~
+the morning star~
+The morning star is here collecting dust while it lies on the ground.~
+~
+5 0 0 0 0 ano 0 0 0 0 0 0 0
+3 2 4 7 100 100 0 9 0 0 0 0 0 0 0 0
+8 8 8 0
+Z
+4
+E
+morning-star star morning~
+The morning star is a blunt weapon.
+~
+#1336
+warhammer hammer dalanar's fake~
+a mighty warhammer~
+A mighty warhammer lies here, it has a pollished ivory handle.~
+~
+5 egiklmrst 0 0 0 ano 0 0 0 0 0 0 0
+12 8 1 7 100 100 1 7 0 0 0 0 0 0 0 0
+12 200 200 0
+Z
+4
+E
+warhammer hammer~
+This is at least twice the size of a normal warhammer. It appears to
+have been forged long ago, and it is cool to the touch. It is also
+carved, on nearly every inch, with symbols of an ancient language. 
+~
+A
+17 -10 200
+A
+18 -20 200
+#1339
+polearm glaive~
+a glaive~
+A large glaive lies here.~
+~
+5 s 0 0 0 an 0 0 0 0 0 0 0
+20 1 10 3 100 100 1 9 0 0 0 0 0 0 0 0
+15 8 6 0
+Z
+4
+E
+polearm glaive~
+One of the most basic polearms, the glaive is a single-edged blade mounted on 
+an eight- to ten-foot-long shaft.
+The glaive is a pole arm.
+~
+#1341
+polearm guisarme~
+a guisarme~
+A guisarme has been left here, perhaps by a foot soldier.~
+~
+5 mnorst 0 0 0 an 0 0 0 0 0 0 0
+20 2 4 3 100 100 0 9 0 0 0 0 0 0 0 0
+15 9 5 0
+Z
+4
+E
+polearm guisarme~
+Thought to have derived from a pruning hook, this is an elaborately curved 
+heavy blade.
+The guisarme is a pole arm.
+~
+#1347
+polearm ranseur~
+a ranseur~
+A ranseur is planted here in the ground.~
+~
+5 mnorst 0 0 0 an 0 0 0 0 0 0 0
+20 2 4 11 100 100 0 9 0 0 0 0 0 0 0 0
+15 10 6 0
+Z
+4
+E
+polearm ranseur~
+Very much like the partisan, the ranseur differs in that the main blade is 
+thinner and the projectiong blades extended more like tines of a fork.
+The ranseur is a pole arm.
+~
+#1350
+kriti dagger~
+a kritI~
+A kritI with a long, curvy blade lies here.~
+~
+5 n 0 0 0 an 0 0 0 0 0 0 0
+2 1 4 11 100 100 0 9 1 0 0 0 0 0 0 0
+1 15 15 0
+Z
+4
+E
+kriti dagger~
+A kritI is an Oharian dagger, with a polished metal hilt and a long, curvy,
+thin, steel blade.
+~
+#1351
+koroti sword~
+a koroti~
+A koroti with a long, shiny blade has been left here.~
+~
+5 mnor 0 0 0 an 0 0 0 0 0 0 0
+15 2 4 3 100 100 0 9 0 0 0 0 0 0 0 0
+10 35 35 0
+Z
+4
+E
+koroti sword~
+A koroti is an Oharian broadsword, with a shiny, metal hilt and a 2 1/2
+foot steel blade.
+The koroti uses the long sword skill.
+~
+#1352
+druid staff~
+the Druid's Staff~
+A Druid's Staff is resting here.~
+~
+5 jk e 0 0 an 0 0 0 0 0 0 0
+6 3 2 7 100 100 0 12 0 0 0 0 0 0 0 0
+7 1000 1000 0
+Z
+4
+E
+druid staff~
+The Druid's Staff is a 4 1/2 foot long smooth quarterstaff made out of a
+yew branch that was cut off as the first ray of morning sun touched it.
+~
+A
+18 1 1000
+A
+40 2 1000
+A
+38 2 0
+A
+39 2 0
+#1353
+ixe ixe's sword ohari~
+the Sword of Ohari~
+The Sword of Ohari is lying unguarded here! This should not be!!!~
+slash~
+5 jkmnoqr 0 0 0 an 0 0 0 0 0 0 0
+15 4 6 3 100 100 0 11 0 0 0 0 0 0 0 0
+11 8000 8000 0
+Z
+4
+E
+sword ohari ixe ixe's~
+The Sword of Ohari has been handed down from emperor to emperor since the
+founding of Ohari thousands of years ago. The sword's crosspiece is made of
+a gem that looks like solid sapphire. The hilt, pommel, and blade are made
+of the purest of silver. In minute lettering on the blade is engraved the
+name of every Emperor of Ohari since it's founding.
+~
+A
+18 5 8000
+A
+13 10 8000
+#1355
+cutlass nelven~
+a Nelven cutlass~
+A cutlass bearing the crest of the Empire of Nelva has been left here.~
+~
+5 0 0 0 0 ano 0 0 0 0 0 0 0
+15 1 8 3 100 100 0 9 0 0 0 0 0 0 0 0
+5 25 25 0
+Z
+4
+E
+cutlass nelven~
+The cutlass uses the long sword skill.
+~
+#1356
+sword short yazston~
+a black short sword~
+A short sword, painted with weapon black, has been left here.~
+~
+5 gjmnr 0 0 0 ano 0 0 0 0 0 0 0
+16 1 6 11 100 100 0 7 1 0 0 0 0 0 0 0
+3 350 350 0
+Z
+4
+E
+sword short~
+This fine blade is coated in weapon black and some dried blood. Near the 
+hilt, on the blade, is ingraved the word 'Yazston.'
+~
+A
+2 1 350
+A
+18 2 350
+#1357
+short sword yazston~
+a black short sword~
+A short sword, painted with weapon black, has been left here.~
+~
+5 gmnr 0 0 0 ano 0 0 0 0 0 0 0
+16 1 6 11 100 100 0 23 1 0 0 0 0 0 0 0
+4 300 300 0
+Z
+4
+E
+short sword~
+This fine blade is coated in weapon black and some dried blood. Near the
+hilt, on the blade, is ingraved the word 'Yaston.'
+~
+A
+18 2 300
+A
+19 2 300
+#1358
+two-handed two handed sword~
+a two-handed sword~
+A very large, battle quality two-handed sword has been left here.~
+~
+5 gmnorst 0 0 0 ano 0 0 0 0 0 0 0
+17 1 10 3 100 100 0 9 0 0 0 0 0 0 0 0
+15 100 100 0
+Z
+4
+E
+two-handed two handed sword~
+Crafted of the purest steel, the giant sword is razor sharp seeking the
+flesh of the wicked!
+~
+A
+18 1 100
+A
+19 1 100
+#1360
+cutlass~
+a cutlass~
+A cutlass bearing the crest of Toran has been left here.~
+~
+5 0 0 0 0 an 0 0 0 0 0 0 0
+15 1 8 3 100 100 0 9 0 0 0 0 0 0 0 0
+5 15 15 0
+Z
+4
+E
+cutlass~
+The cutlass uses the long sword skill.
+~
+#1361
+scourge~
+a scourge~
+A scourge, implement of tourture, has been left here.~
+~
+5 mr 0 0 0 an 0 0 0 0 0 0 0
+26 1 4 2 100 100 0 6 0 0 0 0 0 0 0 0
+2 1 1 0
+Z
+4
+E
+scourge~
+This wicked weapon is a short whip with several thongs or tails. Each thoung is 
+studded with metal barbs, resultings in a terrible lash.
+The scourge uses the whip skill.
+~
+#1362
+sickle~
+a sickle~
+A sickle has been left here.~
+~
+5 mn 0 0 0 an 0 0 0 0 0 0 0
+16 1 6 3 100 100 0 5 0 0 0 0 0 0 0 0
+3 6 6 0
+Z
+4
+#1363
+spear~
+a spear~
+A spear, with a sturdy haft has been left here.~
+~
+5 0 0 0 0 an 0 0 0 0 0 0 0
+5 1 6 11 100 100 0 12 0 0 0 0 0 0 0 0
+5 1 1 0
+Z
+4
+#1364
+trident~
+a trident~
+A trident has been left here.~
+~
+5 mnor 0 0 0 an 0 0 0 0 0 0 0
+5 1 8 11 100 100 0 5 0 0 0 0 0 0 0 0
+5 15 15 0
+Z
+4
+#1365
+sword one-handed one handed bastard~
+a one-handed bastard sword~
+There is a one-handed bastard sword laying here.~
+~
+5 0 0 0 0 an 0 0 0 0 0 0 0
+15 1 8 3 100 100 0 9 0 0 0 0 0 0 0 0
+10 25 25 0
+Z
+4
+E
+sword one-handed one handed bastard~
+This sword uses the long sword skill.
+~
+#1366
+sword two-handed bastard two handed~
+a two-handed bastard sword~
+There is a two-handed bastard sword lying here.~
+~
+5 s 0 0 0 an 0 0 0 0 0 0 0
+17 2 4 3 100 100 0 9 0 0 0 0 0 0 0 0
+10 25 25 0
+Z
+4
+E
+sword two-handed bastard two handed~
+This sword uses the two-handed skill.
+~
+#1367
+sword two-handed two handed~
+a two-handed sword~
+There is a huge, two-handed sword laying here.~
+~
+5 mnorst 0 0 0 an 0 0 0 0 0 0 0
+17 2 6 3 100 100 0 9 0 0 0 0 0 0 0 0
+15 50 50 0
+Z
+4
+E
+sword two-handed two handed~
+This sword uses the two-handed skill.
+~
+#1368
+quarter staff quarterstaff~
+a sturdy quarterstaff~
+A long, sturdy quarterstaff is laying here.~
+~
+5 s 0 0 0 an 0 0 0 0 0 0 0
+6 1 6 7 100 100 0 12 0 0 0 0 0 0 0 0
+4 5 5 0
+Z
+4
+#1370
+scythe~
+the Scythe of the Heirophant~
+A massive scythe has been left here, you feel power flowing from it.~
+~
+5 gjkmnopqstuvC 0 0 0 an 0 0 0 0 0 0 0
+6 2 5 3 100 100 0 7 0 0 0 0 0 0 0 0
+10 0 0 0
+Z
+4
+E
+scythe~
+The staff of the scythe is an ancient, gnarled tree branch. It is over two
+inches diameter. A long blade like that of a sickle has been fixed to the
+top to give the weapon a deadly overhand swing.
+~
+A
+19 2 0
+A
+18 2 0
+#1371
+pole arm awl pike~
+an awl pike~
+You see an awl pike, well polished and sharpened, has been left here.~
+pierce~
+5 mnorst 0 0 0 an 0 0 0 0 0 0 0
+20 2 6 11 100 100 0 9 0 0 0 0 0 0 0 0
+12 5 2 0
+Z
+4
+E
+pole arm awl pike~
+Essentially this is a long spear over 12 feet in length ending in a spike 
+point of tapered spear head. 
+The awl pike is a pole arm.
+~
+#1372
+sword vargonathin one-handed one handed bastard~
+Vargonathin's magnificent bastard sword~
+A bastard sword of exceptional quality has been misplaced here.~
+~
+5 degmnoqrtuv 0 0 0 an 0 0 0 0 0 0 0
+15 1 9 3 100 100 0 7 0 0 0 0 0 0 0 0
+8 250 25 0
+Z
+4
+E
+sword vargonathin one-handed one handed bastard~
+Crafted of the finest materials availible, this bastard sword is quite
+magnificent. It is highly polished, and razor sharp!
+This sword uses the long sword skill.
+~
+#1373
+whip~
+a whip~
+You see a leather whip coiled up here.~
+~
+5 m 0 0 0 an 0 0 0 0 0 0 0
+26 1 2 2 100 100 0 6 0 0 0 0 0 0 0 0
+2 2 0 0
+Z
+4
+#1374
+scimitar~
+a scimitar~
+A wickedly curved, razor sharp scimitar has been set here.~
+~
+5 gjkmnoptv 0 0 0 an 0 0 0 0 0 0 0
+15 2 4 3 100 100 0 23 2 0 0 0 0 0 0 0
+4 800 0 0
+Z
+4
+E
+scimitar~
+The sword is made of a very sharp, metal composite which gives it a razor
+edge. Weapons of this quality are rare indeed.
+The scimitar use the long sword skill.
+~
+A
+19 1 0
+A
+18 1 0
+#1375
+dagger~
+a large dagger~
+A large dagger with a long thin blade is here.~
+pierce
+~
+5 n 0 0 0 an 0 0 0 0 0 0 0
+2 1 4 11 100 100 0 5 1 0 0 0 0 0 0 0
+3 3 3 0
+Z
+4
+#1376
+morning-star star morning~
+a large morning star~
+The large morning star is here collecting dust while it lies on the ground.~
+~
+5 mr 0 0 0 ano 0 0 0 0 0 0 0
+3 2 4 7 100 100 0 9 0 0 0 0 0 0 0 0
+0 25 0 0
+Z
+4
+$~

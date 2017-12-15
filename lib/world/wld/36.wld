@@ -1,0 +1,469 @@
+#3600
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+
+The Roads of the King's Forest is a zone which ties together various parts
+of the Empire, linking the forest with various cities.
+
+This zone links up with zones: 60, 112, 118, 119 and 120.
+~
+36 dk 0 0 0 0
+S
+#3601
+The Bridge over the Starwater River~
+   You are standing on a huge bridge about 500 feet long built over the 
+Starwater River. The High Road continues to the east and west. To the 
+south lies the massive King's Forest, though there is no path to it from 
+here.
+~
+36 0 0 0 0 2
+D1
+The High Road continues to the east.
+~
+~
+0 0 3602 20 20 0 0 0 0 65535 65535
+D3
+The High Road continues to the west meeting with Helgor not too far 
+off in the distance.
+~
+~
+0 0 3661 20 20 0 0 0 0 65535 65535
+S
+#3602
+The High Road~
+   You are standing on the High Road between Tekaro and Helgor. It 
+continues for many miles to the east and west. Not too far off west lies 
+a huge bridge over the Starwater River.
+~
+36 0 0 0 0 2
+D1
+The High Road continues for many miles to the east.
+~
+~
+0 0 3603 20 20 0 0 0 0 65535 65535
+D3
+The High Road continues to the west over a huge bridge close in the distance.
+~
+~
+0 0 3601 20 20 0 0 0 0 65535 65535
+S
+#3603
+The High Road~
+   You are on the High Road between Helgor and Tekaro. Not too far 
+off in the distance you can see the huge city of Tekaro. To the south 
+lies the huge King's Forest, though you can't get to it from here.
+~
+36 0 0 0 0 2
+D1
+The High Road continues east where you can faintly see the city of Tekaro.
+~
+~
+0 0 3604 20 20 0 0 0 0 65535 65535
+D3
+The High Road continues to the west.
+~
+~
+0 0 3602 20 20 0 0 0 0 65535 65535
+S
+#3604
+The High Road~
+   You are standing on the High Road. Not too far in the distance to the 
+east, you can see the massive walls of the city of Tekaro. The road 
+continues to the west for what seems eternity.
+~
+36 0 0 0 0 2
+D1
+To the east, not too far off in the distance, lies the huge High Horn
+gate of Tekaro.
+~
+~
+0 0 3605 20 20 0 0 0 0 65535 65535
+D3
+The High Road seems to continue forever to the west.
+~
+~
+0 0 3603 20 20 0 0 0 0 65535 65535
+S
+#3605
+The High Horn Gate Outside Tekaro~
+  You are standing on the High Road just outside the city of Tekaro. Just 
+to the east you can see the massive High Horn gate. The road seems to 
+stretch forever to the west. Just to the southwest, you see the massive 
+King's Forest.
+~
+36 0 0 0 0 2
+D1
+To the east lies the huge city of Tekaro.
+~
+gate~
+2 12016 12010 20 20 0 0 0 0 65535 65535
+D3
+The High Road continues to the west for what seems forever.
+~
+~
+0 0 3604 20 20 0 0 0 0 65535 65535
+S
+#3620
+A Trail Through the Kings Forest Outside Woeld~
+   You are standing on a huge road outside the Eastgate of Woeld. The 
+road continues to the southeast, leading to Kaon. The trail narrows 
+as you get deeper into the forest and the trees seem to get thicker.
+~
+36 0 0 0 0 3
+D1
+~
+~
+0 0 3621 20 20 0 0 0 0 65535 65535
+D3
+~
+gate~
+1 11901 11901 20 20 0 0 0 0 65535 65535
+S
+#3621
+Starwater Road Through the Kings Forest~
+   You are on a small trail through the King's Forest between Woeld and 
+Kaon. The trail gets narrower the farther you get into the forest, and 
+not too far to the northwest you can see the Eastgate of Woeld.
+~
+36 0 0 0 0 3
+D2
+~
+~
+0 0 3622 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 3620 20 20 0 0 0 0 65535 65535
+S
+#3622
+A Narrow Part of Starwater Road Through The Thick Forest~
+   You are now deep into the King's Forest. Not too far to the southeast 
+you can see what looks like a little village built into the trees. The 
+path continues to the southeast meeting up with a small branch in the 
+road leading to Helin.
+~
+36 0 0 0 0 3
+D0
+~
+~
+0 0 3621 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 3623 20 20 0 0 0 0 65535 65535
+S
+#3623
+A Very Narrow Road Through the Forest~
+   You are on a very narrow road through the heart of the King's Forest. 
+Not too far to the south you can see a village built into the trees. You 
+also see a small clearing for a trail leading to the town of Helin. 
+~
+36 0 0 0 0 3
+D2
+~
+~
+0 0 6053 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 3622 20 20 0 0 0 0 65535 65535
+S
+#3630
+Rangers Way~
+   You are standing on Rangers Way throught the Kings forest. Not too far 
+to the southwest lies the small town of Helin. The road continues to 
+the northeast towards the town of Woeld.
+~
+36 0 0 0 0 3
+D0
+~
+~
+0 0 3631 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 6087 20 20 0 0 0 0 65535 65535
+S
+#3631
+Rangers Way~
+   You are on Rangers Way through the thick forest. The trail here is 
+only about 10 feet wide. Off in the distance to the northeast, you can 
+make out the huge stockade of the small town of Woeld. In the near 
+distance to the southwest you can see Helin.
+~
+36 0 0 0 0 3
+D1
+~
+~
+0 0 3632 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 3630 20 20 0 0 0 0 65535 65535
+S
+#3632
+Rangers Way~
+   You are standing on Ranger's Way throught the dense part of the King's 
+Forest. The towering trees here are to thick to allow wandering from the 
+road. To the northeast lies the town of Woeld and Helin lies to the 
+southwest.
+~
+36 0 0 0 0 3
+D0
+~
+~
+0 0 3633 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 3631 20 20 0 0 0 0 65535 65535
+S
+#3633
+Rangers Way~
+   You are standing on the Rangers Way through the heart of the forest. 
+It is very dark here and you almost wish that you weren't here. The tall 
+trees, that tower at least a hundred feet above you allow almost no 
+passage of sunlight.
+~
+36 0 0 0 0 3
+D1
+~
+~
+0 0 3634 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 3632 20 20 0 0 0 0 65535 65535
+S
+#3634
+Rangers Way~
+   You are standing in a slightly lighter part of the forest. To the 
+north you see a clearing where the small town of Woeld lies. To the 
+southwest, the forest gets thicker, almost to the point where you have 
+second thoughts of going there, since it's very dark.
+~
+36 0 0 0 0 3
+D0
+~
+gate~
+2 11901 11910 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 3633 20 20 0 0 0 0 65535 65535
+S
+#3640
+Starwater Road~
+   You are standing on Starwater Road at the edge of the Kings Forest. 
+Though you don't see any danger, you start to have second thoughts about 
+going through it as you see that it gets very cramped and dark the 
+farthur you go in. The town of Helgor lies directly to the north.
+~
+36 0 0 0 0 2
+D0
+~
+~
+0 0 11803 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 3641 20 20 0 0 0 0 65535 65535
+S
+#3641
+Starwater Road Through the Light Forest~
+   You are on Starwater Road in the northern edge of the King's Forest. 
+The trees are spread out here but you still don't think you should wander 
+off the road. The path continues due south and Helgor lies not too 
+far off to the north.
+~
+36 0 0 0 0 3
+D0
+~
+~
+0 0 3640 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 3642 20 20 0 0 0 0 65535 65535
+S
+#3642
+Starwater Road Through the King's Forest~
+   You are on Starwater Road getting deeper into the Kings Forest. Not 
+too far to the south you can see the northern gates of the stockade of 
+Woeld. Off in the distance to the north you can see the small town of 
+Helgor.
+~
+36 0 0 0 0 3
+D0
+~
+~
+0 0 3641 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 3643 20 20 0 0 0 0 65535 65535
+S
+#3643
+Starwater Road Outside Woeld~
+   You are standing on Starwater Road in the King's Forest just outside 
+the northern gates of Woeld. The road continues due north towards the 
+town of Helgor.
+~
+36 0 0 0 0 3
+D0
+~
+~
+0 0 3642 20 20 0 0 0 0 65535 65535
+D2
+~
+gate~
+2 11901 11907 20 20 0 0 0 0 65535 65535
+S
+#3650
+The Way of the Dragon~
+   You are standing on the Way of the Dragon just outside the southern 
+edge of Espar. The road continues to the south toward the town of Helin.
+Directly to the west towers the massive Storm Horn mountains, and to the
+east lies the King's Forest.
+~
+36 0 0 0 0 2
+D0
+~
+~
+0 0 11222 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 3651 20 20 0 0 0 0 65535 65535
+S
+#3651
+The Way of the Dragon~
+   You are standing on the Way of the Dragon near the Kings Forest. Just 
+to the southeast, the road leads into the forest. To the north the road 
+leads to the town of Espar. Off to the west you can see the Storm Horns.
+~
+36 0 0 0 0 2
+D0
+~
+~
+0 0 3650 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 3652 20 20 0 0 0 0 65535 65535
+S
+#3652
+The Way of the Dragon Outside the King's Forest~
+   You are standing on the Way of the Dragon just outside the western end of
+the King's Forest.  The road continues to the north meeting with the town of
+Espar.    
+~
+36 0 0 0 0 2
+D0
+~
+~
+0 0 3651 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 0 3653 20 20 0 0 0 0 65535 65535
+S
+#3653
+The Way of the Dragon Entering the King's Forest~
+   You are standing on the Way of the Dragon just inside the King's 
+Forest. The forest appears to thicken as you travel to the southeast 
+towards Helin. Through the clearing for the path to the northwest, you 
+can make out the Storm Horn mountain range.
+~
+36 0 0 0 0 3
+D2
+~
+~
+0 0 3654 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 0 3652 20 20 0 0 0 0 65535 65535
+S
+#3654
+The Way of the Dragon~
+   You are on the Way of the Dragon through the King's Forest. Nearing in 
+the southeast is the town of Helin. Through some sparse trees to the 
+northwest you can see and exit from the forest.
+~
+36 0 0 0 0 3
+D0
+~
+~
+0 0 3653 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 3655 20 20 0 0 0 0 65535 65535
+S
+#3655
+The Way of the Dragon~
+   You are standing on the Way of the Dragon just outside the town of 
+Helin. The road continues to the northwest, leading towards the lighter 
+forest.
+~
+36 0 0 0 0 3
+D0
+~
+~
+0 0 3654 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 6086 20 20 0 0 0 0 65535 65535
+S
+#3660
+Corridors of Marduk~
+   This room is for chaos.
+~
+36 d 0 0 0 0
+D0
+~
+~
+0 -1 3632 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 3642 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 3653 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 3603 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 3622 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 3605 20 20 0 0 0 0 65535 65535
+S
+#3661
+The High Road Outside Helgor~
+   You are on the High Road between Helgor and Tekaro. This long
+road, approximately 40 miles, seems to stretch on forever. To the south
+you see the massive Kings Forest.
+~
+36 0 0 0 0 2
+D1
+The High Road continues to the east.
+~
+~
+0 0 3601 20 20 0 0 0 0 65535 65535
+D3
+To the west lies the Main Street of Helgor.
+~
+~
+0 0 11823 20 20 0 0 0 0 65535 65535
+S
+$~

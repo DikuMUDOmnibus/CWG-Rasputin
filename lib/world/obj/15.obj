@@ -1,0 +1,100 @@
+#1500
+key gold golden~
+a golden key~
+A key, apparently made of gold has been left here.~
+~
+12 a 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 4 0 0 0 0 0 0 0 0
+20 200 200 0
+Z
+4
+#1501
+key cell steel~
+a cell key~
+A small steel key has been left here.~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 9 0 0 0 0 0 0 0 0
+1 1 1 0
+Z
+4
+#1502
+key cell steel~
+a cell key~
+A small steel key has been left here.~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 9 0 0 0 0 0 0 0 0
+1 1 1 0
+Z
+4
+#1503
+thin key card~
+a thin rectangular card~
+A thin card, made of an unknown material has been left here.~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 14 0 0 0 0 0 0 0 0
+1 100 100 0
+Z
+4
+E
+thin key card~
+The card is lightweight and very flexable. You have never seen anything like
+it. There is a black strip on one side, with an arrow pointing toward the top.
+~
+#1504
+key cell steel~
+a cell key~
+A small steel key has been left here.~
+~
+12 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 9 0 0 0 0 0 0 0 0
+1 1 1 0
+Z
+4
+#1505
+sword long flaming~
+a flaming long sword~
+A long sword, with a red hot blade covered in dancing flame has been left here.~
+~
+5 gklmnr 0 0 0 an 0 0 0 0 0 0 0
+15 1 8 3 100 100 0 7 0 0 0 0 0 0 0 0
+5 200 200 0
+Z
+4
+A
+18 1
+A
+19 2
+#1506
+scroll~
+a scroll of binding~
+A rolled up piece of parchment has been dropped here.~
+~
+2 gjl 0 0 0 a 0 0 0 0 0 0 0
+33 7 -1 -1 100 100 0 16 0 0 0 0 0 0 0 0
+1 3000 3000 0
+Z
+4
+#1508
+portal~
+a @Yglowing portal@n~
+A @Yglowing portal@n hovers here forming a gateway to another place.~
+~
+28 0 0 0 0 0 0 0 0 0 0 0 0
+1503 13 1506 -1 100 100 0 36 20 20 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+#1509
+portal~
+a @Yglowing portal@n~
+A @Yglowing portal@n hovers here forming a gateway to another place.~
+~
+28 0 0 0 0 0 0 0 0 0 0 0 0
+1502 13 1506 -1 100 100 0 36 20 20 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+$~

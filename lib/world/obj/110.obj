@@ -1,0 +1,97 @@
+#11000
+blue jar~
+a blue jar containing a curing drink~
+A blue jar is here.~
+~
+10 g 0 0 0 ao 0 0 0 0 0 0 0
+25 16 22 -1 100 100 0 0 0 0 0 0 0 0 0 0
+1 100 10 0
+Z
+4
+#11001
+red flask~
+a red flask containing a poison removing spell~
+A red flask is here.~
+~
+10 g 0 0 0 ao 0 0 0 0 0 0 0
+25 43 22 -1 100 100 0 0 0 0 0 0 0 0 0 0
+1 2500 250 0
+Z
+4
+#11002
+green flask~
+a green flask containing a sight restoring drink~
+A green flask is here.~
+~
+10 g 0 0 0 ao 0 0 0 0 0 0 0
+25 14 22 -1 100 100 0 0 0 0 0 0 0 0 0 0
+1 500 50 0
+Z
+4
+#11003
+clear flask~
+a clear flask containing a holy water~
+A clear flask is here.~
+~
+10 g 0 0 0 ao 0 0 0 0 0 0 0
+25 35 22 3 100 100 0 0 0 0 0 0 0 0 0 0
+1 500 50 0
+Z
+4
+#11004
+trousers~
+a pair of black trousers~
+A pair of black trousers are here.~
+~
+11 0 0 0 0 af 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+1 3 0 0
+Z
+4
+#11005
+shirt~
+a black shirt~
+A black shirt is here.~
+~
+11 0 0 0 0 ado 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 19 0 0 0 0 0 0 0 0
+1 3 0 0
+Z
+4
+#11006
+robe plain ao~
+a black robe of Hek~
+A black robe of Hek is here.~
+~
+9 0 0 0 0 ak 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 20 0 0 0 0 0 0 0 0
+1 20 20 0
+Z
+4
+E
+robe ao black~
+The robe is a very dark shade of black. Tiny white spots dot the robe 
+everywhere.
+~
+A
+40 2 20
+#11007
+robe jeweled~
+a jeweled robe of Hek~
+A black jeweled robe of Hek is here.~
+~
+9 0 0 0 0 ak 0 0 0 0 0 0 0
+20 1 100 0 100 100 0 21 0 0 0 0 0 0 0 0
+1 0 100 0
+Z
+4
+E
+robe jeweled~
+The robe is a very dark shade of black. Tiny jewels cover the robe and 
+shimmer in the light.
+~
+A
+17 20 100
+A
+40 5 100
+$~

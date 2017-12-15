@@ -1,0 +1,606 @@
+#3000
+old retired jlker wizard~
+the retired Jlker Wizard~
+A retired Jlker Wizard rests on a wooden stool behind the counter, talking to 
+himself about his 'glory' days.
+~
+The wizard looks old and senile, and yet he looks like a very powerful
+wizard. He is equipped with fine clothing, and is wearing many fine
+rings and bracelets. You notice nine tatered gold bands sewn into his sleeves.
+~
+bds 0 0 0 e 0 0 0 750 E
+21 20 2 21d4+0 1d2+0
+10000 10 0 0
+8 8 1
+E
+#3001
+saszesk thentia baker~
+Saszesk Thentia~
+Saszesk Thentia, one of the local bakers, wiping flour from her face.
+~
+Saszesk Thentia, a cute young baker girl, is here. She is covered in flower
+and vainly keeps trying to rub it from her face.
+~
+bds 0 0 0 e 0 0 0 900 E
+4 20 8 4d4+8 1d2+0
+100 10 0 3
+8 8 2
+E
+#3002
+thentias bezenttar grocer~
+Thentias Bezenttar~
+Thentias Bezenttar, a grocer, stands behind his counter, welcoming you.
+~
+A tall, young human grocer, who stands a large 6'6" and looks to be about
+210 pounds of muscule.
+~
+bds 0 0 0 e 0 0 0 900 E
+10 20 7 10d4+20 1d2+2
+1300 10 0 3
+8 8 1
+E
+#3003
+guldor telenna weaponmerchant~
+Guldor Telenna~
+Guldor Telenna, the weapon merchant, is eager to sell you his latest implements
+of carnage and destuction.
+~
+He is a slightly out of shape looking middle-aged warrior. He knows his weapons
+well, and offers them for a price.
+~
+bds 0 0 0 e 0 0 0 900 E
+8 20 7 8d8+16 1d2+2
+1650 10 0 3
+8 8 1
+E
+#3004
+sorn dalael armorer~
+Sorn Dalael~
+Sorn Dalael, an Armorer, stands next to his displays of his handcrafted works.
+~
+A heavy set man, Sorn makes his own armors and can also cut you a deal on some
+quality 'one owner only' suits.
+~
+bds 0 0 0 e 0 0 0 900 E
+12 20 6 12d8+24 1d2+2
+1950 10 0 3
+8 8 1
+E
+#3005
+maya ghaun receptionist~
+Maya Ghaun~
+Maya Ghaun, an attractive young half-elven receptionist is here, smiling at you.
+~
+You notice a tired look in her face.  She looks like she isn't paid well
+enought to put up with much.
+~
+abds 0 0 0 el 0 0 0 900 E
+21 20 6 21d4+0 1d2+0
+60 10 4 3
+8 8 2
+E
+#3006
+nym vrinn captain~
+Nym Vrinn~
+Nym Vrinn, a retired Imperial captain stands here, selling boats.
+~
+This haggard old sea-dog looks rather tough to you. He has a patch over his
+right eye, and a perpetual scowl on his face.
+~
+bds 0 0 0 e 0 0 0 900 E
+14 20 4 14d6+14 1d2+1
+1000 10 0 3
+8 8 1
+E
+#3007
+captain pirate~
+the pirate captain~
+The captain of the Shooting Star stands here, waiting to take you across the Lake.
+~
+I dunno, a pirate.
+~
+bdnops 0 0 0 l 0 0 0 0 E
+6 20 10 6d6+6 1d2+0
+0 10 4 2
+8 8 2
+E
+T 3049
+T 3050
+#3008
+jeggred khalazza~
+Jeggred Khalazza~
+Jeggred Khalazza here ready to serve you exotic foods.
+~
+He looks to be an immigrant from the Shaar. He is ready to offer you samples
+of the Shaar's food.
+~
+bds 0 0 0 el 0 0 0 900 E
+10 20 6 10d4+10 1d2+0
+550 10 5 3
+8 8 1
+E
+#3009
+walverin wally watermaster~
+Walverin Watermaster~
+Walverin Watermaster is standing behind the counter, ready to sell you water.
+~
+Walverin a bit pudgy but looks very strong.  He has a glass of Imperial 
+natural spring water in his hand.
+~
+bds 0 0 0 e 0 0 0 800 E
+6 20 6 6d4+12 1d2+0
+190 10 0 3
+8 8 1
+E
+#3010
+alak zolond postmaster post master~
+Alak Zolond~
+The head Postmaster, Alak Zolond, is standing here, waiting to help you.
+~
+The Postmaster seems like a happy old man, though a bit sluggish.  He worries
+about the reputation of the mail service, as many people seem to
+think that it's slow.
+~
+abdls 0 0 0 e 0 0 0 1000 E
+8 20 6 8d4+16 1d2+1
+112 10 0 3
+8 8 1
+E
+#3011
+kortaal citizen~
+a citizen of Kortaal~
+A citizen of Kortaal, perhaps a pompus noble, is standing here.
+~
+A loyal citizen of Kortaal and the Empire is here. He is dressed in the latest
+fashions of the Empire.
+~
+cd 0 0 0 0 0 0 0 600 E
+6 20 8 6d4+12 1d2+1
+12 1260 0 3
+8 8 1
+E
+#3012
+young jlker wizard neophyte mage~
+a neophyte Jlker Wizard~
+A neophyte Jlker Wizard stands here.
+~
+A young, frail looking human. He is dressed in long purple robes, and wears
+the symbol of the Empire sewn on the back, and one gold band on each sleeve.
+~
+acdl 0 0 0 e 0 0 0 800 E
+7 20 6 7d4+7 1d2+0
+10 1950 0 0
+8 8 1
+E
+#3013
+jlker wizard mage~
+a Jlker Wizard~
+A Jlker Wizard stands here, practicing his spells.
+~
+An Imperial Jlker Wizard, very well practiced and loyal to the Emperor. He
+has spent many years attending the College in Kortaal. He is dressed in long
+purple robes, with three gold bands on each sleeve.
+~
+acdl 0 0 0 e 0 0 0 1000 E
+10 20 5 10d4+10 1d2+0
+25 6000 0 0
+8 8 1
+E
+#3014
+wizard jlker mage veteran~
+a Veteran Jlker Wizard~
+A Veteran Jlker Wizard stands here, recalling tales of the Shaar.
+~
+An Imperial Jlker Wizard, veteran of many battles in the name of the Empire.
+He has spent many years on the Shaarian front. He is dressed in long, dark
+purple robes, he also has five gold bands on each sleeve.
+~
+adl 0 0 0 e 0 0 0 1000 E
+16 20 3 16d4+16 1d2+0
+50 24000 0 0
+8 8 1
+E
+#3015
+jester~
+the jester~
+Dressed brightly, a jester juggles colored balls.
+~
+Juggling and loudly mocking various members of nobility that dwell in the
+city of Kortaal. The silly jester makes you forget about your worries.
+~
+adeln 0 0 0 eq 0 0 0 1000 E
+15 20 8 15d6+30 1d2+1
+45 21000 0 2
+8 8 1
+E
+#3016
+wizard~
+the Bookstore Shopkeeper~
+A Jlker Wizard in charge of buying and selling books and scrolls is here.
+~
+As old as any wizard you have ever seen in your life, the shopkeeper is here
+waiting to buy and sell spellbooks and scrolls.
+~
+bds 0 0 0 0 0 0 0 1000 E
+17 20 10 17d10+34 1d1+0
+2000 0 0 0
+8 8 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+E
+#3018
+alaphondar guildmaster master tsalari~
+Alaphondar~
+Your guildmaster, Alaphondar the Tsalari, is standing here.
+~
+Dressed in a long black robe, with runic sigla covering it, your guildmaster
+stands here, bathed in the glory of Marduk.
+~
+abcdls 0 0 0 e 0 0 0 -1000 E
+25 20 1 25d4+25 1d2+0
+50 10 0 0
+8 8 1
+E
+#3019
+elaerue estspirit guildmaster master~
+Elaerue Estspirit~
+Elaerue Estspirit, your guildmaster is standing here.
+~
+Dressed in browns and greens, your guildmaster seems at peace with the
+surrounding woods. He is a master of his art, and not to be played with.
+~
+abcdls 0 0 0 e 0 0 0 1000 E
+25 20 1 25d6+50 1d20+2
+50 10 0 4
+8 8 1
+E
+#3020
+valantha shimmerstar guildmaster master~
+Valantha Shimmerstar~
+Valantha Shimmerstar, your guildmaster is standing here.
+~
+Even though your guildmaster looks old and tired, you can clearly see the
+vast amount of knowledge she possesses.  She is wearing fine magic clothing,
+and you notice that she is surrounded by a blue shimmering aura.
+~
+abcdls 0 0 0 e 0 0 0 1000 E
+25 20 1 25d4+25 1d2+0
+50 10 0 0
+8 8 2
+E
+#3021
+thaun khelbor guildmaster master~
+Thaun Khelbor~
+Thaun Khelbor, High Priest of Hek, your guildmaster is standing here.
+~
+You are in no doubt that the High Priest is truely close to Hek; he has
+a peaceful, loving look. You notice tht he is surrounded by a white aura.
+~
+abcdls 0 0 0 ei 0 0 0 1000 E
+25 20 1 25d8+50 1d2+0
+50 10 0 1
+8 8 1
+E
+#3022
+deltara dragynstarr guildmaster master~
+Deltara Dragynstarr~
+Deltara Dragynstarr, your guildmaster is standing here.
+~
+You realize that whenever your guildmaster moves, you fail to notice it -
+the way of the true thief.  She is to be dressed in poor clothing, having
+the appearance of a beggar.
+~
+bcdls 0 0 0 e 0 0 0 -1000 E
+25 20 1 25d6+25 1d2+1
+50 10 0 2
+8 8 2
+E
+#3023
+captain destrin chamaerlyn guildmaster master~
+Captain Chamaerlyn~
+Captain Destrin Chamaerlyn, your guildmaster is standing here.
+~
+This is your master. Big and strong with bulging muscles. Several scars
+across his body proves that he was using arms before you were born. He
+has a calm look on his face.
+~
+abcdlnqs 0 0 0 0 0 0 0 1000 E
+25 20 1 25d10+75 1d2+2
+50 10 0 3
+8 8 1
+E
+#3024
+laspeera jlker wizard~
+Laspeera~
+Laspeera, a Jlker Wizard is guarding the entrance.
+~
+She is an experienced mage who has specialized in the field of Combat Magic.
+She is here to guard the College of the Jlker Wizards and her superior
+knowledge of offensive as well as defensive spells makes her a deadly opponent.
+~
+abdnopqr 0 0 0 e 0 0 0 900 E
+25 20 -10 25d4+50 1d2+10
+10 66000 0 0
+8 8 2
+E
+#3025
+piergeiron knight templar guildg~
+Piergeiron~
+Piergeiron, the paladin, is guarding the entrance.
+~
+He is a specially trained warrior belonging to the military order of the Hek. 
+His duty is to protect the faithful from persecution and infidel attacks and
+his religious devotion combined with his superior skill makes him a deadly
+opponent.
+~
+abdnopqr 0 0 0 ei 0 0 0 1000 E
+25 20 -10 25d10+50 1d2+2
+10 66000 0 5
+8 8 1
+E
+#3026
+divolg hune assassin guildg~
+Divolg Hune~
+Divolg Hune, an assassin, is guarding the entrance.
+~
+He is a thief who has specialized in killing others as effectively as possible,
+using all sorts of weapons.  His superior knowledge of how and where to use
+them combined with his extraordinary stealth makes him a deadly opponent.
+~
+abdnopqr 0 0 0 equ 0 0 0 -400 E
+25 20 -10 25d6+50 1d2+2
+10 66000 0 2
+8 8 1
+E
+#3027
+torstan ulzimmer knight guildg~
+Torstan Ulzimmer~
+Torstan Ulzimmer, an Imperial Knight is guarding the entrance.
+~
+He is an expert warrior who has attained knighthood through countless
+chivalrous deeds.  His duty is to protect the Purple Dragon Garrison, and his
+extreme skill combined with his experience in warfare makes him a deadly
+opponent.
+~
+abdnopqr 0 0 0 e 0 0 0 800 E
+25 20 -10 25d10+75 1d2+3
+10 66000 0 3
+8 8 1
+E
+#3028
+lharave ranger guildg~
+Lharave~
+Lharave, an expert ranger is guarding the entrance.
+~
+He is an expert in the fields of combat, tracking and woodlore. He is
+sworn to protect the Guild of the Rangers, and does so with joy.
+~
+abdnopqr 0 0 0 e 0 0 0 800 E
+25 20 -10 25d8+50 1d2+2
+20 66000 0 3
+8 8 1
+E
+#3029
+mhzentul tsalari guildg~
+Mhzentul~
+Mhzentul the Tsalari, Master of Rune Magic, is guarding the library.
+~
+He is perhaps the second most powerful rune Magi in the world. Evil, cold and
+heartless, he has risen to power in the most brutal of ways.
+~
+abdejnopqr 0 0 0 e 0 0 0 -1000 E
+25 20 -10 25d4+25 1d2+0
+10 66000 0 0
+8 8 1
+E
+#3031
+clothier fenith~
+Fenith~
+A younger man, waiting to outfit you in clothes stands patiently.
+~
+Dressed in all the rage, you have herd that this young man is a tailoring
+student of Garak, famed tailor of Helgor.
+~
+bds 0 0 0 0 0 0 0 -1000 E
+4 20 9 4d4+4 1d2+0
+200 10 0 3
+8 8 1
+E
+#3040
+ryltar t'orgh bartender~
+Ryltar T'orgh~
+Ryltar T'orgh, a bartender watches you calmly, as he skillfully mixes a drink.
+~
+A tired looking bartender who hates trouble in his bar.
+~
+bcds 0 0 0 0 0 0 0 900 E
+6 20 6 6d6+12 1d2+1
+35 10 0 3
+8 8 1
+E
+#3046
+filthy~
+Filthy~
+Filthy is standing here, eager to serve you a special drink.
+~
+Filthy looks real, ehm, dirty.  He likes to keep his costumers happy,
+but do not mess with him or else he'll get upset.
+~
+bcds 0 0 0 0 0 0 0 600 E
+8 20 5 8d6+16 1d2+0
+12 10 0 3
+8 8 1
+E
+#3059
+ranger lord~
+the @gRanger Lord@n~
+A @gRanger Lord@n keeping watch over the city.
+~
+Lords of the Forest, they have been called by Naga to defend the capital
+city durring this time of war! The patrol the streets, and keep out the
+undesirables. 
+~
+acdln 0 0 0 0 0 0 0 1000 E
+17 20 3 17d8+34 1d2+1
+25 27000 0 3
+8 8 1
+E
+#3060
+purple soldier~
+the @MDragon@n soldier~
+A @MPurple Dragon@n soldier stands here.
+~
+Standing before you, is a member of Naga's @MPurple Dragon@n army. He is dressed for
+battle, and all his equipment is well pollished. You notice that he wears a
+medal which proclaims him as a member of the Order of the @YGolden Way@n,
+a soldier who fought against the Tungian Hordes.
+~
+acdln 0 0 0 0 0 0 0 1000 E
+10 20 1 10d10+30 1d2+2
+23 6000 0 3
+8 8 1
+E
+#3061
+street sweeper~
+the Street Sweeper~
+A street sweeper is walking around, cleaning up.
+~
+Nothing.
+~
+cdh 0 0 0 0 0 0 0 800 E
+1 20 9 1d4+0 1d2+0
+7 100 0 3
+8 8 1
+E
+#3062
+hunting dog~
+the hunting dog~
+A hunting dog is here sniffing the ground in search of game.
+~
+The dog is a rather nice looking hunting specimen in great shape.
+~
+d 0 0 0 l 0 0 0 0 E
+1 20 10 1d8+2 1d4+0
+0 50 8 8
+8 8 1
+BareHandAttack: 4
+E
+#3063
+mercenary merc~
+the mercenary~
+A mercenary is waiting for a job here.
+~
+He looks pretty mean, and you imagine he'd do anything for money.
+~
+cd 0 0 0 0 0 0 0 -330 E
+5 20 5 5d6+10 1d2+1
+43 810 0 3
+8 8 1
+E
+#3064
+drunk~
+the drunk~
+A singing, happy Drunk.
+~
+A drunk who seems to be too happy, and to carry too much money.
+~
+bd 0 0 0 0 0 0 0 400 E
+2 20 8 2d2+2 1d2+0
+6 190 0 3
+8 8 1
+E
+#3065
+beggar~
+the beggar~
+A beggar is here, asking for a few coins.
+~
+The beggar looks like she is fed up with life.
+~
+bd 0 0 0 0 0 0 0 400 E
+1 20 9 1d4+0 1d2+0
+0 100 0 3
+8 8 2
+E
+#3066
+young kid child~
+the young child~
+A young child of the city is here, playing by himself.
+~
+The little ragamuffin stands before you and looks rather unwashed. His clothes
+are in tatters. He has a wooden sword he is slashing around.
+~
+dh 0 0 0 0 0 0 0 1000 E
+1 20 10 1d4+0 1d2+0
+0 50 0 3
+8 8 1
+E
+#3067
+ander soldier purple guard knight~
+Ander the @MDragon@n Knight~
+A @MDragon@n Knight is here, guarding the gate.
+~
+A member of an elite brotherhood of Knights, the gate guards of Kortaal
+are known for their valor and loyalty to life and land!
+~
+bcdlnops 0 0 0 0 0 0 0 1000 E
+20 20 9 20d10+60 1d2+3
+30 10 0 3
+8 8 1
+E
+#3068
+keno soldier purple guard knight~
+Keno the @MDragon@n Knight~
+A @MDragon@n Knight is here, guarding the gate.
+~
+A member of an elite brotherhood of Knights, the gate guards of Kortaal
+are known for their valor and loyalty to life and land!
+~
+bcdlnops 0 0 0 0 0 0 0 1000 E
+20 20 9 20d10+60 1d2+3
+30 10 0 3
+8 8 1
+E
+#3069
+trevor soldier purple guard knight~
+Trevor the @MDragon@n Knight~
+A @MDragon@n Knight is here, guarding the gate.
+~
+A member of an elite brotherhood of Knights, the gate guards of Kortaal
+are known for their valor and loyalty to life and land!
+~
+bcdlnops 0 0 0 0 0 0 0 1000 E
+20 20 9 20d10+60 1d2+3
+30 10 0 3
+8 8 1
+E
+#3096
+purple young soldier~
+the young @MPurple Dragon@n soldier~
+A young @MPurple Dragon@n soldier is standing here.
+~
+A young, strong, helpful, trustworthy guard is here. His head is full of
+dreams of conquest of Nelva, and loyalty to the Emperor.
+~
+cdl 0 0 0 0 0 0 0 1000 E
+3 20 9 3d10+6 1d2+2
+6 360 0 3
+8 8 1
+E
+#3097
+sly thief~
+a @Ksly thief@n~
+A @Ksly thief@n is here, asking for your money at dagger-point!
+~
+A young, ragged looking pickpocket. He looks no older than 16, but he
+seems determined to deprive you of coin!
+~
+dh 0 0 0 0 0 0 0 -450 E
+3 20 7 3d6+3 1d2+0
+10 360 0 2
+8 8 1
+E
+$

@@ -1,0 +1,69 @@
+#2900
+minotaur guard~
+a minotaur guard~
+A powerful looking minotaur is here, standing at attention.
+~
+Standing over 8 feet tall, the powerful looking guard holds a 
+battle axe while standing at attention. He has nothing but a 
+loin cloth on and you can see his powerful chest.
+~
+bcdj 0 0 0 l 0 0 0 -500 E
+8 20 8 8d12+16 1d8+2
+0 2920 19 3
+8 8 1
+E
+#2901
+minotaur~
+a minotaur~
+A minotaur is wandering around here.
+~
+Standing over 8 feet tall, the powerful looking minotaur 
+growls at you when he notices you. He has nothing but a 
+loin cloth on and you can see his powerful chest.
+~
+cdj 0 0 0 l 0 0 0 -500 E
+6 20 8 6d12+12 1d8+2
+0 1260 19 3
+8 8 1
+E
+#2902
+minotaur shamen~
+a minotaur shamen~
+A minotaur dressed in black robes is wandering around here.
+~
+Standing over 8 feet tall, the powerful looking minotaur 
+growls at you when he notices you. He is wearing a black robe 
+that has sliver runes on it.
+~
+acdj 0 0 0 el 0 0 0 -1000 E
+7 20 8 7d10+14 1d8+1
+0 4200 19 1
+8 8 1
+E
+#2903
+minotaur tsalari~
+a minotaur Tsalari~
+A minotaur dressed in black robes is wandering around here.
+~
+Standing over 8 feet tall, the powerful looking minotaur 
+growls at you when he notices you. He is wearing a black robe 
+that has sliver runes on it.
+~
+acdj 0 0 0 el 0 0 0 -1000 E
+7 20 8 7d6+14 1d8+1
+0 4200 19 0
+8 8 1
+E
+#2904
+man human robes black~
+Belemos Tanlathyn~
+A human dressed in black robes of Marduk is standing here.
+~
+It is obvious to you that his man is a priest of Marduk Kurios, Lord of Magic. 
+~
+abcdejklnop 0 0 0 eq 0 0 0 -1000 E
+13 20 9 13d8+13 1d2+2
+50 21000 0 1
+8 8 1
+E
+$

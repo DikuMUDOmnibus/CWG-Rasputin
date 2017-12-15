@@ -1,0 +1,693 @@
+#2900
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+
+This zone is located inside the Upper Storm Horns. It is hidden, and requires
+the players to find an 8" piece of granite which is the broken off horn of
+a minotaur bust. Inside the zone there are many minotaur.
+
+This zone links up with zone: 40
+~
+24 dk 0 0 0 0
+S
+#2901
+A small antechamber~
+   You are in a very smooth walled cavern. It looks as if it sees alot of
+use. Perhaps an old dwarven tunnel? You see on the eastern wall,
+the bust of a minotaur carved out of the granite.
+~
+29 d 0 0 0 0
+D0
+~
+~
+0 -1 2907 20 20 0 0 0 0 65535 65535
+D1
+Just off to the left of the apparent hidden door is a granite 
+bust of a minotaur.
+~
+secret east e~
+3 2901 4030 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2902 20 20 0 0 0 0 65535 65535
+E
+minotaur bust~
+The bust is craved out of the surrounding granite, and is very 
+well done. Except for one thing, it is missing a horn.
+~
+S
+#2902
+Before a room~
+   The tunnel runs a short distance both to the east and west. 
+Also you can see a fair sized cavernous room to the north.
+~
+29 d 0 0 0 0
+D0
+~
+~
+0 -1 2906 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2901 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2905 20 20 0 0 0 0 65535 65535
+S
+#2903
+A bend on the tunnel~
+   The tunnel runs into a cavern to the east, and you can see 
+more tunnels to the south.
+~
+29 d 0 0 0 0
+D1
+~
+~
+0 -1 2906 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2905 20 20 0 0 0 0 65535 65535
+S
+#2904
+Long tunnel~
+   The tunnel lookes very well used and runs into a distant 
+eastern cavern. Also, you cannot see what lies along the 
+northern tunnel it is so long.
+~
+29 d 0 0 0 0
+D0
+~
+~
+0 -1 2908 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2905 20 20 0 0 0 0 65535 65535
+S
+#2905
+At a small fork~
+   The tunnel runs east and west here, as well as branching to 
+the north.
+~
+29 d 0 0 0 0
+D0
+~
+~
+0 -1 2903 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2902 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2904 20 20 0 0 0 0 65535 65535
+S
+#2906
+A cavernous room~
+   This cavern looks well used, especially from the south. 
+There is another small chamber off the east side. To the north 
+is another room, and it is light.
+~
+29 d 0 0 0 0
+D0
+~
+~
+0 -1 2934 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2915 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2902 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2903 20 20 0 0 0 0 65535 65535
+S
+#2907
+A long tunnel~
+   This tunnel runs north - south and to the west. To the 
+north and west both you can see light.
+~
+29 d 0 0 0 0
+D0
+~
+~
+0 -1 2916 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2901 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2909 20 20 0 0 0 0 65535 65535
+S
+#2908
+A long tunnel~
+   This tunnel runs north - south and to the east. To the 
+north and east both you can see light.
+~
+29 d 0 0 0 0
+D0
+~
+~
+0 -1 2911 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2909 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2904 20 20 0 0 0 0 65535 65535
+S
+#2909
+A tunnel~
+   The turnnel runs east - west here, and looks well used. 
+There is also a worn path running to the north into some kind 
+of room.
+~
+29 d 0 0 0 0
+D0
+~
+~
+0 -1 2910 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2907 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2908 20 20 0 0 0 0 65535 65535
+S
+#2910
+A cavern~
+   This large room look almost like an outpost or other 
+similar gathering place. There are small ammounts of straw 
+scattered through the room.
+~
+29 d 0 0 0 0
+D1
+~
+~
+0 -1 2916 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2909 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2911 20 20 0 0 0 0 65535 65535
+E
+straw pile piles~
+It looks as if a few creatures have put bedrolls of straw here 
+in the last few days.
+~
+S
+#2911
+A tunnel~
+   The tunnel here is T-shaped. To the east you can see a room 
+or cavern. The tunnel continues toward the unknown to the west 
+and south.
+~
+29 d 0 0 0 0
+D1
+~
+~
+0 -1 2910 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2908 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2912 20 20 0 0 0 0 65535 65535
+S
+#2912
+A tunnel~
+   The tunnel continus to twist to the unknown north and east. 
+You can hear some noises to the west, grunts perhaps.
+~
+29 d 0 0 0 0
+D0
+~
+~
+0 -1 2913 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2911 20 20 0 0 0 0 65535 65535
+S
+#2913
+A tunnel~
+   The tunnel continus to twist to the unknown east and south. 
+You can hear some noises to the south, grunts perhaps.
+~
+29 d 0 0 0 0
+D1
+~
+~
+0 -1 2914 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2912 20 20 0 0 0 0 65535 65535
+S
+#2914
+A tunnel~
+   The tunnel continus to twist to the unknown north and west. 
+You can hear some noises to the south, grunts perhaps.
+~
+29 d 0 0 0 0
+D0
+~
+~
+0 -1 2917 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2913 20 20 0 0 0 0 65535 65535
+S
+#2915
+A small chamber~
+   This chamber looks as if it has served as living quarters 
+for someone, or something for many years. There is a small 
+wooden bed, a small shelf on the eastern wall, and a few bones.
+~
+29 d 0 0 0 0
+D3
+~
+~
+0 -1 2906 20 20 0 0 0 0 65535 65535
+E
+bones~
+They like someone's meal a few days ago. All the meat has been 
+stripped, and the bones slightly gnawed.
+~
+E
+shelf~
+The shelf contains a few objects with a fine mist of dust on 
+them, but nothing too interesting to you.
+~
+E
+bed wooden~
+The bed looks as if it was rather crudly built from what was 
+aviable, and has some old, worn sheets on it.
+~
+S
+#2916
+A tunnel~
+   The tunnel runs into a cavern to the west, and continues to 
+run north - south also.
+~
+29 d 0 0 0 0
+D0
+~
+~
+0 -1 2924 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2907 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2910 20 20 0 0 0 0 65535 65535
+S
+#2917
+A passage~
+   Rather abruptly the tunnel changes from worn to carved. 
+Someone spent time and effort cutting the surrounding area 
+from the rock. The floors, ceiling and wall are all quite 
+smooth. There are some designs carved into the walls 
+everywhere.
+~
+29 d 0 0 0 0
+D1
+~
+~
+0 -1 2918 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2914 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2925 20 20 0 0 0 0 65535 65535
+S
+#2918
+A passage~
+   The passage here runs north, and east - west. You can hear 
+a few grunts echoing from the north.
+~
+29 d 0 0 0 0
+D0
+~
+~
+0 -1 2920 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2919 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2917 20 20 0 0 0 0 65535 65535
+S
+#2919
+Before a cavern~
+   The tunnel passes east - west there, and you can see a 
+large cavern to the north.
+~
+29 d 0 0 0 0
+D0
+~
+~
+0 -1 2921 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2924 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2918 20 20 0 0 0 0 65535 65535
+S
+#2920
+Outside the temple~
+   Just to the east, in a large cavern you can see some sort 
+of temple, there are a few figures moving around inside. The 
+tunnel also runs south.
+~
+29 d 0 0 0 0
+D1
+~
+~
+0 -1 2921 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2918 20 20 0 0 0 0 65535 65535
+S
+#2921
+A crude temple~
+   The cavern is apparently a crude temple for the surrounding 
+humanoids. Judging from the looks of the alter it is 
+deffinatly not a shire to Hek. Tunnels run in all directions.
+~
+29 d 0 0 0 0
+D0
+~
+~
+0 -1 2932 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2922 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2919 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2920 20 20 0 0 0 0 65535 65535
+E
+alter~
+The alter is to the Black Lord, Marduk. It is covered in 
+blood, which only looks a few days old at best. Also the 
+remains of a small humanoid covered in blood, and other less 
+plesent things, remains decomposing on it.
+~
+S
+#2922
+A tunnel~
+   The tunnel runs east - west here. To the west is a large 
+cavern, with a bizaar altar near the north wall. To the east 
+it connects to a north - south passage.
+~
+29 d 0 0 0 0
+D1
+~
+~
+0 -1 2923 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2921 20 20 0 0 0 0 65535 65535
+S
+#2923
+A passage~
+   The passage here runs west, and north - south. You can hear 
+a few grunts echoing from the west.
+~
+29 d 0 0 0 0
+D0
+~
+~
+0 -1 2930 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2924 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2922 20 20 0 0 0 0 65535 65535
+S
+#2924
+A long passage~
+   Rather abruptly the tunnel changes from worn to carved. 
+Someone spent time and effort cutting the surrounding area 
+from the rock. The floors, ceiling and wall are all quite 
+smooth. There are some designed carved into the walls 
+everywhere. The tunnel runs north - south, and west here.
+~
+29 d 0 0 0 0
+D0
+~
+~
+0 -1 2923 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2916 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2919 20 20 0 0 0 0 65535 65535
+S
+#2925
+A passage~
+   The passage continus to twist to the unknown east and north. 
+You can hear some noises to the south, grunts perhaps.
+~
+29 d 0 0 0 0
+D0
+~
+~
+0 -1 2926 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2917 20 20 0 0 0 0 65535 65535
+S
+#2926
+A passage~
+   The passage continus to the unknown north and south.
+You can hear some noises to the south, grunts perhaps.
+~
+29 d 0 0 0 0
+D0
+~
+~
+0 -1 2927 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2925 20 20 0 0 0 0 65535 65535
+S
+#2927
+A passage~
+   The passage turns sharply here and runs east and south. You 
+cannot see anything very interesting in either direction. It 
+looks as if nobody has passed this way in years.
+~
+29 cd 0 0 0 0
+D1
+~
+~
+0 -1 2928 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2926 20 20 0 0 0 0 65535 65535
+S
+#2928
+A passage~
+   The passage turns sharply here and runs east - west. You 
+cannot see anything very interesting in either direction.
+~
+29 d 0 0 0 0
+D1
+~
+~
+0 -1 2929 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2927 20 20 0 0 0 0 65535 65535
+S
+#2929
+A passage~
+   The passage turns sharply here and runs west and south. You 
+cannot see anything very interesting in either direction.
+~
+29 d 0 0 0 0
+D2
+~
+~
+0 -1 2931 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2928 20 20 0 0 0 0 65535 65535
+S
+#2930
+A passage~
+   The passage turns sharply here and runs west and south. It 
+does not look like many people have passed this way.
+~
+29 d 0 0 0 0
+D2
+~
+~
+0 -1 2923 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2931 20 20 0 0 0 0 65535 65535
+S
+#2931
+A bend in the passage~
+   The passage turns sharply here and runs east and north. The 
+dust on the floor has not been disturbed by anyone for awhile.
+~
+29 cd 0 0 0 0
+D0
+~
+~
+0 -1 2929 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2930 20 20 0 0 0 0 65535 65535
+S
+#2932
+A small living chamber~
+   Both to the south and the west you can see other caverns. 
+This one has a small alter to Marduk on the east wall and a 
+bookcase in the northwest corner. It is fairly clean in here, 
+and there are a few candles lit.
+~
+29 cd 0 0 0 0
+D2
+~
+~
+0 -1 2921 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2933 20 20 0 0 0 0 65535 65535
+E
+bookcase books~
+There are many books here written in runes you cannot decyper. 
+~
+E
+alter~
+This small shrine is apparently for personal use only. It is 
+rather well kept, and looks as if it has been used recently, 
+there is still some incense smouldering on it.
+~
+S
+#2933
+A small living chamber~
+   There is a bed here, made with black sheets and a black 
+wool blanket. It is quite clean in here, and there is a small 
+table here.
+~
+29 cd 0 0 0 0
+D1
+~
+~
+0 -1 2932 20 20 0 0 0 0 65535 65535
+E
+table~
+The table contins a few dishes and eating utencils, nothing 
+very interesting or valuable.
+~
+E
+bed sheets blanket black wool~
+The bed is neatly made, and the sheets look fairly clean. 
+~
+S
+#2934
+A small tomb~
+   This cavern is the final restings place of someone. There 
+are a few candles lit here.
+~
+29 cd 0 0 0 0
+D2
+~
+~
+0 -1 2906 20 20 0 0 0 0 65535 65535
+E
+sarcophagus tomb detailed~
+The sarcophagus has been richly carved with intricate runes 
+and symbols. You notice a few symbols of Marduk also. The name 
+of Rethtack Resneb is carved on the side.
+~
+S
+#2935
+Mob Room~
+   This room is for chaos!
+~
+29 d 0 0 0 0
+D0
+~
+~
+0 -1 2913 20 20 0 0 0 0 65535 65535
+D1
+~
+~
+0 -1 2924 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 2927 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 2905 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 2915 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 2909 20 20 0 0 0 0 65535 65535
+S
+$~

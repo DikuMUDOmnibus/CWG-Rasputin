@@ -1,0 +1,118 @@
+#11800
+middle aged woman shopkeeper minolin t'orgh~
+@yMinolin T'orgh@n~
+A @ymiddle aged woman@n is standing behind the counter.
+~
+She looks as if business has been good to her over the years. Perhaps she took
+over her father business.
+~
+bds 0 0 0 0 0 0 0 1000 E
+16 20 8 16d6+32 1d2+1
+200 10 0 3
+8 8 2
+E
+#11801
+shopkeeper bhintel ssambra average guy man~
+@yBhintel Ssambra@n~
+An @yaverage looking guy@n, waiting to sell you things.
+~
+He looks like an average guy.
+~
+bds 0 0 0 0 0 0 0 1000 E
+16 20 8 16d6+32 1d2+1
+350 10 0 3
+8 8 1
+E
+#11802
+triel argith older woman shopkeeper~
+@yTriel Argith@n~
+An @yolder woman@n, perhaps in her fifties, sits waiting to sell you gems.
+~
+She is old, and it looks as if the years have not been so kind to her.
+~
+bds 0 0 0 0 0 0 0 1000 E
+13 20 9 13d6+26 1d2+2
+550 10 0 3
+8 8 2
+E
+#11803
+middle man duman kiriag innkeeper~
+@yDuman Kiriag@n~
+A @ymiddle aged man@n, walking around the room filling @rdrinks@n and @btalking@n.
+~
+Duman Kiriag is the proud owner of the @BLonesome Tankard Inn@n.
+~
+abds 0 0 0 0 0 0 0 1000 E
+13 20 9 13d6+13 1d2+2
+65 10 0 3
+8 8 1
+E
+#11804
+shopkeeper garak~
+@mGarak@n~
+You see a strange looking man standing before waiting to sell you clothing.
+~
+Of average height and build, Garak's @cskin color@n is rather strange. He is a
+pale, milky hue of white. His large eyes are sunk deeply in his head, and he
+has some strange @Gscale-like@n ridges on his neck.
+~
+bd 0 0 0 l 0 0 0 1000 E
+12 20 9 12d10+36 1d2+4
+400 10 18 3
+8 8 1
+E
+#11805
+lady aunrae dalael~
+the @YLady Aunrae Dalael@n~
+You see before you a @Cbeautiful lady@n.
+~
+Perhaps in her early thirties, the @CLady Dalael@n is the @yruler of Helgor@n. She
+is a very outspoken supporter of the Emperor, and loved by the citizens of
+Helgor.
+~
+dg 0 0 0 0 0 0 0 1000 E
+10 20 9 10d6+30 1d2+1
+32 6000 0 3
+8 8 2
+E
+#11806
+citizen helgor~
+the @ycitizen of @CHelgor@n~
+A simple @ycitizen of @CHelgor@n goes about his business here.
+~
+Dressed rather simply, the citizen looks like a typical inhabitant of the 
+Empire.
+~
+d 0 0 0 0 0 0 0 1000 E
+4 20 9 4d6+8 1d2+1
+2 520 0 3
+8 8 1
+E
+#11807
+citizen helgor~
+the @ycitizen of @CHelgor@n~
+A simple @ycitizen of @CHelgor@n goes about her business here.
+~
+Dressed rather simply, the citizen looks like a typical inhabitant of the
+Empire.
+~
+d 0 0 0 0 0 0 0 1000 E
+4 20 9 4d6+8 1d2+1
+2 520 0 3
+8 8 2
+E
+#11808
+monk~
+the @ymonk@n~
+A @mmonk@n, dressed in a simple @ybrown robe@n is here thinking about important things.
+~
+The monk's hooded robe is worn down, and you can see that his head is shaved
+except for a small @rponytail@n in the back, which is worn in a single braid. He
+also wears a @rgoatee@n.
+~
+di 0 0 0 d 0 0 0 1000 E
+5 20 8 5d6+10 1d6+2
+2 1950 0 4
+8 8 1
+E
+$

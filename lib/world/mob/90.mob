@@ -1,0 +1,16 @@
+#9000
+paladin~
+the Paladin of Hek~
+Dressed in highly polished armor, a Paladin stands watch.
+~
+The armor is well polished, and the Paladin of Hek is keeping watch over
+the church she is sworn to protect. If she proves worth enough she may
+become one of the Warhost of Hek.
+~
+adeilnoq 0 0 0 eov 0 0 0 1000 E
+18 20 7 18d10+72 1d2+3
+300 30000 0 5
+8 8 2
+Str: 18
+E
+$

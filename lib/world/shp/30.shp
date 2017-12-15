@@ -1,0 +1,223 @@
+CircleMUD v3.0 Shop File~
+#3007~
+3000
+3001
+-1
+1.10
+1.00
+-1
+%s It's very noisy in here, what did you say you wanted to buy?~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s Are you drunk or what?? - NO CREDIT!~
+%s That'll be - say %d coins.~
+%s Oops - %d a minor bug - please report!~
+1
+0
+3040
+0 0 0 0
+3007
+-1
+0
+28
+0
+0
+#3011~
+-1
+1.50
+0.75
+5
+-1
+%s I haven't got that kind of a weapon!~
+%s You don't carry that weapon!~
+%s I only buy weapons.~
+%s I can't afford such a great weapon!~
+%s Sorry, but NO CREDIT!~
+%s That costs just %d coins.~
+%s Here, you can have %d coins for that.~
+1
+0
+3003
+2 0 0 0
+3011
+-1
+0
+28
+0
+0
+#3020~
+-1
+1.50
+0.75
+9
+-1
+%s Sold my last one not more than 10 minutes ago.~
+%s You don't seem to have that.~
+%s I am only interested in buying armor.~
+%s I am afraid I cannot afford that, come back later.~
+%s You cannot afford such fine armor!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+1
+0
+3004
+2 0 0 0
+3020
+-1
+0
+28
+0
+0
+#3031~
+-1
+2.00
+1.00
+32
+-1
+%s Sorry, I haven't got exactly that item.~
+%s You don't seem to have that.~
+%s I don't buy such items.~
+%s That is too expensive for me!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+1
+0
+3031
+2 0 0 0
+3031
+-1
+0
+28
+0
+0
+#3033~
+-1
+1.50
+0.70
+2
+3
+4
+10
+-1
+%s Sorry, I haven't got exactly that item.~
+%s You don't seem to have that.~
+%s I don't buy such items.~
+%s That is too expensive for me!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+1
+0
+3000
+2 0 0 0
+3033
+-1
+0
+28
+0
+0
+#3049~
+3060
+3061
+-1
+1.20
+0.80
+22
+-1
+%s Sorry pal, I have not got that kind of ship.~
+%s Ok, but let me see it first.~
+%s I only trade ships.~
+%s I can't afford such a nice ship.~
+%s This ship is too expensive for you.~
+%s Here is your ship, I'll take %d gold coins.~
+%s What a fine deal, you get %d gold coins.~
+1
+0
+3006
+0 0 0 0
+3049
+-1
+6
+22
+6
+22
+#3053~
+1020
+1021
+3019
+-1
+1.05
+0.95
+29
+2
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+2
+3016
+0 0 0 0
+3053
+-1
+0
+28
+0
+0
+#3056~
+3012
+3013
+3014
+-1
+1.00
+1.00
+-1
+%s No tengo - try list!~
+%s No buying, compadre.~
+%s No buying, compadre.~
+%s No buying, compadre.~
+%s No dinero!  Hit the road!~
+%s That'll be %d coins, compadre.~
+%s Oops - %d a minor bug - please report.~
+1
+0
+3008
+0 0 0 0
+3056
+-1
+0
+28
+0
+0
+#3058~
+3102
+3103
+3104
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't have that -- try list!~
+%s Sorry, I don't buy waters from outsiders.~
+%s Sorry, I don't buy waters from outsiders.~
+%s Sorry, I don't buy waters from outsiders.~
+%s Sorry, but here, no money means no water!~
+%s That will be %d coins, please.  Thank you.~
+%s Oops - %d a minor bug - please report.~
+1
+0
+3009
+0 0 0 0
+3058
+-1
+0
+28
+0
+0
+$~

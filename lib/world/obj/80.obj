@@ -1,0 +1,365 @@
+#8003
+rosfanth sreklas rosfanth-sreklas~
+a rosfanth-sreklas~
+A rosfanth-sreklas lies here, aparrently lost by some elite guardsman.~
+~
+9 r 0 0 0 ad 0 0 0 0 0 0 0
+20 1 6 0 100 100 10 9 0 0 0 0 0 0 0 0
+35 250 25 0
+Z
+4
+E
+rosfanth~
+  A rosfanth-sreklas (pronounced ROASE-FANTH ZRIK-LAHSS) is a part of the
+uniform of the Ohari Elite and National Guards. It is an inverted metal
+triangle, similar to bronze plate but lighter, that slips over the head and
+covers the front and back at the same time. Those of the National Guard are
+red, and those of the Elite Guard are dark purple.
+~
+#8005
+druid robe~
+the Druid's Robe~
+A Druid's Robe is laying carelessly on the ground here.~
+~
+11 gjkmop 0 0 0 ak 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 20 0 0 0 0 0 0 0 0
+7 35000 5000 0
+Z
+4
+E
+druid robe~
+  The Druid's Robe is made of woven cloth and is a dark, forest green color.
+Magical symbols are embroidered around the seams.
+~
+A
+5 1
+A
+14 60
+#8006
+pentacle large stone~
+the large white stone~
+  A large, white stone is in the cetner of the circle. A very cryptical
+pentacle is drawn on it.~
+~
+15 g 0 0 0 0 0 0 0 0 0 0 0
+150 5 -1 0 100 100 0 10 0 0 0 0 0 0 0 0
+9999 0 0 0
+Z
+4
+E
+pentacle large stone~
+  The large white stone stands about 3 feet tall in the center of the circle
+of white stones. On the top of it is a black pentacle. A lot of cryptic
+symbols are drawn inside it. You think you see a slight crack running around
+the edge of the pentacle...
+~
+#8007
+sarjenka sarjenka's bracelet~
+Sarjenka's bracelet~
+Sarjenka Aeristan's bracelet is lying here. Perhaps she lost it?~
+~
+11 gk 0 0 0 am 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 11 0 0 0 0 0 0 0 0
+2 10000 1750 0
+Z
+4
+E
+sarjenka's sarjenka bracelet~
+  Sarjenka's bracelet is a small, braided chain of bright, sterling silver.
+There is a pendant on it with her name on the front and a few magical symbols
+on the back.
+~
+A
+3 1
+A
+10 -15
+#8009
+necromancer necromancer's robe~
+the Necromancer's Robe~
+A Necromancer's Robe is laying carelessly on the ground here.~
+~
+9 gjl 0 0 0 ak 0 0 0 0 0 0 0
+10 1 100 0 100 100 0 20 0 0 0 0 0 0 0 0
+7 17500 5000 0
+Z
+4
+E
+necromancer's necromancer robe~
+  The Necromancer's Robe is made of woven cloth and is night black in color.
+Magical symbols are embroidered around the seams.
+~
+A
+9 25
+A
+12 30
+#8013
+fountain water~
+the small fountain~
+A small fountain carved from black marble is here, spraying into the wind.~
+~
+23 0 0 0 0 0 0 0 0 0 0 0 0
+-1 1 15 0 100 100 0 28 0 0 0 0 0 0 0 0
+1000004 0 0 0
+Z
+4
+E
+fountain~
+  The fountain is about 30' in diameter and is carved from black marble...
+wait! On closer inspection, you see that it is granite, painted to LOOK like
+marble.
+  The water comes out of a 10' tall statue of Idat the Dissembler- or, at
+least, her most common mortal form, that of a tall, gaunt female with long
+black hair and vacous, haunting eyes. The statue is running her fingers
+through her hair, out of which the water falls in droplets.~
+#8014
+cup coffee~
+a cup of coffee~
+A cup of good, strong, steaming coffee is here.~
+~
+17 0 0 0 0 ao 0 0 0 0 0 0 0
+1 1 12 0 100 100 0 26 0 0 0 0 0 0 0 0
+1 0 1 0
+Z
+4
+#8015
+lori kisanth lOrI~
+a lOrI-kisanth~
+A lOrI-kisanth has been left here by some forgetful Elite Guardsman.~
+~
+3 0 0 0 0 ao 0 0 0 0 0 0 0
+15 1 1 26 100 100 0 7 0 0 0 0 0 0 0 0
+8 9000 500 0
+Z
+4
+E
+lori kisanth lOrI~
+  A lOrI-kisanth (translated as "thing that shoots fire") is an interesting
+piece of Oharian technology. It is a long metal tube with two handles, open
+on one end. Into the open end is packed small explosive charge, then a
+flammable chemical paste. When a trigger on the handle is pulled, flint and
+steel ignite the explosive and the paste, now a blinding crimson sphere of
+light and heat, flies towards the target. It is a VERY dangerous weapon, but
+the fact that is it very hard to reload tends to limit it's use. It is
+available currently only to members of the Oharian Guard above the rank of
+Sergeant. Whoever left this lying around is in trouble, bigtime.
+~
+#8016
+locket gold~
+the gold locket~
+A small gold locket is here, sparkling in the sun.~
+~
+15 0 0 0 0 ac 0 0 0 0 0 0 0
+1 5 -1 0 100 100 0 4 0 0 0 0 0 0 0 0
+0 10000 100 0
+Z
+4
+E
+locket gold~
+  It's a small, gold locket with a clasp and a chain, in the shape of a
+heart.
+~
+#8017
+pebble glowing red~
+a glittering red pebble~
+A small, glittering red pebble is here.~
+~
+12 gipuv 0 0 0 ak 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 10 0 0 0 0 0 0 0 0
+0 20000 3500 0
+Z
+4
+E
+pebble glowing red~
+  The small pebble is made of a glittering red sandstone-type material and
+glows ever so slightly with magical energy.
+~
+A
+1 2
+#8018
+folded paper~
+the folded piece of paper~
+A small, folded-up piece of paper is lying here.~
+~
+16 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 16 0 0 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+E
+folded paper~
+  You open the small piece of paper. It reads: "kalura- My love for you will
+endure through everything. When the doctors finally let you go, we will be
+married. Until then, with love- mIkAl."
+~
+#8019
+quaff chaos~
+the Quaff of Chaos~
+A Quaff of Chaos lies here...I wonder what it does?~
+~
+10 agi 0 0 0 a 0 0 0 0 0 0 0
+15 2 29 15 100 100 0 13 0 0 0 0 0 0 0 0
+2 8000 1000 0
+Z
+4
+E
+quaff chaos~
+  The Quaff of Chaos is a small, darkened glass vial with about an ounce of
+scintillating, rainbow- colored liquid in it. An inscription on the glass
+reads: "Drink this quaff only in dire need, O Believer. Idat will help you,
+however she sees fit..."
+~
+#8020
+potion true seeing~
+a potion of true seeing~
+A potion of true seeing lies here.~
+~
+10 ag 0 0 0 a 0 0 0 0 0 0 0
+15 38 44 18 100 100 0 13 0 0 0 0 0 0 0 0
+2 5500 500 0
+Z
+4
+#8021
+pants cloth black~
+a pair of black cloth pants~
+A pair of black cloth pants is lying on the ground.~
+~
+11 0 0 0 0 af 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 20 0 0 0 0 0 0 0 0
+8 50 5 0
+Z
+4
+E
+black cloth pants~
+  Pants like these are very common in Ohari, being considered fashionable by
+the teenagers.
+~
+#8022
+overcoat coat~
+an overcoat~
+A drab grey overcoat was thrown on the ground here.~
+~
+11 0 0 0 0 ak 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 17 0 0 0 0 0 0 0 0
+20 500 50 0
+Z
+4
+E
+overcoat coat~
+  These drab grey overcoats are very popular among the youth culture in
+Ohari.
+~
+A
+17 -3
+#8023
+symbol holy idat~
+a holy symbol of Idat~
+A holy symbol of Idat is lying here....or maybe it is floating?~
+~
+12 ag 0 0 0 aco 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 11 0 0 0 0 0 0 0 0
+1 50 5 0
+Z
+4
+E
+holy symbol idat~
+  The holy symbol of Idat is a complex silver rune inside a rhombus...no, wait,
+it's a rectangle....or, rather, some sort of written language inside an...
+ellipse? WOW! You could swear that the metal is writhing before your very eyes!
+I wonder how it does that?
+~
+A
+12 25
+#8055
+portal~
+a @Yglowing portal@n~
+A @Yglowing portal@n hovers here forming a gateway to another place.~
+~
+28 0 0 0 0 0 0 0 0 0 0 0 0
+3039 0 -1 -1 50 50 0 36 20 20 0 0 0 0 0 0
+0 0 0 0
+Z
+4
+#8092
+key cell~
+the cell key~
+A small key to the hospital "rooms" is here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 2 0 0 0 0 0 0 0 0
+1 0 0 0
+Z
+4
+#8093
+passcode~
+the passcode~
+You see a small card with a number and a strip of metal on it sitting here.~
+~
+18 b 0 0 0 ao 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 25 0 0 0 0 0 0 0 0
+1 0 0 0
+Z
+4
+E
+passcode~
+  It is a small card that has a long string of numbers on one side and a
+small, thin strip of brownish metal on the bottom. You have no clue what it
+could be used for...
+~
+#8095
+key lab necromancy~
+the Necromancy Lab key~
+The key to the Necromancy Lab is sitting here.~
+~
+18 0 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 2 0 0 0 0 0 0 0 0
+1 0 0 0
+Z
+4
+#8096
+key platinum~
+the small platinum key~
+A small, delicate, expensive-looking platinum key is here~
+~
+18 a 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 22 0 0 0 0 0 0 0 0
+1 0 0 0
+Z
+4
+#8097
+key~
+the small mithril key~
+A small, delicate, expensive-looking mithril key is here.~
+~
+18 a 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 7 0 0 0 0 0 0 0 0
+1 0 0 0
+Z
+4
+#8098
+key purple crystal~
+a small, purple, crystal key~
+A small, ancient key, made out of dark purple crystal, is lying here ominously.~
+~
+18 g 0 0 0 a 0 0 0 0 0 0 0
+0 0 0 0 100 100 0 38 0 0 0 0 0 0 0 0
+1 0 0 0
+Z
+4
+#8099
+device metal blinking~
+a blinking metal device~
+A small, metal device with lots of odd blinking lights is here.~
+~
+18 bm 0 0 0 a 0 0 0 0 0 0 0
+8099 0 0 0 100 100 0 0 0 0 0 0 0 0 0 0
+3 0 0 0
+Z
+4
+E
+device metal blinking~
+  It's a box about 5"x4"x1", made of metal, with all sorts of red and green
+lights blinking in an apparently random pattern. Other less understandable
+features are shiny black squares and small dots with X's in them. Considering
+where you got it, it's no wonder it's completely incomprehensible.
+~
+$~

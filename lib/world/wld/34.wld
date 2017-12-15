@@ -1,0 +1,378 @@
+#3400
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms.
+
+This zone is under the lake. Not all the code is in place to deal with breathing
+underwater, but it would be pretty simple to implement. Also, the zone itself
+is lacking a few room descriptions, however it is a gateway to another zone 
+which is the Sunken Temple of Marduk (#58).
+
+This zone is NOT CONNECTED.
+
+This zone links up with zones: 32 and 58.
+~
+34 dk 0 0 0 0
+S
+#3401
+Under the Lake of Dragons~
+   The water is a deep shade of blue, and the sunlight becomes scarce as
+you decend deeper underwater.
+~
+34 fg 0 0 0 9
+D1
+~
+~
+0 -1 3406 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 3404 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 3426 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 3402 20 20 0 0 0 0 65535 65535
+S
+#3402
+Under the Lake of Dragons~
+   The floor rises up to meet you here, and jagged coral support colorful
+underwater life forms. There is some sand on the bottom, and a giant kelp
+bed grows. 
+~
+34 fg 0 0 0 9
+D4
+~
+~
+0 -1 3401 20 20 0 0 0 0 65535 65535
+S
+#3404
+Under the Lake of Dragons~
+   The water is a deep shade of blue, and the sunlight becomes scarce as
+you decend deeper underwater.
+~
+34 fg 0 0 0 9
+D1
+~
+~
+0 -1 3401 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 3405 20 20 0 0 0 0 65535 65535
+S
+#3405
+Under the Lake of Dragons~
+   The floor rises up to meet you here, and jagged coral support colorful
+underwater life forms. There is some sand on the bottom, and a giant kelp
+bed grows.
+~
+34 fg 0 0 0 9
+D4
+~
+~
+0 -1 3404 20 20 0 0 0 0 65535 65535
+S
+#3406
+Under the Lake of Dragons~
+   A massive cliff decends further to the sea floor below. The sunlight
+becomes much less, and some of the fish glow of their own accord.
+~
+34 fg 0 0 0 9
+D3
+~
+~
+0 -1 3401 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 3407 20 20 0 0 0 0 65535 65535
+S
+#3407
+Under the Lake of Dragons~
+   The bottom is very near, and it is difficult to make much out. Kelp and
+other sea plants grow up from the bottom. 
+~
+34 fg 0 0 0 9
+D0
+~
+~
+0 -1 3408 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 3406 20 20 0 0 0 0 65535 65535
+S
+#3408
+Under the Lake of Dragons~
+   The bottom is very near, and it is difficult to make much out. Kelp and
+other sea plants grow up from the bottom. Sand covers the bottom and it
+looks like fragments of ship wreckage as well.
+~
+34 fg 0 0 0 9
+D0
+~
+~
+0 -1 3409 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 3407 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 3415 20 20 0 0 0 0 65535 65535
+S
+#3409
+Under the Lake of Dragons~
+Nothing.
+~
+34 fg 0 0 0 9
+D0
+~
+~
+0 -1 3412 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 3408 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 3410 20 20 0 0 0 0 65535 65535
+S
+#3410
+Under the Lake of Dragons~
+Nothing.
+~
+34 fg 0 0 0 9
+D4
+~
+~
+0 -1 3409 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 3411 20 20 0 0 0 0 65535 65535
+S
+#3411
+Under the Lake of Dragons~
+Nothing.
+~
+34 fg 0 0 0 9
+D1
+~
+secret door east e~
+3 -1 5851 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 3410 20 20 0 0 0 0 65535 65535
+S
+#3412
+Under the Lake of Dragons~
+Nothing.
+~
+34 fg 0 0 0 9
+D0
+~
+~
+0 0 3413 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 0 3409 20 20 0 0 0 0 65535 65535
+S
+#3413
+Under the Lake of Dragons~
+Nothing.
+~
+34 fg 0 0 0 9
+D0
+~
+~
+0 -1 3416 20 20 0 0 0 0 65535 65535
+D2
+~
+~
+0 -1 3412 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 3414 20 20 0 0 0 0 65535 65535
+S
+#3414
+Under the Lake of Dragons~
+Nothing.
+~
+34 fg 0 0 0 9
+D4
+~
+~
+0 -1 3413 20 20 0 0 0 0 65535 65535
+S
+#3415
+Under the Lake of Dragons~
+Nothing.
+~
+34 fg 0 0 0 9
+D4
+~
+~
+0 -1 3408 20 20 0 0 0 0 65535 65535
+S
+#3416
+Under the Lake of Dragons~
+Nothing.
+~
+34 fg 0 0 0 9
+D2
+~
+~
+0 -1 3413 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 3417 20 20 0 0 0 0 65535 65535
+S
+#3417
+Under the Lake of Dragons~
+Empty room.~
+34 fg 0 0 0 8
+D1
+~
+~
+0 -1 3418 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 3421 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 3416 20 20 0 0 0 0 65535 65535
+S
+#3418
+Under the Lake of Dragons~
+Empty room.~
+34 fg 0 0 0 8
+D3
+~
+~
+0 -1 3417 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 3420 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 3419 20 20 0 0 0 0 65535 65535
+S
+#3419
+Under the Lake of Dragons~
+Empty room.~
+34 fg 0 0 0 8
+D4
+~
+~
+0 -1 3418 20 20 0 0 0 0 65535 65535
+S
+#3420
+Under the Lake of Dragons~
+Empty room.~
+34 fg 0 0 0 8
+D4
+~
+~
+0 -1 3249 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 3418 20 20 0 0 0 0 65535 65535
+S
+#3421
+Under the Lake of Dragons~
+Empty room.~
+34 fg 0 0 0 8
+D1
+~
+~
+0 -1 3417 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 3422 20 20 0 0 0 0 65535 65535
+S
+#3422
+Under the Lake of Dragons~
+Empty room.~
+34 fg 0 0 0 8
+D1
+~
+~
+0 -1 3421 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 3423 20 20 0 0 0 0 65535 65535
+S
+#3423
+Under the Lake of Dragons~
+Empty room.~
+34 fg 0 0 0 8
+D1
+~
+~
+0 -1 3422 20 20 0 0 0 0 65535 65535
+D3
+~
+~
+0 -1 3424 20 20 0 0 0 0 65535 65535
+D4
+~
+~
+0 -1 3425 20 20 0 0 0 0 65535 65535
+S
+#3424
+Under the Lake of Dragons~
+Empty room.~
+34 fg 0 0 0 8
+D1
+~
+~
+0 -1 3423 20 20 0 0 0 0 65535 65535
+S
+#3425
+Under the Lake of Dragons~
+Empty room.~
+34 fg 0 0 0 8
+D4
+~
+~
+0 -1 3249 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 3423 20 20 0 0 0 0 65535 65535
+S
+#3426
+Under the Lake of Dragons~
+   Slowly you decend under the Lake of Dragons. Legends of bygone sea
+marniers tell of sunken ships and treasures under the lake. The hue of the
+water makes it difficult to find your way.
+~
+34 fg 0 0 0 9
+D4
+~
+~
+0 -1 3213 20 20 0 0 0 0 65535 65535
+D5
+~
+~
+0 -1 3401 20 20 0 0 0 0 65535 65535
+S
+$~

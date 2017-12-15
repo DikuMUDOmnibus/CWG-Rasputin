@@ -1,0 +1,32 @@
+#21
+None.~
+Aghazstamn's Lair~
+2100 2199 24 2
+D 0 2107 0 2 -1 	(A small alcove)
+D 0 2109 2 2 -1 	(Aghazstamn's lab)
+D 0 2114 0 1 -1 	(In the cave)
+D 0 2124 2 1 -1 	(Strange, smooth cavern)
+D 0 2123 1 1 -1 	(Tiny tunnel)
+D 0 2121 3 1 -1 	(A small bedchamber)
+M 0 2100 20 2128 0 	(the Azag-thoth)
+E 1 1300 50 16 0 	(a scimitar)
+M 0 2100 20 2128 0 	(the Azag-thoth)
+E 1 1300 50 16 0 	(a scimitar)
+M 0 2100 20 2128 0 	(the Azag-thoth)
+E 1 1300 50 16 0 	(a scimitar)
+M 0 2100 20 2128 0 	(the Azag-thoth)
+E 1 1300 50 16 0 	(a scimitar)
+M 0 2100 20 2128 0 	(the Azag-thoth)
+E 1 1300 50 16 0 	(a scimitar)
+M 0 2101 10 2128 0 	(the four-legged demon)
+M 0 2101 10 2128 0 	(the four-legged demon)
+M 0 2101 10 2128 0 	(the four-legged demon)
+M 0 2102 5 2128 0 	(the tenticled demon)
+M 0 2102 5 2128 0 	(the tenticled demon)
+M 0 2103 1 2127 0 	(the guardian of Deknur)
+E 1 2100 1 17 0 	(a black key)
+M 0 2104 1 2109 0 	(Goroth the Tsalari)
+E 1 1110 10 5 0 	(a black, rune covered robe)
+E 1 1301 10 16 0 	(a rune enscribed short sword)
+S
+$

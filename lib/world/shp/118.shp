@@ -1,0 +1,103 @@
+CircleMUD v3.0 Shop File~
+#11826~
+-1
+1.3
+0.75
+5
+9
+12
+-1
+%s Sorry, I do not have one of those.~
+%s Check your equipment again, I did not see that.~
+%s I do not want one of those, try elsewhere.~
+%s I cannot afford such a fine item.~
+%s No line of credit for you, sorry.~
+%s Here you go, thank you very much.~
+%s Thank you.~
+1
+0
+11800
+0
+11826
+-1
+5
+12
+14
+21
+#11828~
+3030
+-1
+1.0
+0.8
+12
+1
+17
+8
+15
+-1
+%s Sorry, but I do not have that item.~
+%s You do not seem to have that item.~
+%s Try somewhere else, I have no use for that!~
+%s I cannot afford such a great item as that.~
+%s You cannot afford that, sorry no credit!~
+%s Here you are, tell your friends about our shop!~
+%s Thank you very much.~
+1
+0
+11801
+0
+11828
+-1
+5
+13
+15
+22
+#11827~
+-1
+1.5
+0.6
+8
+12
+-1
+%s Sorry, I do not have one of those.~
+%s Check your equipment again, I did not see that.~
+%s I do not want one of those, try elsewhere.~
+%s I cannot afford such a fine item.~
+%s No line of credit for you, sorry.~
+%s Here you go, thank you very much.~
+%s Thank you.~
+1
+0
+11802
+0
+11827
+-1
+5
+12
+14
+21
+#11830~
+-1
+1.15
+0.8
+32
+12
+-1
+%s Sorry, I do not have one of those.~
+%s Check your equipment again, I did not see that.~
+%s I do not want one of those, try elsewhere.~
+%s I cannot afford such a fine item.~
+%s No line of credit for you, sorry.~
+%s Here you go, thank you very much.~
+%s Thank you.~
+1
+0
+11804
+0
+11830
+-1
+5
+12
+14
+21
+$~

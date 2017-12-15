@@ -1,0 +1,287 @@
+#11000
+holy deacon~
+@YHoly Deacon of Hek@n~
+The @YHoly Deacon of Hek@n is here.
+~
+The @YHoly Deacon of Hek@n wears fine robes and glows with the power
+of @cHek@n.
+~
+abdils 0 0 0 i 0 0 0 1000 E
+25 20 0 25d10+75 1d4+3
+0 10 0 1
+8 8 1
+E
+#11001
+cleric worker~
+a @Ycleric worker@n~
+A @Ycleric of Hek@n is working here.
+~
+This @Ycleric of Hek@n is dressed in work robes.  He appears young and
+perhaps slightly oblivious.
+~
+adi 0 0 0 0 0 0 0 1000 E
+7 20 7 7d8+7 1d2+1
+0 1950 0 1
+8 8 1
+E
+#11002
+cleric worker~
+a @Ycleric worker@n~
+A @Ycleric of Hek@n is working here.
+~
+This @Ycleric of Hek@n is dressed in work robes.  He appears young and
+perhaps slightly oblivious.
+~
+adi 0 0 0 0 0 0 0 1000 E
+8 20 8 8d8+16 1d2+1
+0 1260 0 1
+8 8 1
+E
+#11003
+cleric~
+a @Ycleric@n~
+A @Ycleric of Hek@n is here studying.
+~
+This @Ycleric of Hek@n is dressed in normal monk's robes that are
+slightly worn with age.
+~
+adi 0 0 0 0 0 0 0 1000 E
+8 20 9 8d8+16 1d2+2
+0 2920 0 1
+6 6 1
+E
+#11004
+cleric~
+a @Ycleric@n~
+A @Ycleric of Hek@n is here.
+~
+This @Ycleric of Hek@n is dressed in monk's robes.
+~
+adi 0 0 0 0 0 0 0 1000 E
+9 20 8 9d8+18 1d2+1
+0 4200 0 1
+8 8 1
+E
+#11005
+cleric teacher~
+a @Ycleric@n~
+A @Ycleric of Hek@n is here teaching the @gWord of Hek@n.
+~
+This @Ycleric of Hek@n is dressed in monk's robes.
+~
+adi 0 0 0 0 0 0 0 1000 E
+10 20 7 10d8+30 1d2+2
+0 6000 0 1
+8 8 1
+E
+#11006
+sailor~
+a @csailor@n~
+A @csailor@n is here.
+~
+A grogy sailor.
+~
+d 0 0 0 0 0 0 0 1000 E
+4 20 6 4d6+12 1d2+1
+0 520 0 3
+8 8 1
+E
+#11007
+citizen maaken~
+a @ycitizen@n of Maaken~
+A @ycitizen@n of Maaken is here.
+~
+Looks like a person who lives in this city.
+~
+d 0 0 0 0 0 0 0 1000 E
+1 20 9 1d6+2 1d2+1
+0 100 0 3
+8 8 1
+E
+#11008
+merchant~
+a merchant~
+A merchant is here.
+~
+A @mwell dressed@n mercant.
+~
+d 0 0 0 0 0 0 0 1000 E
+4 20 6 4d6+8 1d2+1
+7 520 0 3
+8 8 1
+E
+#11009
+trader~
+a @Mtrader@n~
+A @Mtrader@n is here, perhaps on his way to another city.
+~
+Since the @CEmperor@n loosened trade with other nations, young merchants
+like this one have popped up everywhere trying to earn as many
+@Ycoins@n as they can.
+~
+d 0 0 0 0 0 0 0 1000 E
+4 20 6 4d6+8 1d2+1
+10 520 0 3
+8 8 1
+E
+#11010
+alak luen dealer~
+Alak Luen~
+Alak Luen stands here waiting to sell you some @rarmor@n.
+~
+Alak Luen is dressed in fine @rarmor@n.
+~
+bds 0 0 0 0 0 0 0 100 E
+10 20 5 10d10+20 1d2+2
+3000 10 0 3
+8 8 1
+E
+#11011
+dral dealer weapons~
+Dral~
+Dral the weapons dealer stands here selling @bweapons@n from many lands.
+~
+He is a middle aged man, who looks like he has seen his fair share of far off
+lands. Now days, he is content to sell @bweapons@n to the @ycitizens@n of
+Maaken.
+~
+bds 0 0 0 0 0 0 0 100 E
+12 20 5 12d10+24 1d2+2
+2500 10 0 3
+8 8 1
+E
+#11012
+Baragh dealer~
+Baragh~
+Baragh is here selling @csupplies@n.
+~
+Baragh is an older well dressed man.
+~
+bds 0 0 0 0 0 0 0 500 E
+8 20 7 8d6+16 1d2+1
+1000 10 0 3
+8 8 1
+E
+#11013
+Alton jem dealer~
+Alton~
+Alton the Jem dealer is waiting for you.
+~
+Alton is an older well dressed man.
+~
+bds 0 0 0 0 0 0 0 500 E
+8 20 8 8d6+16 1d6+1
+1000 10 0 3
+8 8 1
+E
+#11014
+Ranaghar~
+Ranaghar~
+Ranaghar is here selling drinks from behind the bar.
+~
+Ranaghar seems to fit in with the sailors.
+~
+abds 0 0 0 0 0 0 0 100 E
+9 20 7 9d6+18 1d2+2
+70 10 0 3
+8 8 1
+E
+#11015
+cleric shopkeeper~
+the @Ycleric shopkeeper@n~
+A @Ycleric shopkeeper@n is here selling for the Church.
+~
+The @Ycleric@n is dressed in his normal robes.
+~
+bds 0 0 0 0 0 0 0 1000 E
+6 20 9 6d8+18 1d2+1
+1000 10 0 1
+8 8 1
+E
+#11016
+cleric innkeeper~
+the @Ycleric innkeeper@n~
+A @Ycleric innkeeper@n is here to loan you a bed.
+~
+The @Ycleric@n is dressed in his work robes.
+~
+bd 0 0 0 0 0 0 0 1000 E
+3 20 9 3d8+9 1d2+1
+10 10 0 1
+8 8 1
+E
+#11017
+bodyguard guard~
+Alton's bodyguard~
+Alton's bodyguard stands here watching you.
+~
+He is a tough looking @Rwarrior@n.
+~
+bd 0 0 0 0 0 0 0 300 E
+17 20 6 17d10+51 1d2+2
+40 27000 0 3
+8 8 1
+E
+#11018
+strong vuzlyn warrior guildmaster~
+Vuzlyn the @Rwarrior@n~
+A strong looking @Rwarrior@n, ready to teach you his craft.
+~
+This @Rwarrior@n is quite a skilled @Mveteran@n. He is dressed in
+heavly used armor, and carries his @cscars@n well.
+~
+abdls 0 0 0 0 0 0 0 450 E
+25 20 0 25d10+100 1d2+3
+0 10 0 3
+8 8 1
+E
+#11019
+young woman nondescript juslin astorian guildmaster~
+Juslin Astorian~
+A young, @ynondescript@n woman stands here, as if @gwaiting@n for someone.
+~
+You can see under her loose robes, this young lady has quite an athletic
+build. She nods to you as she notices your gaze.
+~
+abdls 0 0 0 l 0 0 0 -450 E
+25 20 1 25d6+50 1d2+2
+0 10 4 2
+8 8 2
+E
+#11020
+strong warrior tarlyn abaeir guildguard~
+Tarlyn Abaeir~
+A strong looking warrior is standing guard over this room.
+~
+This seasoned @Rwarrior@n is dressed in strange trapings. They appear to
+be from the @gShaar@n or perhaps @bOhari@n.
+~
+abdnopqr 0 0 0 e 0 0 0 500 E
+30 20 -10 30d10+120 1d2+5
+17 8330 0 3
+8 8 1
+E
+#11021
+sailor rob~
+Rob~
+A sailor is here selling boats.
+~
+An undefined string.~
+bds 0 0 0 0 0 0 0 0 E
+8 20 5 10d6+20 1d2+2
+1000 10 0 3
+8 8 1
+E
+#11022
+count dathlyr greybold commander purple~
+Count Dathlyr Greybold~
+The commander of the @mPurple Dragon@n garrison is sitting here, shuffling papers.
+~
+Count Greybold is sitting at his desk, looking rather busy.
+~
+bdi 0 0 0 de 0 0 0 1000 E
+20 20 7 20d10+60 1d2+4
+250 36000 0 3
+6 6 1
+E
+$

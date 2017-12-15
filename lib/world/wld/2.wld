@@ -1,0 +1,166 @@
+#200
+Zone Information Room~
+Zone Information Rooms are for the builders to leave notes about the zone for
+others.  Mortals are not ment to see these rooms. 
+
+This zone is attached inside the capital city of Kortaal.  It hides a 
+safehouse for the members of the Lazuarene Brotherhood as well as the crypts 
+where they keep the bodies of Brothers who are waiting to transend to Undeath.
+  
+This zone links up with zone: 30
+~
+2 dk 0 0 0 0
+S
+#201
+An empty office~
+    A desk and an overturned chair are in the center of the room. You would 
+expect the desk to be buried in papers, but it is empty. A light layer of 
+dust lies upon the desktop. There also is some empty shelving on the north
+wall.
+~
+2 d 0 0 0 0
+D0
+~
+secret north n~
+3 200 202 20 20 0 0 0 0 65535 65535
+D2
+The empty warehouse~
+~
+0 -1 208 20 20 0 0 0 0 65535 65535
+S
+#202
+A dark room~
+    This hidden room, is quite and dark. You can hear the drip of water from 
+somewhere below you. The air is cool and damp here. There is a stake driven
+into the ground, near a hole in the ground. A thick rope is tied to the stake.
+~
+2 d 0 0 0 0
+D2
+~
+secret south s~
+3 200 201 20 20 0 0 0 0 65535 65535
+D5
+You cannot tell what lies below
+~
+~
+0 -1 203 20 20 0 0 0 0 65535 65535
+S
+#203
+In a tunnel~
+    A thick length of rope dangles from the ceiling, running up through a hole.
+A cool breeze of air blows through the tunnel, and from ahead you can hear
+grunts and whispers of conversations.
+~
+2 d 0 0 0 0
+D0
+You cannot tell what lies ahead
+~
+~
+0 -1 204 20 20 0 0 0 0 65535 65535
+D4
+A darkened room lies above you
+~
+~
+0 -1 202 20 20 0 0 0 0 65535 65535
+S
+#204
+A fair sized cavern~
+    The tunnel quickly empties into a fair sized, natural cavern under the
+city of Kortaal. It is dimly light on two sides by torches hanging on the 
+walls. It almost looks as if this is a practice area of sorts. You cannot
+immediately gasp what is being taught though. The cavern is littered with many
+different things, from practice dummies and weapons, to ancient looking books
+and dried plants. There is a brighter glow from the north end of the cavern.
+~
+2 d 0 0 0 0
+D0
+A well light portion of the cavern
+~
+~
+0 -1 205 20 20 0 0 0 0 65535 65535
+D2
+You cannot tell what lies behind you
+~
+~
+0 -1 203 20 20 0 0 0 0 65535 65535
+S
+#205
+An altar of sorts~
+    Near the north wall of the cavern is a medium sized altar, and you would
+guess that it is not to Hek. There is a sticky looking, blackish-red...sludge
+over many parts of the altar. Also, there sits a book upon the altar.
+~
+2 d 0 0 0 0
+D0
+~
+secret north n~
+3 6026 207 20 20 0 0 0 0 65535 65535
+D1
+A small cave
+~
+~
+0 -1 206 20 20 0 0 0 0 65535 65535
+D2
+A practice area
+~
+~
+0 -1 204 20 20 0 0 0 0 65535 65535
+E
+book tome~
+The books stands open, and written in the common tongue are the words:
+
+        Lessons from the Lazuras
+
+However, it looks like it is a work in progress.
+~
+E
+altar sludge~
+Under the sludge of those long dead, you can see that the altar itself was once
+perhaps a thing of beauty. Well crafted, and intricately carved, it seems that
+it would have cost a small fortune.
+~
+S
+#206
+A small crypt~
+    Here there are several coffins, and shelves for the dead carved into the 
+walls. It is very cool in here, to prevent decomposition you'd guess. Here
+is where the members of the Brotherhood lay their brothers in waiting.
+~
+2 d 0 0 0 0
+D3
+You see the northern end of a fair sized cavern
+~
+~
+0 -1 205 20 20 0 0 0 0 65535 65535
+S
+#207
+A small bed chamber~
+    A fair sized room, the bed chamber contains a bed and a small trunk at
+one end. The room itself is devoid of decoration, save for a huge holy symbol
+of Marduk on the eastern wall. You wonder who sleeps here.
+~
+2 d 0 0 0 0
+D2
+You cannot tell what lies behind you
+~
+secret south s~
+3 6026 205 20 20 0 0 0 0 65535 65535
+S
+#208
+An empty warehouse~
+    Only dust and cobwebs remain in this once used warehouse. No trace of what
+was once stored here remains. The office of the foreman lies to the north.
+~
+2 d 0 0 0 0
+D0
+A small office
+~
+~
+0 -1 201 20 20 0 0 0 0 65535 65535
+D3
+Copper Street lies to the west.
+~
+door west~
+2 200 3067 20 20 0 0 0 0 65535 65535
+S
+$~
